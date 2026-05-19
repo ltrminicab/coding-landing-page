@@ -46,6 +46,13 @@ Each HTML file is a self-contained set of WordPress shortcode-style page section
 ### London areas buttons
 - Choose 10 London areas that are geographically relevant to the new place (nearby boroughs, common destinations from that area).
 
+### Travel options comparison — fixed URLs
+- Elizabeth line link must always use: `https://www.heathrow.com/transport-and-directions/by-rail-or-train/elizabeth-line`
+- Heathrow Express link: `https://www.heathrowexpress.com/`
+- London black cabs link: `https://www.londonblackcabtransfers.com/`
+- Uber link: `https://www.uber.com/global/en/r/cities/london-eng-gb/`
+- Pre-booked minicab (recommended card) link: `https://book.ltrminicab.com/`
+
 ### File naming
 - Use the pattern: `PLACE-NAME-minicab-transfers.html` (lowercase, hyphens, no spaces).
 
