@@ -1,0 +1,256 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://ltrminicab.com/#acton-w3",
+      "name": "LTR Minicab – Acton W3 Taxi & Minicab Transfers",
+      "url": "https://ltrminicab.com",
+      "logo": "https://ltrminicab.com/wp-content/uploads/2024/01/ltr-minicab-logo.png",
+      "description": "Professional minicab and taxi transfer service from Acton W3 to Heathrow Airport and across London. Fixed prices, 24/7 availability, free Meet & Greet, and flight monitoring included.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Acton",
+        "postalCode": "W3",
+        "addressRegion": "London",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5028",
+        "longitude": "-0.2674"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "London" },
+        { "@type": "Place", "name": "Acton W3" },
+        { "@type": "Place", "name": "Ealing" },
+        { "@type": "Place", "name": "Chiswick" },
+        { "@type": "Place", "name": "Shepherd's Bush" },
+        { "@type": "Place", "name": "Hammersmith" },
+        { "@type": "Airport", "name": "Heathrow Airport" },
+        { "@type": "Airport", "name": "Gatwick Airport" },
+        { "@type": "Airport", "name": "Stansted Airport" },
+        { "@type": "Airport", "name": "Luton Airport" },
+        { "@type": "Airport", "name": "London City Airport" }
+      ],
+      "priceRange": "££",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Acton W3 Minicab Transfer Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Acton W3 to Heathrow Airport – Saloon Transfer",
+              "description": "Fixed price pre-booked minicab from Acton W3 to all Heathrow terminals. Saloon from £45."
+            },
+            "price": "45.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Heathrow Airport to Acton W3 – Saloon Transfer",
+              "description": "Fixed price airport pickup from all Heathrow terminals to Acton W3. Saloon from £50."
+            },
+            "price": "50.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Acton W3 to Heathrow Airport – Executive Transfer",
+              "description": "Premium executive minicab from Acton W3 to Heathrow Airport in Mercedes E Class or similar."
+            },
+            "price": "58.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Acton W3 to Heathrow Airport – MPV 7 Transfer",
+              "description": "Group MPV 7 transfer from Acton W3 to Heathrow Airport for up to 7 passengers."
+            },
+            "price": "85.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I book a minicab from Acton W3 to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can book online through our secure platform, call our team directly, or complete a quick reservation through our booking system. All bookings receive instant confirmation with a fixed price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the journey from Acton W3 to Heathrow take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Acton W3 is approximately 9 miles from Heathrow Airport. The journey typically takes between 25 and 40 minutes depending on traffic conditions along the A40."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minicab fare from Acton W3 to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our Acton W3 to Heathrow saloon transfer starts from £45 with a fully fixed price. No hidden charges or surge fees apply. The airport pickup fare is slightly higher at £50 due to terminal waiting and parking allowances."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Meet and Greet available at Heathrow for Acton W3 passengers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our complimentary Meet & Greet service covers all four Heathrow terminals. Your chauffeur waits in arrivals with a personalised name board and assists with luggage before transferring you to Acton W3."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab available 24/7 from Acton W3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, our Acton W3 minicab service operates 24 hours a day, 7 days a week including public holidays. Early morning and late night transfers are available without any additional out-of-hours surcharge."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab an affordable Heathrow transfer option from Acton W3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. LTR Minicab offers highly competitive and affordable Heathrow transfer fares from Acton W3 starting from £45 for a Saloon. Prices are always fixed with no surge pricing or hidden charges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which airports can I travel to from Acton W3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We operate direct transfers from Acton W3 to Heathrow, Gatwick, Stansted, Luton, London City, and Southend Airport, all with fixed fares and professional licensed chauffeurs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer group transfers from Acton W3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We provide a full range of group vehicles including MPV 5, MPV 6, MPV 7, and MPV 8 for families and groups travelling from Acton W3 to airports, hotels, and UK destinations."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Acton W3 Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/acton-w3-minicab/"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Transfer",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Acton W3, London"
+      },
+      "name": "Acton W3 Airport Minicab & Taxi Transfer Service",
+      "description": "Reliable, fixed-price minicab and taxi transfers from Acton W3 to Heathrow, Gatwick, Stansted, Luton, and London City Airport with professional chauffeurs, Meet & Greet, and 24/7 availability.",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Saloon – Acton W3 to Heathrow",
+          "price": "45.00",
+          "priceCurrency": "GBP"
+        },
+        {
+          "@type": "Offer",
+          "name": "Executive – Acton W3 to Heathrow",
+          "price": "58.00",
+          "priceCurrency": "GBP"
+        },
+        {
+          "@type": "Offer",
+          "name": "Estate – Acton W3 to Heathrow",
+          "price": "52.00",
+          "priceCurrency": "GBP"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 5 – Acton W3 to Heathrow",
+          "price": "65.00",
+          "priceCurrency": "GBP"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 6 – Acton W3 to Heathrow",
+          "price": "75.00",
+          "priceCurrency": "GBP"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 7 – Acton W3 to Heathrow",
+          "price": "85.00",
+          "priceCurrency": "GBP"
+        },
+        {
+          "@type": "Offer",
+          "name": "Executive MPV 7 – Acton W3 to Heathrow",
+          "price": "102.00",
+          "priceCurrency": "GBP"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 8 – Acton W3 to Heathrow",
+          "price": "112.00",
+          "priceCurrency": "GBP"
+        }
+      ]
+    }
+  ]
+}
