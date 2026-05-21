@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#knightsbridge-sw1x-service",
+      "name": "LTR Minicab – Knightsbridge SW1X Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Knightsbridge SW1X. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Knightsbridge",
+        "addressRegion": "London",
+        "postalCode": "SW1X",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4994",
+        "longitude": "-0.1603"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Knightsbridge SW1X, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Knightsbridge SW1X Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Knightsbridge SW1X to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Knightsbridge SW1X to Heathrow Airport, approximately 14 miles via the A4 and M4. Door-to-door service with no hidden charges.",
+            "price": "58.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Knightsbridge, SW1X, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Knightsbridge SW1X – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Knightsbridge SW1X, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "61.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Knightsbridge SW1X to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Knightsbridge SW1X to Heathrow Airport.",
+            "price": "75.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Knightsbridge SW1X to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Knightsbridge SW1X to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "111.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Knightsbridge SW1X to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Knightsbridge SW1X to Heathrow Airport, ideal for larger groups.",
+            "price": "148.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#knightsbridge-sw1x-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Knightsbridge SW1X to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Knightsbridge SW1X to Heathrow is fixed at around £58, confirmed at the time of booking and unchanged regardless of traffic on the A4 or M4 on the day. Every vehicle class from saloon through to eight-seat MPV is shown with its complete fare before you confirm, so the price displayed at booking is the price charged when you arrive at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Knightsbridge has a direct Piccadilly line to Heathrow — why choose a minicab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Piccadilly line from Knightsbridge station does run direct to Heathrow without any change of train, and for a solo passenger travelling light it is a reasonable option. However, for anyone with checked airport luggage, the practical door-to-terminal time by tube from an SW1X address still typically runs to 35 to 45 minutes once you account for walking to the station, descending to the deep-level platforms, standing in a busy carriage, and walking from the Heathrow platform to the terminal itself. A pre-booked minicab from your front door reaches the same terminal in 15 to 30 minutes, with every bag handled throughout and a fixed fare confirmed in advance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Knightsbridge SW1X to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Knightsbridge SW1X to Heathrow typically takes between 15 and 30 minutes via the A4 Cromwell Road through Hammersmith and onto the M4. Knightsbridge sits almost directly on the A4 corridor west to Heathrow, giving it one of the most direct road connections of any central London postcode. Early morning departures before the main westbound build-up regularly come in closer to the 15-minute mark."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Knightsbridge SW1X to Gatwick, Stansted, or Luton Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, fixed-fare transfers from Knightsbridge SW1X to all three airports are available for every vehicle class. Gatwick is approximately 30 miles south via the A23 and M23, Luton is around 33 miles north via the A1(M), and Stansted is roughly 42 miles northeast via the M11. Every fare is confirmed before the journey begins and does not change with traffic conditions on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in SW1X including Sloane Street and Brompton Road?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across SW1X including Sloane Street, Brompton Road, Hans Crescent, Pont Street, Cadogan Place, Lowndes Square, and all residential streets and hotel addresses throughout the postcode. Our drivers are familiar with the one-way systems, loading restrictions, and hotel entrance points across Knightsbridge, so pickups from any address in SW1X are handled efficiently at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Knightsbridge SW1X to a private jet terminal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, transfers from Knightsbridge SW1X to private aviation terminals are available. Farnborough Airport, used widely for business and private jet operations, is approximately 35 miles southwest of SW1X. Biggin Hill Airport in southeast London is around 20 miles from Knightsbridge and handles a significant volume of private charter flights. Luton Airport also operates as a private jet terminal alongside its commercial services. Fixed fares to all three are confirmed before you travel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide minicab transfers for hotel guests staying in Knightsbridge SW1X?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, hotel guest transfers are among the most frequent bookings we handle from Knightsbridge SW1X. Whether you are checking out for an early Heathrow departure, arriving from the airport and heading directly to a hotel address in SW1X, or require transport during your stay for meetings and events across the city, our team can arrange a pre-booked vehicle at any hour. Every fare is fixed and confirmed in advance, making it straightforward to budget for transport as part of your stay."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the most popular vehicle for a Knightsbridge SW1X to Heathrow transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The executive saloon is the most frequently chosen vehicle for Heathrow transfers from Knightsbridge SW1X, reflecting the preference among business and corporate passengers for a quieter and more refined interior on an airport journey. The standard saloon is the most cost-effective option for solo travellers or couples with standard luggage. For groups or passengers with oversized bags, estate cars and MPVs are available and all fares are shown in full at the booking stage before any vehicle is confirmed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I arrange an executive or luxury group vehicle from Knightsbridge SW1X?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the Executive MPV 7 in a Mercedes V Class is available from Knightsbridge SW1X for groups requiring a premium interior alongside the capacity of a larger vehicle. It seats up to seven passengers with luggage and provides the same refined experience as the executive saloon at a larger scale. This vehicle is particularly suited to corporate delegations, family groups staying in luxury hotels, and private clients who want comfort and space in a single booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Knightsbridge SW1X to all Heathrow terminals including Terminal 5?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, transfers from Knightsbridge SW1X cover all four Heathrow terminals — Terminal 2, Terminal 3, Terminal 4, and Terminal 5 — at the same fixed fare. Your driver will take you directly to the correct terminal drop-off point based on the airline and flight details in your booking. If your terminal changes after you have confirmed, contact the team and the driver will be updated at no extra charge. The return fare from any Heathrow terminal back to SW1X is also fixed at the same rate regardless of which terminal you arrive into."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Knightsbridge SW1X Minicab Service",
+          "item": "https://ltrminicab.com/knightsbridge-sw1x-minicab-service/"
+        }
+      ]
+    }
+  ]
+}
