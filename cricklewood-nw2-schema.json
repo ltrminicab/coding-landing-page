@@ -1,0 +1,220 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#cricklewood-nw2-service",
+      "name": "LTR Minicab – Cricklewood NW2 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Cricklewood NW2. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, flight tracking included.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Cricklewood",
+        "addressRegion": "London",
+        "postalCode": "NW2",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5570",
+        "longitude": "-0.2120"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Cricklewood NW2, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Cricklewood NW2 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Cricklewood NW2 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Cricklewood NW2 to Heathrow Airport, approximately 17 miles.",
+            "price": "62.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Cricklewood, NW2, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Cricklewood NW2 – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Heathrow Airport to Cricklewood NW2, with meet and greet included.",
+            "price": "65.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Cricklewood NW2 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Cricklewood NW2 to Heathrow Airport.",
+            "price": "79.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Cricklewood NW2 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Cricklewood NW2 to Heathrow Airport, suitable for larger groups.",
+            "price": "115.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#cricklewood-nw2-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Cricklewood NW2 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Cricklewood NW2 to Heathrow is fixed at around £62, confirmed at the time of booking. The full price for every vehicle class is visible before you confirm, and no further charges are applied at the end of the journey."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cricklewood has Thameslink — why is a minicab still better for Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Thameslink from Cricklewood runs south to Gatwick but heads in completely the opposite direction from Heathrow. Reaching Heathrow from Cricklewood by rail means travelling into central London, changing platforms at Farringdon for the Elizabeth line, then riding back out west — a route that regularly takes over 80 minutes door to terminal with luggage. A direct minicab from Cricklewood covers the same distance in 40 to 65 minutes without a single interchange."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Cricklewood NW2 to Heathrow take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Cricklewood NW2 to Heathrow typically takes between 40 minutes and 1 hour 5 minutes depending on traffic on the A5 south, the A40 westbound, and the M4 approach. Drivers check live traffic before every departure and select the best route on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use Thameslink from Cricklewood to reach Gatwick, and is minicab better for that too?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Thameslink from Cricklewood does provide a connection to Gatwick Airport for passengers with hand luggage and a straightforward schedule. However, for passengers with checked bags, early morning departures, or those wanting a guaranteed door-to-terminal time, a fixed-fare minicab from Cricklewood NW2 to Gatwick is the more predictable and convenient choice."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does LTR Minicab serve all streets within the NW2 postcode?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across NW2 including Cricklewood Broadway, Claremont Road, Anson Road, Fordwych Road, Cricklewood Lane, and all residential streets throughout the postcode. Pickups anywhere within NW2 are straightforward and on time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What vehicles are available for a group airport transfer from Cricklewood NW2?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MPV vehicles for groups of 5, 6, 7, or 8 passengers are available from Cricklewood NW2. Every fare for larger vehicles is shown at the booking stage alongside saloon and executive options. Estate cars for extra luggage are also available."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book an early morning minicab from Cricklewood NW2 for a 5am flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, early morning bookings are among the most common requests from Cricklewood NW2. A 5am departure from Heathrow typically means leaving NW2 around 3am. Our 24/7 team allocates drivers in advance for early starts. Pre-booking is essential to guarantee your vehicle at the required time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a minicab service from Cricklewood NW2 to Luton Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, fixed-fare transfers from Cricklewood NW2 to Luton Airport are available for all vehicle classes. Luton is roughly 22 miles from NW2 via the A1(M) and is a practical option for passengers flying with budget carriers. Every fare is confirmed before the journey starts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer meet-and-greet collection from Heathrow for passengers arriving in Cricklewood?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, meet and greet is included as standard on every Heathrow arrival booking. Your driver will be at the arrivals exit with a name board before you come through, with your flight tracked from departure. All bookings include 45 minutes of complimentary waiting time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the difference between a minicab and a black cab for airport runs from Cricklewood NW2?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A black cab uses a metered fare that increases with congestion, with no ceiling on the final amount. A pre-booked minicab from Cricklewood NW2 uses a fixed fare agreed before you travel — it does not change if the motorway is slow, and it is visible in full before you confirm. Black cabs are also far less common in Cricklewood than central London, making pre-booking a minicab the more reliable option."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Cricklewood NW2 Minicab Service",
+          "item": "https://ltrminicab.com/cricklewood-nw2-minicab-service/"
+        }
+      ]
+    }
+  ]
+}
