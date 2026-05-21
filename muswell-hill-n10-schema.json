@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#muswell-hill-n10-service",
+      "name": "LTR Minicab – Muswell Hill N10 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Muswell Hill N10. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Muswell Hill",
+        "addressRegion": "London",
+        "postalCode": "N10",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5906",
+        "longitude": "-0.1445"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Muswell Hill N10, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Muswell Hill N10 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Muswell Hill N10 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Muswell Hill N10 to Heathrow Airport, approximately 18 miles via the A406 North Circular westbound through Brent Cross and Ealing, then the A4 and M4. Door-to-door service with no hidden charges.",
+            "price": "62.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Muswell Hill, N10, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Muswell Hill N10 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Muswell Hill N10, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "65.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Muswell Hill N10 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Muswell Hill N10 to Heathrow Airport.",
+            "price": "79.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Muswell Hill N10 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Muswell Hill N10 to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "115.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Muswell Hill N10 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Muswell Hill N10 to Heathrow Airport, ideal for larger groups.",
+            "price": "152.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#muswell-hill-n10-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Muswell Hill N10 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Muswell Hill N10 to Heathrow is fixed at £62, confirmed at the time of booking and unchanged regardless of traffic on the A406 North Circular or along the A4 and M4 on the day. Every vehicle class from saloon through to eight-seat MPV is displayed with its complete fare before you confirm, so the price shown at booking is the price charged when you arrive at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "N10 has no tube station — how does getting to Heathrow from Muswell Hill compare to using the Underground?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Muswell Hill N10 has no Underground station within the postcode. The nearest tube is Highgate on the Northern line, approximately one mile south and typically a 15 to 20 minute walk from most N10 addresses, or a short bus ride down Archway Road. The Northern line runs south through central London and has no direct connection to Heathrow Airport at any point along its route. Passengers wanting to reach Heathrow by tube from N10 must first walk or bus to Highgate, ride the Northern line south to King's Cross St. Pancras, change platforms for the Piccadilly line westbound, and then complete the full 50-minute Piccadilly line journey to the airport terminals. Including the walk or bus to Highgate, the Northern line journey, the platform change, and the Piccadilly line ride, a door-to-terminal trip from N10 by public transport consistently takes 75 to 90 minutes. A pre-booked minicab from your front door in Muswell Hill reaches the same terminal in 40 to 55 minutes with no changes required and a fixed fare agreed before you leave."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Muswell Hill N10 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Muswell Hill N10 to Heathrow typically takes between 40 and 55 minutes. The route heads west from N10 to join the A406 North Circular westbound, passing through Brent Cross and Ealing before connecting to the A4 and M4 into the airport. This westbound route bypasses central London entirely, avoiding the congestion and delays that would add significant time on any southbound route through Camden or the West End. Drivers check live conditions before departure and select the most fluid approach to the motorway on the day. Early morning runs before the main build-up around the Brent Cross section of the North Circular regularly complete the journey toward the lower end of that range."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are Stansted or Luton Airport closer to Muswell Hill N10 than Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For passengers in N10, both Stansted and Luton are significantly closer by road than they are from most south London postcodes. Stansted is approximately 27 miles northeast of Muswell Hill via the A406, A10, and M11, with journey times typically in the 45 to 65 minute range depending on conditions north of Edmonton. Luton is roughly 25 miles north-northwest via the A1(M) from the North Circular, with transfers generally taking 40 to 60 minutes. If your flight departs from either of these airports, a pre-booked minicab from N10 is a practical and direct option. Fixed fares for both Stansted and Luton are confirmed at the time of booking with no variation on the day of travel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in N10 including Fortis Green Road and Colney Hatch Lane?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across N10 including Muswell Hill Broadway, Fortis Green Road, Colney Hatch Lane, Pages Lane, Alexandra Park Road, Cranley Gardens, Tetherdown, Queens Avenue, Woodland Rise, Hillfield Park, Grand Avenue, Dukes Avenue, and all residential streets throughout the postcode. Our drivers are familiar with the narrow sections around the Broadway, the residential routes through Fortis Green, and the access roads to Alexandra Palace, so pickups from any address in N10 are handled reliably at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab to or from Alexandra Palace for concerts and events?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, transfers to and from Alexandra Palace for concerts, exhibitions, and events are a regular part of our N10 service. The Great Hall holds over 10,000 people for major touring shows throughout the year, and the venue also hosts ice skating, fireworks displays, and community events that draw visitors from across North London. Roads around Alexandra Palace and the adjoining park fill quickly once large events end, and a pre-booked vehicle gives you a confirmed driver at a set time rather than competing for private hire transport in an area not well served by cabs after late evening events. We cover pickups from all entrance points on Alexandra Palace Way and Wood Green High Road."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Gatwick Airport from Muswell Hill N10, and is it a practical option?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gatwick is approximately 35 miles south of Muswell Hill N10, making it a considerably longer road journey than Heathrow for passengers in the postcode. Journey time from N10 to Gatwick by minicab is typically 55 to 80 minutes, requiring a southbound run through North and Central London before joining the M25 or A23 toward the airport. Heathrow at around 18 miles is significantly closer and the A406 westbound route avoids the city centre entirely, making it the more practical choice for most N10 passengers by road. Fixed-fare transfers to Gatwick are nonetheless available for all vehicle classes from N10, and every fare is confirmed before you travel with no changes on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book a minicab from Muswell Hill N10 for an early morning flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pre-booking at least 48 hours before your required pickup time is the most reliable approach from Muswell Hill N10, particularly for departures before 5am. For larger vehicle classes such as the Executive MPV 7 or the eight-seat MPV, booking 48 to 72 hours in advance gives the greatest certainty of availability and allocation. Same-day bookings are possible subject to driver availability at the time of enquiry, and our team can advise on the fastest way to confirm a vehicle if your travel plans change at short notice."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you transfer me from Muswell Hill N10 to Tilbury Cruise Terminal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Tilbury Cruise Terminal is approximately 30 miles east of Muswell Hill N10 and is among the more practical cruise departure points for North London passengers, sitting considerably closer than Southampton for many N10 addresses. A fixed-fare transfer from N10 to Tilbury is available for all vehicle classes and typically takes 45 to 70 minutes via the A406 eastbound and A13, bypassing central London. For cruises departing from Southampton at roughly 90 miles southwest, Dover at around 75 miles southeast, or Harwich to the northeast, a pre-booked minicab from N10 is the most direct option with fixed pricing and a dedicated driver. All cruise terminal fares are confirmed before the journey begins and do not change with traffic or road conditions on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best vehicle for a business traveller flying from Muswell Hill N10?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For solo or dual business travellers, the Executive saloon in a Mercedes E Class or similar provides a premium cabin, ample luggage space, and a confirmed fixed fare that does not vary on the day. The Executive is the most popular vehicle class for corporate airport transfers from N10 and can be pre-booked for both outbound and return journeys to Heathrow. For business groups of up to seven passengers travelling together from N10, the Executive MPV 7 in a Mercedes V Class combines the passenger capacity of a larger vehicle with a premium interior and a professional driver. Every executive fare is shown in full at the booking stage with no additions charged on arrival at the terminal or on return."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Muswell Hill N10 Minicab Service",
+          "item": "https://ltrminicab.com/muswell-hill-n10-minicab-service/"
+        }
+      ]
+    }
+  ]
+}
