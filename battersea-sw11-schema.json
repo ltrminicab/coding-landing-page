@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#battersea-sw11-service",
+      "name": "LTR Minicab – Battersea SW11 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Battersea SW11. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Battersea",
+        "addressRegion": "London",
+        "postalCode": "SW11",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4681",
+        "longitude": "-0.1671"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Battersea SW11, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Battersea SW11 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Battersea SW11 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Battersea SW11 to Heathrow Airport, approximately 13 miles via Chelsea Bridge or Wandsworth Bridge, the A4, and M4. Door-to-door service with no hidden charges.",
+            "price": "55.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Battersea, SW11, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Battersea SW11 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Battersea SW11, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "58.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Battersea SW11 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Battersea SW11 to Heathrow Airport.",
+            "price": "72.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Battersea SW11 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Battersea SW11 to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "108.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Battersea SW11 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Battersea SW11 to Heathrow Airport, ideal for larger groups.",
+            "price": "145.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#battersea-sw11-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Battersea SW11 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Battersea SW11 to Heathrow is fixed at around £55, confirmed when you book and unchanged regardless of traffic on the bridge crossing or along the A4 and M4 on the day. Every vehicle class from saloon through to eight-seat MPV is displayed with its complete fare before you confirm, so the amount shown at booking is the amount charged when you reach the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Clapham Junction is in SW11 — can I take the train to Heathrow from Battersea?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Clapham Junction is one of Britain's busiest railway interchanges, but it is served entirely by National Rail and has no Underground connection at any platform. There is no direct rail service to Heathrow from SW11. Reaching the airport by public transport from Battersea requires taking a train to London Waterloo or Victoria, then changing to the Underground and travelling to Earl's Court for the Piccadilly line westbound. With two changes, waiting time at each, and the full Piccadilly line journey from central London to the terminals, a door-to-terminal trip from SW11 by rail typically takes 70 to 80 minutes. A pre-booked minicab crosses the Thames and reaches Heathrow via the A4 and M4 in 25 to 40 minutes with no changes and a fixed fare agreed in advance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Battersea SW11 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Battersea SW11 to Heathrow typically takes between 25 and 40 minutes. The most direct route crosses Chelsea Bridge or Wandsworth Bridge, then heads west through Hammersmith and along the A4 onto the M4 into the airport. Drivers check live traffic conditions before departure and choose the bridge crossing that gives the clearest westbound run. Early morning departures before the main rush hour build-up on the A4 regularly complete the journey toward the lower end of that range."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Gatwick Airport faster to reach from Battersea SW11 than Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gatwick is approximately 27 miles south of Battersea SW11 via the A23 and M23, and for passengers departing by minicab the road journey typically takes 40 to 60 minutes depending on traffic, making it broadly comparable to Heathrow in total travel time rather than consistently faster. Heathrow at around 13 miles is physically closer by road, though Battersea's position south of the river adds a bridge crossing to the westbound route. Fixed-fare transfers are available to both airports for every vehicle class, and every fare is confirmed before the journey so you can compare and decide which suits your flight."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in SW11 including Northcote Road and the Power Station area?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across SW11 including Northcote Road, Battersea Park Road, Queenstown Road, Lavender Hill, St John's Hill, York Road, Nine Elms Lane, Battersea High Street, Wandsworth Road, and all residential streets throughout the postcode. Our drivers are familiar with the access routes into the Battersea Power Station development, the restricted zones around Battersea Park during events, and the one-way systems throughout SW11, so pickups from any address in the postcode are handled reliably at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab to or from Battersea Power Station for shopping or events?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, pickups and drop-offs at the Battersea Power Station development on Circus Road West are a regular part of our SW11 service. The area has its own Northern line station opened in 2021, but for passengers arriving with shopping, attending evening events, or travelling with groups, a pre-booked minicab to or from the Power Station provides a more practical option than the tube. Our drivers know the vehicle access points and drop-off areas within the development, and pickups after late-night events at the venue are available at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Battersea SW11 to St Pancras for a Eurostar connection?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, transfers from Battersea SW11 to St Pancras International for Eurostar departures are available at any hour. St Pancras is approximately 7 miles north of SW11, and a pre-booked minicab from Battersea typically covers the journey in 25 to 40 minutes depending on traffic through central London. Eurostar check-in closes 30 minutes before departure, so pre-booking with sufficient lead time is important. Our team can calculate the appropriate pickup time based on your departure and factor in realistic journey time for the time of day you are travelling."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What vehicle is best for a family airport transfer from Battersea SW11?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An estate car is the most practical choice for a family of four travelling with checked luggage, a pushchair, or sports equipment, as it provides significantly more boot space than a standard saloon while carrying the same four passengers. For families of five or more, an MPV 5 or MPV 6 keeps everyone together in a single vehicle with dedicated luggage space. Seven and eight-seat MPVs are also available from Battersea SW11 for larger groups, and all fares for every vehicle class are visible at the booking stage before you confirm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Battersea SW11 to Stansted or Luton Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, fixed-fare transfers from Battersea SW11 to both Stansted and Luton are available for every vehicle class. Stansted is approximately 45 miles northeast of SW11 via the A10 and M11, and transfers typically take 60 to 90 minutes depending on conditions on the North Circular and M11. Luton is roughly 36 miles north via the A1(M), with journey times in the 50 to 75 minute range. Every fare is confirmed before the journey begins and does not change with traffic or road conditions on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer late-night and overnight minicab pickups from Battersea SW11?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, our Battersea SW11 service operates 24 hours a day, seven days a week, covering late-night departures, overnight airport runs, and early morning transfers at any hour. Whether you need a vehicle at 2am for a long-haul departure or a pickup at 11pm after an evening flight lands at Heathrow, our team is reachable by phone throughout the night and drivers cover the full night shift from SW11. Pre-booking in advance rather than calling on the night itself is always recommended to guarantee your preferred vehicle class and pickup time, particularly for early morning flights where demand from the surrounding area builds quickly."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Battersea SW11 Minicab Service",
+          "item": "https://ltrminicab.com/battersea-sw11-minicab-service/"
+        }
+      ]
+    }
+  ]
+}
