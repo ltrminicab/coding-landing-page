@@ -1,0 +1,210 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://ltrminicab.com/#shepherds-bush-w12",
+      "name": "LTR Minicab – Shepherd's Bush W12 Taxi & Minicab Transfers",
+      "url": "https://ltrminicab.com",
+      "logo": "https://ltrminicab.com/wp-content/uploads/2024/01/ltr-minicab-logo.png",
+      "description": "Professional minicab and taxi transfer service from Shepherd's Bush W12 to Heathrow Airport and across London. Fixed prices, 24/7 availability, free Meet & Greet, and live flight monitoring included.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Shepherd's Bush",
+        "postalCode": "W12",
+        "addressRegion": "London",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5049",
+        "longitude": "-0.2181"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "London" },
+        { "@type": "Place", "name": "Shepherd's Bush W12" },
+        { "@type": "Place", "name": "Hammersmith" },
+        { "@type": "Place", "name": "White City" },
+        { "@type": "Place", "name": "Kensington" },
+        { "@type": "Place", "name": "Notting Hill" },
+        { "@type": "Airport", "name": "Heathrow Airport" },
+        { "@type": "Airport", "name": "Gatwick Airport" },
+        { "@type": "Airport", "name": "Stansted Airport" },
+        { "@type": "Airport", "name": "Luton Airport" },
+        { "@type": "Airport", "name": "London City Airport" }
+      ],
+      "priceRange": "££",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Shepherd's Bush W12 Minicab Transfer Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Shepherd's Bush W12 to Heathrow Airport – Saloon Transfer",
+              "description": "Fixed price pre-booked minicab from Shepherd's Bush W12 to all Heathrow terminals. Saloon from £48."
+            },
+            "price": "48.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Heathrow Airport to Shepherd's Bush W12 – Saloon Transfer",
+              "description": "Fixed price airport pickup from all Heathrow terminals to Shepherd's Bush W12. Saloon from £53."
+            },
+            "price": "53.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Shepherd's Bush W12 to Heathrow – Executive Transfer",
+              "description": "Premium executive minicab in Mercedes E Class or similar from Shepherd's Bush W12 to Heathrow Airport."
+            },
+            "price": "62.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Shepherd's Bush W12 to Heathrow – MPV 7 Transfer",
+              "description": "Group MPV 7 minicab from Shepherd's Bush W12 to Heathrow Airport for up to 7 passengers."
+            },
+            "price": "90.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I book a taxi from Shepherd's Bush W12 to Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Use our secure online booking platform, call our team, or complete a quick reservation in minutes. Instant confirmation is sent with driver details and a guaranteed fixed price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the distance from Shepherd's Bush W12 to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Shepherd's Bush W12 is approximately 11 miles (18 km) from Heathrow Airport. Journey times range from 30 to 50 minutes depending on A40 and M4 traffic conditions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minicab fare from Shepherd's Bush W12 to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our Shepherd's Bush W12 to Heathrow saloon fare starts from £48 with a fully fixed price. The airport pickup fare is slightly higher at £53 to account for terminal waiting and parking allowances."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab an affordable Heathrow transfer option from Shepherd's Bush W12?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. LTR Minicab offers affordable Heathrow transfer fares from Shepherd's Bush W12 from just £48 for a Saloon. All prices are fixed at the time of booking with no surge pricing or hidden fees."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide Meet and Greet at Heathrow for Shepherd's Bush W12 passengers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our complimentary Meet & Greet service is available at all four Heathrow terminals. Your chauffeur waits in arrivals with a personalised name board and assists with luggage before your transfer to Shepherd's Bush W12."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Shepherd's Bush W12 minicab service available 24/7?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our Shepherd's Bush W12 minicab service operates 24 hours a day, 7 days a week including bank holidays, with no out-of-hours surcharges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which airports can I travel to from Shepherd's Bush W12?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We provide direct transfers from Shepherd's Bush W12 to Heathrow, Gatwick, Stansted, Luton, London City, and Southend Airport with fixed fares and professional licensed chauffeurs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer group transfers from Shepherd's Bush W12?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We provide MPV 5, MPV 6, MPV 7, and MPV 8 vehicles for families and groups travelling from Shepherd's Bush W12 to airports, hotels, and UK destinations."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Shepherd's Bush W12 Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/shepherds-bush-minicab/"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Transfer",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Shepherd's Bush W12, London"
+      },
+      "name": "Shepherd's Bush W12 Airport Minicab & Taxi Transfer Service",
+      "description": "Reliable fixed-price minicab and taxi transfers from Shepherd's Bush W12 to Heathrow, Gatwick, Stansted, Luton, and London City Airport with professional chauffeurs, Meet & Greet, and 24/7 availability.",
+      "offers": [
+        { "@type": "Offer", "name": "Saloon – Shepherd's Bush W12 to Heathrow", "price": "48.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive – Shepherd's Bush W12 to Heathrow", "price": "62.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Estate – Shepherd's Bush W12 to Heathrow", "price": "55.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 5 – Shepherd's Bush W12 to Heathrow", "price": "68.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 6 – Shepherd's Bush W12 to Heathrow", "price": "78.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 7 – Shepherd's Bush W12 to Heathrow", "price": "90.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive MPV 7 – Shepherd's Bush W12 to Heathrow", "price": "108.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 8 – Shepherd's Bush W12 to Heathrow", "price": "118.00", "priceCurrency": "GBP" }
+      ]
+    }
+  ]
+}
