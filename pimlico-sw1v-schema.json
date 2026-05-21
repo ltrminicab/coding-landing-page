@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#pimlico-sw1v-service",
+      "name": "LTR Minicab – Pimlico SW1V Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Pimlico SW1V. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Pimlico",
+        "addressRegion": "London",
+        "postalCode": "SW1V",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4896",
+        "longitude": "-0.1394"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Pimlico SW1V, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Pimlico SW1V Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Pimlico SW1V to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Pimlico SW1V to Heathrow Airport, approximately 14 miles via the A4 and M4. Door-to-door service with no hidden charges.",
+            "price": "58.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Pimlico, SW1V, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Pimlico SW1V – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Pimlico SW1V, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "61.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Pimlico SW1V to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Pimlico SW1V to Heathrow Airport.",
+            "price": "75.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Pimlico SW1V to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Pimlico SW1V to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "111.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Pimlico SW1V to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Pimlico SW1V to Heathrow Airport, ideal for larger groups.",
+            "price": "148.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#pimlico-sw1v-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Pimlico SW1V to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Pimlico SW1V to Heathrow is fixed at around £58, confirmed at the time of booking with the same amount charged when you arrive at the terminal regardless of what the traffic was like along the way. Every vehicle class from saloon through to eight-seat MPV is displayed with its full fare before you confirm, giving you complete cost certainty before the journey begins."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pimlico has its own tube station — why use a minicab to Heathrow instead?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pimlico station is on the Victoria line, but the Victoria line has no connection to Heathrow at any point along its route. Reaching the airport by tube from SW1V requires taking the Victoria line one stop north to Victoria station, changing onto the District or Circle line, riding four stops to Earl's Court, then changing again to the Piccadilly line westbound. With two platform changes, waiting time at both, and walking between levels with airport luggage, the total door-to-terminal journey regularly takes over 65 minutes. A direct minicab from Pimlico covers the same journey in 25 to 45 minutes without a single interchange."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Pimlico SW1V to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Pimlico SW1V to Heathrow typically takes between 25 and 45 minutes via the A3212 Grosvenor Road westbound to the A4 and then onto the M4 into the airport. Pimlico's riverside position gives drivers a clear westbound route without needing to cross central London, and early morning departures before the main commuter build-up on Cromwell Road regularly come in toward the lower end of that range."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Pimlico SW1V to Gatwick, Stansted, or Luton Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, fixed-fare transfers from Pimlico SW1V are available to all three airports for every vehicle class. Gatwick is approximately 28 miles south via the A23 and M23, making it the nearest of the three to SW1V. Luton is around 34 miles north via the A1(M), and Stansted is roughly 42 miles northeast via the M11. Every fare is confirmed before the journey and does not change once you are on your way."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in SW1V including Dolphin Square and Churchill Gardens?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads and addresses within SW1V including Dolphin Square, Churchill Gardens estate, St George's Square, Lupus Street, Warwick Way, Tachbrook Street, Vauxhall Bridge Road, and all residential streets throughout the postcode. Our drivers know the layout of the larger estates and the surrounding streets, so pickups from any part of Pimlico are handled reliably at any time of day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Pimlico SW1V to London City Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, London City Airport is around 10 miles from Pimlico SW1V and a fixed-fare transfer is available for all vehicle classes. The route runs east across Vauxhall Bridge and through south London, reaching the airport in approximately 25 to 40 minutes depending on conditions. London City is particularly practical for business passengers travelling to European destinations, and pre-booking from SW1V guarantees your pickup time for those tighter departure windows."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What vehicles are available for a family airport transfer from Pimlico SW1V?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Estate cars, MPV 5, MPV 6, MPV 7, and MPV 8 vehicles are all available from Pimlico SW1V for family airport transfers. An estate provides more luggage space than a standard saloon while carrying the same four passengers, making it a practical option for families with pushchairs or sports equipment. For larger families or groups, an MPV keeps the entire party together door to terminal in a single booking, and every fare is visible at the booking stage before you confirm."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book an airport minicab from Pimlico SW1V?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pre-booking at least 24 hours before your required pickup time is the most reliable approach from Pimlico SW1V. For very early morning departures before 5am, or for larger vehicle classes such as the Executive MPV or eight-seat MPV, booking 48 hours in advance gives the greatest certainty of availability. Same-day bookings are also possible subject to availability at the time of enquiry."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer minicab transfers from Pimlico SW1V to cruise terminals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, fixed-fare transfers from Pimlico SW1V to Southampton, Dover, Portsmouth, Tilbury, and Harwich cruise terminals are available for all vehicle classes. Southampton is the most commonly used cruise port from SW1V and is approximately 80 miles southwest. For cruises departing from Tilbury, which is around 25 miles east, a minicab from Pimlico is often the most practical option given the limited direct public transport connections from central London to the port."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a minicab service from Pimlico SW1V to Tate Britain and other London venues?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Tate Britain on Millbank is within the SW1V postcode and we handle pickups and drop-offs there as well as transfers to other major London galleries, theatres, and venues. For visitors arriving from Heathrow or another airport and heading directly to Tate Britain or a nearby hotel, a pre-booked minicab from the terminal provides a straightforward, fixed-price journey with no tube connections and luggage handled door to door."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Pimlico SW1V Minicab Service",
+          "item": "https://ltrminicab.com/pimlico-sw1v-minicab-service/"
+        }
+      ]
+    }
+  ]
+}
