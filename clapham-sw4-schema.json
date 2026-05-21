@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#clapham-sw4-service",
+      "name": "LTR Minicab – Clapham SW4 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Clapham SW4. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Clapham",
+        "addressRegion": "London",
+        "postalCode": "SW4",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4613",
+        "longitude": "-0.1396"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Clapham SW4, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Clapham SW4 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Clapham SW4 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Clapham SW4 to Heathrow Airport, approximately 14 miles via Wandsworth, the A4, and M4. Door-to-door service with no hidden charges.",
+            "price": "55.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Clapham, SW4, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Clapham SW4 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Clapham SW4, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "58.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Clapham SW4 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Clapham SW4 to Heathrow Airport.",
+            "price": "72.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Clapham SW4 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Clapham SW4 to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "108.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Clapham SW4 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Clapham SW4 to Heathrow Airport, ideal for larger groups.",
+            "price": "145.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#clapham-sw4-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Clapham SW4 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Clapham SW4 to Heathrow is fixed at around £55, confirmed at the time of booking and unchanged regardless of traffic through Wandsworth or along the A4 and M4 on the day. Every vehicle class from saloon through to eight-seat MPV is shown with its full fare before you confirm, so the price you see when booking is the price charged when you arrive at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Clapham has three Northern line stations — why is a minicab better for Heathrow from SW4?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Clapham Common, Clapham South, and Clapham North are all on the Northern line, which runs north through central London and has no connection to Heathrow Airport at any point along its route. Reaching the airport by tube from SW4 requires travelling north on the Northern line to Leicester Square or King's Cross St. Pancras, then changing to the Piccadilly line westbound for the full 35-minute journey to the terminals. With the Northern line journey from Clapham, the platform change, waiting time at the interchange, and the Piccadilly line ride, a door-to-terminal trip consistently takes 65 to 75 minutes. A pre-booked minicab from your front door covers the same distance in 30 to 45 minutes with no changes required."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Clapham SW4 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Clapham SW4 to Heathrow typically takes between 30 and 45 minutes, heading west from the Common through Wandsworth and then along the A4 onto the M4 into the airport. Drivers check live conditions before departure and choose the most fluid westbound route on the day. Early morning departures before the main commuter build-up on the A4 regularly come in toward the lower end of that range."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Clapham SW4 to Gatwick, Stansted, or Luton Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, fixed-fare transfers from Clapham SW4 to all three airports are available for every vehicle class. Gatwick is approximately 25 miles south via the A23 and M23, making it the nearest of the three to SW4 and often a practical alternative to Heathrow for South London passengers. Stansted is around 45 miles northeast via the M11, and Luton is roughly 35 miles north via the A1(M). Every fare is confirmed before the journey starts and does not change with traffic conditions on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in SW4 including Abbeville Road and the Old Town area?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across SW4 including Abbeville Road, Clapham Common North Side, South Side, and West Side, Old Town, The Pavement, Rectory Grove, Cavendish Road, Nightingale Lane, Clapham High Street, Clapham Manor Street, and all residential streets throughout the postcode. Our drivers are familiar with the parking restrictions around the Common, the one-way sections near the High Street, and the quieter residential roads south of the park, so pickups from any address in SW4 are handled reliably at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Clapham SW4 to London City Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, London City Airport is approximately 10 miles from Clapham SW4 and a fixed-fare transfer is available for all vehicle classes. The route runs northeast through Brixton, Camberwell, and south-east London toward the Royal Docks. Journey time is typically 25 to 45 minutes depending on conditions. London City handles a concentrated range of European and domestic business routes and its compact terminal keeps check-in and security times well below those at the major airports."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from a Clapham Common event to the airport the next morning?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, and this is a booking pattern we handle regularly from SW4. If you are attending an evening event on Clapham Common or at a venue in the area and have an early morning flight the following day, you can pre-book both a return journey from the event and a separate early airport pickup in a single call. The airport booking is entered into the system with your flight details and departure time, and the driver is allocated independently of any earlier journey. Pre-booking at least 24 hours before your airport pickup is recommended, particularly for departures before 6am."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book an airport minicab from Clapham SW4?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pre-booking at least 24 hours before your required pickup time is the most reliable approach from Clapham SW4. For very early morning departures before 5am, or for larger vehicle classes such as the Executive MPV 7 or the eight-seat MPV, booking 48 hours in advance gives the greatest certainty of availability and vehicle allocation. Same-day bookings are possible subject to driver availability at the time of enquiry, and our team can advise on the fastest way to confirm a vehicle if your travel plans change at short notice."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I arrange a group minicab from Clapham SW4 for multiple passengers travelling together?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, group transfers from Clapham SW4 are straightforward to arrange across all vehicle classes. An MPV 5 or MPV 6 keeps a small group together in a single vehicle with full luggage capacity, while the seven and eight-seat MPVs are available for larger travelling parties. For groups requiring a premium interior alongside the capacity, the Executive MPV 7 in a Mercedes V Class accommodates up to seven passengers with luggage. Every fare for every vehicle class is shown at the booking stage so you can choose the option that best fits your group size and budget before confirming."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide minicab transfers from Clapham SW4 to cruise terminals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, fixed-fare transfers from Clapham SW4 to Southampton, Dover, Portsmouth, Tilbury, and Harwich cruise terminals are available for all vehicle classes. Southampton is the most frequently used departure port from SW4 and is approximately 80 miles southwest via the M3. For cruises departing from Dover, which is roughly 75 miles southeast via the M25 and A2, a pre-booked minicab from Clapham provides the most straightforward option without the complications of changing trains with luggage at London Bridge or Victoria. Every cruise terminal fare is confirmed before the journey begins."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Clapham SW4 Minicab Service",
+          "item": "https://ltrminicab.com/clapham-sw4-minicab-service/"
+        }
+      ]
+    }
+  ]
+}
