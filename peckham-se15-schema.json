@@ -1,0 +1,195 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#peckham-se15-service",
+      "name": "LTR Minicab – Peckham SE15 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Peckham SE15. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Peckham",
+        "addressRegion": "London",
+        "postalCode": "SE15",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4735",
+        "longitude": "-0.0693"
+      },
+      "areaServed": [
+        {"@type": "Place", "name": "Peckham SE15, London"},
+        {"@type": "Place", "name": "Heathrow Airport, London"},
+        {"@type": "Place", "name": "Gatwick Airport, London"},
+        {"@type": "Place", "name": "Stansted Airport, Essex"},
+        {"@type": "Place", "name": "Luton Airport, Bedfordshire"},
+        {"@type": "Place", "name": "London City Airport, London"}
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Peckham SE15 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Peckham SE15 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Peckham SE15 to Heathrow Airport, approximately 18 miles via the A202 through Camberwell and A3/A316 corridor. Door-to-door service with no hidden charges.",
+            "price": "62.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {"@type": "Place", "name": "Peckham, SE15, London"}
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Peckham SE15 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Peckham SE15, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "65.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {"@type": "Place", "name": "Heathrow Airport, London"}
+          },
+          {
+            "@type": "Offer",
+            "name": "Peckham SE15 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Peckham SE15 to Heathrow Airport.",
+            "price": "79.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Peckham SE15 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Peckham SE15 to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "115.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Peckham SE15 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Peckham SE15 to Heathrow Airport, ideal for larger groups.",
+            "price": "152.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#peckham-se15-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Peckham SE15 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Peckham SE15 to Heathrow is fixed at £62, confirmed at the time of booking and unchanged regardless of traffic on the A202 or along the A3 and A316 on the day. Every vehicle class from saloon through to eight-seat MPV is displayed with its complete fare before you confirm, so the price shown at booking is the price charged when you arrive at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Peckham SE15 have a tube station, and can I reach Heathrow from it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There is no Underground station in SE15. Peckham Rye station serves the London Overground and National Rail, with trains running to London Bridge, Victoria, Clapham Junction, and Crystal Palace. Neither route connects to Heathrow without at least two further changes on the Underground. The full door-to-terminal journey from SE15 via public transport consistently takes 70 to 85 minutes. A pre-booked minicab from Peckham reaches the same terminal in 45 to 60 minutes with a fixed fare and no connections."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Peckham SE15 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Peckham SE15 to Heathrow typically takes between 45 and 60 minutes. The most efficient route heads west along the A202 through Camberwell before joining the A3 and A316 corridor northwest toward the M3 and M25 approach into the airport. Drivers check live conditions before departure and select the most fluid westbound approach on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in SE15 including Rye Lane, Nunhead, and the Peckham Rye area?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across SE15 including Peckham High Street, Rye Lane, Peckham Road, Queens Road Peckham, Peckham Rye, Nunhead Lane, Nunhead Green, Chadwick Road, Bellenden Road, Blenheim Grove, Clayton Road, Asylum Road, Gordon Road, and all residential streets throughout Peckham town centre, the Rye, Nunhead, and the Bellenden Road conservation area."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Gatwick Airport from Peckham SE15, and do you cover that route?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gatwick is approximately 20 miles south of Peckham SE15, typically a 35 to 55 minute journey by minicab via the A23 south through Streatham and Croydon, then the M23 to the airport. Fixed-fare transfers to Gatwick from SE15 are available for all vehicle classes and every fare is confirmed before you travel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How close is London City Airport to Peckham SE15?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "London City Airport is approximately 9 miles northeast of Peckham SE15, making it the closest major airport to the postcode by road. A fixed-fare transfer from SE15 to LCY is available for all vehicle classes and typically takes 20 to 35 minutes via the A2 and A1020 route."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a return minicab from Heathrow to Peckham SE15 with meet and greet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the return journey from Heathrow to Peckham SE15 is available for all vehicle classes with meet and greet included as standard. The return fare from Heathrow to SE15 is fixed at £65 for a saloon. Forty-five minutes of complimentary waiting time is included with every arrivals booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best vehicle for a business traveller flying from Peckham SE15?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For solo and dual business travellers, the Executive saloon in a Mercedes E Class or similar provides a premium cabin, reliable luggage space, and a confirmed fixed fare. For corporate groups of up to seven passengers, the Executive MPV 7 in a Mercedes V Class combines full capacity with a premium interior. Every executive fare is shown in full at the booking stage with no additions charged at the terminal or on return."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book a minicab from Peckham SE15 for an early morning flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pre-booking at least 48 hours before your required pickup time is the most reliable approach from Peckham SE15, particularly for departures before 5am. For larger vehicle classes such as the Executive MPV 7 or the eight-seat MPV, booking 48 to 72 hours in advance gives the greatest certainty of availability. Same-day bookings are possible subject to driver availability at the time of enquiry."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover pickups from Peckham Rye station and Queens Road Peckham at any hour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover pickups from both Peckham Rye station and Queens Road Peckham station, as well as all addresses in SE15, at any hour of the day or night. Pre-booking guarantees your vehicle is confirmed and allocated before you need it, so early morning collections near either station are handled reliably."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Peckham SE15 Minicab Service",
+          "item": "https://ltrminicab.com/peckham-se15-minicab-service/"
+        }
+      ]
+    }
+  ]
+}
