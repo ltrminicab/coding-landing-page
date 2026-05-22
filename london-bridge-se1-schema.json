@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#london-bridge-se1-service",
+      "name": "LTR Minicab – London Bridge SE1 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from London Bridge SE1. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "London Bridge",
+        "addressRegion": "London",
+        "postalCode": "SE1",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5045",
+        "longitude": "-0.0865"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "London Bridge SE1, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "London Bridge SE1 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "London Bridge SE1 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from London Bridge SE1 to Heathrow Airport, approximately 17 miles via the Embankment and A4/M4. Door-to-door service with no hidden charges.",
+            "price": "60.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "London Bridge, SE1, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to London Bridge SE1 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to London Bridge SE1, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "63.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "London Bridge SE1 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from London Bridge SE1 to Heathrow Airport.",
+            "price": "77.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "London Bridge SE1 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from London Bridge SE1 to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "113.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "London Bridge SE1 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from London Bridge SE1 to Heathrow Airport, ideal for larger groups.",
+            "price": "150.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#london-bridge-se1-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from London Bridge SE1 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from London Bridge SE1 to Heathrow is fixed at £60, confirmed at the time of booking and unchanged regardless of traffic through central London or along the A4 and M4 on the day. Every vehicle class from saloon through to eight-seat MPV is displayed with its complete fare before you confirm, so the price shown at booking is the price charged when you arrive at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "London Bridge has the Jubilee and Northern lines — why not take the tube to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "London Bridge Underground station is served by both the Jubilee and Northern lines, but neither line connects to Heathrow Airport. To reach Heathrow from SE1 by tube, passengers must ride the Jubilee line west to Green Park, change platforms for the Piccadilly line westbound, and complete the full 40 to 45 minute Piccadilly line ride to the terminals. Including the walk to London Bridge station, the Jubilee line ride, the platform change and wait at Green Park, and the Piccadilly line journey, a door-to-terminal trip from SE1 typically takes 65 to 80 minutes. A pre-booked minicab from your SE1 address reaches the same terminal in 40 to 55 minutes with a fixed fare and no connections."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from London Bridge SE1 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from London Bridge SE1 to Heathrow typically takes between 40 and 55 minutes. The most efficient route runs west from SE1 across the Thames toward the Embankment and then westbound through Chelsea and Hammersmith to the A4 and M4 motorway corridor into the airport. Drivers check live conditions before departure and select the most fluid westbound route on the day. Early morning runs ahead of the central London build-up regularly complete toward the lower end of that range."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Heathrow Express accessible from London Bridge SE1?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Heathrow Express runs exclusively from London Paddington and is not accessible from London Bridge without a further tube connection. Passengers from SE1 wanting to use the Heathrow Express would need to travel to Paddington first, adding at least one change and considerable time. In practice, the total door-to-terminal time from SE1 via the Heathrow Express route is unlikely to be faster than a pre-booked minicab that travels directly to the terminal at a confirmed fixed fare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in SE1 including Borough, Bermondsey Street, and the South Bank?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads and addresses across SE1 including London Bridge Street, Tooley Street, Borough High Street, Bermondsey Street, Southwark Street, Bankside, Upper Ground, Stamford Street, Waterloo Road, Westminster Bridge Road, Borough Market area, Shad Thames, Newington Causeway, Elephant Road, and all residential and commercial streets throughout the postcode. Our drivers are familiar with the restricted vehicle access zones around Borough Market and Tooley Street, the pedestrian areas of the South Bank, and the access routes to hotel loading bays and The Shard complex, so pickups from any SE1 address are handled reliably at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a late-night minicab from SE1 after a South Bank theatre or event?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, late-night transfers from SE1 following performances at the National Theatre, the Globe, the Southbank Centre, and venues across the South Bank are available with pre-booking at any hour. The South Bank draws large audiences for evening events throughout the year, and a pre-booked vehicle with a confirmed driver and a fixed pickup time gives you a guaranteed departure from SE1 regardless of post-event street congestion. We cover pickups from all venue access points across the South Bank, including the National Theatre, BFI Southbank, Tate Modern, Shakespeare's Globe, and all hotel and residential addresses in SE1."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is London City Airport from London Bridge SE1, and do you cover that route?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "London City Airport is approximately 8 miles east of London Bridge SE1, making it the closest major airport to the postcode by road. A fixed-fare transfer from SE1 to LCY is available for all vehicle classes and typically takes 20 to 35 minutes via the A13 and A1020 route. London City handles European business routes and domestic connections with a compact, single-terminal layout that significantly reduces check-in and security times compared to Heathrow or Gatwick."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a return minicab from Heathrow to London Bridge SE1 with meet and greet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the return journey from Heathrow to London Bridge SE1 is available for all vehicle classes with meet and greet included as standard. Your driver will be at the designated meeting point inside the terminal before you clear arrivals, with your flight tracked from departure at its origin. The return fare from Heathrow to SE1 is fixed at £63 for a saloon, confirmed at the time of booking. Forty-five minutes of complimentary waiting time is included with every arrivals booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best vehicle for a business traveller flying from London Bridge SE1?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For solo and dual business travellers, the Executive saloon in a Mercedes E Class or similar provides a premium cabin, ample luggage space, and a confirmed fixed fare. The Executive can be pre-booked for both outbound and return journeys to Heathrow and London City Airport from SE1. For corporate groups of up to seven passengers, the Executive MPV 7 in a Mercedes V Class combines full capacity with a premium interior and a professional driver. Every executive fare is shown in full at the booking stage with no additions charged at the terminal or on return."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book a minicab from London Bridge SE1 for an early morning flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pre-booking at least 48 hours before your required pickup time is the most reliable approach from London Bridge SE1, particularly for departures before 5am. For larger vehicle classes such as the Executive MPV 7 or the eight-seat MPV, booking 48 to 72 hours in advance gives the greatest certainty of availability and driver allocation. Same-day bookings are possible subject to driver availability at the time of enquiry."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "London Bridge SE1 Minicab Service",
+          "item": "https://ltrminicab.com/london-bridge-se1-minicab-service/"
+        }
+      ]
+    }
+  ]
+}
