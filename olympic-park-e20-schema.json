@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://ltrminicab.com/#olympic-park-e20",
+      "name": "LTR Minicab – Olympic Park E20 Taxi & Minicab Transfers",
+      "url": "https://ltrminicab.com",
+      "logo": "https://ltrminicab.com/wp-content/uploads/2024/01/ltr-minicab-logo.png",
+      "description": "Professional minicab and taxi transfer service from Olympic Park E20 to Heathrow Airport and across London. Fixed prices, 24/7 availability, free Meet & Greet, and live flight monitoring included.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Olympic Park",
+        "postalCode": "E20",
+        "addressRegion": "London",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5383",
+        "longitude": "-0.0168"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "London" },
+        { "@type": "Place", "name": "Olympic Park E20" },
+        { "@type": "Place", "name": "Stratford" },
+        { "@type": "Place", "name": "Hackney Wick" },
+        { "@type": "Place", "name": "West Ham" },
+        { "@type": "Place", "name": "Leyton" },
+        { "@type": "Airport", "name": "Heathrow Airport" },
+        { "@type": "Airport", "name": "Gatwick Airport" },
+        { "@type": "Airport", "name": "Stansted Airport" },
+        { "@type": "Airport", "name": "Luton Airport" },
+        { "@type": "Airport", "name": "London City Airport" }
+      ],
+      "priceRange": "££",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Olympic Park E20 Minicab Transfer Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Olympic Park E20 to Heathrow Airport – Saloon Transfer",
+              "description": "Fixed price pre-booked minicab from Olympic Park E20 to all Heathrow terminals. Saloon from £70."
+            },
+            "price": "70.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Heathrow Airport to Olympic Park E20 – Saloon Transfer",
+              "description": "Fixed price airport pickup from all Heathrow terminals to Olympic Park E20. Saloon from £75."
+            },
+            "price": "75.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Olympic Park E20 to Heathrow – Executive Transfer",
+              "description": "Premium executive minicab in Mercedes E Class or similar from Olympic Park E20 to Heathrow Airport."
+            },
+            "price": "91.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Olympic Park E20 to Heathrow – MPV 7 Transfer",
+              "description": "Group MPV 7 minicab from Olympic Park E20 to Heathrow Airport for up to 7 passengers."
+            },
+            "price": "130.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I book a minicab from Olympic Park E20 to Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Book online through our secure platform, call our team directly, or complete a quick reservation in minutes. All Olympic Park E20 bookings receive instant confirmation with driver details and a guaranteed fixed price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Olympic Park E20 from Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Olympic Park E20 is approximately 18 miles (29 km) from Heathrow Airport via the A12, M25, and M4 or alternatively via the A406 North Circular and A40. Journey times typically range from 45 to 75 minutes depending on traffic through east London and along the M4 corridor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minicab fare from Olympic Park E20 to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our Olympic Park E20 to Heathrow saloon fare starts from £70 with a fully fixed price. The airport pickup fare is slightly higher at £75 to include terminal waiting and parking allowances."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Meet and Greet available at Heathrow for Olympic Park E20 passengers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our complimentary Meet & Greet service is available at all four Heathrow terminals. Your chauffeur waits in the arrivals hall with a personalised name board and assists with luggage before your transfer to Olympic Park E20."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab available 24 hours a day from Olympic Park E20?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our Olympic Park E20 minicab service operates 24 hours a day, 7 days a week including public holidays, with no out-of-hours surcharges applied to any booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab an affordable Heathrow transfer from Olympic Park E20?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. LTR Minicab provides competitive fixed-price Heathrow transfers from Olympic Park E20 from £70 for a Saloon. All fares are locked in at booking with no surge pricing, meter additions, or hidden charges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which airports can I travel to from Olympic Park E20?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We operate direct transfers from Olympic Park E20 to Heathrow, Gatwick, Stansted, Luton, London City, and Southend Airport with fixed fares and professional licensed chauffeurs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer group transfers from Olympic Park E20?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We provide MPV 5, MPV 6, MPV 7, and MPV 8 vehicles for families and groups travelling from Olympic Park E20 to airports, hotels, and UK destinations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover Stratford and all streets within E20?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We cover all streets and addresses within E20 including Queen Elizabeth Olympic Park, Stratford, East Village, Here East, Westfield Stratford City, Hackney Wick, and all surrounding residential and commercial developments."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get a minicab from Olympic Park E20 after a London Stadium event?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We provide pre-booked minicab transfers from Olympic Park E20 and London Stadium after concerts, West Ham United fixtures, and major events. Pre-booking is strongly recommended on event nights to guarantee availability and a fixed fare."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Olympic Park E20 Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/olympic-park-minicab/"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Transfer",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Olympic Park E20, London"
+      },
+      "name": "Olympic Park E20 Airport Minicab & Taxi Transfer Service",
+      "description": "Reliable fixed-price minicab and taxi transfers from Olympic Park E20 to Heathrow, Gatwick, Stansted, Luton, and London City Airport with professional chauffeurs, Meet & Greet, and 24/7 availability.",
+      "offers": [
+        { "@type": "Offer", "name": "Saloon – Olympic Park E20 to Heathrow", "price": "70.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive – Olympic Park E20 to Heathrow", "price": "91.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Estate – Olympic Park E20 to Heathrow", "price": "79.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 5 – Olympic Park E20 to Heathrow", "price": "98.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 6 – Olympic Park E20 to Heathrow", "price": "112.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 7 – Olympic Park E20 to Heathrow", "price": "130.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive MPV 7 – Olympic Park E20 to Heathrow", "price": "154.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 8 – Olympic Park E20 to Heathrow", "price": "172.00", "priceCurrency": "GBP" }
+      ]
+    }
+  ]
+}
