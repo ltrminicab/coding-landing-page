@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://ltrminicab.com/#bow-e3",
+      "name": "LTR Minicab – Bow E3 Taxi & Minicab Transfers",
+      "url": "https://ltrminicab.com",
+      "logo": "https://ltrminicab.com/wp-content/uploads/2024/01/ltr-minicab-logo.png",
+      "description": "Professional minicab and taxi transfer service from Bow E3 to Heathrow Airport and across London. Fixed prices, 24/7 availability, free Meet & Greet, and live flight monitoring included.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bow",
+        "postalCode": "E3",
+        "addressRegion": "London",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5270",
+        "longitude": "-0.0197"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "London" },
+        { "@type": "Place", "name": "Bow E3" },
+        { "@type": "Place", "name": "Victoria Park" },
+        { "@type": "Place", "name": "Mile End" },
+        { "@type": "Place", "name": "Bromley-by-Bow" },
+        { "@type": "Place", "name": "Three Mills" },
+        { "@type": "Airport", "name": "Heathrow Airport" },
+        { "@type": "Airport", "name": "Gatwick Airport" },
+        { "@type": "Airport", "name": "Stansted Airport" },
+        { "@type": "Airport", "name": "Luton Airport" },
+        { "@type": "Airport", "name": "London City Airport" }
+      ],
+      "priceRange": "££",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Bow E3 Minicab Transfer Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Bow E3 to Heathrow Airport – Saloon Transfer",
+              "description": "Fixed price pre-booked minicab from Bow E3 to all Heathrow terminals. Saloon from £63."
+            },
+            "price": "63.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Heathrow Airport to Bow E3 – Saloon Transfer",
+              "description": "Fixed price airport pickup from all Heathrow terminals to Bow E3. Saloon from £68."
+            },
+            "price": "68.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Bow E3 to Heathrow – Executive Transfer",
+              "description": "Premium executive minicab in Mercedes E Class or similar from Bow E3 to Heathrow Airport."
+            },
+            "price": "82.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Bow E3 to Heathrow – MPV 7 Transfer",
+              "description": "Group MPV 7 minicab from Bow E3 to Heathrow Airport for up to 7 passengers."
+            },
+            "price": "117.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I book a minicab from Bow E3 to Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Book online through our secure platform, call our team directly, or complete a quick reservation in minutes. All Bow E3 bookings receive instant confirmation with driver details and a guaranteed fixed price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Bow E3 from Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bow E3 is approximately 14 to 15 miles (23 km) from Heathrow Airport via the A12 and A40, or via the A11 through Whitechapel and the City connecting to the A40 westbound. Journey times typically range from 40 to 65 minutes depending on traffic conditions through inner east London and along the A40 corridor towards Heathrow."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minicab fare from Bow E3 to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our Bow E3 to Heathrow saloon fare starts from £63 with a fully fixed price. The airport pickup fare is slightly higher at £68 to include terminal waiting and parking allowances."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Meet and Greet available at Heathrow for Bow E3 passengers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our complimentary Meet & Greet service is available at all four Heathrow terminals. Your chauffeur waits in the arrivals hall with a personalised name board and assists with luggage before your transfer to Bow E3."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab available 24 hours a day from Bow E3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our Bow E3 minicab service operates 24 hours a day, 7 days a week including public holidays, with no out-of-hours surcharges applied to any booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab an affordable Heathrow transfer from Bow E3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. LTR Minicab provides competitive fixed-price Heathrow transfers from Bow E3 from £63 for a Saloon. All fares are locked in at booking with no surge pricing, meter additions, or hidden charges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which airports can I travel to from Bow E3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We operate direct transfers from Bow E3 to Heathrow, Gatwick, Stansted, Luton, London City, and Southend Airport with fixed fares and professional licensed chauffeurs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer group transfers from Bow E3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We provide MPV 5, MPV 6, MPV 7, and MPV 8 vehicles for families and groups travelling from Bow E3 to airports, hotels, and UK destinations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover Victoria Park, Bromley-by-Bow, and all streets within E3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We cover all streets and postcodes within E3 including Bow, Victoria Park, Mile End, Bromley-by-Bow, Three Mills Island, and all surrounding residential and commercial areas of the Bow and Tower Hamlets borough."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Bow E3 minicab service available on weekends and bank holidays?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our Bow E3 minicab service runs every day of the year including weekends and all UK bank holidays at no additional cost."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bow E3 Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/bow-minicab/"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Transfer",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Bow E3, London"
+      },
+      "name": "Bow E3 Airport Minicab & Taxi Transfer Service",
+      "description": "Reliable fixed-price minicab and taxi transfers from Bow E3 to Heathrow, Gatwick, Stansted, Luton, and London City Airport with professional chauffeurs, Meet & Greet, and 24/7 availability.",
+      "offers": [
+        { "@type": "Offer", "name": "Saloon – Bow E3 to Heathrow", "price": "63.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive – Bow E3 to Heathrow", "price": "82.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Estate – Bow E3 to Heathrow", "price": "71.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 5 – Bow E3 to Heathrow", "price": "88.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 6 – Bow E3 to Heathrow", "price": "101.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 7 – Bow E3 to Heathrow", "price": "117.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive MPV 7 – Bow E3 to Heathrow", "price": "139.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 8 – Bow E3 to Heathrow", "price": "158.00", "priceCurrency": "GBP" }
+      ]
+    }
+  ]
+}
