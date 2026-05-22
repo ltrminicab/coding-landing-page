@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#putney-sw15-service",
+      "name": "LTR Minicab – Putney SW15 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Putney SW15. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Putney",
+        "addressRegion": "London",
+        "postalCode": "SW15",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4613",
+        "longitude": "-0.2164"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Putney SW15, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Putney SW15 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Putney SW15 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Putney SW15 to Heathrow Airport, approximately 13 miles via the A316 or A4 and M4. Door-to-door service with no hidden charges.",
+            "price": "55.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Putney, SW15, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Putney SW15 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Putney SW15, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "58.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Putney SW15 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Putney SW15 to Heathrow Airport.",
+            "price": "72.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Putney SW15 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Putney SW15 to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "108.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Putney SW15 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Putney SW15 to Heathrow Airport, ideal for larger groups.",
+            "price": "145.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#putney-sw15-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Putney SW15 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Putney SW15 to Heathrow is fixed at £55, confirmed at the time of booking and unchanged regardless of traffic on the A316 or along the M4 on the day. Every vehicle class from saloon through to eight-seat MPV is displayed with its complete fare before you confirm, so the price shown at booking is the price charged when you arrive at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Putney has District line stations at Putney Bridge and East Putney — why choose a minicab over the tube for Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Putney Bridge and East Putney are both on the District line, which runs east through Fulham and Earl's Court but has no direct service to Heathrow Airport at any point along its route. Passengers wanting to reach Heathrow by public transport from SW15 must first ride the District line east to Hammersmith or Earl's Court, change platforms for the Piccadilly line westbound, wait for the next westbound Piccadilly service, and then complete the full 35 to 40 minute Piccadilly line ride to the terminals. Including the walk to a District line station, the eastbound ride, the platform change and wait at Hammersmith, and the Piccadilly line journey, a door-to-terminal trip from SW15 by public transport typically takes 65 to 80 minutes with luggage. A pre-booked minicab from your front door in Putney reaches the same terminal in 30 to 40 minutes with no connections required and a fixed fare agreed before you leave."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Putney SW15 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Putney SW15 to Heathrow typically takes between 30 and 40 minutes. The route heads northwest from SW15 toward Chiswick and the A4, then joins the M4 into the airport, or alternatively takes the A316 Great Chertsey Road through Richmond and onto the M3 and M25 approach. Drivers check live conditions before departure and select the most fluid westbound approach on the day. Early morning runs before the main rush on the A316 and the M4 can complete toward the lower end of that range."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a return minicab from Heathrow to Putney SW15 with meet and greet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the return journey from Heathrow to Putney SW15 is available for all vehicle classes with meet and greet included as standard. Your driver will be at the designated meeting point inside the terminal before you clear arrivals, with your flight tracked from departure at its origin. The return fare from Heathrow to SW15 is fixed at £58 for a saloon, confirmed at the time of booking. If your flight is delayed or diverted, the booking adjusts automatically based on real-time tracking. Forty-five minutes of complimentary waiting time is included with every arrivals booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in SW15 including East Putney, Roehampton, and the Embankment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads and addresses across SW15 including Putney High Street, Upper Richmond Road, Putney Bridge Road, Lower Richmond Road, the Putney Embankment, Lacy Road, Werter Road, Deodar Road, Oxford Road, Keswick Road, Hotham Road, Roehampton Lane, Roehampton Vale, and all residential streets throughout East Putney and the Roehampton estate. Our drivers are familiar with the access roads to the Putney Embankment boathouses, the one-way sections around the High Street, and the residential routes south toward Putney Heath, so pickups from any SW15 address are handled reliably at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab for the Oxford and Cambridge Boat Race from Putney?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, transfers to and from Putney for Boat Race day are available with pre-booking in the usual way. The area around the Embankment and the High Street fills with spectators from across London in the hours before and after the event. Parking and private hire availability near the bridge are significantly reduced on race day, and a pre-booked vehicle with a confirmed driver and arrival time avoids competing for transport in an area that becomes difficult to access by road once the crowds build. We cover pickups from all addresses along the Embankment, Putney Bridge Approach, and the residential streets of SW15 for both morning arrivals and post-race departures. Pre-booking at least 48 hours before race day is strongly recommended."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Gatwick Airport from Putney SW15, and do you cover that route?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gatwick is approximately 23 miles south of Putney SW15, typically a 40 to 55 minute journey by minicab via the A3 south and the M23 to the airport. Fixed-fare transfers to Gatwick from SW15 are available for all vehicle classes, and every fare is confirmed before you travel. For SW15 passengers, Heathrow at approximately 13 miles is considerably closer and the A316 or A4 westbound approach avoids southbound city traffic, making Heathrow the more practical choice for passengers with a choice of departure airport."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best vehicle for a business traveller flying from Putney SW15?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For solo and dual business travellers, the Executive saloon in a Mercedes E Class or similar provides a premium cabin, reliable luggage space, and a confirmed fixed fare that does not vary on the day. The Executive can be pre-booked for both outbound and return journeys to Heathrow and London City Airport from SW15. For corporate groups of up to seven passengers, the Executive MPV 7 in a Mercedes V Class combines full capacity with a premium interior and a professional driver. Every executive fare is shown in full at the booking stage with no additions charged at the terminal or on return."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get a minicab from Putney SW15 to London City Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, London City Airport is approximately 17 miles from Putney SW15 and a fixed-fare transfer is available for all vehicle classes. The route runs east and northeast from SW15 through Battersea, Vauxhall, and the City of London toward the Royal Docks, typically taking 35 to 55 minutes depending on conditions. London City handles concentrated European business routes and domestic connections with a compact terminal that keeps check-in and security times well below those at Heathrow or Gatwick."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book a minicab from Putney SW15 for an early morning flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pre-booking at least 48 hours before your required pickup time is the most reliable approach from Putney SW15, particularly for departures before 5am. For larger vehicle classes such as the Executive MPV 7 or the eight-seat MPV, booking 48 to 72 hours in advance gives the greatest certainty of availability and driver allocation. Same-day bookings are possible subject to driver availability at the time of enquiry, and our team can advise on the fastest way to confirm a vehicle if your travel plans change at short notice."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Putney SW15 Minicab Service",
+          "item": "https://ltrminicab.com/putney-sw15-minicab-service/"
+        }
+      ]
+    }
+  ]
+}
