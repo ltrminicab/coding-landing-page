@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#wandsworth-sw18-service",
+      "name": "LTR Minicab – Wandsworth SW18 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Wandsworth SW18. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Wandsworth",
+        "addressRegion": "London",
+        "postalCode": "SW18",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4571",
+        "longitude": "-0.1922"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Wandsworth SW18, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Wandsworth SW18 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Wandsworth SW18 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Wandsworth SW18 to Heathrow Airport, approximately 14 miles via the A316 or A4 and M4. Door-to-door service with no hidden charges.",
+            "price": "56.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Wandsworth, SW18, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Wandsworth SW18 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Wandsworth SW18, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "59.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Wandsworth SW18 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Wandsworth SW18 to Heathrow Airport.",
+            "price": "73.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Wandsworth SW18 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Wandsworth SW18 to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "109.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Wandsworth SW18 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Wandsworth SW18 to Heathrow Airport, ideal for larger groups.",
+            "price": "146.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#wandsworth-sw18-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Wandsworth SW18 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Wandsworth SW18 to Heathrow is fixed at £56, confirmed at the time of booking and unchanged regardless of traffic on the A316 or along the M4 on the day. Every vehicle class from saloon through to eight-seat MPV is displayed with its complete fare before you confirm, so the price shown at booking is the price charged when you arrive at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "SW18 has National Rail stations — can I reach Heathrow by train from Wandsworth?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wandsworth Town station is served by South Western Railway and Wandsworth Common by Thameslink, but neither line connects directly to Heathrow Airport. From Clapham Junction, passengers face multiple changes toward the Piccadilly line for Heathrow. The most practical public transport option from SW18 is a bus to the District line at East Putney or Putney Bridge, a ride east to Hammersmith, a change to the Piccadilly line westbound, and the full 35 to 40 minute Piccadilly ride to the terminals. Door-to-terminal from SW18 by this route typically takes 70 to 90 minutes. A pre-booked minicab from your front door in Wandsworth reaches the same terminal in 35 to 45 minutes with a fixed fare and no connections."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Wandsworth SW18 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Wandsworth SW18 to Heathrow typically takes between 35 and 45 minutes. The route heads west from SW18 through Putney toward the A316 Great Chertsey Road, then joins the M3 and M25 approach into the airport, or alternatively runs northwest via Wandsworth Bridge Road and the A4 and M4 corridor. Both approaches reach dual carriageway and motorway quickly from SW18. Drivers check live conditions before departure and select the most fluid westbound option on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a return minicab from Heathrow to Wandsworth SW18 with meet and greet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the return journey from Heathrow to Wandsworth SW18 is available for all vehicle classes with meet and greet included as standard. Your driver will be at the designated meeting point inside the terminal before you clear arrivals, with your flight tracked from departure at its origin. The return fare from Heathrow to SW18 is fixed at £59 for a saloon, confirmed at the time of booking. If your flight is delayed or diverted, the booking adjusts automatically based on real-time tracking. Forty-five minutes of complimentary waiting time is included with every arrivals booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in SW18 including Wandsworth Common, East Hill, and Garratt Lane?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads and addresses across SW18 including Wandsworth High Street, East Hill, Garratt Lane, Alma Road, Putney Bridge Road, Wandsworth Bridge Road, St Ann's Hill, Trinity Road, West Hill, Nightingale Lane, Bellevue Road, Latchmere Road, and all residential streets throughout Wandsworth Town, the Wandle Valley, and the Wandsworth Common area. Our drivers are familiar with the one-way sections around the High Street and the residential routes south of the Common, so pickups from any SW18 address are handled reliably at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Gatwick Airport from Wandsworth SW18, and do you cover that route?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gatwick is approximately 22 miles south of Wandsworth SW18, typically a 40 to 55 minute journey by minicab via the A3 south and M23 to the airport. Fixed-fare transfers to Gatwick from SW18 are available for all vehicle classes. For SW18 passengers, Heathrow at approximately 14 miles is considerably closer and the westbound A316 or A4 approach avoids the A3 southbound city traffic, making Heathrow the more practical choice for passengers with a choice of departure airport."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get a minicab from Wandsworth SW18 to London City Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, London City Airport is approximately 16 miles from Wandsworth SW18 and a fixed-fare transfer is available for all vehicle classes. The route runs northeast from SW18 through Battersea, Vauxhall, and the City of London toward the Royal Docks, typically taking 35 to 55 minutes depending on conditions through the central London sections. London City handles European business routes with a compact terminal and shorter check-in and security times than Heathrow or Gatwick."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best vehicle for a business traveller flying from Wandsworth SW18?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For solo and dual business travellers, the Executive saloon in a Mercedes E Class or similar provides a premium cabin, reliable luggage space, and a confirmed fixed fare. The Executive can be pre-booked for both outbound and return journeys to Heathrow and London City Airport from SW18. For corporate groups of up to seven passengers, the Executive MPV 7 in a Mercedes V Class combines full passenger capacity with a premium interior and a professional driver. Every executive fare is shown in full at the booking stage with no additions charged at the terminal or on return."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you transfer me from Wandsworth SW18 to Southampton Cruise Terminal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Southampton Cruise Terminal is approximately 78 miles southwest of Wandsworth SW18 and a fixed-fare transfer is available for all vehicle classes. The route runs southwest from SW18 via the A3, M3, and M27 toward Southampton, typically taking 80 to 110 minutes depending on conditions on the M3 south of the M25 junction. For larger groups travelling together for a cruise, the MPV or Executive MPV options provide the capacity and luggage space required without the complications of managing multiple taxis. Every Southampton fare is confirmed before the journey begins and does not change with road conditions on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book a minicab from Wandsworth SW18 for an early morning flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pre-booking at least 48 hours before your required pickup time is the most reliable approach from Wandsworth SW18, particularly for departures before 5am. For larger vehicle classes such as the Executive MPV 7 or the eight-seat MPV, booking 48 to 72 hours in advance gives the greatest certainty of availability and driver allocation. Same-day bookings are possible subject to driver availability at the time of enquiry, and our team can advise on the fastest way to confirm a vehicle if your travel plans change at short notice."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Wandsworth SW18 Minicab Service",
+          "item": "https://ltrminicab.com/wandsworth-sw18-minicab-service/"
+        }
+      ]
+    }
+  ]
+}
