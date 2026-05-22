@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://ltrminicab.com/#hackney-e8",
+      "name": "LTR Minicab – Hackney E8 Taxi & Minicab Transfers",
+      "url": "https://ltrminicab.com",
+      "logo": "https://ltrminicab.com/wp-content/uploads/2024/01/ltr-minicab-logo.png",
+      "description": "Professional minicab and taxi transfer service from Hackney E8 to Heathrow Airport and across London. Fixed prices, 24/7 availability, free Meet & Greet, and live flight monitoring included.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Hackney",
+        "postalCode": "E8",
+        "addressRegion": "London",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5400",
+        "longitude": "-0.0580"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "London" },
+        { "@type": "Place", "name": "Hackney E8" },
+        { "@type": "Place", "name": "London Fields" },
+        { "@type": "Place", "name": "Dalston" },
+        { "@type": "Place", "name": "Hackney Central" },
+        { "@type": "Place", "name": "Homerton" },
+        { "@type": "Airport", "name": "Heathrow Airport" },
+        { "@type": "Airport", "name": "Gatwick Airport" },
+        { "@type": "Airport", "name": "Stansted Airport" },
+        { "@type": "Airport", "name": "Luton Airport" },
+        { "@type": "Airport", "name": "London City Airport" }
+      ],
+      "priceRange": "££",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Hackney E8 Minicab Transfer Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Hackney E8 to Heathrow Airport – Saloon Transfer",
+              "description": "Fixed price pre-booked minicab from Hackney E8 to all Heathrow terminals. Saloon from £65."
+            },
+            "price": "65.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Heathrow Airport to Hackney E8 – Saloon Transfer",
+              "description": "Fixed price airport pickup from all Heathrow terminals to Hackney E8. Saloon from £70."
+            },
+            "price": "70.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Hackney E8 to Heathrow – Executive Transfer",
+              "description": "Premium executive minicab in Mercedes E Class or similar from Hackney E8 to Heathrow Airport."
+            },
+            "price": "85.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Hackney E8 to Heathrow – MPV 7 Transfer",
+              "description": "Group MPV 7 minicab from Hackney E8 to Heathrow Airport for up to 7 passengers."
+            },
+            "price": "120.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I book a minicab from Hackney E8 to Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Book online through our secure platform, call our team directly, or complete a quick reservation in minutes. All Hackney E8 bookings receive instant confirmation with driver details and a guaranteed fixed price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Hackney E8 from Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hackney E8 is approximately 15 miles (24 km) from Heathrow Airport via the A10, A40, and M40, or via the A12 and A406 North Circular connecting to the A40. Journey times typically range from 40 to 65 minutes depending on traffic through the City of London and along the A40 Heathrow corridor."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minicab fare from Hackney E8 to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our Hackney E8 to Heathrow saloon fare starts from £65 with a fully fixed price. The airport pickup fare is slightly higher at £70 to include terminal waiting and parking allowances."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Meet and Greet available at Heathrow for Hackney E8 passengers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our complimentary Meet & Greet service is available at all four Heathrow terminals. Your chauffeur waits in the arrivals hall with a personalised name board and assists with luggage before your transfer to Hackney E8."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab available 24 hours a day from Hackney E8?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our Hackney E8 minicab service operates 24 hours a day, 7 days a week including public holidays, with no out-of-hours surcharges applied to any booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab an affordable Heathrow transfer from Hackney E8?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. LTR Minicab provides competitive fixed-price Heathrow transfers from Hackney E8 from £65 for a Saloon. All fares are locked in at booking with no surge pricing, meter additions, or hidden charges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which airports can I travel to from Hackney E8?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We operate direct transfers from Hackney E8 to Heathrow, Gatwick, Stansted, Luton, London City, and Southend Airport with fixed fares and professional licensed chauffeurs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer group transfers from Hackney E8?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We provide MPV 5, MPV 6, MPV 7, and MPV 8 vehicles for families and groups travelling from Hackney E8 to airports, hotels, and UK destinations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover London Fields, Dalston, and all streets within E8?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We cover all streets and postcodes within E8 including London Fields, Hackney Central, Dalston, Homerton, De Beauvoir Town, Broadway Market, and all surrounding residential and commercial areas of the Hackney borough."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Hackney E8 minicab service available on weekends and bank holidays?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our Hackney E8 minicab service runs every day of the year including weekends and all UK bank holidays at no additional cost."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hackney E8 Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/hackney-minicab/"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Transfer",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Hackney E8, London"
+      },
+      "name": "Hackney E8 Airport Minicab & Taxi Transfer Service",
+      "description": "Reliable fixed-price minicab and taxi transfers from Hackney E8 to Heathrow, Gatwick, Stansted, Luton, and London City Airport with professional chauffeurs, Meet & Greet, and 24/7 availability.",
+      "offers": [
+        { "@type": "Offer", "name": "Saloon – Hackney E8 to Heathrow", "price": "65.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive – Hackney E8 to Heathrow", "price": "85.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Estate – Hackney E8 to Heathrow", "price": "73.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 5 – Hackney E8 to Heathrow", "price": "91.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 6 – Hackney E8 to Heathrow", "price": "104.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 7 – Hackney E8 to Heathrow", "price": "120.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive MPV 7 – Hackney E8 to Heathrow", "price": "143.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 8 – Hackney E8 to Heathrow", "price": "163.00", "priceCurrency": "GBP" }
+      ]
+    }
+  ]
+}
