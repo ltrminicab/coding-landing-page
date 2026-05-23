@@ -1,0 +1,231 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#purley-cr8-service",
+      "name": "LTR Minicab – Purley CR8 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Purley CR8. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Purley",
+        "addressRegion": "London",
+        "postalCode": "CR8",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.3374",
+        "longitude": "-0.1123"
+      },
+      "areaServed": [
+        {"@type": "Place", "name": "Purley CR8, London"},
+        {"@type": "Place", "name": "Heathrow Airport, London"},
+        {"@type": "Place", "name": "Gatwick Airport, London"},
+        {"@type": "Place", "name": "Stansted Airport, Essex"},
+        {"@type": "Place", "name": "Luton Airport, Bedfordshire"},
+        {"@type": "Place", "name": "London City Airport, London"}
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Purley CR8 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Purley CR8 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Purley CR8 to Heathrow Airport, approximately 20 miles via the A23 north through Croydon, then the A232 west through Sutton and the A217 north before joining the A3 and A316 corridor into the airport. Door-to-door service with no hidden charges.",
+            "price": "58.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {"@type": "Place", "name": "Purley, CR8, London"}
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Purley CR8 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Purley CR8, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "61.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {"@type": "Place", "name": "Heathrow Airport, London"}
+          },
+          {
+            "@type": "Offer",
+            "name": "Purley CR8 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Purley CR8 to Heathrow Airport.",
+            "price": "74.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Purley CR8 to Heathrow Airport – Estate",
+            "description": "Fixed-fare estate car transfer from Purley CR8 to Heathrow Airport, ideal for passengers with extra luggage.",
+            "price": "65.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Purley CR8 to Heathrow Airport – MPV 5",
+            "description": "Fixed-fare 5-seat MPV transfer from Purley CR8 to Heathrow Airport.",
+            "price": "79.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Purley CR8 to Heathrow Airport – MPV 6",
+            "description": "Fixed-fare 6-seat MPV transfer from Purley CR8 to Heathrow Airport.",
+            "price": "92.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Purley CR8 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Purley CR8 to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "107.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Purley CR8 to Heathrow Airport – Executive MPV 7",
+            "description": "Fixed-fare Mercedes V Class executive transfer from Purley CR8 to Heathrow Airport for up to 7 passengers.",
+            "price": "128.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Purley CR8 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Purley CR8 to Heathrow Airport, ideal for larger groups.",
+            "price": "141.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#purley-cr8-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Purley CR8 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Purley CR8 to Heathrow is fixed at £58, confirmed at the time of booking and unchanged regardless of traffic on the A23 or A217 on the day. Every vehicle class from saloon through to eight-seat MPV is displayed with its complete fare before you confirm, so the price shown at booking is the price charged when you arrive at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a direct train from Purley to Heathrow, and how does it compare to a minicab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There is no direct rail connection from Purley to Heathrow. Purley station has Southern and Thameslink services running north to London Bridge and Victoria, but passengers must then change to the Underground and ride the Piccadilly line westbound the full 40 to 45 minutes to Heathrow. The total door-to-terminal journey from a CR8 address via this route consistently takes 80 to 95 minutes with one or two connections. A pre-booked minicab from your front door in Purley reaches the same terminal in 50 to 65 minutes with a fixed fare and direct door-to-door service — a practical advantage for passengers with luggage, early morning flights, or late-night arrivals when rail services are not running."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Purley CR8 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Purley CR8 to Heathrow typically takes between 50 and 65 minutes. The most efficient route heads north along the A23 through Croydon before joining the A232 west through Sutton and the A217 north, then the A3 and A316 corridor northwest toward the M3 and M25 approach into the airport. An alternative route via the M25 junction 7 and M25 west to junction 14 is also used when the A3 corridor is congested. Drivers check live conditions before departure and select the most efficient approach on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in CR8 including Kenley, Whyteleafe, and Purley town centre?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across CR8 including Brighton Road, High Street Purley, Russell Hill Road, Godstone Road, Foxley Lane, Reedham Drive, Plough Lane, Riddlesdown Road, Kenley Lane, Hayes Lane, Welcomes Road, Whyteleafe Road, Whyteleafe Hill, and all residential streets throughout Purley town centre, Kenley, Whyteleafe, and Riddlesdown. Our drivers are familiar with the Brighton Road corridor, the residential roads around Purley Cross, and the quieter lanes through Kenley and Whyteleafe, so pickups from any CR8 address are handled reliably at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Gatwick Airport from Purley CR8, and do you cover that route?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gatwick is approximately 14 miles south of Purley CR8, making it the closest major airport to the postcode by road. The journey typically takes 25 to 40 minutes via the A23 south through Redhill and Merstham and then the M23 to the airport. Fixed-fare transfers to Gatwick from CR8 are available for all vehicle classes, with every fare confirmed before you travel and no changes on the day. Purley's position directly on the A23 Brighton Road makes it one of the most conveniently located postcodes in Greater London for Gatwick access."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How close is London City Airport to Purley CR8?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "London City Airport is approximately 18 miles northeast of Purley CR8, typically a 35 to 50 minute journey by minicab via the A23 north through Croydon and Streatham, then east through Brixton and Bermondsey toward the A2 and A1020 Royal Docks route. A fixed-fare transfer from CR8 to LCY is available for all vehicle classes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a return minicab from Heathrow to Purley CR8 with meet and greet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the return journey from Heathrow to Purley CR8 is available for all vehicle classes with meet and greet included as standard. Your driver will be at the designated meeting point inside the terminal before you clear arrivals, with your flight tracked from departure at its origin. The return fare from Heathrow to CR8 is fixed at £61 for a saloon, confirmed at the time of booking. Forty-five minutes of complimentary waiting time is included with every arrivals booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best vehicle for a business traveller flying from Purley CR8?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For solo and dual business travellers, the Executive saloon in a Mercedes E Class or similar provides a premium cabin, reliable luggage space, and a confirmed fixed fare. The Executive can be pre-booked for both outbound and return journeys to Heathrow and Gatwick from CR8. For corporate groups of up to seven passengers, the Executive MPV 7 in a Mercedes V Class combines full capacity with a premium interior and a professional driver. Every executive fare is shown in full at the booking stage with no additions charged at the terminal or on return."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book a minicab from Purley CR8 for an early morning flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pre-booking at least 48 hours before your required pickup time is the most reliable approach from Purley CR8, particularly for departures before 5am when National Rail services from Purley station are not yet running. For larger vehicle classes such as the Executive MPV 7 or the eight-seat MPV, booking 48 to 72 hours in advance gives the greatest certainty of availability and driver allocation. Same-day bookings are possible subject to driver availability at the time of enquiry."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover pickups from Purley station, Kenley station, and Whyteleafe at any hour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover pickups from Purley station, Purley Oaks station, Kenley station, Whyteleafe station, and all addresses in CR8 at any hour of the day or night, including hours when National Rail services are not operating. Our drivers are familiar with the access routes across the full postcode, from Purley town centre and the Brighton Road corridor to the quieter residential roads of Kenley and Whyteleafe, so pickups from any CR8 address are handled reliably regardless of the hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is your Purley CR8 minicab service available 24 hours a day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, our Purley CR8 minicab service operates 24 hours a day, 7 days a week including all public holidays, with no out-of-hours surcharges. Early morning pickups ahead of the first National Rail services from Purley station and late-night returns after the last trains are both covered at the same fixed fare confirmed at the time of booking."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Purley CR8 Minicab Service",
+          "item": "https://ltrminicab.com/purley-cr8-minicab-service/"
+        }
+      ]
+    }
+  ]
+}

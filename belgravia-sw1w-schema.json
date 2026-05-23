@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#belgravia-sw1w-service",
+      "name": "LTR Minicab – Belgravia SW1W Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Belgravia SW1W. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Belgravia",
+        "addressRegion": "London",
+        "postalCode": "SW1W",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4941",
+        "longitude": "-0.1530"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Belgravia SW1W, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Belgravia SW1W Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Belgravia SW1W to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Belgravia SW1W to Heathrow Airport, approximately 14 miles via the A4 and M4. Door-to-door service with no hidden charges.",
+            "price": "58.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Belgravia, SW1W, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Belgravia SW1W – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Belgravia SW1W, with complimentary meet and greet and flight tracking included.",
+            "price": "61.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Belgravia SW1W to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Belgravia SW1W to Heathrow Airport.",
+            "price": "75.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Belgravia SW1W to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Belgravia SW1W to Heathrow Airport, suitable for groups with luggage.",
+            "price": "111.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Belgravia SW1W to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Belgravia SW1W to Heathrow Airport, ideal for larger groups and families.",
+            "price": "148.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#belgravia-sw1w-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Belgravia SW1W to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Belgravia SW1W to Heathrow is fixed at around £58, confirmed at the time of booking and unchanged regardless of traffic conditions on the A4 or M4 on the day. Every vehicle class from saloon through to eight-seat MPV is shown with its complete fare before you confirm, so there are no additions or adjustments at the end of the journey."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Victoria station is nearby — why is a minicab better for Heathrow from Belgravia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Victoria station serves the District, Circle, and Victoria lines, but none of these reach Heathrow directly. Passengers travelling to the airport from SW1W by tube must take the District or Circle line to Earl's Court and change to the Piccadilly line westbound, adding a platform change, additional waiting time, and a 32-minute ride before reaching the terminals. With luggage and walking between platforms at Earl's Court, the total door-to-terminal journey regularly takes over 60 minutes. A direct minicab from Belgravia reaches Heathrow in 25 to 45 minutes with no changes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Belgravia SW1W to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Belgravia SW1W to Heathrow typically takes between 25 and 45 minutes along the A4 Cromwell Road through Hammersmith and onto the M4 into the airport. Belgravia's position in central London gives it one of the most direct road routes to Heathrow of any inner London postcode. Drivers check live conditions before departure and adjust their route through Hammersmith and Chiswick if the M4 approach is slow."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Belgravia SW1W to Gatwick, Stansted, or Luton Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, fixed-fare transfers from Belgravia SW1W to all three airports are available for every vehicle class. Gatwick is approximately 30 miles south via the A23, making it the closest of the three to SW1W. Stansted is around 42 miles northeast via the M11, and Luton is roughly 35 miles north via the A1(M). Every fare is confirmed before the journey starts and does not change with traffic or distance variations on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in SW1W including Eaton Square and Chester Square?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across SW1W including Eaton Square, Chester Square, Elizabeth Street, Ebury Street, Eccleston Street, Pimlico Road, Lower Belgrave Street, and all residential streets throughout the postcode. Our drivers are familiar with the gated garden square entrances, one-way streets, and the specific access points in Belgravia, so pickups from any address in SW1W are handled without difficulty at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book an executive minicab from Belgravia SW1W for a corporate airport transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, executive saloon vehicles are available from Belgravia SW1W for corporate airport transfers and business journeys across London. The executive class is typically a Mercedes E Class or equivalent, providing a quieter and more refined interior than a standard saloon. Executive MPV vehicles are also available for larger business delegations requiring premium transport for groups. Every fare is shown clearly at the booking stage alongside all other vehicle classes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What large vehicles are available for a group airport transfer from Belgravia SW1W?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MPV vehicles for five, six, seven, or eight passengers are available from Belgravia SW1W, with every fare displayed at the booking stage before you confirm. For families or travelling parties with significant luggage, an estate car or MPV provides considerably more boot and cabin space than a saloon, avoiding the need to split the group across separate vehicles. The Executive MPV 7 in a Mercedes V Class is also available for groups requiring a premium interior."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does a fixed-fare minicab from Belgravia compare to a black cab for Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A black cab from Belgravia to Heathrow uses a meter that runs throughout the journey, with no ceiling on the final fare. Congestion on the A4 or around the M4 junction at Chiswick adds directly to the total, and there is no way to know the final amount before you arrive. A pre-booked minicab from SW1W uses a fixed fare agreed at the time of booking — it does not change if the motorway is slow, and the full amount is visible before you confirm your vehicle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Belgravia SW1W for a return airport trip, outbound and inbound?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, both legs of an airport journey can be pre-booked separately or at the same time. For the outbound leg, book your SW1W pickup with your preferred departure time. For the return, book using your inbound flight details and meet and greet is included at arrivals, with your flight tracked from the moment it departs. Securing both journeys in advance means you have nothing to arrange at either end of the trip."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a same-day minicab from Belgravia SW1W for an urgent airport transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, same-day bookings from Belgravia SW1W are available subject to driver availability at the time of enquiry. Where schedules allow, our team can allocate a vehicle for same-day airport runs to Heathrow and other London airports. For time-sensitive journeys, calling our team directly rather than booking online gives the fastest confirmation of availability. Pre-booking at least 24 hours in advance remains the most reliable way to guarantee your vehicle class and pickup time from SW1W."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Belgravia SW1W Minicab Service",
+          "item": "https://ltrminicab.com/belgravia-sw1w-minicab-service/"
+        }
+      ]
+    }
+  ]
+}

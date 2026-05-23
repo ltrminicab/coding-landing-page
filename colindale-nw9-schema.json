@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#colindale-nw9-service",
+      "name": "LTR Minicab – Colindale NW9 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Colindale NW9. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Colindale",
+        "addressRegion": "London",
+        "postalCode": "NW9",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5956",
+        "longitude": "-0.2501"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Colindale NW9, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Colindale NW9 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Colindale NW9 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Colindale NW9 to Heathrow Airport, approximately 20 miles. Door-to-door service with no hidden charges.",
+            "price": "65.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Colindale, NW9, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Colindale NW9 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Colindale NW9, with complimentary meet and greet and flight tracking included.",
+            "price": "68.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Colindale NW9 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Colindale NW9 to Heathrow Airport.",
+            "price": "82.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Colindale NW9 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Colindale NW9 to Heathrow Airport, suitable for groups with luggage.",
+            "price": "118.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Colindale NW9 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Colindale NW9 to Heathrow Airport, ideal for larger groups and families.",
+            "price": "155.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#colindale-nw9-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Colindale NW9 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Colindale NW9 to Heathrow is fixed at around £65, confirmed at the time of booking with no adjustment for traffic delays. Every vehicle class is shown with its full fare before you confirm, and the same figure applies when your driver arrives and when you reach the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Colindale has the Northern line — why is a minicab still better for Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Northern line at Colindale runs south toward central London, not west toward Heathrow. To reach the airport by tube from NW9 you must ride south for around 35 to 40 minutes to King's Cross St. Pancras, change to the Piccadilly line, and travel west for a further 50 minutes. With luggage and interchange time, the total door-to-terminal journey regularly exceeds 100 minutes. A direct minicab from Colindale completes the same journey in 45 to 70 minutes without a single step change."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does a minicab from Colindale NW9 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Colindale NW9 to Heathrow typically takes between 45 minutes and 1 hour 10 minutes depending on traffic on the A5, the A406 North Circular westbound, and the M4 approach. Drivers check live conditions before every departure, and early morning bookings often come in well under an hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Colindale NW9 to Wembley Stadium for a concert or match?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Wembley Stadium is roughly three miles from Colindale NW9 and we handle event transport to and from the stadium regularly. Pre-booking is strongly recommended for Wembley events as roads around the stadium before and after major concerts and matches are among the busiest in northwest London."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all parts of the NW9 postcode including Grahame Park?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across NW9 including Grahame Park Way, Colindale Avenue, Aerodrome Road, West Hendon Broadway, and all residential streets throughout the postcode. Our drivers are familiar with the layout of the Grahame Park estate and surrounding roads."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get a minicab from Colindale NW9 to Gatwick, Stansted, or Luton Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, fixed-fare transfers from Colindale NW9 to all three airports are available for every vehicle class. Luton is the closest at around 20 miles via the A1(M). Stansted is roughly 35 miles northeast via the M25 and A1M, and Gatwick sits approximately 42 miles south. Every fare is confirmed before you travel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a large vehicle available from Colindale NW9 for a group airport run?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, MPV vehicles for 5, 6, 7, or 8 passengers are available from Colindale NW9. Every fare for larger vehicles is displayed at the booking stage so you can compare options and confirm the right size before paying. A single large vehicle is almost always more cost-effective than separate saloon bookings for a group."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a return airport transfer — both outbound and inbound — from Colindale to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, both legs of an airport trip can be pre-booked separately or together. For the outbound journey, book your Colindale pickup with your flight departure time. For the return, book with your inbound flight details and meet and greet is included at the arrivals exit with flight tracking from departure."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer minicab transfers to the RAF Museum London from Colindale NW9?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the RAF Museum on Grahame Park Way is within the NW9 postcode and we handle local pickups and drop-offs there as well as longer airport and hotel transfers. Families visiting with children and extra equipment can choose estate cars or MPVs for extra room."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best vehicle for an early morning airport run from Colindale NW9?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a solo traveller or couple with standard luggage, a saloon is the most cost-effective choice from Colindale NW9. Families or passengers with oversized luggage benefit from an estate or MPV. Executive saloons are available for business travellers who want a quieter, more refined interior for a corporate airport transfer."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Colindale NW9 Minicab Service",
+          "item": "https://ltrminicab.com/colindale-nw9-minicab-service/"
+        }
+      ]
+    }
+  ]
+}

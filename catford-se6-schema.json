@@ -1,0 +1,223 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#catford-se6-service",
+      "name": "LTR Minicab – Catford SE6 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Catford SE6. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Catford",
+        "addressRegion": "London",
+        "postalCode": "SE6",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4462",
+        "longitude": "-0.0194"
+      },
+      "areaServed": [
+        {"@type": "Place", "name": "Catford SE6, London"},
+        {"@type": "Place", "name": "Heathrow Airport, London"},
+        {"@type": "Place", "name": "Gatwick Airport, London"},
+        {"@type": "Place", "name": "Stansted Airport, Essex"},
+        {"@type": "Place", "name": "Luton Airport, Bedfordshire"},
+        {"@type": "Place", "name": "London City Airport, London"}
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Catford SE6 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Catford SE6 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Catford SE6 to Heathrow Airport, approximately 20 miles via the South Circular A205 westbound through Lewisham and Dulwich before joining the A3 and A316 corridor northwest into the airport. Door-to-door service with no hidden charges.",
+            "price": "62.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {"@type": "Place", "name": "Catford, SE6, London"}
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Catford SE6 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Catford SE6, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "65.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {"@type": "Place", "name": "Heathrow Airport, London"}
+          },
+          {
+            "@type": "Offer",
+            "name": "Catford SE6 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Catford SE6 to Heathrow Airport.",
+            "price": "79.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Catford SE6 to Heathrow Airport – Estate",
+            "description": "Fixed-fare estate car transfer from Catford SE6 to Heathrow Airport, ideal for passengers with extra luggage.",
+            "price": "70.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Catford SE6 to Heathrow Airport – MPV 5",
+            "description": "Fixed-fare 5-seat MPV transfer from Catford SE6 to Heathrow Airport.",
+            "price": "85.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Catford SE6 to Heathrow Airport – MPV 6",
+            "description": "Fixed-fare 6-seat MPV transfer from Catford SE6 to Heathrow Airport.",
+            "price": "98.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Catford SE6 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Catford SE6 to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "114.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Catford SE6 to Heathrow Airport – Executive MPV 7",
+            "description": "Fixed-fare Mercedes V Class executive transfer from Catford SE6 to Heathrow Airport for up to 7 passengers.",
+            "price": "137.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Catford SE6 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Catford SE6 to Heathrow Airport, ideal for larger groups.",
+            "price": "150.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#catford-se6-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Catford SE6 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Catford SE6 to Heathrow is fixed at £62, confirmed at the time of booking and unchanged regardless of traffic on the South Circular or along the A316 on the day. Every vehicle class from saloon through to eight-seat MPV is displayed with its complete fare before you confirm, so the price shown at booking is the price charged when you arrive at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get a train from Catford to Heathrow, and how does it compare to a minicab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Catford and Catford Bridge stations both have National Rail Southeastern services running north to London Bridge and Charing Cross, but neither terminus has a direct connection to Heathrow. Passengers from SE6 must travel by rail to London Bridge or Charing Cross, then change to the Underground — taking the Jubilee line to Green Park and then the Piccadilly line westbound the full 40 to 45 minutes to Heathrow, or travelling to Paddington for the Elizabeth line to the airport. Door-to-terminal from SE6 via this route consistently takes 80 to 95 minutes and requires two changes. A pre-booked minicab from your front door in Catford reaches the same terminal in 50 to 65 minutes with no connections and a fixed fare — a clear practical advantage for passengers with luggage or early morning departures."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Catford SE6 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Catford SE6 to Heathrow typically takes between 50 and 65 minutes. The most efficient route heads west along the South Circular A205 through Lewisham, Dulwich, and Herne Hill before picking up the A3 and A316 corridor northwest toward the M3 and M25 approach into the airport. Drivers check live conditions before departure and select the most fluid westbound approach on the day. Early morning runs from SE6 ahead of the South Circular build-up regularly complete toward the lower end of that range."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in SE6 including Catford Broadway, Bellingham, and Rushey Green?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across SE6 including Catford Broadway, Rushey Green, Catford Road, Bromley Road, Sangley Road, Perry Hill, Holbeach Road, Verdant Lane, Dowanhill Road, Doggett Road, Aitken Road, Bellingham Road, Southend Lane, Ravensbourne Road, and all residential streets throughout Catford town centre, Bellingham, and Downham. Our drivers are familiar with the one-way sections around Catford Broadway and the residential roads across the full postcode, so pickups from any SE6 address are handled reliably at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Gatwick Airport from Catford SE6, and do you cover that route?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gatwick is approximately 22 miles south of Catford SE6, typically a 40 to 55 minute journey by minicab via the A21 south through Bromley and then the M25 and M23 to the airport. Fixed-fare transfers to Gatwick from SE6 are available for all vehicle classes, with every fare confirmed before you travel and no changes on the day. Catford's position on the southern edge of the borough makes the A21 approach to Gatwick relatively straightforward compared to more central south London postcodes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How close is London City Airport to Catford SE6?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "London City Airport is approximately 10 miles northeast of Catford SE6, typically a 25 to 35 minute journey by minicab via the A21 north and A2 through Lewisham and Greenwich before picking up the A1020 route into the Royal Docks. A fixed-fare transfer from SE6 to LCY is available for all vehicle classes. London City handles European business routes and domestic connections with a single compact terminal and significantly shorter check-in and security times than Heathrow or Gatwick."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a return minicab from Heathrow to Catford SE6 with meet and greet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the return journey from Heathrow to Catford SE6 is available for all vehicle classes with meet and greet included as standard. Your driver will be at the designated meeting point inside the terminal before you clear arrivals, with your flight tracked from departure at its origin. The return fare from Heathrow to SE6 is fixed at £65 for a saloon, confirmed at the time of booking. Forty-five minutes of complimentary waiting time is included with every arrivals booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best vehicle for a business traveller flying from Catford SE6?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For solo and dual business travellers, the Executive saloon in a Mercedes E Class or similar provides a premium cabin, reliable luggage space, and a confirmed fixed fare. The Executive can be pre-booked for both outbound and return journeys to Heathrow, Gatwick, and London City Airport from SE6. For corporate groups of up to seven passengers, the Executive MPV 7 in a Mercedes V Class combines full capacity with a premium interior and a professional driver. Every executive fare is shown in full at the booking stage with no additions charged at the terminal or on return."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book a minicab from Catford SE6 for an early morning flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pre-booking at least 48 hours before your required pickup time is the most reliable approach from Catford SE6, particularly for departures before 5am when National Rail services from Catford and Catford Bridge stations are not yet running. For larger vehicle classes such as the Executive MPV 7 or the eight-seat MPV, booking 48 to 72 hours in advance gives the greatest certainty of availability and driver allocation. Same-day bookings are possible subject to driver availability at the time of enquiry."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover pickups from Catford Bridge station and Bellingham at any hour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover pickups from Catford Bridge station, Catford station, Bellingham station, and all addresses in SE6 at any hour of the day or night, including hours when National Rail services are not operating. Our drivers are familiar with the access routes across the full postcode, from the town centre around Catford Broadway to the residential streets of Bellingham and Downham to the south, so pickups from any SE6 address are handled reliably regardless of the hour."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Catford SE6 Minicab Service",
+          "item": "https://ltrminicab.com/catford-se6-minicab-service/"
+        }
+      ]
+    }
+  ]
+}

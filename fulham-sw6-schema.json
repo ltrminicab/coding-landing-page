@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#fulham-sw6-service",
+      "name": "LTR Minicab – Fulham SW6 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Fulham SW6. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Fulham",
+        "addressRegion": "London",
+        "postalCode": "SW6",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4739",
+        "longitude": "-0.1947"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Fulham SW6, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Fulham SW6 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Fulham SW6 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Fulham SW6 to Heathrow Airport, approximately 13 miles via Hammersmith, the A4, and M4. Door-to-door service with no hidden charges.",
+            "price": "55.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Fulham, SW6, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Fulham SW6 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Fulham SW6, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "58.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Fulham SW6 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Fulham SW6 to Heathrow Airport.",
+            "price": "72.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Fulham SW6 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Fulham SW6 to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "108.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Fulham SW6 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Fulham SW6 to Heathrow Airport, ideal for larger groups.",
+            "price": "145.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#fulham-sw6-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Fulham SW6 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Fulham SW6 to Heathrow is fixed at around £55, confirmed when you book and unchanged regardless of traffic through Hammersmith or on the A4 and M4 on the day. Every vehicle class from saloon through to eight-seat MPV is shown with its full fare before you confirm, so there are no additions or adjustments when you arrive at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fulham has District line stations — why is a minicab better for Heathrow from SW6?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Fulham Broadway, Parsons Green, and Putney Bridge are all served by the District line, but the District line does not run to Heathrow Airport. Passengers travelling by tube from SW6 must ride to Earl's Court and change onto the Piccadilly line westbound to reach the terminals, adding a platform change, waiting time on the platform at Earl's Court, and the full Piccadilly line journey from there. With luggage and the walk between platforms, a door-to-terminal journey from Fulham by tube typically takes 55 to 65 minutes. A pre-booked minicab from your front door covers the same journey via Hammersmith and the A4 in 20 to 35 minutes without a single connection."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Fulham SW6 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Fulham SW6 to Heathrow typically takes between 20 and 35 minutes, heading north to Hammersmith and then west along the A4 through Chiswick onto the M4 into the terminals. Fulham sits directly west of the main London road grid, which makes the route to Heathrow relatively unobstructed compared to postcodes further north or east. Drivers monitor live conditions before departure and adjust through Chiswick or Great West Road if one corridor is slower than the other."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Fulham SW6 to Gatwick, Stansted, or Luton Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, fixed-fare transfers from Fulham SW6 to all three airports are available for every vehicle class. Gatwick is approximately 28 miles south via the A23 and M23, making it the nearest of the three to SW6. Stansted is around 44 miles northeast via the M11, and Luton is roughly 35 miles north via the A1(M). Every fare is confirmed before the journey begins and does not change with traffic conditions on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in SW6 including Parsons Green and the Bishops Park area?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across SW6 including Parsons Green Lane, Bishops Avenue, Fulham Road, New King's Road, Munster Road, Dawes Road, Wandsworth Bridge Road, Hurlingham Road, Eel Brook Common, and all residential streets throughout the postcode. Our drivers are familiar with the one-way sections, the estate access roads, and the parking arrangements near Craven Cottage and Bishops Park, so pickups from any part of SW6 are handled reliably at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab home from Craven Cottage after a Fulham FC match?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, post-match pickups from Craven Cottage and the surrounding streets in SW6 are a regular part of our Fulham service. The streets around Stevenage Road and Bishops Park fill quickly after a full-time whistle, so pre-booking your vehicle before kick-off is strongly recommended rather than trying to arrange transport after the match. A pre-booked minicab means your driver is already allocated and tracking your pickup time, removing the uncertainty of trying to hail a cab in a busy crowd. We cover both home and away matches and handle group bookings for parties arriving together at the ground."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What time should I book a minicab from Fulham SW6 for an early morning flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a 6am departure from Heathrow, most airlines recommend arriving at least two hours before take-off, which means being at the terminal by 4am. From Fulham SW6, a pre-booked minicab leaving at 3am to 3:15am gives comfortable time for the 20 to 35 minute drive, check-in, and security. For departures before 5am, pre-booking at least 48 hours in advance is recommended to guarantee driver availability and your chosen vehicle class. Our team covers the full night shift from SW6, so there is no hour at which an early departure cannot be arranged."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Fulham SW6 to London City Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, London City Airport is approximately 12 miles from Fulham SW6 and a fixed-fare transfer is available for all vehicle classes. The route runs east across Wandsworth Bridge or Battersea Bridge, through south London and on toward the Royal Docks. Journey time is typically 30 to 50 minutes depending on conditions. London City handles a significant volume of European business routes and is a practical option for Fulham residents flying to destinations across the continent, with the compact terminal making check-in and boarding considerably faster than at the larger airports."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide minicab transfers from Fulham SW6 to cruise terminals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, fixed-fare transfers from Fulham SW6 to Southampton, Dover, Portsmouth, Tilbury, and Harwich cruise terminals are available for all vehicle classes. Southampton is the most commonly used departure port from SW6 and is approximately 80 miles southwest via the M3. For cruises leaving from Tilbury, which is around 28 miles east of Fulham, a minicab provides the most practical option given the limited direct public transport between south-west London and the port. Every cruise terminal fare is confirmed before the journey with no variation on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I pre-book both legs of an airport journey from Fulham SW6 at the same time?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, both the outbound and return legs of an airport trip can be booked separately or together at any point before your travel dates. For the outbound journey, book your SW6 pickup with your preferred departure time. For the return, provide your inbound flight number and meet and greet is included automatically, with your flight tracked from the moment it departs. Booking both legs in advance means there is nothing to arrange at either end of your trip, and a fixed fare is locked in for each leg at the time of booking."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Fulham SW6 Minicab Service",
+          "item": "https://ltrminicab.com/fulham-sw6-minicab-service/"
+        }
+      ]
+    }
+  ]
+}

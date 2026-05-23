@@ -1,0 +1,231 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#bermondsey-se16-service",
+      "name": "LTR Minicab – Bermondsey SE16 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Bermondsey SE16. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bermondsey",
+        "addressRegion": "London",
+        "postalCode": "SE16",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4955",
+        "longitude": "-0.0601"
+      },
+      "areaServed": [
+        {"@type": "Place", "name": "Bermondsey SE16, London"},
+        {"@type": "Place", "name": "Heathrow Airport, London"},
+        {"@type": "Place", "name": "Gatwick Airport, London"},
+        {"@type": "Place", "name": "Stansted Airport, Essex"},
+        {"@type": "Place", "name": "Luton Airport, Bedfordshire"},
+        {"@type": "Place", "name": "London City Airport, London"}
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Bermondsey SE16 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Bermondsey SE16 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Bermondsey SE16 to Heathrow Airport, approximately 16 miles via the A2 through Borough and Elephant and Castle, then the A3 and A316 corridor northwest into the airport. Door-to-door service with no hidden charges.",
+            "price": "58.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {"@type": "Place", "name": "Bermondsey, SE16, London"}
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Bermondsey SE16 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Bermondsey SE16, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "61.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {"@type": "Place", "name": "Heathrow Airport, London"}
+          },
+          {
+            "@type": "Offer",
+            "name": "Bermondsey SE16 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Bermondsey SE16 to Heathrow Airport.",
+            "price": "74.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bermondsey SE16 to Heathrow Airport – Estate",
+            "description": "Fixed-fare estate car transfer from Bermondsey SE16 to Heathrow Airport, ideal for passengers with extra luggage.",
+            "price": "66.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bermondsey SE16 to Heathrow Airport – MPV 5",
+            "description": "Fixed-fare 5-seat MPV transfer from Bermondsey SE16 to Heathrow Airport.",
+            "price": "80.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bermondsey SE16 to Heathrow Airport – MPV 6",
+            "description": "Fixed-fare 6-seat MPV transfer from Bermondsey SE16 to Heathrow Airport.",
+            "price": "93.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bermondsey SE16 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Bermondsey SE16 to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "108.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bermondsey SE16 to Heathrow Airport – Executive MPV 7",
+            "description": "Fixed-fare Mercedes V Class executive transfer from Bermondsey SE16 to Heathrow Airport for up to 7 passengers.",
+            "price": "130.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Bermondsey SE16 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Bermondsey SE16 to Heathrow Airport, ideal for larger groups.",
+            "price": "143.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#bermondsey-se16-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Bermondsey SE16 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Bermondsey SE16 to Heathrow is fixed at £58, confirmed at the time of booking and unchanged regardless of traffic on the A2 or along the A316 on the day. Every vehicle class from saloon through to eight-seat MPV is displayed with its complete fare before you confirm, so the price shown at booking is the price charged when you arrive at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I take the Jubilee line from Bermondsey to Heathrow, and how does it compare to a minicab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Jubilee line from Bermondsey station runs westward to Waterloo, Westminster, and Bond Street, but it does not serve Heathrow directly. From Green Park passengers must change to the Piccadilly line westbound and complete the full 40 to 45 minute ride to the airport. The total door-to-terminal journey from a SE16 address via the Jubilee line and Piccadilly line consistently takes 65 to 80 minutes. A pre-booked minicab from your front door in Bermondsey reaches the same terminal in 40 to 55 minutes with a fixed fare and door-to-door service — a practical advantage for passengers with luggage, early morning flights, or late-night arrivals when the Underground is not running."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Bermondsey SE16 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Bermondsey SE16 to Heathrow typically takes between 40 and 55 minutes. The most efficient route heads west via the A2 through Borough and Elephant and Castle before joining the A3 and A316 corridor northwest toward the M3 and M25 approach into the airport. Drivers check live conditions before departure and select the most fluid westbound approach on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in SE16 including Rotherhithe, Canada Water, and Surrey Quays?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across SE16 including Bermondsey Street, Jamaica Road, Tower Bridge Road, Abbey Street, Grange Road, Spa Road, Rotherhithe Street, Lower Road, Surrey Quays Road, Salter Road, Redriff Road, Quebec Way, Canada Water, Plough Way, and all residential streets throughout Bermondsey, Rotherhithe, and the Surrey Quays development. Our drivers are familiar with the access roads around Canada Water station, the riverside routes along Rotherhithe Street, and the residential development roads within the SE16 postcode, so pickups from any address are handled reliably at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Gatwick Airport from Bermondsey SE16, and do you cover that route?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gatwick is approximately 26 miles south of Bermondsey SE16, typically a 40 to 60 minute journey by minicab via the A23 south through Streatham and Croydon and then the M23 to the airport. Fixed-fare transfers to Gatwick from SE16 are available for all vehicle classes, with every fare confirmed before you travel and no changes on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How close is London City Airport to Bermondsey SE16?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "London City Airport is approximately 7 miles east of Bermondsey SE16, making it one of the closest major airports to the postcode by road. A fixed-fare transfer from SE16 to LCY is available for all vehicle classes and typically takes 18 to 28 minutes via the A2 eastbound and A1020 route through the Royal Docks. London City Airport is particularly convenient for Bermondsey residents given its proximity, compact single-terminal layout, and shorter check-in and security times compared to Heathrow."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a return minicab from Heathrow to Bermondsey SE16 with meet and greet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the return journey from Heathrow to Bermondsey SE16 is available for all vehicle classes with meet and greet included as standard. Your driver will be at the designated meeting point inside the terminal before you clear arrivals, with your flight tracked from departure at its origin. The return fare from Heathrow to SE16 is fixed at £61 for a saloon, confirmed at the time of booking. Forty-five minutes of complimentary waiting time is included with every arrivals booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best vehicle for a business traveller flying from Bermondsey SE16?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For solo and dual business travellers, the Executive saloon in a Mercedes E Class or similar provides a premium cabin, reliable luggage space, and a confirmed fixed fare. The Executive is particularly well suited to professionals based near Bermondsey Street, London Bridge, and the Shard who require a premium transfer to Heathrow or London City Airport. For corporate groups of up to seven passengers, the Executive MPV 7 in a Mercedes V Class combines full capacity with a premium interior and a professional driver. Every executive fare is shown in full at the booking stage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book a minicab from Bermondsey SE16 for an early morning flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pre-booking at least 48 hours before your required pickup time is the most reliable approach from Bermondsey SE16, particularly for departures before 5am when the Jubilee line and London Overground are not yet running. For larger vehicle classes such as the Executive MPV 7 or the eight-seat MPV, booking 48 to 72 hours in advance gives the greatest certainty of availability and driver allocation. Same-day bookings are possible subject to driver availability at the time of enquiry."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover pickups from Canada Water station and Surrey Quays at any hour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover pickups from Canada Water station, Surrey Quays, Bermondsey station, Rotherhithe station, and all addresses in SE16 at any hour of the day or night, including hours when the Jubilee line and London Overground are not operating. Our drivers are familiar with the access routes to the Canada Water development, the residential roads around Surrey Quays, and the riverside streets along Rotherhithe, so pickups from any SE16 address are handled reliably regardless of the hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is your Bermondsey SE16 minicab service available 24 hours a day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, our Bermondsey SE16 minicab service operates 24 hours a day, 7 days a week including all public holidays, with no out-of-hours surcharges. Early morning pickups ahead of the first Jubilee line services from Bermondsey station and late-night returns after the last Underground trains are both covered at the same fixed fare confirmed at the time of booking."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bermondsey SE16 Minicab Service",
+          "item": "https://ltrminicab.com/bermondsey-se16-minicab-service/"
+        }
+      ]
+    }
+  ]
+}

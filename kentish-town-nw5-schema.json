@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#kentish-town-nw5-service",
+      "name": "LTR Minicab – Kentish Town NW5 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Kentish Town NW5. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Kentish Town",
+        "addressRegion": "London",
+        "postalCode": "NW5",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5505",
+        "longitude": "-0.1426"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Kentish Town NW5, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Kentish Town NW5 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Kentish Town NW5 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Kentish Town NW5 to Heathrow Airport, approximately 15 miles. Door-to-door service with no hidden charges.",
+            "price": "58.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Kentish Town, NW5, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Kentish Town NW5 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Kentish Town NW5, with complimentary meet and greet and flight tracking included.",
+            "price": "61.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Kentish Town NW5 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Kentish Town NW5 to Heathrow Airport.",
+            "price": "75.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Kentish Town NW5 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Kentish Town NW5 to Heathrow Airport, suitable for groups with luggage.",
+            "price": "111.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Kentish Town NW5 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Kentish Town NW5 to Heathrow Airport, ideal for larger groups and families.",
+            "price": "148.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#kentish-town-nw5-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Kentish Town NW5 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Kentish Town NW5 to Heathrow is fixed at around £58, confirmed at the time of booking with no changes applied after the journey regardless of traffic or road conditions. Every vehicle class from saloon through to eight-seat MPV is displayed with its full fare before you confirm. The price shown is the price charged on arrival at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kentish Town has the Northern line — why use a minicab to Heathrow instead?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Northern line at Kentish Town station runs north and south, not west toward Heathrow. To reach the airport by tube from NW5, you would take the Northern line south to King's Cross St. Pancras, change platforms to the Piccadilly line, and then ride west for approximately 50 minutes to the Heathrow terminals. King's Cross is one of London's busiest and most physically complex interchange stations, and navigating it with checked luggage regularly adds 15 to 20 minutes to any connection. A direct minicab from Kentish Town reaches Heathrow in 35 to 60 minutes with no interchange at all."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Kentish Town NW5 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Kentish Town NW5 to Heathrow typically takes between 35 minutes and one hour depending on conditions along the A400, the A40 Western Avenue westbound, and the M4 approach to the airport. Drivers check live traffic before every departure and route around congestion where possible. Early morning bookings before the main rush often come in under 45 minutes from NW5."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get a minicab from Kentish Town NW5 to Gatwick, Stansted, or Luton Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, fixed-fare transfers from Kentish Town NW5 to all three airports are available for every vehicle class. Luton is around 25 miles to the north of NW5 via the A1(M) and well suited for passengers flying with budget airlines from that terminal. Stansted is roughly 35 miles northeast via the M25 and A1M, and Gatwick sits approximately 42 miles to the south. Every fare is confirmed before travel and does not change once the journey is underway."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in NW5 including Gospel Oak and Tufnell Park?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across NW5 including Kentish Town Road, Highgate Road, Fortess Road, Grafton Road, Cressfield Close, Dartmouth Park Hill, and all residential streets throughout Gospel Oak and Tufnell Park. Our drivers are familiar with every part of the postcode, so pickups from any address in NW5 are handled reliably at any time of day or night."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Kentish Town NW5 to the O2 Forum for a concert?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the O2 Forum on Highgate Road is within the NW5 postcode and we handle pickups and drop-offs there for concerts and events throughout the year. For post-show collections at the Forum, pre-booking your return journey before the event is the most reliable approach, as Highgate Road and the surrounding streets fill quickly when a large show ends. A confirmed pickup means your driver is waiting rather than you searching for a car on a busy street."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a large vehicle available from Kentish Town NW5 for a group airport transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, MPV vehicles for five, six, seven, or eight passengers are available from Kentish Town NW5 for group airport transfers. Each fare for larger vehicles is shown at the booking stage so the full group cost is visible before you confirm. Travelling together in a single vehicle is almost always more economical than booking multiple saloons separately and keeps the party together for the entire journey."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is included in the meet and greet service on Heathrow pickups from NW5?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Meet and greet is included as standard on every Heathrow arrivals booking from NW5 at no extra charge. Your driver will be at the designated meeting point inside the arrivals hall with a name board before you come through, and your flight is tracked from its departure airport so the timing adjusts automatically if the aircraft is delayed. Every booking includes 45 minutes of complimentary waiting time, covering the gap between landing and clearing customs on most flights."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book a very early morning minicab from Kentish Town NW5 for a 6am flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pre-book online at least 24 hours in advance, entering your NW5 pickup address, the departure terminal, and the time you need the driver at your door. For a 6am departure from Heathrow, most passengers in NW5 book a pickup between 3:30am and 4am depending on check-in requirements. Our 24/7 team allocates drivers in advance for early starts, and early morning runs from Kentish Town are among the most common requests we handle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Kentish Town NW5 to St Pancras for the Eurostar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, St Pancras International is around two miles from Kentish Town NW5 and we provide fixed-fare transfers there for Eurostar departures and arrivals. Pre-booking is particularly useful for early morning Eurostar services when street-level transport from NW5 is limited. The same fixed-price model applies as for airport transfers, so the fare is confirmed before you travel and does not change based on traffic between Kentish Town and the station."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kentish Town NW5 Minicab Service",
+          "item": "https://ltrminicab.com/kentish-town-nw5-minicab-service/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#croydon-cr0-service",
+      "name": "LTR Minicab – Croydon CR0 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Croydon CR0. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Croydon",
+        "addressRegion": "London",
+        "postalCode": "CR0",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.3762",
+        "longitude": "-0.0982"
+      },
+      "areaServed": [
+        {"@type": "Place", "name": "Croydon CR0, London"},
+        {"@type": "Place", "name": "Heathrow Airport, London"},
+        {"@type": "Place", "name": "Gatwick Airport, London"},
+        {"@type": "Place", "name": "Stansted Airport, Essex"},
+        {"@type": "Place", "name": "Luton Airport, Bedfordshire"},
+        {"@type": "Place", "name": "London City Airport, London"}
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Croydon CR0 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Croydon CR0 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Croydon CR0 to Heathrow Airport, approximately 18 miles via the A232 westbound through Sutton and the A217 north before joining the A3 and A316 corridor into the airport. Door-to-door service with no hidden charges.",
+            "price": "55.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {"@type": "Place", "name": "Croydon, CR0, London"}
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Croydon CR0 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Croydon CR0, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "58.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {"@type": "Place", "name": "Heathrow Airport, London"}
+          },
+          {
+            "@type": "Offer",
+            "name": "Croydon CR0 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Croydon CR0 to Heathrow Airport.",
+            "price": "70.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Croydon CR0 to Heathrow Airport – Estate",
+            "description": "Fixed-fare estate car transfer from Croydon CR0 to Heathrow Airport, ideal for passengers with extra luggage.",
+            "price": "62.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Croydon CR0 to Heathrow Airport – MPV 5",
+            "description": "Fixed-fare 5-seat MPV transfer from Croydon CR0 to Heathrow Airport.",
+            "price": "76.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Croydon CR0 to Heathrow Airport – MPV 6",
+            "description": "Fixed-fare 6-seat MPV transfer from Croydon CR0 to Heathrow Airport.",
+            "price": "88.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Croydon CR0 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Croydon CR0 to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "103.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Croydon CR0 to Heathrow Airport – Executive MPV 7",
+            "description": "Fixed-fare Mercedes V Class executive transfer from Croydon CR0 to Heathrow Airport for up to 7 passengers.",
+            "price": "124.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Croydon CR0 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Croydon CR0 to Heathrow Airport, ideal for larger groups.",
+            "price": "137.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#croydon-cr0-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Croydon CR0 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Croydon CR0 to Heathrow is fixed at £55, confirmed at the time of booking and unchanged regardless of traffic on the A232 or A217 on the day. Every vehicle class from saloon through to eight-seat MPV is displayed with its complete fare before you confirm, so the price shown at booking is the price charged when you arrive at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a direct train from Croydon to Heathrow, and how does it compare to a minicab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There is no direct rail connection from Croydon to Heathrow. From East Croydon, passengers must travel north by Thameslink or Southern services to Victoria or London Bridge, then change to the Underground and ride the Piccadilly line westbound the full 40 to 45 minutes to Heathrow — a door-to-terminal journey of 75 to 90 minutes with one or two changes. National Express coaches run between East Croydon and Heathrow but journey times vary significantly with traffic and stops. A pre-booked minicab from your front door in Croydon reaches the same terminal in 45 to 60 minutes with a fixed fare and direct door-to-door service."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Croydon CR0 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Croydon CR0 to Heathrow typically takes between 45 and 60 minutes. The most efficient route heads west along the A232 through Sutton before joining the A217 north and then the A3 and A316 corridor northwest toward the M3 and M25 approach into the airport. An alternative route via the M25 junction 7 at Reigate and M25 west to junction 14 is also used when conditions on the A3 are slow. Drivers check live conditions before departure and select the most efficient approach on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in CR0 including Thornton Heath, Norbury, and Addiscombe?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across CR0 including North End, George Street, Church Street, London Road, Wellesley Road, Cherry Orchard Road, Tamworth Road, Thornton Road, Brigstock Road, Thornton Heath High Street, Norbury Avenue, Pollards Hill, Addiscombe Road, Lower Addiscombe Road, Shirley Road, Sydenham Road, and all residential streets throughout Croydon town centre, Thornton Heath, Norbury, Addiscombe, and Shirley. Our drivers are familiar with the Tramlink network roads, the one-way system around the town centre, and the residential streets across the full postcode, so pickups from any CR0 address are handled reliably at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Gatwick Airport from Croydon CR0, and do you cover that route?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gatwick is approximately 16 miles south of Croydon CR0, making it the closest major airport to the postcode by road. The journey typically takes 30 to 45 minutes via the A23 south through Purley and Redhill and then the M23 to the airport. Fixed-fare transfers to Gatwick from CR0 are available for all vehicle classes, with every fare confirmed before you travel and no changes on the day. Croydon's position directly on the A23 Gatwick corridor makes it one of the more convenient south London postcodes for Gatwick access."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How close is London City Airport to Croydon CR0?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "London City Airport is approximately 14 miles northeast of Croydon CR0, typically a 30 to 45 minute journey by minicab via the A23 north through Streatham and Brixton, then east through Bermondsey and the A2 toward the A1020 Royal Docks route. A fixed-fare transfer from CR0 to LCY is available for all vehicle classes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a return minicab from Heathrow to Croydon CR0 with meet and greet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the return journey from Heathrow to Croydon CR0 is available for all vehicle classes with meet and greet included as standard. Your driver will be at the designated meeting point inside the terminal before you clear arrivals, with your flight tracked from departure at its origin. The return fare from Heathrow to CR0 is fixed at £58 for a saloon, confirmed at the time of booking. Forty-five minutes of complimentary waiting time is included with every arrivals booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best vehicle for a business traveller flying from Croydon CR0?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For solo and dual business travellers, the Executive saloon in a Mercedes E Class or similar provides a premium cabin, reliable luggage space, and a confirmed fixed fare. The Executive can be pre-booked for both outbound and return journeys to Heathrow and Gatwick from CR0. For corporate groups of up to seven passengers, the Executive MPV 7 in a Mercedes V Class combines full capacity with a premium interior and a professional driver. Every executive fare is shown in full at the booking stage with no additions charged at the terminal or on return."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book a minicab from Croydon CR0 for an early morning flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pre-booking at least 48 hours before your required pickup time is the most reliable approach from Croydon CR0, particularly for departures before 5am when National Rail services from East Croydon and West Croydon stations are not yet running. For larger vehicle classes such as the Executive MPV 7 or the eight-seat MPV, booking 48 to 72 hours in advance gives the greatest certainty of availability and driver allocation. Same-day bookings are possible subject to driver availability at the time of enquiry."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover pickups from East Croydon station and West Croydon at any hour?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover pickups from East Croydon station, West Croydon station, Norbury station, Thornton Heath station, and all addresses in CR0 at any hour of the day or night, including hours when National Rail services and the Tramlink are not operating. Our drivers are familiar with the access routes around East Croydon station, the one-way system in the town centre, and the residential streets across all neighbourhoods within the postcode, so pickups from any CR0 address are handled reliably regardless of the hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is your Croydon CR0 minicab service available 24 hours a day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, our Croydon CR0 minicab service operates 24 hours a day, 7 days a week including all public holidays, with no out-of-hours surcharges. Early morning pickups ahead of the first National Rail services from East Croydon and West Croydon stations and late-night returns after the last trains are both covered at the same fixed fare confirmed at the time of booking."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Croydon CR0 Minicab Service",
+          "item": "https://ltrminicab.com/croydon-cr0-minicab-service/"
+        }
+      ]
+    }
+  ]
+}

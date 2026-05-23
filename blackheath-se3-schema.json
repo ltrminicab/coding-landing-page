@@ -1,0 +1,231 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#blackheath-se3-service",
+      "name": "LTR Minicab – Blackheath SE3 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Blackheath SE3. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Blackheath",
+        "addressRegion": "London",
+        "postalCode": "SE3",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4741",
+        "longitude": "-0.0089"
+      },
+      "areaServed": [
+        {"@type": "Place", "name": "Blackheath SE3, London"},
+        {"@type": "Place", "name": "Heathrow Airport, London"},
+        {"@type": "Place", "name": "Gatwick Airport, London"},
+        {"@type": "Place", "name": "Stansted Airport, Essex"},
+        {"@type": "Place", "name": "Luton Airport, Bedfordshire"},
+        {"@type": "Place", "name": "London City Airport, London"}
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Blackheath SE3 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Blackheath SE3 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Blackheath SE3 to Heathrow Airport, approximately 18 miles via the A2 and A20 westbound corridor through Greenwich and the South Circular before joining the A316 and M3 approach into the airport. Door-to-door service with no hidden charges.",
+            "price": "60.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {"@type": "Place", "name": "Blackheath, SE3, London"}
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Blackheath SE3 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Blackheath SE3, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "63.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {"@type": "Place", "name": "Heathrow Airport, London"}
+          },
+          {
+            "@type": "Offer",
+            "name": "Blackheath SE3 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Blackheath SE3 to Heathrow Airport.",
+            "price": "76.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Blackheath SE3 to Heathrow Airport – Estate",
+            "description": "Fixed-fare estate car transfer from Blackheath SE3 to Heathrow Airport, ideal for passengers with extra luggage.",
+            "price": "68.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Blackheath SE3 to Heathrow Airport – MPV 5",
+            "description": "Fixed-fare 5-seat MPV transfer from Blackheath SE3 to Heathrow Airport.",
+            "price": "83.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Blackheath SE3 to Heathrow Airport – MPV 6",
+            "description": "Fixed-fare 6-seat MPV transfer from Blackheath SE3 to Heathrow Airport.",
+            "price": "96.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Blackheath SE3 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Blackheath SE3 to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "112.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Blackheath SE3 to Heathrow Airport – Executive MPV 7",
+            "description": "Fixed-fare Mercedes V Class executive transfer from Blackheath SE3 to Heathrow Airport for up to 7 passengers.",
+            "price": "135.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Blackheath SE3 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Blackheath SE3 to Heathrow Airport, ideal for larger groups.",
+            "price": "148.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#blackheath-se3-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Blackheath SE3 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Blackheath SE3 to Heathrow is fixed at £60, confirmed at the time of booking and unchanged regardless of traffic on the A2 or along the A316 on the day. Every vehicle class from saloon through to eight-seat MPV is displayed with its complete fare before you confirm, so the price shown at booking is the price charged when you arrive at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get a train from Blackheath to Heathrow, and how does it compare to a minicab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Blackheath station has National Rail services running north to London Bridge and Charing Cross. From those central London termini passengers must change to the Underground — taking the Jubilee line to Green Park and then the Piccadilly line westbound to Heathrow, or travelling to Paddington for the Elizabeth line to the airport. The full door-to-terminal journey from a SE3 address via National Rail and Underground connections consistently takes 75 to 90 minutes and requires two changes. A pre-booked minicab from Blackheath reaches the same terminal in 45 to 60 minutes with door-to-door service, no connections, and a fixed fare — a clear practical advantage for passengers with luggage or early morning departures."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Blackheath SE3 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Blackheath SE3 to Heathrow typically takes between 45 and 60 minutes. The most efficient route heads west along the A2 through Greenwich and Deptford before joining the South Circular A205, then picks up the A316 and M3 corridor northwest toward the M25 and M4 approach into the airport. Drivers check live conditions before departure and select the most fluid westbound approach on the day. Early morning journeys from SE3 ahead of the South Circular build-up regularly complete toward the lower end of that range."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in SE3 including the heath, Blackheath village, and the surrounding residential roads?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across SE3 including Blackheath village, the heath itself, Lee Road, Tranquil Vale, Montpelier Row, Shooters Hill Road, Westcombe Park Road, Kidbrooke Park Road, Langton Way, Duke Humphrey Road, South Row, Blackheath Hill, Charlton Way, and all residential streets throughout the postcode. Pickups from any SE3 address are handled reliably at any hour including early morning departures before public transport begins."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Gatwick Airport from Blackheath SE3, and do you cover that route?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gatwick is approximately 24 miles south of Blackheath SE3, typically a 40 to 55 minute journey by minicab via the A21 south through Bromley and then the M25 and M23 to the airport. Fixed-fare transfers to Gatwick from SE3 are available for all vehicle classes, with every fare confirmed before you travel and no changes on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How close is London City Airport to Blackheath SE3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "London City Airport is approximately 7 miles northeast of Blackheath SE3, making it the closest major airport to the postcode by road. A fixed-fare transfer from SE3 to LCY is available for all vehicle classes and typically takes 18 to 28 minutes via the A2 and A1020 route through the Royal Docks. London City Airport is particularly convenient for Blackheath residents given its proximity and shorter check-in times compared to Heathrow."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a return minicab from Heathrow to Blackheath SE3 with meet and greet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the return journey from Heathrow to Blackheath SE3 is available for all vehicle classes with meet and greet included as standard. Your driver will be at the designated meeting point inside the terminal before you clear arrivals, with your flight tracked from departure at its origin. The return fare from Heathrow to SE3 is fixed at £63 for a saloon, confirmed at the time of booking. Forty-five minutes of complimentary waiting time is included with every arrivals booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best vehicle for a business traveller flying from Blackheath SE3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For solo and dual business travellers, the Executive saloon in a Mercedes E Class or similar provides a premium cabin, reliable luggage space, and a confirmed fixed fare. The Executive can be pre-booked for both outbound and return journeys to Heathrow, Gatwick, and London City Airport from SE3. For corporate groups of up to seven passengers, the Executive MPV 7 in a Mercedes V Class combines full capacity with a premium interior and a professional driver. Every executive fare is shown in full at the booking stage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far in advance should I book a minicab from Blackheath SE3 for an early morning flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pre-booking at least 48 hours before your required pickup time is the most reliable approach from Blackheath SE3, particularly for departures before 5am when National Rail services from Blackheath station are not yet running. For larger vehicle classes such as the Executive MPV 7 or the eight-seat MPV, booking 48 to 72 hours in advance gives the greatest certainty of availability and driver allocation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover pickups from Kidbrooke and Westcombe Park within SE3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover pickups from all parts of SE3 including Kidbrooke, Westcombe Park, and Blackheath village at any hour of the day or night. Kidbrooke station on the National Rail Charing Cross line, Westcombe Park station, and all residential streets in those neighbourhoods are within our SE3 service area. Our drivers are familiar with the access routes across the full postcode and pickups from any SE3 address are handled reliably regardless of the hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is your Blackheath SE3 minicab service available 24 hours a day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, our Blackheath SE3 minicab service operates 24 hours a day, 7 days a week including all public holidays, with no out-of-hours surcharges. Early morning pickups ahead of the first National Rail services from Blackheath station and late-night returns after the last trains are both covered at the same fixed fare confirmed at the time of booking."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Blackheath SE3 Minicab Service",
+          "item": "https://ltrminicab.com/blackheath-se3-minicab-service/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#harlesden-nw10-service",
+      "name": "LTR Minicab – Harlesden NW10 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Harlesden NW10. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Harlesden",
+        "addressRegion": "London",
+        "postalCode": "NW10",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5362",
+        "longitude": "-0.2540"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Harlesden NW10, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Harlesden NW10 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Harlesden NW10 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Harlesden NW10 to Heathrow Airport, approximately 14 miles. Door-to-door service with no hidden charges.",
+            "price": "55.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Harlesden, NW10, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Harlesden NW10 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Harlesden NW10, with complimentary meet and greet and flight tracking included.",
+            "price": "58.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Harlesden NW10 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Harlesden NW10 to Heathrow Airport.",
+            "price": "72.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Harlesden NW10 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Harlesden NW10 to Heathrow Airport, suitable for groups with luggage.",
+            "price": "108.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Harlesden NW10 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Harlesden NW10 to Heathrow Airport, ideal for larger groups and families.",
+            "price": "145.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#harlesden-nw10-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Harlesden NW10 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Harlesden NW10 to Heathrow is fixed at around £55, confirmed at the time of booking so the price does not change between checking and paying. Harlesden is one of the closer northwest London postcodes to Heathrow, and every vehicle class from saloon through to eight-seat MPV is shown with its full fare before you confirm. No additional charges are applied after the journey regardless of how the traffic fell on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "The Bakerloo line connects to Paddington — why take a minicab to Heathrow from Harlesden?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Bakerloo line from Harlesden does reach Paddington in around 15 minutes, and the Elizabeth line from Paddington runs to Heathrow in about 32 minutes. However, Paddington station is one of the most complex interchanges in London, and moving between the deep underground Bakerloo platforms and the Elizabeth line concourse with checked baggage typically adds 15 to 20 minutes to the journey. The Bakerloo line also runs less frequently than central tube lines, with waits of 7 to 10 minutes common during off-peak periods at Harlesden. A direct minicab from NW10 to Heathrow takes 30 to 50 minutes from your front door without any step change at all."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Harlesden NW10 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Harlesden NW10 to Heathrow takes between 30 and 50 minutes depending on conditions along the A4020 Uxbridge Road, the A40 Western Avenue, and the final approach to the terminal. Harlesden is one of the nearer northwest London postcodes to Heathrow by road, which means drivers can often achieve the lower end of that estimate even during moderate morning traffic if they depart at the right time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get a minicab from Harlesden NW10 to Gatwick, Stansted, or Luton Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, fixed-fare transfers from Harlesden NW10 to all three airports are available for every vehicle class. Luton is around 25 miles to the north via the A1(M) and well suited for passengers using budget carriers from that airport. Stansted sits roughly 35 miles northeast via the M25 and A1M, and Gatwick is approximately 40 miles south. Every fare is confirmed before travel regardless of which airport you are using."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all streets in NW10 including Stonebridge and Old Oak Common?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across NW10 including Harlesden High Street, Stonebridge estate, Old Oak Common Lane, Acton Lane, Church Road, Manor Park Road, and all residential streets throughout the postcode. Our drivers know the layout of Harlesden and the wider NW10 area thoroughly, so pickups from any part of the postcode are handled without difficulty."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a minicab service from Harlesden NW10 to Wembley Stadium for events?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Wembley Stadium is around two miles from Harlesden NW10 and we handle event transport to and from the venue for concerts, international football matches, and other large events. Pre-booking is recommended for Wembley events as roads in and around the stadium area become very busy before and after major fixtures. A confirmed pickup from your NW10 address means you travel on your own schedule rather than competing with tens of thousands of other spectators at the end of the night."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book an executive minicab from Harlesden NW10 for a business airport transfer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, executive saloon vehicles are available from Harlesden NW10 for business airport transfers and corporate journeys. The executive class is typically a Mercedes E Class or similar, offering a quieter and more refined interior than the standard saloon. The fare is shown clearly at the booking stage alongside all other vehicle classes, and the same fixed-price guarantee applies so the amount confirmed before you travel is the amount charged on arrival."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if my flight is delayed — does the minicab fare change?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, your fare does not change if your flight is delayed. The price confirmed at the time of booking from Harlesden NW10 is the price you pay regardless of what happens with the flight schedule. For inbound flights, your driver tracks the arrival in real time so the pickup adjusts automatically without you needing to call or change anything. Every airport arrival booking also includes 45 minutes of complimentary waiting time, covering most delays from the point the aircraft lands to the point you come through customs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book a minicab from Harlesden NW10 for a very early morning flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The simplest approach is to pre-book online at least 24 hours before your pickup, selecting your NW10 address, destination terminal, and the time you need the driver at your door. For very early departures before 5am, booking further in advance is advisable to guarantee your preferred vehicle class. Our 24/7 team is also reachable by phone if your plans change the night before, and early morning availability from Harlesden is generally strong given the postcode's proximity to Heathrow."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are your minicab fares from Harlesden NW10 the same for all Heathrow terminals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the fare from Harlesden NW10 to Heathrow is the same regardless of which terminal you are departing from or arriving at. Terminals 2, 3, 4, and 5 are all covered at the same fixed price, and your driver will take you directly to the correct terminal drop-off or arrivals area based on your booking details. If your terminal changes after booking, simply contact the team and the driver will be updated accordingly at no extra charge."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Harlesden NW10 Minicab Service",
+          "item": "https://ltrminicab.com/harlesden-nw10-minicab-service/"
+        }
+      ]
+    }
+  ]
+}

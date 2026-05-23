@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["TaxiService", "LocalBusiness"],
+      "@id": "https://ltrminicab.com/#brixton-sw2-service",
+      "name": "LTR Minicab – Brixton SW2 Airport Transfers",
+      "description": "Professional pre-booked minicab and airport transfer service from Brixton SW2. Fixed fares to Heathrow, Gatwick, Stansted, Luton, and London City Airport. 24/7 availability, meet and greet, and real-time flight tracking included on every booking.",
+      "url": "https://ltrminicab.com/",
+      "email": "info@ltrminicab.com",
+      "image": "https://ltrminicab.com/wp-content/uploads/2025/11/Meet-and-greet-at-airport.webp",
+      "priceRange": "££",
+      "currenciesAccepted": "GBP",
+      "paymentAccepted": "Cash, Credit Card, Debit Card",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Brixton",
+        "addressRegion": "London",
+        "postalCode": "SW2",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4535",
+        "longitude": "-0.1241"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Brixton SW2, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Heathrow Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Gatwick Airport, London"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport, Essex"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport, Bedfordshire"
+        },
+        {
+          "@type": "Place",
+          "name": "London City Airport, London"
+        }
+      ],
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Brixton SW2 Minicab Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Brixton SW2 to Heathrow Airport – Saloon",
+            "description": "Fixed-fare saloon minicab transfer from Brixton SW2 to Heathrow Airport, approximately 15 miles via Clapham, Wandsworth, the A4, and M4. Door-to-door service with no hidden charges.",
+            "price": "55.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Brixton, SW2, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Heathrow Airport to Brixton SW2 – Saloon",
+            "description": "Fixed-fare saloon minicab from Heathrow Airport to Brixton SW2, with complimentary meet and greet and real-time flight tracking included.",
+            "price": "58.00",
+            "priceCurrency": "GBP",
+            "eligibleRegion": {
+              "@type": "Place",
+              "name": "Heathrow Airport, London"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Brixton SW2 to Heathrow Airport – Executive",
+            "description": "Fixed-fare executive saloon (Mercedes E Class or similar) from Brixton SW2 to Heathrow Airport.",
+            "price": "72.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Brixton SW2 to Heathrow Airport – MPV 7",
+            "description": "Fixed-fare 7-seat MPV transfer from Brixton SW2 to Heathrow Airport, suitable for groups and families with luggage.",
+            "price": "108.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "name": "Brixton SW2 to Heathrow Airport – MPV 8",
+            "description": "Fixed-fare 8-seat MPV transfer from Brixton SW2 to Heathrow Airport, ideal for larger groups.",
+            "price": "145.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/#brixton-sw2-faqs",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Brixton SW2 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Brixton SW2 to Heathrow is fixed at around £55, confirmed at the time of booking and unchanged regardless of traffic through Clapham or along the A4 and M4 on the day. Every vehicle class from saloon through to eight-seat MPV is shown with its complete fare before you confirm, so the amount displayed at booking is the amount charged when you arrive at the terminal."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "SW2 is close to Brixton tube station — can I get to Heathrow by underground from Brixton Hill?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "SW2 itself has no Underground stations. Brixton tube station on the Victoria line is in the adjacent SW9 postcode and requires a bus or a 10 to 15 minute walk from most SW2 addresses. Even once you are at Brixton station, the Victoria line has no direct connection to Heathrow — it runs north through central London and passengers must change to the Piccadilly line to reach the airport. With the bus or walk to Brixton station, the Victoria line journey, the platform change, and the full 50-minute Piccadilly line ride from central London to Heathrow, a door-to-terminal trip from SW2 by public transport consistently takes 80 to 90 minutes. A pre-booked minicab from your front door reaches the same terminal in 35 to 50 minutes with no connections and a fixed fare locked in before you leave."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Brixton SW2 to Heathrow Airport take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The drive from Brixton SW2 to Heathrow typically takes between 35 and 50 minutes, heading northwest through Clapham and Wandsworth before joining the A4 corridor onto the M4 into the airport. Drivers check live traffic conditions before departure and choose the most fluid route west on the day. Early morning departures before the main rush hour build-up complete the journey toward the shorter end of that range."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Gatwick Airport a better option than Heathrow for passengers in Brixton SW2?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Gatwick is approximately 22 miles south of Brixton SW2 via the A23 and M23, making it meaningfully closer by road than for many other London postcodes. Journey time by minicab from SW2 to Gatwick is typically 35 to 55 minutes, which is comparable to Heathrow in total travel time despite Gatwick being further away in miles, because the southbound route avoids the congested westbound A4 corridor. If your flight operates from Gatwick, a pre-booked minicab south from Brixton Hill is a straightforward option with a fixed fare confirmed before you travel."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover all parts of SW2 including Streatham Hill and Tulse Hill?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we cover all roads across SW2 including Brixton Hill, Streatham Hill, Tulse Hill, Effra Road, Acre Lane, Christchurch Road, Leander Road, Palace Road, Hillside Road, Elm Park, and all residential streets throughout the postcode. Our drivers are familiar with the one-way sections on Brixton Hill, the residential streets around Brockwell Park, and the quieter roads in the Tulse Hill area, so pickups from any address in SW2 are handled reliably at any hour."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Brockwell Park events in SW2 back to Brixton Hill?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, pickups from Brockwell Park entrances and the surrounding streets are available at any hour, and during major events such as the Lambeth Country Show or outdoor concerts in the park, pre-booking well in advance is strongly recommended. The roads around Brockwell Park and Tulse Hill fill quickly when large events end, and a pre-booked vehicle gives you a confirmed driver at a set time rather than competing for the limited cabs available in the area after an event disperses. We cover pickups from all park entrances on Norwood Road, Dulwich Road, and Tulse Hill."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a minicab from Brixton SW2 to London City Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, London City Airport is approximately 9 miles from Brixton SW2 and a fixed-fare transfer is available for all vehicle classes. The route runs east and northeast from SW2 through Camberwell and Bermondsey toward the Royal Docks, typically taking 25 to 45 minutes depending on conditions. London City handles European and domestic routes with a compact terminal that keeps check-in and security times well below those at the larger airports, making it a practical choice for Brixton passengers on business or short-haul trips."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the best vehicle for a large family flying from Brixton SW2?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For a family of four with checked luggage, a pushchair, or sports equipment, an estate car provides considerably more boot space than a saloon while still carrying four passengers comfortably. Families of five or six travelling together are best served by an MPV 5 or MPV 6, which keeps everyone in one vehicle and avoids the need for two separate bookings. Seven and eight-seat MPVs are available for larger family groups and the Executive MPV 7 is an option for families wanting a premium interior. Every fare for every vehicle class is shown in full at the booking stage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a return minicab from Heathrow back to Brixton SW2 after a long-haul flight?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the return journey from Heathrow to Brixton SW2 is available for all vehicle classes with meet and greet included as standard. Your driver will be waiting at the designated meeting point inside the terminal before you come through arrivals, with your flight tracked from the moment it departs its origin. The return fare from Heathrow to SW2 is fixed at £58 for a saloon and displayed in full at the time of booking. If your inbound flight is delayed or diverted, the booking automatically adjusts based on real-time tracking with no need to contact anyone from the aircraft or baggage hall."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer minicab transfers from Brixton SW2 to Stansted or Luton Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, fixed-fare transfers from Brixton SW2 to both Stansted and Luton are available for every vehicle class. Stansted is approximately 46 miles northeast of SW2 via the A10 and M11, with journey times typically in the 60 to 90 minute range depending on conditions on the North Circular and M11. Luton is roughly 36 miles north via the A1(M), with transfers generally taking 55 to 75 minutes. Every fare to both airports is confirmed before you travel and does not change with traffic or road conditions on the day."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Areas",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Brixton SW2 Minicab Service",
+          "item": "https://ltrminicab.com/brixton-sw2-minicab-service/"
+        }
+      ]
+    }
+  ]
+}
