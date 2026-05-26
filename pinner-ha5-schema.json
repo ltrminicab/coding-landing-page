@@ -1,0 +1,165 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "name": "Pinner HA5 Minicab & Taxi Transfers – LTR Minicab",
+      "serviceType": "Airport Transfer",
+      "description": "Pre-booked minicab and taxi transfers from Pinner HA5 to Heathrow Airport. Fixed fares, meet and greet, real-time flight tracking. 24/7 service across London.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com",
+        "logo": "https://ltrminicab.com/wp-content/uploads/2024/01/ltr-minicab-logo.png",
+        "telephone": "+442036678574",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "LTR Minicab, Heathrow Area",
+          "addressLocality": "London",
+          "postalCode": "TW6",
+          "addressCountry": "GB"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 51.4700,
+          "longitude": -0.4543
+        },
+        "openingHoursSpecification": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+          "opens": "00:00",
+          "closes": "23:59"
+        },
+        "priceRange": "££",
+        "sameAs": ["https://ltrminicab.com"]
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Pinner HA5, London"
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "GBP",
+        "price": "48",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "price": "48",
+          "priceCurrency": "GBP",
+          "description": "Fixed fare saloon from Pinner HA5 to Heathrow Airport"
+        },
+        "availability": "https://schema.org/InStock",
+        "url": "https://book.ltrminicab.com/"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Vehicle Types",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Saloon – Pinner HA5 to Heathrow",
+              "description": "Up to 4 passengers, 2 medium bags"
+            },
+            "price": "48",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Executive – Pinner HA5 to Heathrow",
+              "description": "Up to 4 passengers, premium Mercedes E Class or similar"
+            },
+            "price": "65",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "MPV 6 – Pinner HA5 to Heathrow",
+              "description": "Up to 6 passengers, 4 medium bags"
+            },
+            "price": "82",
+            "priceCurrency": "GBP"
+          }
+        ]
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "320",
+        "bestRating": "5"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "London Area Minicab Transfers",
+          "item": "https://ltrminicab.com/london-major-areas/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Pinner HA5 Minicab",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/pinner-ha5-minicab/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Pinner HA5 to Heathrow Airport cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A standard saloon from Pinner HA5 to Heathrow starts from £48, fixed at the point of booking with no additional charges once the journey is complete."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the journey from Pinner HA5 to Heathrow by minicab take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The typical Pinner HA5 to Heathrow minicab journey takes between 25 and 40 minutes via the A4090 southbound connecting to the A40 Western Avenue westbound toward the Heathrow terminal approach roads."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do LTR Minicab drivers offer meet and greet at Heathrow for Pinner HA5 passengers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our meet and greet service positions your driver inside the arrivals hall with a name board, ready to assist with luggage directly to the vehicle. 45 minutes of complimentary waiting time is included on every airport booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are LTR Minicab drivers serving Pinner HA5 fully licensed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Every driver holds a valid TfL private hire licence and all vehicles are maintained and insured to private hire standards."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a fixed price Pinner HA5 to Gatwick or Luton minicab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Every Pinner HA5 to Gatwick or Luton minicab booking through LTR Minicab is priced upfront and stays fixed regardless of traffic conditions on the day."
+          }
+        }
+      ]
+    }
+  ]
+}
