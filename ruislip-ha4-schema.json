@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://ltrminicab.com/#ruislip-ha4",
+      "name": "LTR Minicab – Ruislip HA4 Taxi & Minicab Transfers",
+      "url": "https://ltrminicab.com",
+      "logo": "https://ltrminicab.com/wp-content/uploads/2024/01/ltr-minicab-logo.png",
+      "description": "Professional minicab and taxi transfer service from Ruislip HA4 to Heathrow Airport and across London. Fixed prices, 24/7 availability, free Meet & Greet, and live flight monitoring included.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Ruislip",
+        "postalCode": "HA4",
+        "addressRegion": "Middlesex",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5756",
+        "longitude": "-0.4326"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "London" },
+        { "@type": "Place", "name": "Ruislip" },
+        { "@type": "Place", "name": "HA4" },
+        { "@type": "Place", "name": "Ruislip Lido" },
+        { "@type": "Place", "name": "Ruislip Manor" },
+        { "@type": "Place", "name": "Eastcote" },
+        { "@type": "Place", "name": "West Ruislip" },
+        { "@type": "Airport", "name": "Heathrow Airport" },
+        { "@type": "Airport", "name": "Gatwick Airport" },
+        { "@type": "Airport", "name": "Stansted Airport" },
+        { "@type": "Airport", "name": "Luton Airport" },
+        { "@type": "Airport", "name": "London City Airport" }
+      ],
+      "priceRange": "££",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Ruislip HA4 Minicab Transfer Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Ruislip HA4 to Heathrow Airport – Saloon Transfer",
+              "description": "Fixed price pre-booked minicab from Ruislip HA4 to all Heathrow terminals. Saloon from £38."
+            },
+            "price": "38.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Heathrow Airport to Ruislip HA4 – Saloon Transfer",
+              "description": "Fixed price airport pickup from all Heathrow terminals to Ruislip HA4. Saloon from £43."
+            },
+            "price": "43.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Ruislip HA4 to Heathrow – Executive Transfer",
+              "description": "Premium executive minicab in Mercedes E Class or similar from Ruislip HA4 to Heathrow Airport."
+            },
+            "price": "52.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Ruislip HA4 to Heathrow – MPV 7 Transfer",
+              "description": "Group MPV 7 minicab from Ruislip HA4 to Heathrow Airport for up to 7 passengers."
+            },
+            "price": "80.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I book a minicab from Ruislip HA4 to Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Book online through our secure platform, call our team directly, or complete a reservation in minutes. All Ruislip HA4 bookings receive instant confirmation with driver details and a guaranteed fixed price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Ruislip HA4 from Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ruislip HA4 is approximately 7 miles (11 km) from Heathrow Airport. The route typically follows the A4180 south connecting to the A4020 (Uxbridge Road) eastbound toward Heathrow, or alternatively via the A4180 onto Bath Road into the terminal access roads. Journey times typically range from 20 to 30 minutes depending on traffic conditions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minicab fare from Ruislip HA4 to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our Ruislip HA4 to Heathrow saloon fare starts from £38 with a fully fixed price. The airport pickup fare from Heathrow back to HA4 is £43, which includes terminal waiting time and parking allowances. All vehicle types are equally fixed and confirmed at the time of booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Meet and Greet available at Heathrow for Ruislip HA4 passengers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our complimentary Meet & Greet service is available at all four Heathrow terminals. Your chauffeur waits in the arrivals hall with a personalised name board and assists with luggage before your transfer to Ruislip HA4."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab available 24 hours a day from Ruislip HA4?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our Ruislip HA4 minicab service operates 24 hours a day, 7 days a week including public holidays, with no out-of-hours surcharges applied to any booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab an affordable Heathrow transfer from Ruislip?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. LTR Minicab provides competitive fixed-price Heathrow transfers from Ruislip HA4 from £38 for a Saloon. All fares are locked in at booking with no surge pricing, meter additions, or hidden charges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which airports can I travel to from Ruislip HA4?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We operate direct transfers from Ruislip HA4 to Heathrow, Gatwick, Stansted, Luton, London City, and Southend Airport with fixed fares and professional licensed chauffeurs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer group transfers from Ruislip?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We provide MPV 5, MPV 6, MPV 7, and MPV 8 vehicles for families and groups travelling from Ruislip HA4 to airports, hotels, and UK destinations, accommodating up to 8 passengers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover Ruislip Manor, Eastcote, and all streets within HA4?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We cover all streets and postcodes within HA4 without exception, including High Street, Victoria Road, Ickenham Road, Manor Way, Long Drive, Kingsend, Bury Street, Field End Road, Eastcote Road, West End Road, and all residential and commercial properties throughout Ruislip and the wider Hillingdon area."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Ruislip HA4 minicab service available on weekends and bank holidays?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our Ruislip HA4 minicab service runs every day of the year including weekends and all UK bank holidays at no additional cost."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ruislip HA4 Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/ruislip-ha4-minicab/"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Transfer",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Ruislip HA4, London"
+      },
+      "name": "Ruislip HA4 Airport Minicab & Taxi Transfer Service",
+      "description": "Reliable fixed-price minicab and taxi transfers from Ruislip HA4 to Heathrow, Gatwick, Stansted, Luton, and London City Airport with professional chauffeurs, Meet & Greet, and 24/7 availability.",
+      "offers": [
+        { "@type": "Offer", "name": "Saloon – Ruislip HA4 to Heathrow", "price": "38.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive – Ruislip HA4 to Heathrow", "price": "52.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Estate – Ruislip HA4 to Heathrow", "price": "45.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 5 – Ruislip HA4 to Heathrow", "price": "58.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 6 – Ruislip HA4 to Heathrow", "price": "68.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 7 – Ruislip HA4 to Heathrow", "price": "80.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive MPV 7 – Ruislip HA4 to Heathrow", "price": "96.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 8 – Ruislip HA4 to Heathrow", "price": "108.00", "priceCurrency": "GBP" }
+      ]
+    }
+  ]
+}
