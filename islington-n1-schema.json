@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://ltrminicab.com/#islington-n1",
+      "name": "LTR Minicab – Islington N1 Taxi & Minicab Transfers",
+      "url": "https://ltrminicab.com",
+      "logo": "https://ltrminicab.com/wp-content/uploads/2024/01/ltr-minicab-logo.png",
+      "description": "Professional minicab and taxi transfer service from Islington N1 to Heathrow Airport and across London. Fixed prices, 24/7 availability, free Meet & Greet, and live flight monitoring included.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Islington",
+        "postalCode": "N1",
+        "addressRegion": "London",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5361",
+        "longitude": "-0.1034"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "London" },
+        { "@type": "Place", "name": "Islington N1" },
+        { "@type": "Place", "name": "Angel" },
+        { "@type": "Place", "name": "Upper Street" },
+        { "@type": "Place", "name": "Barnsbury" },
+        { "@type": "Place", "name": "Canonbury" },
+        { "@type": "Airport", "name": "Heathrow Airport" },
+        { "@type": "Airport", "name": "Gatwick Airport" },
+        { "@type": "Airport", "name": "Stansted Airport" },
+        { "@type": "Airport", "name": "Luton Airport" },
+        { "@type": "Airport", "name": "London City Airport" }
+      ],
+      "priceRange": "££",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Islington N1 Minicab Transfer Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Islington N1 to Heathrow Airport – Saloon Transfer",
+              "description": "Fixed price pre-booked minicab from Islington N1 to all Heathrow terminals. Saloon from £55."
+            },
+            "price": "55.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Heathrow Airport to Islington N1 – Saloon Transfer",
+              "description": "Fixed price airport pickup from all Heathrow terminals to Islington N1. Saloon from £60."
+            },
+            "price": "60.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Islington N1 to Heathrow – Executive Transfer",
+              "description": "Premium executive minicab in Mercedes E Class or similar from Islington N1 to Heathrow Airport."
+            },
+            "price": "72.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Islington N1 to Heathrow – MPV 7 Transfer",
+              "description": "Group MPV 7 minicab from Islington N1 to Heathrow Airport for up to 7 passengers."
+            },
+            "price": "105.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I book a minicab from Islington N1 to Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Book online through our secure platform, call our team directly, or complete a reservation in minutes. All Islington N1 bookings receive instant confirmation with driver details and a guaranteed fixed price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Islington N1 from Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Islington N1 is approximately 16 miles (26 km) from Heathrow Airport via the A501 westbound connecting to the A40 and then westbound towards Heathrow. Journey times typically range from 40 to 60 minutes depending on traffic conditions along the A501 corridor and the A40 westbound approach."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minicab fare from Islington N1 to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our Islington N1 to Heathrow saloon fare starts from £55 with a fully fixed price. The airport pickup fare is slightly higher at £60 to include terminal waiting and parking allowances."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Meet and Greet available at Heathrow for Islington N1 passengers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our complimentary Meet & Greet service is available at all four Heathrow terminals. Your chauffeur waits in the arrivals hall with a personalised name board and assists with luggage before your transfer to Islington N1."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab available 24 hours a day from Islington N1?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our Islington N1 minicab service operates 24 hours a day, 7 days a week including public holidays, with no out-of-hours surcharges applied to any booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab an affordable Heathrow transfer from Islington N1?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. LTR Minicab provides competitive fixed-price Heathrow transfers from Islington N1 from £55 for a Saloon. All fares are locked in at booking with no surge pricing, meter additions, or hidden charges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which airports can I travel to from Islington N1?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We operate direct transfers from Islington N1 to Heathrow, Gatwick, Stansted, Luton, London City, and Southend Airport with fixed fares and professional licensed chauffeurs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer group transfers from Islington N1?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We provide MPV 5, MPV 6, MPV 7, and MPV 8 vehicles for families and groups travelling from Islington N1 to airports, hotels, and UK destinations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover Angel, Barnsbury, Canonbury, and all streets within N1?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We cover all streets and postcodes within N1 including Upper Street, Liverpool Road, Essex Road, Caledonian Road, Pentonville Road, City Road, the Angel area, Barnsbury, Canonbury, and all surrounding residential streets and terraces throughout the Islington borough."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Islington N1 minicab service available on weekends and bank holidays?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our Islington N1 minicab service runs every day of the year including weekends and all UK bank holidays at no additional cost."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Islington N1 Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/islington-n1-minicab/"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Transfer",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Islington N1, London"
+      },
+      "name": "Islington N1 Airport Minicab & Taxi Transfer Service",
+      "description": "Reliable fixed-price minicab and taxi transfers from Islington N1 to Heathrow, Gatwick, Stansted, Luton, and London City Airport with professional chauffeurs, Meet & Greet, and 24/7 availability.",
+      "offers": [
+        { "@type": "Offer", "name": "Saloon – Islington N1 to Heathrow", "price": "55.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive – Islington N1 to Heathrow", "price": "72.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Estate – Islington N1 to Heathrow", "price": "63.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 5 – Islington N1 to Heathrow", "price": "79.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 6 – Islington N1 to Heathrow", "price": "91.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 7 – Islington N1 to Heathrow", "price": "105.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive MPV 7 – Islington N1 to Heathrow", "price": "125.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 8 – Islington N1 to Heathrow", "price": "140.00", "priceCurrency": "GBP" }
+      ]
+    }
+  ]
+}

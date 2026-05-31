@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://ltrminicab.com/#east-ham-e6",
+      "name": "LTR Minicab – East Ham E6 Taxi & Minicab Transfers",
+      "url": "https://ltrminicab.com",
+      "logo": "https://ltrminicab.com/wp-content/uploads/2024/01/ltr-minicab-logo.png",
+      "description": "Professional minicab and taxi transfer service from East Ham E6 to Heathrow Airport and across London. Fixed prices, 24/7 availability, free Meet & Greet, and live flight monitoring included.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "East Ham",
+        "postalCode": "E6",
+        "addressRegion": "London",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5309",
+        "longitude": "0.0505"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "London" },
+        { "@type": "Place", "name": "East Ham E6" },
+        { "@type": "Place", "name": "Green Street" },
+        { "@type": "Place", "name": "Central Park" },
+        { "@type": "Place", "name": "Plashet" },
+        { "@type": "Place", "name": "Little Ilford" },
+        { "@type": "Airport", "name": "Heathrow Airport" },
+        { "@type": "Airport", "name": "Gatwick Airport" },
+        { "@type": "Airport", "name": "Stansted Airport" },
+        { "@type": "Airport", "name": "Luton Airport" },
+        { "@type": "Airport", "name": "London City Airport" }
+      ],
+      "priceRange": "££",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "East Ham E6 Minicab Transfer Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "East Ham E6 to Heathrow Airport – Saloon Transfer",
+              "description": "Fixed price pre-booked minicab from East Ham E6 to all Heathrow terminals. Saloon from £67."
+            },
+            "price": "67.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Heathrow Airport to East Ham E6 – Saloon Transfer",
+              "description": "Fixed price airport pickup from all Heathrow terminals to East Ham E6. Saloon from £72."
+            },
+            "price": "72.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "East Ham E6 to Heathrow – Executive Transfer",
+              "description": "Premium executive minicab in Mercedes E Class or similar from East Ham E6 to Heathrow Airport."
+            },
+            "price": "87.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "East Ham E6 to Heathrow – MPV 7 Transfer",
+              "description": "Group MPV 7 minicab from East Ham E6 to Heathrow Airport for up to 7 passengers."
+            },
+            "price": "124.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I book a minicab from East Ham E6 to Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Book online through our secure platform, call our team directly, or complete a quick reservation in minutes. All East Ham E6 bookings receive instant confirmation with driver details and a guaranteed fixed price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is East Ham E6 from Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "East Ham E6 is approximately 17 miles (27 km) from Heathrow Airport via the A13 westbound connecting to the A406 North Circular and then the A40 towards Heathrow. Journey times typically range from 45 to 65 minutes depending on traffic conditions along the A13 corridor and the A40 westbound approach to the airport."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minicab fare from East Ham E6 to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our East Ham E6 to Heathrow saloon fare starts from £67 with a fully fixed price. The airport pickup fare is slightly higher at £72 to include terminal waiting and parking allowances."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Meet and Greet available at Heathrow for East Ham E6 passengers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our complimentary Meet & Greet service is available at all four Heathrow terminals. Your chauffeur waits in the arrivals hall with a personalised name board and assists with luggage before your transfer to East Ham E6."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab available 24 hours a day from East Ham E6?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our East Ham E6 minicab service operates 24 hours a day, 7 days a week including public holidays, with no out-of-hours surcharges applied to any booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab an affordable Heathrow transfer from East Ham E6?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. LTR Minicab provides competitive fixed-price Heathrow transfers from East Ham E6 from £67 for a Saloon. All fares are locked in at booking with no surge pricing, meter additions, or hidden charges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which airports can I travel to from East Ham E6?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We operate direct transfers from East Ham E6 to Heathrow, Gatwick, Stansted, Luton, London City, and Southend Airport with fixed fares and professional licensed chauffeurs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer group transfers from East Ham E6?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We provide MPV 5, MPV 6, MPV 7, and MPV 8 vehicles for families and groups travelling from East Ham E6 to airports, hotels, and UK destinations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover Green Street, Plashet, and all streets within E6?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We cover all streets and postcodes within E6 including East Ham High Street, Green Street, Plashet, Little Ilford, Central Park borders, and all surrounding residential and commercial areas throughout the East Ham and Newham borough."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the East Ham E6 minicab service available on weekends and bank holidays?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our East Ham E6 minicab service runs every day of the year including weekends and all UK bank holidays at no additional cost."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "East Ham E6 Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/east-ham-minicab/"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Transfer",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "East Ham E6, London"
+      },
+      "name": "East Ham E6 Airport Minicab & Taxi Transfer Service",
+      "description": "Reliable fixed-price minicab and taxi transfers from East Ham E6 to Heathrow, Gatwick, Stansted, Luton, and London City Airport with professional chauffeurs, Meet & Greet, and 24/7 availability.",
+      "offers": [
+        { "@type": "Offer", "name": "Saloon – East Ham E6 to Heathrow", "price": "67.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive – East Ham E6 to Heathrow", "price": "87.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Estate – East Ham E6 to Heathrow", "price": "76.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 5 – East Ham E6 to Heathrow", "price": "94.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 6 – East Ham E6 to Heathrow", "price": "107.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 7 – East Ham E6 to Heathrow", "price": "124.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive MPV 7 – East Ham E6 to Heathrow", "price": "147.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 8 – East Ham E6 to Heathrow", "price": "168.00", "priceCurrency": "GBP" }
+      ]
+    }
+  ]
+}

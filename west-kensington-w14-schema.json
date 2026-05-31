@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://ltrminicab.com/#west-kensington-w14",
+      "name": "LTR Minicab – West Kensington W14 Taxi & Minicab Transfers",
+      "url": "https://ltrminicab.com",
+      "logo": "https://ltrminicab.com/wp-content/uploads/2024/01/ltr-minicab-logo.png",
+      "description": "Professional minicab and taxi transfer service from West Kensington W14 to Heathrow Airport and across London. Fixed prices, 24/7 availability, free Meet & Greet, and live flight monitoring included.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "West Kensington",
+        "postalCode": "W14",
+        "addressRegion": "London",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4915",
+        "longitude": "-0.2059"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "London" },
+        { "@type": "Place", "name": "West Kensington W14" },
+        { "@type": "Place", "name": "Olympia" },
+        { "@type": "Place", "name": "Hammersmith" },
+        { "@type": "Place", "name": "Earl's Court" },
+        { "@type": "Place", "name": "Kensington" },
+        { "@type": "Airport", "name": "Heathrow Airport" },
+        { "@type": "Airport", "name": "Gatwick Airport" },
+        { "@type": "Airport", "name": "Stansted Airport" },
+        { "@type": "Airport", "name": "Luton Airport" },
+        { "@type": "Airport", "name": "London City Airport" }
+      ],
+      "priceRange": "££",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "West Kensington W14 Minicab Transfer Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "West Kensington W14 to Heathrow Airport – Saloon Transfer",
+              "description": "Fixed price pre-booked minicab from West Kensington W14 to all Heathrow terminals. Saloon from £47."
+            },
+            "price": "47.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Heathrow Airport to West Kensington W14 – Saloon Transfer",
+              "description": "Fixed price airport pickup from all Heathrow terminals to West Kensington W14. Saloon from £52."
+            },
+            "price": "52.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "West Kensington W14 to Heathrow – Executive Transfer",
+              "description": "Premium executive minicab in Mercedes E Class or similar from West Kensington W14 to Heathrow Airport."
+            },
+            "price": "61.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "West Kensington W14 to Heathrow – MPV 7 Transfer",
+              "description": "Group MPV 7 minicab from West Kensington W14 to Heathrow Airport for up to 7 passengers."
+            },
+            "price": "88.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I book a minicab from West Kensington W14 to Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can book online through our secure platform, call our team, or complete a quick reservation in minutes. All West Kensington W14 bookings receive instant confirmation with driver details and a guaranteed fixed price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is West Kensington W14 from Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "West Kensington W14 is approximately 10 miles (16 km) from Heathrow Airport, primarily via the A4 and M4 corridor. Depending on traffic, journey times range from 25 to 45 minutes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minicab fare from West Kensington W14 to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our West Kensington W14 to Heathrow saloon fare starts from £47 with a fully fixed price. The airport pickup fare is slightly higher at £52 to include terminal waiting and parking allowances."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Meet and Greet available at Heathrow for West Kensington W14 passengers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our complimentary Meet & Greet service is available at all four Heathrow terminals. Your chauffeur waits in the arrivals hall with a personalised name board and assists with luggage before your transfer to West Kensington W14."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab available 24 hours a day from West Kensington W14?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our West Kensington W14 minicab service operates 24 hours a day, 7 days a week including public holidays, with no out-of-hours surcharges applied to any booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab an affordable Heathrow transfer from West Kensington W14?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. LTR Minicab offers affordable and competitive Heathrow transfer fares from West Kensington W14 starting from just £47 for a Saloon. All prices are fixed at the time of booking with no surge pricing or hidden fees."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which airports can I travel to from West Kensington W14?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We operate direct transfers from West Kensington W14 to Heathrow, Gatwick, Stansted, Luton, London City, and Southend Airport with fixed fares and professional licensed chauffeurs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer group transfers from West Kensington W14?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We provide MPV 5, MPV 6, MPV 7, and MPV 8 vehicles for families and groups travelling from West Kensington W14 to airports, hotels, and UK destinations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover event transfers to and from Olympia London in W14?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We regularly provide minicab transfers to and from Olympia London for exhibitions, trade shows, conferences, and consumer events, with vehicles available for individuals, groups, and exhibitors with equipment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the West Kensington W14 service available on weekends and bank holidays?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our West Kensington W14 minicab service runs every day of the year including weekends and all UK bank holidays at no additional cost."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "West Kensington W14 Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/west-kensington-minicab/"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Transfer",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "West Kensington W14, London"
+      },
+      "name": "West Kensington W14 Airport Minicab & Taxi Transfer Service",
+      "description": "Reliable fixed-price minicab and taxi transfers from West Kensington W14 to Heathrow, Gatwick, Stansted, Luton, and London City Airport with professional chauffeurs, Meet & Greet, and 24/7 availability.",
+      "offers": [
+        { "@type": "Offer", "name": "Saloon – West Kensington W14 to Heathrow", "price": "47.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive – West Kensington W14 to Heathrow", "price": "61.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Estate – West Kensington W14 to Heathrow", "price": "53.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 5 – West Kensington W14 to Heathrow", "price": "65.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 6 – West Kensington W14 to Heathrow", "price": "75.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 7 – West Kensington W14 to Heathrow", "price": "88.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive MPV 7 – West Kensington W14 to Heathrow", "price": "107.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 8 – West Kensington W14 to Heathrow", "price": "117.00", "priceCurrency": "GBP" }
+      ]
+    }
+  ]
+}

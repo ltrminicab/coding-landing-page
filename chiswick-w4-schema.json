@@ -1,0 +1,227 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://ltrminicab.com/#chiswick-w4",
+      "name": "LTR Minicab – Chiswick W4 Taxi & Minicab Transfers",
+      "url": "https://ltrminicab.com",
+      "logo": "https://ltrminicab.com/wp-content/uploads/2024/01/ltr-minicab-logo.png",
+      "description": "Professional minicab and taxi transfer service from Chiswick W4 to Heathrow Airport and across London. Fixed prices, 24/7 availability, free Meet & Greet, and live flight monitoring included.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Chiswick",
+        "postalCode": "W4",
+        "addressRegion": "London",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.4938",
+        "longitude": "-0.2678"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "London" },
+        { "@type": "Place", "name": "Chiswick W4" },
+        { "@type": "Place", "name": "Hammersmith" },
+        { "@type": "Place", "name": "Kew" },
+        { "@type": "Place", "name": "Richmond" },
+        { "@type": "Place", "name": "Brentford" },
+        { "@type": "Place", "name": "Hounslow" },
+        { "@type": "Airport", "name": "Heathrow Airport" },
+        { "@type": "Airport", "name": "Gatwick Airport" },
+        { "@type": "Airport", "name": "Stansted Airport" },
+        { "@type": "Airport", "name": "Luton Airport" },
+        { "@type": "Airport", "name": "London City Airport" }
+      ],
+      "priceRange": "££",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Chiswick W4 Minicab Transfer Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Chiswick W4 to Heathrow Airport – Saloon Transfer",
+              "description": "Fixed price pre-booked minicab from Chiswick W4 to all Heathrow terminals. Saloon from £46."
+            },
+            "price": "46.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Heathrow Airport to Chiswick W4 – Saloon Transfer",
+              "description": "Fixed price airport pickup from all Heathrow terminals to Chiswick W4. Saloon from £51."
+            },
+            "price": "51.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Chiswick W4 to Heathrow – Executive Transfer",
+              "description": "Premium executive minicab in Mercedes E Class or similar from Chiswick W4 to Heathrow Airport."
+            },
+            "price": "60.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Chiswick W4 to Heathrow – MPV 7 Transfer",
+              "description": "Group MPV 7 minicab from Chiswick W4 to Heathrow Airport for up to 7 passengers."
+            },
+            "price": "88.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I book a minicab from Chiswick W4 to Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Book online through our secure platform, call our team, or complete a quick reservation in minutes. All bookings receive instant confirmation with driver details and a guaranteed fixed price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Chiswick W4 from Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Chiswick W4 is approximately 9 miles (14 km) from Heathrow Airport via the A4 and M4. The journey typically takes between 20 and 35 minutes depending on traffic conditions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minicab fare from Chiswick W4 to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our Chiswick W4 to Heathrow saloon fare starts from £46 with a fully fixed price. The airport pickup fare is slightly higher at £51 to include terminal waiting and parking allowances."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab an affordable Heathrow transfer from Chiswick W4?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. LTR Minicab provides affordable Heathrow transfer fares from Chiswick W4 starting from just £46 for a Saloon. All prices are fixed at booking with no surge pricing or hidden charges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Meet and Greet available at Heathrow for Chiswick W4 passengers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Complimentary Meet & Greet is available at all four Heathrow terminals. Your chauffeur waits in arrivals with a personalised name board and assists with luggage before the transfer to Chiswick W4."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Chiswick W4 minicab service available 24/7?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our Chiswick W4 minicab service operates 24 hours a day, 7 days a week including public holidays, with no out-of-hours surcharges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover Chiswick Business Park transfers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We provide regular minicab transfers to and from Chiswick Business Park for corporate clients, business travellers, and visiting delegates, with executive vehicles available on request."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which airports can I travel to from Chiswick W4?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We operate direct transfers from Chiswick W4 to Heathrow, Gatwick, Stansted, Luton, London City, and Southend Airport with fixed fares and professional licensed chauffeurs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer group transfers from Chiswick W4?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We provide MPV 5, MPV 6, MPV 7, and MPV 8 vehicles for families and groups travelling from Chiswick W4 to airports, hotels, and UK destinations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Chiswick W4 service available on weekends and bank holidays?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our Chiswick W4 minicab service runs every day of the year including weekends and all UK bank holidays with no additional surcharges."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Chiswick W4 Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/chiswick-minicab/"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Transfer",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Chiswick W4, London"
+      },
+      "name": "Chiswick W4 Airport Minicab & Taxi Transfer Service",
+      "description": "Reliable fixed-price minicab and taxi transfers from Chiswick W4 to Heathrow, Gatwick, Stansted, Luton, and London City Airport with professional chauffeurs, Meet & Greet, and 24/7 availability.",
+      "offers": [
+        { "@type": "Offer", "name": "Saloon – Chiswick W4 to Heathrow", "price": "46.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive – Chiswick W4 to Heathrow", "price": "60.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Estate – Chiswick W4 to Heathrow", "price": "52.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 5 – Chiswick W4 to Heathrow", "price": "65.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 6 – Chiswick W4 to Heathrow", "price": "75.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 7 – Chiswick W4 to Heathrow", "price": "88.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive MPV 7 – Chiswick W4 to Heathrow", "price": "105.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 8 – Chiswick W4 to Heathrow", "price": "115.00", "priceCurrency": "GBP" }
+      ]
+    }
+  ]
+}

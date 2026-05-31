@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://ltrminicab.com/#hanwell-w7",
+      "name": "LTR Minicab – Hanwell W7 Taxi & Minicab Transfers",
+      "url": "https://ltrminicab.com",
+      "logo": "https://ltrminicab.com/wp-content/uploads/2024/01/ltr-minicab-logo.png",
+      "description": "Professional minicab and taxi transfer service from Hanwell W7 to Heathrow Airport and across London. Fixed prices, 24/7 availability, free Meet & Greet, and live flight monitoring included.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Hanwell",
+        "postalCode": "W7",
+        "addressRegion": "London",
+        "addressCountry": "GB"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.5085",
+        "longitude": "-0.3390"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "London" },
+        { "@type": "Place", "name": "Hanwell W7" },
+        { "@type": "Place", "name": "Ealing" },
+        { "@type": "Place", "name": "Southall" },
+        { "@type": "Place", "name": "Brentford" },
+        { "@type": "Place", "name": "Acton" },
+        { "@type": "Airport", "name": "Heathrow Airport" },
+        { "@type": "Airport", "name": "Gatwick Airport" },
+        { "@type": "Airport", "name": "Stansted Airport" },
+        { "@type": "Airport", "name": "Luton Airport" },
+        { "@type": "Airport", "name": "London City Airport" }
+      ],
+      "priceRange": "££",
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+        ],
+        "opens": "00:00",
+        "closes": "23:59"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Hanwell W7 Minicab Transfer Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Hanwell W7 to Heathrow Airport – Saloon Transfer",
+              "description": "Fixed price pre-booked minicab from Hanwell W7 to all Heathrow terminals. Saloon from £44."
+            },
+            "price": "44.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Heathrow Airport to Hanwell W7 – Saloon Transfer",
+              "description": "Fixed price airport pickup from all Heathrow terminals to Hanwell W7. Saloon from £49."
+            },
+            "price": "49.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Hanwell W7 to Heathrow – Executive Transfer",
+              "description": "Premium executive minicab in Mercedes E Class or similar from Hanwell W7 to Heathrow Airport."
+            },
+            "price": "57.00",
+            "priceCurrency": "GBP"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Hanwell W7 to Heathrow – MPV 7 Transfer",
+              "description": "Group MPV 7 minicab from Hanwell W7 to Heathrow Airport for up to 7 passengers."
+            },
+            "price": "83.00",
+            "priceCurrency": "GBP"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How do I book a minicab from Hanwell W7 to Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can book online through our secure platform, call our team directly, or complete a reservation in just a few minutes. All Hanwell W7 bookings receive instant confirmation with driver details and a guaranteed fixed price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How far is Hanwell W7 from Heathrow Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hanwell W7 is approximately 8 miles (13 km) from Heathrow Airport via the A4020 or A40 and M4. Journey times typically range from 20 to 35 minutes depending on traffic conditions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the minicab fare from Hanwell W7 to Heathrow?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our Hanwell W7 to Heathrow saloon fare starts from £44 with a fully fixed price. The airport pickup fare is slightly higher at £49 to include terminal waiting and parking allowances."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Meet and Greet available at Heathrow for Hanwell W7 passengers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our complimentary Meet & Greet service is available at all four Heathrow terminals. Your chauffeur waits in the arrivals hall with a personalised name board and assists with luggage before your transfer to Hanwell W7."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab available 24 hours a day from Hanwell W7?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our Hanwell W7 minicab service operates 24 hours a day, 7 days a week including public holidays, with no out-of-hours surcharges applied to any booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is LTR Minicab an affordable Heathrow transfer from Hanwell W7?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. LTR Minicab offers affordable and competitive Heathrow transfer fares from Hanwell W7 starting from just £44 for a Saloon. All prices are fixed at the time of booking with no surge pricing or hidden fees."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which airports can I travel to from Hanwell W7?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We operate direct transfers from Hanwell W7 to Heathrow, Gatwick, Stansted, Luton, London City, and Southend Airport with fixed fares and professional licensed chauffeurs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer group transfers from Hanwell W7?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We provide MPV 5, MPV 6, MPV 7, and MPV 8 vehicles for families and groups travelling from Hanwell W7 to airports, hotels, and UK destinations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you cover Hanwell Broadway and surrounding W7 streets?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We cover all streets within the W7 postcode including Hanwell Broadway, Church Road, Uxbridge Road, Boston Road, and surrounding residential areas for all airport and UK transfers."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the Hanwell W7 service available on weekends and bank holidays?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our Hanwell W7 minicab service runs every day of the year including weekends and all UK bank holidays at no additional cost."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Hanwell W7 Minicab Transfers",
+          "item": "https://ltrminicab.com/uk-minicab-transfers/hanwell-minicab/"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Transfer",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Hanwell W7, London"
+      },
+      "name": "Hanwell W7 Airport Minicab & Taxi Transfer Service",
+      "description": "Reliable fixed-price minicab and taxi transfers from Hanwell W7 to Heathrow, Gatwick, Stansted, Luton, and London City Airport with professional chauffeurs, Meet & Greet, and 24/7 availability.",
+      "offers": [
+        { "@type": "Offer", "name": "Saloon – Hanwell W7 to Heathrow", "price": "44.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive – Hanwell W7 to Heathrow", "price": "57.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Estate – Hanwell W7 to Heathrow", "price": "50.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 5 – Hanwell W7 to Heathrow", "price": "62.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 6 – Hanwell W7 to Heathrow", "price": "71.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 7 – Hanwell W7 to Heathrow", "price": "83.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "Executive MPV 7 – Hanwell W7 to Heathrow", "price": "100.00", "priceCurrency": "GBP" },
+        { "@type": "Offer", "name": "MPV 8 – Hanwell W7 to Heathrow", "price": "110.00", "priceCurrency": "GBP" }
+      ]
+    }
+  ]
+}
