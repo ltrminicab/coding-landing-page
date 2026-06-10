@@ -1,0 +1,52 @@
+{
+  "page": "Gatwick Airport to Wembley HA9 Taxi",
+  "slug": "gatwick-to-wembley-ha9-taxi",
+  "url": "https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-wembley-ha9-taxi/",
+  "postcode": "HA9",
+  "areaName": "Wembley",
+  "borough": "London Borough of Brent",
+  "distanceMiles": 48,
+  "journeyTimeMinutes": "80 to 105",
+  "fares": {
+    "toWembley": {
+      "saloon": 98,
+      "executive": 128,
+      "estate": 108,
+      "mpv5": 139,
+      "mpv6": 164,
+      "mpv7": 189,
+      "executiveMpv7": 228,
+      "mpv8": 256
+    },
+    "fromWembley": {
+      "saloon": 106,
+      "executive": 138,
+      "estate": 117,
+      "mpv5": 150,
+      "mpv6": 177,
+      "mpv7": 204,
+      "executiveMpv7": 246,
+      "mpv8": 276
+    }
+  },
+  "areasCovered": [
+    "Wembley Park",
+    "Wembley Central",
+    "Tokyngton",
+    "Sudbury",
+    "Sudbury Court",
+    "Preston",
+    "Alperton",
+    "North Wembley",
+    "Wembley Stadium area",
+    "OVO Arena Wembley area"
+  ],
+  "localHighlights": [
+    "Wembley Park station (Jubilee and Metropolitan lines)",
+    "Wembley Central station (Bakerloo line, London Overground, National Rail)",
+    "Wembley Stadium and OVO Arena Wembley",
+    "London Designer Outlet",
+    "Ealing Road shops and restaurants",
+    "A406 North Circular access"
+  ]
+}
