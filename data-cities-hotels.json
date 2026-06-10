@@ -1,0 +1,26 @@
+{
+  "cities": [
+    { "name": "Birmingham", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/reliable-minicab-service-in-birmingham/" },
+    { "name": "London", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-london/" },
+    { "name": "Manchester", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-manchester/" },
+    { "name": "Watford", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-watford/" },
+    { "name": "Reading", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-reading/" },
+    { "name": "Luton", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-luton-town/#" },
+    { "name": "Oxford", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-oxford/" },
+    { "name": "Cambridge", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-cambridge/" },
+    { "name": "Edinburgh", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-edinburgh/" },
+    { "name": "Brighton", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-brighton/" }
+  ],
+  "hotels": [
+    { "name": "Hyde & Seek (Tribute)", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-hyde-seek-hyde-park-taxi-transfers/" },
+    { "name": "citizenM London Olympia", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-citizenm-london-olympia-kensington-taxi/" },
+    { "name": "The Zetter Bloomsbury", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-zetter-bloomsbury-taxi-transfers/" },
+    { "name": "Montcalm Mayfair (Autograph)", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-montcalm-mayfair-autograph-collection-taxi/" },
+    { "name": "Dorsett Alpha Square", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-dorsett-alpha-square-canary-wharf-taxi-transfers/" },
+    { "name": "Best Western London Highbury", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-best-western-london-highbury-taxi-transfers/" },
+    { "name": "Woodberry Down Serviced Apartments", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-woodberry-down-serviced-apartments-manor-house-taxi/" },
+    { "name": "Leytonstone Tavern", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-leytonstone-tavern-taxi-transfers/" },
+    { "name": "The Sir Alfred Hitchcock", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-sir-alfred-hitchcock-leytonstone-taxi-transfers/" },
+    { "name": "Waltham Forest Guest House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-waltham-forest-guest-house-taxi-transfers/" }
+  ]
+}
