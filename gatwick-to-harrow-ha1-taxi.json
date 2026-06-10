@@ -1,0 +1,50 @@
+{
+  "page": "Gatwick Airport to Harrow HA1 Taxi",
+  "slug": "gatwick-to-harrow-ha1-taxi",
+  "url": "https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-harrow-ha1-taxi/",
+  "postcode": "HA1",
+  "areaName": "Harrow",
+  "borough": "London Borough of Harrow",
+  "distanceMiles": 49,
+  "journeyTimeMinutes": "80 to 110",
+  "fares": {
+    "toHarrow": {
+      "saloon": 99,
+      "executive": 129,
+      "estate": 109,
+      "mpv5": 140,
+      "mpv6": 166,
+      "mpv7": 191,
+      "executiveMpv7": 230,
+      "mpv8": 258
+    },
+    "fromHarrow": {
+      "saloon": 107,
+      "executive": 139,
+      "estate": 118,
+      "mpv5": 151,
+      "mpv6": 179,
+      "mpv7": 206,
+      "executiveMpv7": 248,
+      "mpv8": 278
+    }
+  },
+  "areasCovered": [
+    "Harrow on the Hill",
+    "Harrow town centre",
+    "Greenhill",
+    "Roxeth",
+    "West Harrow",
+    "Sudbury Hill",
+    "South Harrow borders",
+    "Harrow Weald borders"
+  ],
+  "localHighlights": [
+    "Harrow on the Hill station (Metropolitan line and Chiltern Railways)",
+    "South Harrow and West Harrow stations (Piccadilly and Metropolitan lines)",
+    "Harrow School and historic Harrow on the Hill",
+    "St Ann's and St George's shopping centres",
+    "Byron Recreation Ground and Roxeth Recreation Ground",
+    "A40 and A406 access for west and northwest London"
+  ]
+}
