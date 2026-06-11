@@ -1,37 +1,101 @@
+<!-- JSON-LD Schema Markup for Google Ranking -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Service",
+  "name": "Gatwick Airport to Ruislip HA4 Taxi – LTR Minicab",
   "serviceType": "Airport Transfer",
+  "description": "Pre-booked minicab and taxi transfers from Gatwick Airport to Ruislip HA4. Fixed fares, meet and greet, real-time flight tracking. 24/7 service across London.",
   "provider": {
     "@type": "LocalBusiness",
     "name": "LTR Minicab",
-    "url": "https://ltrminicab.com"
+    "url": "https://ltrminicab.com",
+    "logo": "https://ltrminicab.com/wp-content/uploads/2024/01/ltr-minicab-logo.png",
+    "telephone": "+442036678574",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "LTR Minicab, Heathrow Area",
+      "addressLocality": "London",
+      "postalCode": "TW6",
+      "addressCountry": "GB"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 51.4700,
+      "longitude": -0.4543
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+      "opens": "00:00",
+      "closes": "23:59"
+    },
+    "priceRange": "££",
+    "sameAs": ["https://ltrminicab.com"]
   },
   "areaServed": {
     "@type": "Place",
-    "name": "Ruislip HA4"
+    "name": "Ruislip, HA4, London Borough of Hillingdon"
   },
-  "name": "Gatwick Airport to Ruislip HA4 Taxi Transfer",
-  "description": "Fixed fare taxi transfers between Gatwick Airport and Ruislip HA4, available around the clock with professional drivers and flight tracking.",
   "offers": {
     "@type": "Offer",
     "priceCurrency": "GBP",
     "price": "97",
-    "priceSpecification": [
-      { "@type": "PriceSpecification", "name": "Saloon", "price": "97", "priceCurrency": "GBP" },
-      { "@type": "PriceSpecification", "name": "Executive", "price": "126", "priceCurrency": "GBP" },
-      { "@type": "PriceSpecification", "name": "Estate", "price": "106", "priceCurrency": "GBP" },
-      { "@type": "PriceSpecification", "name": "MPV5", "price": "137", "priceCurrency": "GBP" },
-      { "@type": "PriceSpecification", "name": "MPV6", "price": "162", "priceCurrency": "GBP" },
-      { "@type": "PriceSpecification", "name": "MPV7", "price": "187", "priceCurrency": "GBP" },
-      { "@type": "PriceSpecification", "name": "Executive MPV7", "price": "225", "priceCurrency": "GBP" },
-      { "@type": "PriceSpecification", "name": "MPV8", "price": "253", "priceCurrency": "GBP" }
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "price": "97",
+      "priceCurrency": "GBP",
+      "description": "Fixed fare saloon from Gatwick Airport to Ruislip HA4"
+    },
+    "availability": "https://schema.org/InStock",
+    "url": "https://book.ltrminicab.com/"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Vehicle Types",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Saloon – Gatwick Airport to Ruislip HA4",
+          "description": "Up to 4 passengers, 2 medium bags"
+        },
+        "price": "97",
+        "priceCurrency": "GBP"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Executive – Gatwick Airport to Ruislip HA4",
+          "description": "Up to 4 passengers, premium Mercedes E Class or similar"
+        },
+        "price": "126",
+        "priceCurrency": "GBP"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "MPV 6 – Gatwick Airport to Ruislip HA4",
+          "description": "Up to 6 passengers, 4 medium bags"
+        },
+        "price": "162",
+        "priceCurrency": "GBP"
+      }
     ]
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "302",
+    "bestRating": "5"
   }
 }
 </script>
 
+<!-- BreadcrumbList Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -47,7 +111,7 @@
       "@type": "ListItem",
       "position": 2,
       "name": "Gatwick Airport Transfers",
-      "item": "https://ltrminicab.com/gatwick-airport-transfers/"
+      "item": "https://ltrminicab.com/professional-gatwick-airport-chauffeur-service/"
     },
     {
       "@type": "ListItem",
@@ -59,6 +123,7 @@
 }
 </script>
 
+<!-- FAQPage Schema -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -69,23 +134,23 @@
       "name": "How much does a taxi from Gatwick Airport to Ruislip HA4 cost?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A standard saloon car from Gatwick Airport to Ruislip HA4 starts at a fixed fare of £97. Larger vehicles such as estates, MPVs and executive cars are also available at set prices, so the amount you pay is agreed before you travel with no hidden extras."
+        "text": "A saloon car from Gatwick Airport to Ruislip HA4 starts from £97, fixed when you book with no extra costs added once you reach your destination. Estate, executive and MPV vehicles are also available at clear set prices for larger groups or extra luggage."
       }
     },
     {
       "@type": "Question",
-      "name": "How long does the journey from Gatwick Airport to Ruislip HA4 normally take?",
+      "name": "How long does a transfer from Gatwick Airport to Ruislip HA4 take?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Most transfers between Gatwick Airport and Ruislip HA4 take between 75 and 105 minutes, depending on traffic on the M25 and A40. Our drivers monitor live traffic updates and choose the quickest route on the day."
+        "text": "A transfer from Gatwick Airport to Ruislip HA4 usually takes between 75 and 105 minutes, covering around 46 miles via the M23, M25 and A40, depending on traffic and the route your driver chooses on the day."
       }
     },
     {
       "@type": "Question",
-      "name": "Is it possible to get to Ruislip from Gatwick by train and tube?",
+      "name": "Is it easy to reach Ruislip by train and tube from Gatwick?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, but it usually involves at least one change, often via central London onto the Piccadilly or Metropolitan lines to Ruislip station, with luggage in tow. A door to door minicab avoids the changes and is far more convenient with bags and after a long flight."
+        "text": "Reaching Ruislip from Gatwick by public transport usually means a mainline service into central London followed by a change onto the Metropolitan, Piccadilly or Central line out to Ruislip, Ruislip Manor or West Ruislip station. With suitcases this can take well over two hours door to door, whereas a pre-booked minicab takes you directly without any changes."
       }
     },
     {
@@ -93,7 +158,7 @@
       "name": "Do your drivers know the area around Ruislip High Street and Ruislip Lido?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, our drivers regularly cover Ruislip and the surrounding HA4 postcode, including Ruislip High Street, Ruislip Manor, Eastcote and the roads near Ruislip Lido, so they can find your address quickly without relying solely on satnav."
+        "text": "Yes, our drivers regularly cover Ruislip and the wider HA4 postcode, including Ruislip High Street, Ruislip Manor, South Ruislip, West Ruislip and the roads near Ruislip Lido and Park Wood, so they can find your address quickly without relying solely on satnav."
       }
     },
     {
@@ -101,7 +166,7 @@
       "name": "Can I book a return journey from Ruislip HA4 back to Gatwick Airport?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Of course. You can book a one way trip or a return at the same time. For early morning departures from Ruislip, we recommend booking a little extra time to allow for traffic on the way to the airport."
+        "text": "Yes. LTR Minicab offers fixed-fare return transfers from Ruislip HA4 to Gatwick Airport starting from £105 for a saloon, with the fare confirmed before your driver sets off to collect you."
       }
     },
     {
@@ -109,7 +174,7 @@
       "name": "What is the best time to leave Ruislip HA4 for an early Gatwick flight?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "For early flights we generally suggest leaving Ruislip around three hours before departure, which usually gives a comfortable buffer for security and check in once you allow for the drive time and any unexpected delays."
+        "text": "For early flights we generally suggest leaving Ruislip around three hours before departure. Setting off before 6am usually means a quieter run along the A40 and onto the M25, giving a comfortable buffer for check in and security."
       }
     },
     {
@@ -117,31 +182,31 @@
       "name": "Are wheelchair accessible vehicles available for this route?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, we can arrange a wheelchair accessible vehicle for transfers between Gatwick Airport and Ruislip HA4. Please mention this when booking so we can allocate the right vehicle and allow extra time if needed."
+        "text": "Please contact our team directly when booking your Gatwick to Ruislip HA4 transfer if you have accessibility requirements, so we can discuss the vehicle options available and arrange the most suitable car for your journey."
       }
     },
     {
       "@type": "Question",
-      "name": "Will I be charged extra for suitcases or golf clubs and similar bulky items?",
+      "name": "Will I be charged extra for golf clubs, bikes or extra suitcases?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Standard luggage is included in the fare. If you are travelling with bulky items such as golf bags, skis or extra suitcases, just let us know in advance so we can send a vehicle with enough boot space."
+        "text": "Standard luggage is included in the fare. If you are travelling with bulky items such as golf bags, bikes or extra suitcases, just let us know in advance so we can send a vehicle with enough boot space for the Ruislip HA4 run."
       }
     },
     {
       "@type": "Question",
-      "name": "What payment options do you accept for a Gatwick to Ruislip HA4 minicab?",
+      "name": "What payment methods are accepted for a Gatwick to Ruislip HA4 minicab?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "We accept major debit and credit cards online, as well as cash payments to the driver. Corporate accounts with monthly invoicing are also available for regular business travellers."
+        "text": "Most bookings for the Gatwick to Ruislip HA4 route are completed online through our secure system at the time of reservation. If you have a question about other payment arrangements, please contact our team directly while booking."
       }
     },
     {
       "@type": "Question",
-      "name": "Where will my driver meet me when I land at Gatwick Airport?",
+      "name": "Where do I meet my driver at Gatwick for the journey to Ruislip HA4?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Your driver will wait in the arrivals area holding a board with your name, and we track your flight so that any delays are accounted for automatically. You will receive the driver's contact details ahead of your trip."
+        "text": "Your driver will be waiting inside the International Arrivals Hall of the terminal stated on your booking, either North or South, holding a sign with your name. The exact meeting point and your driver's direct contact number are included in your booking confirmation."
       }
     }
   ]
@@ -149,558 +214,918 @@
 </script>
 
 <!-- home-testimonials -->
-<section class="home-testimonials section-padding">
-  <div class="container">
-    <div class="row justify-content-center text-center mb-4">
-      <div class="col-lg-8">
-        <h2>What Our Ruislip HA4 Customers Say About Us</h2>
-        <p>Real feedback from passengers who have travelled between Gatwick Airport and Ruislip HA4 with LTR Minicab.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-12">
+<div class="section home-testimonials">
+    <div class="container-fluid section-padding">
         [trustindex no-registration=google]
-      </div>
     </div>
-  </div>
-</section>
+</div>
 
 <!-- home-why-choose-us -->
-<section class="home-why-choose-us section-padding bg-light">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6">
-        [theme_img src="why-choose-us.jpg" class="img-fluid" alt="LTR Minicab driver loading luggage for Gatwick airport transfer"]
-      </div>
-      <div class="col-lg-6">
-        <h2>Why Travellers in Ruislip HA4 Choose LTR Minicab</h2>
-        <p>LTR Minicab provides reliable fixed-fare transfers between Gatwick Airport and Ruislip HA4 with postcode for business travellers, hotel guests, and rail passengers. Enjoy professional drivers, flight monitoring, and 24/7 airport transfer service.</p>
-        <ul>
-          <li>Fixed fares agreed before you travel, with no surprise charges</li>
-          <li>Flight tracking so we adjust for early or delayed arrivals</li>
-          <li>Clean, comfortable vehicles for every party size</li>
-          <li>Friendly, experienced drivers who know Ruislip and the surrounding HA4 roads</li>
-          <li>Round the clock booking and customer support</li>
-        </ul>
-        <a href="https://ltrminicab.com/booking/" class="btn btn-primary">Get a Quote for Ruislip HA4</a>
-      </div>
-    </div>
-  </div>
-</section>
+<div class="section home-why-choose-us">
+<div class="container">
+<div class="row">
+
+<div class="col-lg-6 col-md-12 col-sm-12">
+<div class="content">
+
+<h2 class="text-left">Smooth and Reliable Transfers from Gatwick to Ruislip HA4</h2>
+
+<p class="d-lg-none d-md-block text-start">
+Ruislip HA4 is a leafy and well-connected suburb in northwest London, popular with families and commuters. LTR Minicab provides fixed-fare pre-booked transfers between Gatwick Airport and Ruislip for residents, visitors, and business travellers, with fully licensed drivers available around the clock every day of the year.</p>
+
+<div class="items-area">
+
+<div class="item">
+[theme_img src="img/fee-canselation.svg" class="img-fluid" alt="fee-canselation"]
+<div class="info">
+<h3>Free to Cancel in Advance</h3>
+Cancel your Gatwick to Ruislip HA4 booking up to 12 hours before pickup and receive a full refund with no cancellation fees
+</div>
+</div>
+
+<div class="item">
+[theme_img src="img/round-clock.svg" class="img-fluid" alt="round-clock"]
+<div class="info">
+<h3>Open Every Hour of the Year</h3>
+Whatever time your flight arrives at Gatwick, our team is ready to manage your Ruislip HA4 pickup without delay
+</div>
+</div>
+
+<div class="item">
+[theme_img src="img/full-lisience.svg" class="img-fluid" alt="full-lisience"]
+<div class="info">
+<h3>Licensed and Insured Drivers</h3>
+Every driver covering the Gatwick to Ruislip HA4 route holds a current TfL private hire licence and drives a fully insured, well kept vehicle
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div class="col-lg-6 col-md-12 col-sm-12">
+<div class="content">
+
+<p class="d-lg-block d-none">Ruislip HA4 is a leafy and well-connected suburb in northwest London, popular with families and commuters. LTR Minicab provides fixed-fare pre-booked transfers between Gatwick Airport and Ruislip for residents, visitors, and business travellers, with fully licensed drivers available around the clock every day of the year.</p>
+
+<div class="items-area">
+
+<div class="item">
+[theme_img src="img/meet-greet.svg" class="img-fluid" alt="meet-greet"]
+<div class="info">
+<h3>Greeted on Arrival</h3>
+Your driver waits inside the Gatwick arrivals hall with a name sign and helps load your bags into the car at no extra cost
+</div>
+</div>
+
+<div class="item">
+[theme_img src="img/flight-monitoring.svg" class="img-fluid" alt="flight-monitoring"]
+<div class="info">
+<h3>Flight Times Tracked Live</h3>
+We follow your Gatwick flight in real time so your Ruislip HA4 pickup matches your actual landing, not the schedule
+</div>
+</div>
+
+<div class="item">
+[theme_img src="img/free-waiting.svg" class="img-fluid" alt="free-waiting"]
+<div class="info">
+<h3>45 Free Minutes on Arrival</h3>
+Every Gatwick arrivals booking to Ruislip HA4 includes 45 minutes of complimentary waiting to cover passport control and baggage delays
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
 
 <!-- way-it-operates -->
-<section class="way-it-operates section-padding">
-  <div class="container">
-    <div class="row justify-content-center text-center mb-5">
-      <div class="col-lg-8">
-        <h2>Booking Your Gatwick to Ruislip HA4 Ride in Four Steps</h2>
-        <p>Arranging your transfer between Gatwick Airport and Ruislip HA4 takes just a couple of minutes online or by phone.</p>
-      </div>
-    </div>
-    <div class="row text-center">
-      <div class="col-md-3">
-        [theme_img src="step1.png" class="img-fluid" alt="Enter your Gatwick to Ruislip journey details"]
-        <h3>1. Enter Your Details</h3>
-        <p>Tell us your pickup point, destination, date and time, along with the number of passengers and bags.</p>
-      </div>
-      <div class="col-md-3">
-        [theme_img src="step2.png" class="img-fluid" alt="Choose a vehicle for your Ruislip HA4 transfer"]
-        <h3>2. Pick Your Vehicle</h3>
-        <p>Choose from saloon, estate, MPV or executive cars depending on your group size and budget.</p>
-      </div>
-      <div class="col-md-3">
-        [theme_img src="step3.png" class="img-fluid" alt="Receive confirmation for your Gatwick taxi to Ruislip"]
-        <h3>3. Confirm and Pay</h3>
-        <p>Get instant confirmation by email and text, with a fixed price agreed up front.</p>
-      </div>
-      <div class="col-md-3">
-        [theme_img src="step4.png" class="img-fluid" alt="Travel comfortably from Gatwick to Ruislip HA4"]
-        <h3>4. Travel Comfortably</h3>
-        <p>Your driver meets you at the agreed point and takes you directly to or from Ruislip HA4.</p>
-      </div>
-    </div>
-  </div>
-</section>
+<div class="section way-it-operates">
+<div class="container">
+<div class="content-area text-center">
+<h2>Booking Your Gatwick to Ruislip HA4 Transfer in Four Steps</h2>
+A short online booking process gives you a confirmed fixed fare for your Gatwick Airport to Ruislip HA4 transfer along with full driver details well ahead of your travel date
+</div>
+
+<div class="row items-area">
+
+<div class="col-lg-3 col-md-16 col-sm-12">
+<div class="item text-center">
+<div class="image-area">[theme_img src="img/journey.svg" class="img-fluid" alt="journey"]</div>
+<div class="info">
+<h3>Enter Pickup and Drop-Off</h3>
+Set Gatwick Airport as your pickup and your Ruislip HA4 address as the destination, then add your travel date and flight number
+</div>
+</div>
+</div>
+
+<div class="col-lg-3 col-md-16 col-sm-12">
+<div class="item text-center">
+<div class="image-area">[theme_img src="img/choose-ride.svg" class="img-fluid" alt="choose-ride"]</div>
+<div class="info">
+<h3>Select Your Car</h3>
+Choose from saloon, estate, executive, and MPV options depending on how many passengers and bags are travelling to HA4
+</div>
+</div>
+</div>
+
+<div class="col-lg-3 col-md-16 col-sm-12">
+<div class="item text-center">
+<div class="image-area">[theme_img src="img/pay.svg" class="img-fluid" alt="pay"]</div>
+<div class="info">
+<h3>Pay and Confirm</h3>
+Complete payment through our secure checkout to lock in your Gatwick to Ruislip HA4 fare ahead of your departure date
+</div>
+</div>
+</div>
+
+<div class="col-lg-3 col-md-16 col-sm-12">
+<div class="item text-center">
+[theme_img src="img/recieve-confirm.svg" class="img-fluid" alt="recieve-confirm"]
+<div class="info">
+<h3>Get Driver Details by Email</h3>
+Your driver's contact information and Gatwick terminal meeting point are emailed to you straight after payment is complete
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
 
 <!-- home-prebook -->
-<section class="home-prebook section-padding bg-light">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6">
-        <h2>Gatwick Airport to Ruislip HA4 Taxi Transfer</h2>
-        <p>LTR Minicab offers a dependable, fixed-fare minicab service between Gatwick Airport and Ruislip HA4. Whether you are heading home after a flight, travelling to catch a departure, or need a reliable ride for guests, our drivers provide a comfortable, door to door journey with no waiting around for public transport connections.</p>
-        <p>We cover all parts of HA4 and the surrounding area, including Ruislip town centre and the High Street shops, Ruislip Manor and its station on the Metropolitan and Piccadilly lines, Eastcote and the leafy roads bordering Eastcote Lane, South Ruislip and the industrial estates near Victoria Road, West Ruislip and its mainline and Central line station, plus the area around Ruislip Lido and Park Wood. Drivers are familiar with Pinn Way, Bury Street, West End Road and the routes onto the A40 towards central London and Gatwick.</p>
-        <a href="https://ltrminicab.com/booking/" class="btn btn-primary">Book Your Ruislip HA4 Transfer</a>
-      </div>
-      <div class="col-lg-6">
-        <iframe src="https://www.google.com/maps?q=Ruislip+HA4+to+Gatwick+Airport&output=embed" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-      </div>
-    </div>
-  </div>
-</section>
+<div class="section home-prebook">
+<div class="container">
+<div class="content">
+
+<h2>Gatwick Airport to Ruislip HA4 Taxi Transfer</h2>
+
+<p>A Gatwick Airport to Ruislip HA4 taxi covers direct transfers from Gatwick North or South Terminal to Ruislip town centre, Ruislip Manor, South Ruislip, West Ruislip, Eastcote borders, and the area around Ruislip Lido and Park Wood, along with all surrounding streets within the HA4 postcode in northwest London. LTR Minicab provides fixed-fare Gatwick to Ruislip transfers with real-time flight monitoring, luggage assistance, and 24/7 pre-booked minicab service.</p>
+
+<p>The HA4 postcode covers Ruislip and the surrounding neighbourhoods that sit between the Hillingdon and Harrow borders, forming one of the area's greenest and most family friendly localities. Ruislip itself is centred on the historic High Street, with its timber framed buildings, independent shops, cafes and the village green known as Manor Farm. Ruislip Manor lies just south, built around its station on the Metropolitan and Piccadilly lines, with a busy parade of shops along Victoria Road. South Ruislip, further along, is known for its station on the Central line and Chiltern main line, along with the industrial estates near Victoria Road and Long Drive. West Ruislip marks the western edge of the Central line, with its mainline station offering routes towards High Wycombe and beyond. To the north, Ruislip Lido and the surrounding woodland of Park Wood and Copse Wood offer a popular spot for walking, sailing and the narrow gauge railway. Eastcote, bordering HA4 to the east, blends into Ruislip with leafy residential streets around Eastcote Lane and Field End Road. Drivers are familiar with Pinn Way, Bury Street, West End Road and the routes onto the A40 towards central London and Gatwick. LTR Minicab drivers know every road, parade of shops and residential estate across HA4 and deliver passengers directly to the correct address every time.</p>
+
+<br>
+<strong>Journey Details – Gatwick Airport to Ruislip HA4</strong><br><br>
+
+<ul>
+<li><strong>Distance:</strong> approx. 46 miles (74 km)</li>
+<li><strong>Journey Time:</strong> approx. 75 to 105 minutes</li>
+<li><strong>Price:</strong> from £97 (Saloon Car)</li>
+</ul>
+
+<div class="button-area">
+<a class="btn btn-book" href="https://book.ltrminicab.com/">Book Now <i class="fa-solid fa-arrow-right"></i></a>
+</div>
+
+<br><br>
+
+<div class="container">
+<div class="row align-items-center">
+<div class="container">
+<div class="image-area">
+<iframe src="https://www.google.com/maps?q=Gatwick+Airport+RH6+to+Ruislip+HA4+London&output=embed" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
 
 <!-- ideal-rides -->
-<section class="ideal-rides section-padding">
-  <div class="container">
-    <div class="row justify-content-center text-center mb-5">
-      <div class="col-lg-8">
-        <h2>Ruislip HA4, A Green Suburb with Easy Tube Links</h2>
-        <p>Ruislip is known for its open spaces, woodland and lido, alongside good transport links into central London and out towards the M40 and M25.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-4">
-        [theme_img src="ride1.jpg" class="img-fluid" alt="Family travelling from Gatwick to Ruislip HA4"]
-        <h3>Family Holiday Transfers</h3>
-        <p>Spacious MPVs for families returning to or leaving Ruislip with plenty of luggage and pushchairs.</p>
-      </div>
-      <div class="col-md-4">
-        [theme_img src="ride2.jpg" class="img-fluid" alt="Business traveller taxi from Gatwick to Ruislip HA4"]
-        <h3>Business and Corporate Travel</h3>
-        <p>Executive cars for professionals heading to meetings or returning home to Ruislip after a business trip.</p>
-      </div>
-      <div class="col-md-4">
-        [theme_img src="ride3.jpg" class="img-fluid" alt="Group transfer from Gatwick Airport to Ruislip Manor"]
-        <h3>Group and Friend Transfers</h3>
-        <p>MPV7 and MPV8 vehicles for groups travelling together to Ruislip Manor, Eastcote or West Ruislip.</p>
-      </div>
-    </div>
-  </div>
-</section>
+<div class="section ideal-rides">
+<div class="container">
+<div class="row">
+
+<div class="col-lg-6 col-md-12 col-sm-12">
+<div class="content">
+<h2>Ruislip HA4 – A Green and Historic Northwest London Suburb</h2>
+
+<p>Ruislip HA4 is a leafy suburb known for its historic High Street, woodland, and Ruislip Lido, alongside excellent transport links into central London and out towards the M40 and M25. The area blends the village feel of old Ruislip with the busier centres of Ruislip Manor and South Ruislip.</p>
+
+<p>Travellers arriving from Gatwick Airport often choose LTR Minicab for a direct fixed-fare transfer straight to their Ruislip HA4 address, avoiding the need to change trains and tubes across central London while carrying luggage.</p>
+
+<div class="button-area">
+<a href="https://book.ltrminicab.com/" class="btn btn-book">Get a Price Now <i class="fa-solid fa-arrow-right"></i></a>
+</div>
+
+</div>
+</div>
+
+<div class="col-lg-6 col-md-12 col-sm-12">
+<div class="content">
+<h2>Ruislip HA4 – Stations, Parks, and Local Highlights</h2>
+
+<ul>
+<li><i class="fa-solid fa-check"></i>Ruislip Manor station on the Metropolitan and Piccadilly lines</li>
+<li><i class="fa-solid fa-check"></i>West Ruislip station on the Central line and Chiltern main line</li>
+<li><i class="fa-solid fa-check"></i>Historic Ruislip High Street and Manor Farm village green</li>
+<li><i class="fa-solid fa-check"></i>Ruislip Lido and the woodland of Park Wood and Copse Wood</li>
+<li><i class="fa-solid fa-check"></i>South Ruislip industrial estates near Victoria Road and Long Drive</li>
+<li><i class="fa-solid fa-check"></i>Easy access to the A40 and routes towards west London and the M40</li>
+</ul>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
 
 <!-- travel-options-comparison -->
-<section class="travel-options-comparison section-padding bg-light">
-  <div class="container">
-    <div class="row justify-content-center text-center mb-5">
-      <div class="col-lg-8">
-        <h2>Gatwick Airport to Ruislip HA4: Comparing Your Travel Choices</h2>
-        <p>See how a private minicab compares with public transport and other options for getting between Gatwick Airport and Ruislip HA4.</p>
-      </div>
-    </div>
-    <div class="table-responsive">
-      <table class="table table-bordered text-center">
-        <thead>
-          <tr>
-            <th>Option</th>
-            <th>Approx Time</th>
-            <th>Approx Cost</th>
-            <th>Comfort and Convenience</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>LTR Minicab (Saloon)</td>
-            <td>75 to 105 minutes</td>
-            <td>From £97 fixed fare</td>
-            <td>Door to door, no transfers, fixed price</td>
-          </tr>
-          <tr>
-            <td>Train and Underground</td>
-            <td>90 to 130 minutes</td>
-            <td>£15 to £30 per person</td>
-            <td>Multiple changes, luggage handling required</td>
-          </tr>
-          <tr>
-            <td>Airport Coach and Bus</td>
-            <td>120 to 180 minutes</td>
-            <td>£10 to £25 per person</td>
-            <td>Budget friendly but slower with limited luggage space</td>
-          </tr>
-          <tr>
-            <td>Private Hire on Arrival</td>
-            <td>Variable</td>
-            <td>Often higher than pre-booked rates</td>
-            <td>No fixed price, availability not guaranteed</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-</section>
+<div class="section travel-options-comparison">
+<div class="container">
 
-<!-- home-london-airport (meet and greet) -->
-<section class="home-london-airport section-padding">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6 order-lg-2">
-        [theme_img src="meet-greet.jpg" class="img-fluid" alt="Driver meeting passenger at Gatwick Airport arrivals for Ruislip transfer"]
-      </div>
-      <div class="col-lg-6 order-lg-1">
-        <h2>Arriving at Gatwick? We Take You Straight to Ruislip HA4</h2>
-        <p>After a long flight, the last thing you want is to navigate trains and tube changes with heavy luggage. Our meet and greet service means your driver is waiting in arrivals, ready to take you directly to your address in Ruislip HA4.</p>
-        <ul>
-          <li>Flight tracking so we know if you land early or late</li>
-          <li>Driver waiting in arrivals with a name board</li>
-          <li>Help with luggage to the vehicle</li>
-          <li>Direct, non-stop journey to Ruislip HA4</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
+<div class="content-area text-center">
+<h2>Gatwick Airport to Ruislip HA4: Your Travel Options Compared</h2>
+<p>Here is a clear comparison of the main ways to travel from Gatwick Airport to Ruislip HA4, looking at cost, journey time, and how practical each option is when you have luggage with you.</p>
+<br>
+</div>
+
+<div class="row g-4 justify-content-center">
+
+<!-- Gatwick Express -->
+<div class="col-lg-3 col-md-6 col-sm-12">
+<div class="travel-box" style="border:1px solid #dcdcdc;border-radius:8px;overflow:hidden;background:#fff;height:100%;box-shadow:0 2px 8px rgba(0,0,0,0.03);">
+<div style="padding:28px 22px 20px 22px; background:#ffffff; min-height:245px;">
+<div style="display:flex; align-items:center; gap:10px; margin-bottom:18px;">
+<i class="fa-solid fa-train" style="font-size:22px; color:#222;"></i>
+<h3 style="font-size:24px;font-weight:700;margin:0;color:#111;">Gatwick Express and Tube</h3>
+</div>
+<p style="font-size:15px;line-height:1.8;color:#444;margin-bottom:22px;min-height:120px;">
+The <a href="https://www.gatwickexpress.com/" style="font-weight:700; text-decoration:underline; color:inherit;">Gatwick Express train</a> reaches Victoria in 30 minutes, but Ruislip HA4 then needs a further Underground journey, usually onto the Metropolitan or Piccadilly line, plus a walk or short ride to your final address. With luggage the full trip from Gatwick can take well over two hours.
+</p>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<span style="background:#eef2e3;padding:6px 12px;border-radius:20px;font-size:13px;color:#555;">30 minutes to Victoria</span>
+<span style="background:#f3efe6;padding:6px 12px;border-radius:20px;font-size:13px;color:#555;">Tube changes needed</span>
+</div>
+</div>
+<div style="background:#f7f7f7; height:55px;"></div>
+</div>
+</div>
+
+<!-- Black Cab -->
+<div class="col-lg-3 col-md-6 col-sm-12">
+<div class="travel-box" style="border:1px solid #dcdcdc;border-radius:8px;overflow:hidden;background:#fff;height:100%;box-shadow:0 2px 8px rgba(0,0,0,0.03);">
+<div style="padding:28px 22px 20px 22px; background:#ffffff; min-height:245px;">
+<div style="display:flex; align-items:center; gap:10px; margin-bottom:18px;">
+<i class="fa-solid fa-taxi" style="font-size:22px; color:#222;"></i>
+<h3 style="font-size:24px;font-weight:700;margin:0;color:#111;">Black Cab</h3>
+</div>
+<p style="font-size:15px;line-height:1.8;color:#444;margin-bottom:22px;min-height:120px;">
+A <a href="https://www.londonblackcabtransfers.com/" style="font-weight:700; text-decoration:underline; color:inherit;">metered black taxi</a> from Gatwick can take you directly to Ruislip HA4, but over a journey of around 46 miles the metered fare can run well above £150, with no fixed price agreed beforehand and no arrivals greeting included.
+</p>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<span style="background:#eef2e3;padding:6px 12px;border-radius:20px;font-size:13px;color:#555;">Available on rank</span>
+<span style="background:#f3efe6;padding:6px 12px;border-radius:20px;font-size:13px;color:#555;">Costly over distance</span>
+</div>
+</div>
+<div style="background:#f7f7f7; height:55px;"></div>
+</div>
+</div>
+
+<!-- Uber -->
+<div class="col-lg-3 col-md-6 col-sm-12">
+<div class="travel-box" style="border:1px solid #dcdcdc;border-radius:8px;overflow:hidden;background:#fff;height:100%;box-shadow:0 2px 8px rgba(0,0,0,0.03);">
+<div style="padding:28px 22px 20px 22px; background:#ffffff; min-height:245px;">
+<div style="display:flex; align-items:center; gap:10px; margin-bottom:18px;">
+<i class="fa-solid fa-mobile-screen-button" style="font-size:22px; color:#222;"></i>
+<h3 style="font-size:24px;font-weight:700;margin:0;color:#111;">Uber</h3>
+</div>
+<p style="font-size:15px;line-height:1.8;color:#444;margin-bottom:22px;min-height:120px;">
+An <a href="https://www.uber.com/global/en/r/cities/london-eng-gb/" style="font-weight:700; text-decoration:underline; color:inherit;">app-based taxi</a> can be booked at Gatwick, but for the long run to Ruislip HA4 the price is not fixed and can rise sharply during busy periods. There is no personal arrivals greeting and no automatic adjustment if your flight lands late.
+</p>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<span style="background:#eef2e3;padding:6px 12px;border-radius:20px;font-size:13px;color:#555;">Quick app booking</span>
+<span style="background:#f3efe6;padding:6px 12px;border-radius:20px;font-size:13px;color:#555;">Variable pricing</span>
+</div>
+</div>
+<div style="background:#f7f7f7; height:55px;"></div>
+</div>
+</div>
+
+<!-- Minicab -->
+<div class="col-lg-3 col-md-6 col-sm-12">
+<div class="travel-box" style="border:2px solid #2f6df6;border-radius:8px;overflow:hidden;background:#fff;height:100%;box-shadow:0 2px 12px rgba(47,109,246,0.08);position:relative;">
+<div style="position:absolute;top:12px;right:12px;background:#dbe8ff;color:#2f6df6;font-size:12px;font-weight:700;padding:5px 12px;border-radius:20px;">Recommended</div>
+<div style="padding:28px 22px 20px 22px; background:#ffffff; min-height:245px;">
+<div style="display:flex; align-items:center; gap:10px; margin-bottom:18px;">
+<i class="fa-solid fa-circle-check" style="font-size:22px; color:#2f6df6;"></i>
+<h3 style="font-size:24px;font-weight:700;margin:0;color:#111;">Minicab / Airport Transfer</h3>
+</div>
+<p style="font-size:15px;line-height:1.8;color:#444;margin-bottom:22px;min-height:120px;">
+A <a href="https://book.ltrminicab.com/" style="font-weight:700; text-decoration:underline; color:inherit;">Ruislip airport minicab</a> from LTR Minicab costs from £97, with live Gatwick flight tracking, a friendly meet inside the terminal, and a direct door-to-door run to your HA4 address at one fixed price agreed before travel.
+</p>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<span style="background:#eef2e3;padding:6px 12px;border-radius:20px;font-size:13px;color:#555;">Fixed price</span>
+<span style="background:#eef2e3;padding:6px 12px;border-radius:20px;font-size:13px;color:#555;">Flight tracking</span>
+<span style="background:#eef2e3;padding:6px 12px;border-radius:20px;font-size:13px;color:#555;">Door-to-door</span>
+</div>
+</div>
+<div style="background:#f7f7f7; height:55px;"></div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<!-- home-london-airport -->
+<div class="section home-london-airport">
+<div class="container">
+<div class="row align-items-center">
+
+<div class="col-lg-6 col-md-12 col-sm-12">
+<div class="content">
+
+<h2>Straight from Gatwick Arrivals to Your Ruislip HA4 Address</h2>
+
+<p>As soon as your flight lands at Gatwick and you walk through into the arrivals area, your LTR Minicab driver will be waiting with a name board, ready to take your bags and head off towards Ruislip HA4. The meet and greet service operates at both the North Terminal and the South Terminal, at any hour, on any day of the year, regardless of your airline. Every booking includes 45 minutes of free waiting time, so delays at passport control or baggage reclaim are fully covered with nothing extra to pay. Your driver's direct contact number is included on your confirmation, so you can reach them as soon as you land. If you would like more detail on what to expect when you arrive, our <a href="https://ltrminicab.com/london-gatwick-airport-travel-guide/" style="font-weight:700; text-decoration:underline; color:inherit;">guide to Gatwick arrivals</a> covers both terminals and shows exactly where your driver will be.</p>
+
+<div class="meeting-points" style="margin-top:25px;">
+<div style="display:grid;grid-template-columns:repeat(2,1fr);gap:15px;">
+<div style="border:1px solid #e5e5e5;border-radius:8px;padding:15px;background:#fafafa;">
+<h5 style="font-size:16px;font-weight:700;margin-bottom:8px;">✓ North Terminal</h5>
+<p style="margin:0;font-size:14px;">Meeting Point: International Arrivals Hall</p>
+</div>
+<div style="border:1px solid #e5e5e5;border-radius:8px;padding:15px;background:#fafafa;">
+<h5 style="font-size:16px;font-weight:700;margin-bottom:8px;">✓ South Terminal</h5>
+<p style="margin:0;font-size:14px;">Meeting Point: International Arrivals Hall</p>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+<div class="col-lg-6 col-md-12 col-sm-12">
+<div class="image-area">
+<img src="https://ltrminicab.com/wp-content/uploads/2026/06/gatwick-airport-london-meet-and-greet.webp" class="img-fluid" alt="Gatwick Airport Meet and Greet Service for Ruislip HA4 Passengers">
+</div>
+</div>
+
+</div>
+</div>
+</div>
 
 <!-- home-fleet -->
-<section class="home-fleet section-padding bg-light">
-  <div class="container">
-    <div class="row justify-content-center text-center mb-5">
-      <div class="col-lg-8">
-        <h2>Choose Your Vehicle for the Ruislip HA4 Run</h2>
-        <p>From compact saloons to large MPVs, we have a vehicle suited to your group size and luggage for the Gatwick to Ruislip HA4 route.</p>
-      </div>
-    </div>
-    <div class="row text-center">
-      <div class="col-md-3">
-        [theme_img src="saloon.jpg" class="img-fluid" alt="Saloon car for Gatwick to Ruislip HA4 transfer"]
-        <h3>Saloon</h3>
-        <p>Up to 4 passengers, 2 large bags</p>
-      </div>
-      <div class="col-md-3">
-        [theme_img src="estate.jpg" class="img-fluid" alt="Estate car for Gatwick to Ruislip HA4 transfer"]
-        <h3>Estate</h3>
-        <p>Up to 4 passengers, 3 large bags</p>
-      </div>
-      <div class="col-md-3">
-        [theme_img src="executive.jpg" class="img-fluid" alt="Executive car for Gatwick to Ruislip HA4 transfer"]
-        <h3>Executive</h3>
-        <p>Up to 3 passengers, premium comfort</p>
-      </div>
-      <div class="col-md-3">
-        [theme_img src="mpv.jpg" class="img-fluid" alt="MPV for Gatwick to Ruislip HA4 group transfer"]
-        <h3>MPV 5 to 8</h3>
-        <p>Up to 8 passengers, ideal for groups and families</p>
-      </div>
-    </div>
-  </div>
-</section>
+<div class="section home-fleet">
+<div class="container">
+<div class="content-area text-center">
+<h2>Pick Your Vehicle for the Gatwick to Ruislip HA4 Run</h2>
+From a single traveller with hand luggage to a large family group with several suitcases, our complete fleet is ready for pre-booked Gatwick Airport to Ruislip HA4 transfers at a fixed confirmed fare on every booking.
+</div>
+
+<div id="home-fleet" class="owl-carousel">
+
+<div class="item">
+[theme_img src="img/saloon.png" class="img-fluid" alt="saloon"]
+<div class="info">
+<h3>Saloon</h3>
+Toyota Prius or Similar
+<div class="bottom"><ul>
+<li>[theme_img src="img/people.svg" class="img-fluid" alt="people"] 4</li>
+<li>[theme_img src="img/bag.svg" class="img-fluid" alt="bag"] 2 Medium</li>
+<li>[theme_img src="img/luggage.svg" class="img-fluid" alt="luggage"] 2 Small</li>
+</ul></div>
+<div class="book-area"><a class="btn btn-book" href="https://book.ltrminicab.com/">Book Now</a></div>
+</div>
+</div>
+
+<div class="item">
+[theme_img src="img/executive.png" class="img-fluid" alt="executive"]
+<div class="info">
+<h3>Executive</h3>
+Mercedes E Class or Similar
+<div class="bottom"><ul>
+<li>[theme_img src="img/people.svg" class="img-fluid" alt="people"] 4</li>
+<li>[theme_img src="img/bag.svg" class="img-fluid" alt="bag"] 2 Medium</li>
+<li>[theme_img src="img/luggage.svg" class="img-fluid" alt="luggage"] 2 Small</li>
+</ul></div>
+<div class="book-area"><a class="btn btn-book" href="https://book.ltrminicab.com/">Book Now</a></div>
+</div>
+</div>
+
+<div class="item">
+[theme_img src="img/estate.png" class="img-fluid" alt="estate"]
+<div class="info">
+<h3>Estate</h3>
+Toyota Auris or Similar
+<div class="bottom"><ul>
+<li>[theme_img src="img/people.svg" class="img-fluid" alt="people"] 4</li>
+<li>[theme_img src="img/bag.svg" class="img-fluid" alt="bag"] 3 Medium</li>
+<li>[theme_img src="img/luggage.svg" class="img-fluid" alt="luggage"] 3 Small</li>
+</ul></div>
+<div class="book-area"><a class="btn btn-book" href="https://book.ltrminicab.com/">Book Now</a></div>
+</div>
+</div>
+
+<div class="item">
+[theme_img src="img/mpv5.png" class="img-fluid" alt="mpv5"]
+<div class="info">
+<h3>MPV 5</h3>
+Vauxhall Zafira or Similar
+<div class="bottom"><ul>
+<li>[theme_img src="img/people.svg" class="img-fluid" alt="people"] 5</li>
+<li>[theme_img src="img/bag.svg" class="img-fluid" alt="bag"] 4 Medium</li>
+<li>[theme_img src="img/luggage.svg" class="img-fluid" alt="luggage"] 3 Small</li>
+</ul></div>
+<div class="book-area"><a class="btn btn-book" href="https://book.ltrminicab.com/">Book Now</a></div>
+</div>
+</div>
+
+<div class="item">
+[theme_img src="img/mpv6.png" class="img-fluid" alt="mpv6"]
+<div class="info">
+<h3>MPV 6</h3>
+Ford Galaxy or Similar
+<div class="bottom"><ul>
+<li>[theme_img src="img/people.svg" class="img-fluid" alt="people"] 6</li>
+<li>[theme_img src="img/bag.svg" class="img-fluid" alt="bag"] 4 Medium</li>
+<li>[theme_img src="img/luggage.svg" class="img-fluid" alt="luggage"] 4 Small</li>
+</ul></div>
+<div class="book-area"><a class="btn btn-book" href="https://book.ltrminicab.com/">Book Now</a></div>
+</div>
+</div>
+
+<div class="item">
+[theme_img src="img/mpv7.png" class="img-fluid" alt="mpv7"]
+<div class="info">
+<h3>MPV 7</h3>
+Hyundai i800 or Similar
+<div class="bottom"><ul>
+<li>[theme_img src="img/people.svg" class="img-fluid" alt="people"] 7</li>
+<li>[theme_img src="img/bag.svg" class="img-fluid" alt="bag"] 5 Medium</li>
+<li>[theme_img src="img/luggage.svg" class="img-fluid" alt="luggage"] 5 Small</li>
+</ul></div>
+<div class="book-area"><a class="btn btn-book" href="https://book.ltrminicab.com/">Book Now</a></div>
+</div>
+</div>
+
+<div class="item">
+[theme_img src="img/executive-mpv7.png" class="img-fluid" alt="executive-mpv7"]
+<div class="info">
+<h3>Executive MPV 7</h3>
+Mercedes V Class or Similar
+<div class="bottom"><ul>
+<li>[theme_img src="img/people.svg" class="img-fluid" alt="people"] 7</li>
+<li>[theme_img src="img/bag.svg" class="img-fluid" alt="bag"] 5 Medium</li>
+<li>[theme_img src="img/luggage.svg" class="img-fluid" alt="luggage"] 5 Small</li>
+</ul></div>
+<div class="book-area"><a class="btn btn-book" href="https://book.ltrminicab.com/">Book Now</a></div>
+</div>
+</div>
+
+<div class="item">
+[theme_img src="img/mpv8.png" class="img-fluid" alt="mpv8"]
+<div class="info">
+<h3>MPV 8</h3>
+Ford Tourneo or Similar
+<div class="bottom"><ul>
+<li>[theme_img src="img/people.svg" class="img-fluid" alt="people"] 8</li>
+<li>[theme_img src="img/bag.svg" class="img-fluid" alt="bag"] 6 Medium</li>
+<li>[theme_img src="img/luggage.svg" class="img-fluid" alt="luggage"] 6 Small</li>
+</ul></div>
+<div class="book-area"><a class="btn btn-book" href="https://book.ltrminicab.com/">Book Now</a></div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
 
 <!-- home-personalized-rides -->
-<section class="home-personalized-rides section-padding">
-  <div class="container">
-    <div class="row justify-content-center text-center mb-5">
-      <div class="col-lg-8">
-        <h2>Other Journeys We Arrange for Ruislip HA4 Residents</h2>
-        <p>Beyond Gatwick, LTR Minicab supports Ruislip HA4 customers with a range of other transfer needs.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-4">
-        [theme_img src="personal1.jpg" class="img-fluid" alt="Heathrow transfer from Ruislip HA4"]
-        <h3>Heathrow Airport Transfers</h3>
-        <p>Quick, affordable transfers between Ruislip HA4 and all Heathrow terminals.</p>
-      </div>
-      <div class="col-md-4">
-        [theme_img src="personal2.jpg" class="img-fluid" alt="Stansted and Luton transfers from Ruislip HA4"]
-        <h3>Stansted and Luton Transfers</h3>
-        <p>Comfortable rides to and from Stansted and Luton airports for Ruislip travellers.</p>
-      </div>
-      <div class="col-md-4">
-        [theme_img src="personal3.jpg" class="img-fluid" alt="Cruise port transfers from Ruislip HA4"]
-        <h3>Cruise Port Transfers</h3>
-        <p>Long distance transfers to Southampton, Dover and Tilbury cruise terminals.</p>
-      </div>
-    </div>
-  </div>
-</section>
+<div class="section home-personalized-rides">
+<div class="container">
 
-<!-- minicab-fare -->
-<section class="minicab-fare section-padding bg-light">
-  <div class="container">
-    <div class="row justify-content-center text-center mb-5">
-      <div class="col-lg-8">
-        <h2>Gatwick to Ruislip HA4 Fares for Every Vehicle Type</h2>
-        <p>Our fares are fixed in advance, so the price you see is the price you pay, with no meters and no surprise extras.</p>
-      </div>
-    </div>
-    <div class="table-responsive">
-      <table class="table table-bordered text-center">
-        <thead>
-          <tr>
-            <th>Vehicle</th>
-            <th>Gatwick to Ruislip HA4</th>
-            <th>Ruislip HA4 to Gatwick</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr><td>Saloon</td><td>£97</td><td>£105</td></tr>
-          <tr><td>Executive</td><td>£126</td><td>£136</td></tr>
-          <tr><td>Estate</td><td>£106</td><td>£115</td></tr>
-          <tr><td>MPV 5</td><td>£137</td><td>£148</td></tr>
-          <tr><td>MPV 6</td><td>£162</td><td>£175</td></tr>
-          <tr><td>MPV 7</td><td>£187</td><td>£202</td></tr>
-          <tr><td>Executive MPV 7</td><td>£225</td><td>£244</td></tr>
-          <tr><td>MPV 8</td><td>£253</td><td>£274</td></tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-</section>
+<div class="content-area text-center">
+<h2>Other Ways We Help Ruislip HA4 Travellers Get Around</h2>
+Beyond the Gatwick to Ruislip HA4 airport transfer, LTR Minicab also covers seaport runs, hotel pickups, station connections, event travel, and long-distance UK journeys, all booked from your HA4 address at a confirmed fixed price.
+</div>
 
-<!-- home-prebook (student transfer variant) -->
-<section class="home-prebook section-padding">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-6">
-        <h2>Gatwick to Ruislip HA4 Student Transfers at Honest Prices</h2>
-        <p>Studying near Ruislip or heading home for the holidays? We offer affordable, fixed-price transfers for students travelling between Gatwick Airport and Ruislip HA4, with extra space for suitcases, boxes and bags.</p>
-        <ul>
-          <li>Fixed student friendly fares with no hidden costs</li>
-          <li>Extra luggage space for term time moves</li>
-          <li>Group bookings available for friends travelling together</li>
-          <li>Flexible scheduling around term dates and flight times</li>
-        </ul>
-        <a href="https://ltrminicab.com/booking/" class="btn btn-primary">Book a Student Transfer</a>
-      </div>
-      <div class="col-lg-6">
-        [theme_img src="student-transfer.jpg" class="img-fluid" alt="Student luggage being loaded for Gatwick to Ruislip HA4 transfer"]
-      </div>
-    </div>
-  </div>
-</section>
+<div class="row">
 
-<!-- home-london-airport (London Tours) -->
-<section class="home-london-airport section-padding bg-light">
-  <div class="container">
-    <div class="row justify-content-center text-center mb-5">
-      <div class="col-lg-8">
-        <h2>Take a Private Guided Tour of London's Most Famous Sights</h2>
-        <p>Make the most of your trip with a private guided tour before or after your transfer.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-4">
-        <a href="https://ltrminicab.com/london-tours/stonehenge-bath-tour/">Stonehenge and Bath Day Tour</a>
-      </div>
-      <div class="col-md-4">
-        <a href="https://ltrminicab.com/london-tours/hampton-court-tour/">Hampton Court Palace Tour</a>
-      </div>
-      <div class="col-md-4">
-        <a href="https://ltrminicab.com/london-tours/tower-bridge-tour/">Tower Bridge Tour</a>
-      </div>
-      <div class="col-md-4">
-        <a href="https://ltrminicab.com/london-tours/london-eye-tour/">London Eye Tour</a>
-      </div>
-      <div class="col-md-4">
-        <a href="https://ltrminicab.com/london-tours/buckingham-palace-tour/">Buckingham Palace Tour</a>
-      </div>
-      <div class="col-md-4">
-        <a href="https://ltrminicab.com/london-tours/wembley-stadium-tour/">Wembley Stadium Tour</a>
-      </div>
-    </div>
-  </div>
-</section>
+<div class="col-lg-3 col-md-6 col-sm-12">
+<div class="item text-center">
+[theme_img src="img/airport-to.svg" class="img-fluid" alt="airport"]
+<h3><a href="https://ltrminicab.com/uk-airport-minicab-transfers/" style="font-weight:700; text-decoration:underline; color:inherit;">Airport Transfers</a></h3>
+Fixed-fare airport runs from Ruislip HA4 to Gatwick, Heathrow, Stansted, Luton, London City, and Southend Airport
+</div>
+</div>
 
-<!-- based-near (hotels) -->
-<section class="based-near section-padding">
-  <div class="container">
-    <div class="row justify-content-center text-center mb-5">
-      <div class="col-lg-8">
-        <h2>Hotels in London Within Reach of Ruislip HA4 via Gatwick</h2>
-        <p>We also provide transfers between Gatwick Airport and these popular London hotels for guests staying near Ruislip HA4 or visiting central London.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-4"><a href="https://ltrminicab.com/hyde-and-seek-hyde-park-hotel-taxi/">Stay near Hyde Park at Hyde and Seek</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/citizenm-london-olympia-hotel-taxi/">citizenM Olympia Kensington transfers</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/the-zetter-bloomsbury-hotel-taxi/">The Zetter Townhouse Bloomsbury</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/montcalm-mayfair-hotel-taxi/">Montcalm Mayfair Autograph Collection</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/dorsett-alpha-square-hotel-taxi/">Dorsett Alpha Square Canary Wharf</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/best-western-london-highbury-hotel-taxi/">Best Western Plus Highbury Islington</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/woodberry-down-serviced-apartments-taxi/">Woodberry Down Manor House apartments</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/leytonstone-tavern-hotel-taxi/">The Leytonstone Tavern</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/the-sir-alfred-hitchcock-hotel-taxi/">Sir Alfred Hitchcock Hotel Leytonstone</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/waltham-forest-guest-house-taxi/">Waltham Forest Guest House stays</a></div>
-    </div>
-  </div>
-</section>
+<div class="col-lg-3 col-md-6 col-sm-12">
+<div class="item text-center">
+[theme_img src="img/seaport.svg" class="img-fluid" alt="seaport"]
+<h3><a href="https://ltrminicab.com/cruise-port-minicab-transfers/" style="font-weight:700; text-decoration:underline; color:inherit;">Seaport Transfers</a></h3>
+Comfortable transfers from Ruislip HA4 to Southampton, Dover, Portsmouth, Tilbury, and Harwich cruise terminals
+</div>
+</div>
 
-<!-- based-near (UK cities) -->
-<section class="based-near section-padding bg-light">
-  <div class="container">
-    <div class="row justify-content-center text-center mb-5">
-      <div class="col-lg-8">
-        <h2>Long Distance Gatwick Transfers for Ruislip HA4 Travellers</h2>
-        <p>Need to travel further afield? We also arrange long distance transfers from Gatwick Airport to towns and cities across the UK.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-to-birmingham-taxi/">Gatwick Airport to Birmingham minicab</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-to-london-taxi/">Gatwick Airport into central London</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-to-manchester-taxi/">Gatwick Airport to Manchester transfer</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-to-watford-taxi/">Gatwick Airport to Watford taxi</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-to-reading-taxi/">Gatwick Airport to Reading transfer</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-to-luton-taxi/">Gatwick Airport to Luton minicab</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-to-oxford-taxi/">Gatwick Airport to Oxford taxi</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-to-cambridge-taxi/">Gatwick Airport to Cambridge transfer</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-to-edinburgh-taxi/">Gatwick Airport to Edinburgh long distance</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-to-brighton-taxi/">Gatwick Airport to Brighton minicab</a></div>
-    </div>
-  </div>
-</section>
+<div class="col-lg-3 col-md-6 col-sm-12">
+<div class="item text-center">
+[theme_img src="img/hotel.svg" class="img-fluid" alt="hotel"]
+<h3><a href="https://ltrminicab.com/london-hotel-transfers/" style="font-weight:700; text-decoration:underline; color:inherit;">Hotel Transfers</a></h3>
+Reliable pickups and drop-offs for hotels around Ruislip, Harrow, and northwest London
+</div>
+</div>
 
-<!-- based-near (nearby postcodes) -->
-<section class="based-near section-padding">
-  <div class="container">
-    <div class="row justify-content-center text-center mb-5">
-      <div class="col-lg-8">
-        <h2>Postcodes We Cover Close to Ruislip HA4</h2>
-        <p>We also serve these nearby postcodes around Ruislip HA4 with the same fixed-fare Gatwick Airport service.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-south-harrow-ha2-taxi/">South Harrow taxi to Gatwick</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-rayners-lane-ha2-taxi/">Rayners Lane Gatwick transfer</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-pinner-ha5-taxi/">Pinner airport minicab</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-eastcote-ha5-taxi/">Eastcote Gatwick taxi service</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-northolt-ub5-taxi/">Northolt to Gatwick Airport</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-harrow-ha1-taxi/">Harrow taxi transfer</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-greenford-ub6-taxi/">Greenford Gatwick minicab</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-uxbridge-ub8-taxi/">Uxbridge airport transfer</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-hayes-ub3-taxi/">Hayes Gatwick taxi</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-wembley-ha9-taxi/">Wembley taxi to Gatwick</a></div>
-      <div class="col-md-4"><a href="https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-stanmore-ha7-taxi/">Stanmore Gatwick transfer</a></div>
-    </div>
-  </div>
-</section>
+<div class="col-lg-3 col-md-6 col-sm-12">
+<div class="item text-center">
+[theme_img src="img/station.svg" class="img-fluid" alt="station"]
+<h3><a href="https://ltrminicab.com/london-train-station-minicabs/" style="font-weight:700; text-decoration:underline; color:inherit;">Station Transfers</a></h3>
+Direct connections from Ruislip and Gatwick to Marylebone, Euston, Paddington, and other major stations
+</div>
+</div>
 
-<!-- landing-cta -->
-<section class="landing-cta section-padding bg-light">
-  <div class="container text-center">
-    <h2>Book Your Gatwick to Ruislip HA4 Transfer Now</h2>
-    <p>Lock in your fixed-fare Gatwick Airport to Ruislip HA4 minicab today and travel with confidence, knowing your driver will be waiting whenever your flight lands.</p>
-    <a href="https://ltrminicab.com/booking/" class="btn btn-primary btn-lg">Book Now</a>
-  </div>
-</section>
+<div class="col-lg-3 col-md-6 col-sm-12">
+<div class="item text-center">
+[theme_img src="img/door-to-door.svg" class="img-fluid" alt="door-to-door"]
+<h3><a href="https://ltrminicab.com/uk-cities-minicab-service/" style="font-weight:700; text-decoration:underline; color:inherit;">Door to Door Transfers</a></h3>
+Private direct transport from HA4 addresses to any destination across London or further afield in the UK
+</div>
+</div>
+
+<div class="col-lg-3 col-md-6 col-sm-12">
+<div class="item text-center">
+[theme_img src="img/student.svg" class="img-fluid" alt="student"]
+<h3><a href="https://ltrminicab.com/uk-student-taxi-discount/" style="font-weight:700; text-decoration:underline; color:inherit;">Student Transfers</a></h3>
+Affordable Gatwick airport transfers for students living in Ruislip and studying across northwest London
+</div>
+</div>
+
+<div class="col-lg-3 col-md-6 col-sm-12">
+<div class="item text-center">
+[theme_img src="img/on-demand.svg" class="img-fluid" alt="on-demand"]
+<h3><a href="https://ltrminicab.com/london-tours/" style="font-weight:700; text-decoration:underline; color:inherit;">London Tours</a></h3>
+Private chauffeur-driven sightseeing tours departing from Ruislip HA4 to London's best known landmarks and day-trip destinations
+</div>
+</div>
+
+<div class="col-lg-3 col-md-6 col-sm-12">
+<div class="item text-center">
+[theme_img src="img/event.svg" class="img-fluid" alt="event"]
+<h3><a href="https://ltrminicab.com/london-event-transport-taxi/" style="font-weight:700; text-decoration:underline; color:inherit;">Event Transport</a></h3>
+Group and corporate transfers from Ruislip and Gatwick to Wembley Stadium, OVO Arena, and other London venues
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<!-- fares table -->
+<div class="section minicab-fare">
+<div class="container">
+<div class="content text-center">
+<h2>Full Gatwick to Ruislip HA4 Fare List by Vehicle Type</h2>
+<p>All fares shown are for pre-booked fixed-price transfers between Gatwick Airport and Ruislip HA4. Every price is confirmed at the time of booking and stays the same on the day of travel regardless of road conditions or journey duration.</p>
+</div>
+
+<div class="table-responsive" style="overflow-x:auto;">
+<table class="table" style="border-collapse:collapse;width:100%;min-width:750px;">
+<thead>
+<tr style="background:#f7f7f7;">
+<th style="border:1px solid #ddd;padding:10px 12px;text-align:left;">Route</th>
+<th style="border:1px solid #ddd;padding:10px 12px;">Saloon</th>
+<th style="border:1px solid #ddd;padding:10px 12px;">Executive</th>
+<th style="border:1px solid #ddd;padding:10px 12px;">Estate</th>
+<th style="border:1px solid #ddd;padding:10px 12px;">MPV 5</th>
+<th style="border:1px solid #ddd;padding:10px 12px;">MPV 6</th>
+<th style="border:1px solid #ddd;padding:10px 12px;">MPV 7</th>
+<th style="border:1px solid #ddd;padding:10px 12px;">Exec MPV 7</th>
+<th style="border:1px solid #ddd;padding:10px 12px;">MPV 8</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="border:1px solid #ddd;padding:10px 12px;"><strong>Taxi Fare From Gatwick Airport to Ruislip HA4</strong></td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£97</td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£126</td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£106</td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£137</td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£162</td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£187</td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£225</td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£253</td>
+</tr>
+<tr style="background:#fafafa;">
+<td style="border:1px solid #ddd;padding:10px 12px;"><strong>Taxi Price from Ruislip HA4 to Gatwick Airport</strong></td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£105</td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£136</td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£115</td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£148</td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£175</td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£202</td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£244</td>
+<td style="border:1px solid #ddd;padding:10px 12px;font-weight:600;">£274</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+<!-- student transfer-->
+<div class="section home-prebook">
+<div class="container">
+<div class="row align-items-center">
+
+<div class="col-lg-6 col-md-12 col-sm-12">
+<div class="image-area">
+<img src="https://ltrminicab.com/wp-content/uploads/2026/06/student-taxi.webp" class="img-fluid" alt="student-taxi-gatwick-ruislip-ha4" style="border-radius:12px;" />
+</div>
+</div>
+
+<div class="col-lg-6 col-md-12 col-sm-12">
+<div class="content">
+<h2>Budget Friendly Student Transfers from Gatwick to Ruislip HA4</h2>
+
+<p>LTR Minicab offers a simple and affordable way for students to travel between Gatwick and Ruislip HA4, whether you are arriving for the start of term, returning home after time studying overseas, or a parent arranging a safe pickup for your son or daughter. Travel directly from the Gatwick terminal to your Ruislip flat, shared house, or family home without the stress of carrying heavy bags through stations and onto trains.</p>
+
+<p>Both Gatwick terminals are covered with clear fixed fares, clean and comfortable cars, friendly drivers, and 24/7 service across HA4 and the surrounding Hillingdon postcodes.</p>
+
+<div class="button-area">
+<a href="https://ltrminicab.com/uk-student-taxi-discount/" class="btn btn-book">View Student Discounts</a>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<!-- london tours -->
+<div class="section home-london-airport">
+<div class="container">
+<div class="row align-items-center">
+
+<div class="col-lg-6 col-md-12 col-sm-12">
+<div class="content">
+
+<h2>Take a Private Guided Tour of London's Most Famous Sights</h2>
+
+<p>
+LTR Minicab runs private London tours and day trips with professional drivers who provide a relaxed and informative journey to each destination from your HA4 door. Popular routes include <a href="https://ltrminicab.com/london-tours/stonehenge-bath-private-tour-with-ltr-minicab/" style="font-weight:700; text-decoration:underline; color:inherit;">Stonehenge and Bath Private Tour</a>, <a href="https://ltrminicab.com/london-tours/hampton-court-palace-private-tour-with-ltr-minicab/" style="font-weight:700; text-decoration:underline; color:inherit;">Hampton Court Palace Private Tour</a>, <a href="https://ltrminicab.com/london-tours/tower-bridge-private-tour-with-ltr-minicab/" style="font-weight:700; text-decoration:underline; color:inherit;">Tower Bridge Private Tour</a>, <a href="https://ltrminicab.com/london-tours/london-eye-private-tour-with-ltr-minicab/" style="font-weight:700; text-decoration:underline; color:inherit;">London Eye Private Tour</a>, <a href="https://ltrminicab.com/london-tours/buckingham-palace-private-tour-with-ltr-minicab/" style="font-weight:700; text-decoration:underline; color:inherit;">Buckingham Palace Private Tour</a>, and <a href="https://ltrminicab.com/london-tours/wembley-stadium-private-tour-with-ltr-minicab/" style="font-weight:700; text-decoration:underline; color:inherit;">Wembley Stadium Private Tour</a>. Whether your group wants a heritage day trip out of London, a family outing to a royal landmark, a stadium tour, or a guided introduction to the capital's most recognised sights, our private hire service offers a flexible departure from Ruislip HA4, direct travel, a comfortable vehicle, and a professional driver for the entire journey.
+</p>
+
+<div class="button-area" style="text-align:left; margin-top:25px;">
+<a class="btn btn-book" href="https://book.ltrminicab.com/" style="display:inline-block;background:#000000;color:#ffffff !important;font-size:16px;font-weight:700;padding:14px 22px;border-radius:5px;text-decoration:none;border:1px solid #000000;">
+Plan Your London Tour
+</a>
+</div>
+
+</div>
+</div>
+
+<div class="col-lg-6 col-md-12 col-sm-12">
+<div class="image-area">
+<img src="https://ltrminicab.com/wp-content/uploads/2026/06/london-tours.webp" class="img-fluid" alt="private-london-tours-ltr-minicab" style="border-radius:12px;" />
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+<!-- hotels section -->
+<div class="section based-near">
+<div class="container">
+<div class="content-area text-center">
+<h2>London Hotels You Can Reach from Ruislip HA4 with Gatwick Cover</h2>
+<p>We provide reliable Gatwick airport transfers to hotels across London, easily reached from Ruislip HA4, all at a fixed confirmed fare with the same professional standard on every journey.</p>
+
+<div class="button-area" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+<a href="https://ltrminicab.com/london-hotel-transfers/heathrow-to-hyde-seek-hyde-park-taxi-transfers/" class="btn btn-more">Hyde and Seek Hyde Park</a>
+<a href="https://ltrminicab.com/london-hotel-transfers/heathrow-to-citizenm-london-olympia-kensington-taxi/" class="btn btn-more">citizenM Olympia Kensington</a>
+<a href="https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-zetter-bloomsbury-taxi-transfers/" class="btn btn-more">The Zetter Bloomsbury</a>
+<a href="https://ltrminicab.com/london-hotel-transfers/heathrow-to-montcalm-mayfair-autograph-collection-taxi/" class="btn btn-more">Montcalm Mayfair Autograph</a>
+<a href="https://ltrminicab.com/london-hotel-transfers/heathrow-to-dorsett-alpha-square-canary-wharf-taxi-transfers/" class="btn btn-more">Dorsett Alpha Square Canary Wharf</a>
+<a href="https://ltrminicab.com/london-hotel-transfers/heathrow-to-best-western-london-highbury-taxi-transfers/" class="btn btn-more">Best Western London Highbury</a>
+<a href="https://ltrminicab.com/london-hotel-transfers/heathrow-to-woodberry-down-serviced-apartments-manor-house-taxi/" class="btn btn-more">Woodberry Down Manor House</a>
+<a href="https://ltrminicab.com/london-hotel-transfers/heathrow-to-leytonstone-tavern-taxi-transfers/" class="btn btn-more">Leytonstone Tavern</a>
+<a href="https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-sir-alfred-hitchcock-leytonstone-taxi-transfers/" class="btn btn-more">Sir Alfred Hitchcock Hotel</a>
+<a href="https://ltrminicab.com/london-hotel-transfers/heathrow-to-waltham-forest-guest-house-taxi-transfers/" class="btn btn-more">Waltham Forest Guest House</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- nearby areas -->
+<div class="section based-near">
+<div class="container">
+<div class="content-area text-center">
+<h2>Gatwick Transfers to Towns and Cities Across the UK</h2>
+<p>LTR Minicab covers major UK towns and cities from Gatwick Airport with confirmed fixed-fare bookings. Reserve a transfer to any of the destinations below directly from either Gatwick terminal.</p>
+
+<div class="button-area" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+<a href="https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-london/" class="btn btn-more">London Transfers</a>
+<a href="https://ltrminicab.com/minicab-service-in-london-and-major-cities/reliable-minicab-service-in-birmingham/" class="btn btn-more">Birmingham Transfers</a>
+<a href="https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-manchester/" class="btn btn-more">Manchester Transfers</a>
+<a href="https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-watford/" class="btn btn-more">Watford Transfers</a>
+<a href="https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-reading/" class="btn btn-more">Reading Transfers</a>
+<a href="https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-oxford/" class="btn btn-more">Oxford Transfers</a>
+<a href="https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-cambridge/" class="btn btn-more">Cambridge Transfers</a>
+<a href="https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-luton-town/" class="btn btn-more">Luton Transfers</a>
+<a href="https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-brighton/" class="btn btn-more">Brighton Transfers</a>
+<a href="https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-edinburgh/" class="btn btn-more">Edinburgh Transfers</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- london areas -->
+<div class="section based-near">
+<div class="container">
+<div class="content-area text-center">
+<h2>Postcodes Near Ruislip HA4 We Also Cover</h2>
+<p>LTR Minicab provides fixed-fare Gatwick Airport transfers to Ruislip HA4 and the surrounding northwest London postcodes. We cover every residential street, estate, and landmark across these areas with reliable 24/7 service.</p>
+
+<div class="button-area" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+<a href="https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-south-harrow-ha2-taxi/" class="btn btn-more">South Harrow HA2 Taxi</a>
+<a href="https://ltrminicab.com/gatwick-taxi/gatwick-to-rayners-lane-taxi/" class="btn btn-more">Rayners Lane HA2 Taxi</a>
+<a href="https://ltrminicab.com/gatwick-taxi/gatwick-to-pinner-taxi/" class="btn btn-more">Pinner HA5 Taxi</a>
+<a href="https://ltrminicab.com/gatwick-taxi/gatwick-to-eastcote-taxi/" class="btn btn-more">Eastcote HA5 Taxi</a>
+<a href="https://ltrminicab.com/gatwick-taxi/gatwick-to-northolt-taxi/" class="btn btn-more">Northolt UB5 Taxi</a>
+<a href="https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-harrow-ha1-taxi/" class="btn btn-more">Harrow HA1 Taxi</a>
+<a href="https://ltrminicab.com/gatwick-taxi/gatwick-to-greenford-taxi/" class="btn btn-more">Greenford UB6 Taxi</a>
+<a href="https://ltrminicab.com/gatwick-taxi/gatwick-to-uxbridge-taxi/" class="btn btn-more">Uxbridge UB8 Taxi</a>
+<a href="https://ltrminicab.com/gatwick-taxi/gatwick-to-hayes-taxi/" class="btn btn-more">Hayes UB3 Taxi</a>
+<a href="https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-wembley-ha9-taxi/" class="btn btn-more">Wembley HA9 Taxi</a>
+<a href="https://ltrminicab.com/gatwick-taxi/gatwick-to-stanmore-taxi/" class="btn btn-more">Stanmore HA7 Taxi</a>
+</div>
+
+</div>
+</div>
+</div>
+
+<!-- landing cta -->
+<div class="section landing-cta">
+<div class="container">
+<div class="item">
+<div class="content-area text-center">
+
+<h2>Reserve Your Gatwick to Ruislip HA4 Taxi Today</h2>
+
+Whether you are landing at Gatwick on your way to a home near Ruislip High Street, arriving for a stay close to Ruislip Lido, or organising a group transfer from Gatwick to South Ruislip or West Ruislip, LTR Minicab provides a fully confirmed, fixed-fare, and professionally driven service on every journey. With a saloon fare from £97, live Gatwick flight monitoring, and a friendly driver greeting at both the North Terminal and South Terminal, your whole transfer is arranged before you even board the plane.
+
+<a href="https://ltrminicab.com/" style="font-weight:700; text-decoration:underline; color:inherit;">Arrange your Ruislip transfer</a>
+for the Gatwick to HA4 route today and travel directly to your door with a confirmed price, a licensed driver, and 24/7 support every day of the year.
+
+<div class="button-area text-center">
+<a class="btn btn-book" href="https://book.ltrminicab.com/">Book Now <i class="fa-solid fa-arrow-right"></i></a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
 
 <!-- home-faqs -->
-<section class="home-faqs section-padding">
-  <div class="container">
-    <div class="row justify-content-center text-center mb-5">
-      <div class="col-lg-8">
-        <h2>Frequently Asked Questions</h2>
-        <p>Answers to common questions about travelling between Gatwick Airport and Ruislip HA4.</p>
-      </div>
-    </div>
-    <div class="accordion" id="faqAccordion">
-      <div class="accordion-item">
-        <h3 class="accordion-header" id="headingOne">
-          <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-            How much does a taxi from Gatwick Airport to Ruislip HA4 cost?
-          </button>
-        </h3>
-        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#faqAccordion">
-          <div class="accordion-body">
-            A standard saloon car from Gatwick Airport to Ruislip HA4 starts at a fixed fare of £97. Larger vehicles such as estates, MPVs and executive cars are also available at set prices, so the amount you pay is agreed before you travel with no hidden extras.
-          </div>
-        </div>
-      </div>
-      <div class="accordion-item">
-        <h3 class="accordion-header" id="headingTwo">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-            How long does the journey from Gatwick Airport to Ruislip HA4 normally take?
-          </button>
-        </h3>
-        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
-          <div class="accordion-body">
-            Most transfers between Gatwick Airport and Ruislip HA4 take between 75 and 105 minutes, depending on traffic on the M25 and A40. Our drivers monitor live traffic updates and choose the quickest route on the day.
-          </div>
-        </div>
-      </div>
-      <div class="accordion-item">
-        <h3 class="accordion-header" id="headingThree">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-            Is it possible to get to Ruislip from Gatwick by train and tube?
-          </button>
-        </h3>
-        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#faqAccordion">
-          <div class="accordion-body">
-            Yes, but it usually involves at least one change, often via central London onto the Piccadilly or Metropolitan lines to Ruislip station, with luggage in tow. A door to door minicab avoids the changes and is far more convenient with bags and after a long flight.
-          </div>
-        </div>
-      </div>
-      <div class="accordion-item">
-        <h3 class="accordion-header" id="headingFour">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-            Do your drivers know the area around Ruislip High Street and Ruislip Lido?
-          </button>
-        </h3>
-        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#faqAccordion">
-          <div class="accordion-body">
-            Yes, our drivers regularly cover Ruislip and the surrounding HA4 postcode, including Ruislip High Street, Ruislip Manor, Eastcote and the roads near Ruislip Lido, so they can find your address quickly without relying solely on satnav.
-          </div>
-        </div>
-      </div>
-      <div class="accordion-item">
-        <h3 class="accordion-header" id="headingFive">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-            Can I book a return journey from Ruislip HA4 back to Gatwick Airport?
-          </button>
-        </h3>
-        <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#faqAccordion">
-          <div class="accordion-body">
-            Of course. You can book a one way trip or a return at the same time. For early morning departures from Ruislip, we recommend booking a little extra time to allow for traffic on the way to the airport.
-          </div>
-        </div>
-      </div>
-      <div class="accordion-item">
-        <h3 class="accordion-header" id="headingSix">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-            What is the best time to leave Ruislip HA4 for an early Gatwick flight?
-          </button>
-        </h3>
-        <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#faqAccordion">
-          <div class="accordion-body">
-            For early flights we generally suggest leaving Ruislip around three hours before departure, which usually gives a comfortable buffer for security and check in once you allow for the drive time and any unexpected delays.
-          </div>
-        </div>
-      </div>
-      <div class="accordion-item">
-        <h3 class="accordion-header" id="headingSeven">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-            Are wheelchair accessible vehicles available for this route?
-          </button>
-        </h3>
-        <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#faqAccordion">
-          <div class="accordion-body">
-            Yes, we can arrange a wheelchair accessible vehicle for transfers between Gatwick Airport and Ruislip HA4. Please mention this when booking so we can allocate the right vehicle and allow extra time if needed.
-          </div>
-        </div>
-      </div>
-      <div class="accordion-item">
-        <h3 class="accordion-header" id="headingEight">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
-            Will I be charged extra for suitcases or golf clubs and similar bulky items?
-          </button>
-        </h3>
-        <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#faqAccordion">
-          <div class="accordion-body">
-            Standard luggage is included in the fare. If you are travelling with bulky items such as golf bags, skis or extra suitcases, just let us know in advance so we can send a vehicle with enough boot space.
-          </div>
-        </div>
-      </div>
-      <div class="accordion-item">
-        <h3 class="accordion-header" id="headingNine">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
-            What payment options do you accept for a Gatwick to Ruislip HA4 minicab?
-          </button>
-        </h3>
-        <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#faqAccordion">
-          <div class="accordion-body">
-            We accept major debit and credit cards online, as well as cash payments to the driver. Corporate accounts with monthly invoicing are also available for regular business travellers.
-          </div>
-        </div>
-      </div>
-      <div class="accordion-item">
-        <h3 class="accordion-header" id="headingTen">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-            Where will my driver meet me when I land at Gatwick Airport?
-          </button>
-        </h3>
-        <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#faqAccordion">
-          <div class="accordion-body">
-            Your driver will wait in the arrivals area holding a board with your name, and we track your flight so that any delays are accounted for automatically. You will receive the driver's contact details ahead of your trip.
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+<div class="section home-faqs">
+<div class="container">
+
+<div class="content-area text-center">
+<h2>Frequently Asked Questions</h2>
+</div>
+
+<div class="faqs-area">
+<div class="accordion" id="accordionExample">
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingOne">
+<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+How much does a taxi from Gatwick Airport to Ruislip HA4 cost?
+</button>
+</h2>
+<div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+<p>A saloon car from Gatwick Airport to Ruislip HA4 starts from £97, agreed when you book with nothing extra to pay once your journey is complete. The price covers your door-to-door transfer from either the North or South Terminal directly to your HA4 address. Estate, executive, and MPV vehicles are also available, with their fares shown clearly before you confirm so there are no surprises on the day.</p>
+</div>
+</div>
+</div>
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingTwo">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+How long does a transfer from Gatwick Airport to Ruislip HA4 take?
+</button>
+</h2>
+<div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+<p>A transfer from Gatwick Airport to Ruislip HA4 usually takes between 75 and 105 minutes, covering around 46 miles across London via the M23, M25, and the A40, depending on traffic and the route your driver selects. Travelling early in the morning or later at night usually keeps the journey toward the lower end of this range, while weekday daytime traffic can add extra time.</p>
+</div>
+</div>
+</div>
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingThree">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+Is it easy to reach Ruislip by train and tube from Gatwick?
+</button>
+</h2>
+<div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+<p>Travelling to Ruislip by train from Gatwick generally involves a mainline service into central London followed by a change onto the Metropolitan, Piccadilly or Central line out to Ruislip, Ruislip Manor or West Ruislip station. With suitcases this combination of trains and platform changes can take well over two hours from door to door once waiting times are included. A pre-booked minicab with LTR Minicab collects you directly from Gatwick arrivals and drives you straight to your HA4 address in one journey, with the price agreed before you travel.</p>
+</div>
+</div>
+</div>
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingFour">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+Do your drivers know the area around Ruislip High Street and Ruislip Lido?
+</button>
+</h2>
+<div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+<p>Yes. LTR Minicab drivers regularly cover the HA4 postcode and know the historic High Street and Manor Farm area, the residential streets around Ruislip Manor and South Ruislip stations, the woodland and waterside roads near Ruislip Lido and Park Wood, and the routes towards West Ruislip and the Eastcote borders. Every drop-off is taken to the exact address requested, including flats above shops and gated developments.</p>
+</div>
+</div>
+</div>
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingFive">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+Can I pre-book a return trip from Ruislip HA4 to Gatwick Airport?
+</button>
+</h2>
+<div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+<p>Yes. LTR Minicab offers fixed-fare return transfers from Ruislip HA4 to Gatwick Airport starting from £105 for a saloon, with the fare confirmed before your driver leaves to collect you. For early flights, most passengers in HA4 book their pickup between 4am and 6am, since the roads towards the M25 and M23 are at their quietest at that time.</p>
+</div>
+</div>
+</div>
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingSix">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+When is the best time to travel from Ruislip HA4 to Gatwick to avoid traffic?
+</button>
+</h2>
+<div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+<p>Setting off before 6am or after 9pm tends to give the smoothest run from Ruislip HA4 to Gatwick, since the journey crosses the A40, the M25, and the approach roads to the M23, all of which can become congested during the day. Weekday traffic between roughly 7am and 10am and again from 4pm to 7pm can add a noticeable amount of time to the journey. Whatever the conditions on the day, your fare with LTR Minicab is fixed in advance and stays the same even if the trip runs longer than expected.</p>
+</div>
+</div>
+</div>
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingSeven">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+Does LTR Minicab provide wheelchair accessible vehicles for the Gatwick to Ruislip HA4 route?
+</button>
+</h2>
+<div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+<p>Please contact our team directly when booking your Gatwick to Ruislip HA4 transfer if you have accessibility requirements. We will discuss the vehicle options available and make sure your needs are recorded on the booking before a driver is assigned, so we can arrange the most suitable car for your journey.</p>
+</div>
+</div>
+</div>
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingEight">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+Is there a charge for extra luggage on the Gatwick to Ruislip HA4 transfer?
+</button>
+</h2>
+<div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+<p>There is no extra charge for the usual amount of luggage carried by your group, as this is already included in the fare confirmed when you book. If you are bringing bulky items such as sports equipment, musical instruments, or several large suitcases, please mention this when booking so we can recommend an estate or MPV with extra space for your Ruislip HA4 journey.</p>
+</div>
+</div>
+</div>
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingNine">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+What payment methods are accepted for a Gatwick to Ruislip HA4 minicab?
+</button>
+</h2>
+<div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+<p>Most bookings for the Gatwick to Ruislip HA4 route are completed online through our secure system at the time of reservation. If you have a question about other payment arrangements, please contact our team directly while booking and we will explain the options available for your trip.</p>
+</div>
+</div>
+</div>
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingTen">
+<button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+Where do I meet my driver at Gatwick for the journey to Ruislip HA4?
+</button>
+</h2>
+<div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen" data-bs-parent="#accordionExample">
+<div class="accordion-body">
+<p>Your driver will be waiting inside the International Arrivals Hall of the terminal stated on your booking, either North or South, holding a sign with your name. The exact meeting point and your driver's direct contact number are included in your booking confirmation, so you can call or message them right away if you have any difficulty finding them after collecting your luggage. Our team is also reachable by phone throughout your journey if you need any further help.</p>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
