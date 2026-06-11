@@ -1,0 +1,48 @@
+{
+  "page": "Gatwick Airport to Ruislip HA4 Taxi",
+  "slug": "gatwick-to-ruislip-ha4-taxi",
+  "url": "https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-ruislip-ha4-taxi/",
+  "postcode": "HA4",
+  "areaName": "Ruislip",
+  "borough": "London Borough of Hillingdon",
+  "distanceMiles": 46,
+  "journeyTimeMinutes": "75 to 105",
+  "fares": {
+    "toRuislip": {
+      "saloon": 97,
+      "executive": 126,
+      "estate": 106,
+      "mpv5": 137,
+      "mpv6": 162,
+      "mpv7": 187,
+      "executiveMpv7": 225,
+      "mpv8": 253
+    },
+    "fromRuislip": {
+      "saloon": 105,
+      "executive": 136,
+      "estate": 115,
+      "mpv5": 148,
+      "mpv6": 175,
+      "mpv7": 202,
+      "executiveMpv7": 244,
+      "mpv8": 274
+    }
+  },
+  "areasCovered": [
+    "Ruislip town centre",
+    "Ruislip Manor",
+    "Eastcote borders",
+    "South Ruislip",
+    "West Ruislip",
+    "Ruislip Lido and Park Wood"
+  ],
+  "localHighlights": [
+    "Ruislip High Street shops and restaurants",
+    "Ruislip Manor station (Metropolitan and Piccadilly lines)",
+    "West Ruislip station (Central line and Chiltern Railways)",
+    "Ruislip Lido and surrounding woodland",
+    "South Ruislip industrial estates near Victoria Road",
+    "A40 access towards central London and the M40"
+  ]
+}
