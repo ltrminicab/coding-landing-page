@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far is Canning Town from London City Airport?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Canning Town (E16) is approximately 3 miles from London City Airport, making it one of the closest East London areas to any London airport. LTR Minicab provides a direct pre-booked transfer with a typical journey time of just 10 to 15 minutes depending on traffic at the time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is LTR Minicab a cheap and affordable taxi in Canning Town?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. LTR Minicab is a cheap and affordable taxi service in Canning Town. All fares are fixed and confirmed at the time of booking with no hidden charges or surge pricing. The saloon fare to London City Airport starts from just £30, making it one of the most competitive options available."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can business guests book an executive transfer from Canning Town to Heathrow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. LTR Minicab offers executive transfers from Canning Town using a Mercedes E Class saloon or Mercedes V Class MPV, ideal for corporate travellers and ExCeL London delegates requiring a smart, punctual Heathrow connection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I pre-book a taxi from Canning Town to Gatwick Airport?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. LTR Minicab provides a direct pre-booked taxi from Canning Town to Gatwick Airport, covering approximately 28 miles. The journey typically takes 50 to 85 minutes and the saloon fare starts from £80, with all prices fixed and inclusive of no hidden extras."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which vehicle suits a business traveller from Canning Town?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For solo business travel or small groups, the executive saloon is the most popular choice from Canning Town. For larger groups or those with additional luggage, an MPV 6 or executive MPV 7 provides comfortable, spacious, and professional door-to-door service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does LTR Minicab provide Meet and Greet at Heathrow for Canning Town customers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. When arriving at Heathrow from any terminal, your LTR Minicab driver will meet you inside the arrivals hall with a personalised name board, assist with your luggage, and take you directly to your address in Canning Town, E16."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I arrange an early morning or late-night transfer from Canning Town?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. LTR Minicab operates 24 hours a day, 7 days a week including early morning departures from Canning Town and late-night collections after events at the O2 Arena or ExCeL London. For 4am or 5am flights, we recommend booking at least 24 hours in advance to secure your preferred vehicle type and guaranteed pickup."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the nearest train station to Canning Town for Central London travel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Canning Town Station is on the Jubilee line and DLR, with the Elizabeth line available nearby at Custom House, providing fast direct connections to Canary Wharf, Stratford, and Central London. For door-to-door pickup service, LTR Minicab offers the most convenient option directly from your Canning Town address."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where will my driver collect me in Canning Town?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your LTR Minicab driver will collect you from your home, office, or any convenient address in Canning Town, E16, including near ExCeL London or the O2 Arena. If your pickup point is in a restricted access area at your departure time, we will confirm the exact and safest pickup point with you before arrival."
+      }
+    }
+  ]
+}
