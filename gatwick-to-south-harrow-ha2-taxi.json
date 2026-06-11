@@ -1,0 +1,49 @@
+{
+  "page": "Gatwick Airport to South Harrow HA2 Taxi",
+  "slug": "gatwick-to-south-harrow-ha2-taxi",
+  "url": "https://ltrminicab.com/gatwick-airport-transfers/gatwick-to-south-harrow-ha2-taxi/",
+  "postcode": "HA2",
+  "areaName": "South Harrow",
+  "borough": "London Borough of Harrow",
+  "distanceMiles": 47,
+  "journeyTimeMinutes": "75 to 105",
+  "fares": {
+    "toSouthHarrow": {
+      "saloon": 98,
+      "executive": 127,
+      "estate": 107,
+      "mpv5": 138,
+      "mpv6": 163,
+      "mpv7": 188,
+      "executiveMpv7": 227,
+      "mpv8": 255
+    },
+    "fromSouthHarrow": {
+      "saloon": 105,
+      "executive": 137,
+      "estate": 116,
+      "mpv5": 149,
+      "mpv6": 176,
+      "mpv7": 203,
+      "executiveMpv7": 245,
+      "mpv8": 275
+    }
+  },
+  "areasCovered": [
+    "South Harrow",
+    "Sudbury Hill",
+    "Roxeth",
+    "Alexandra Avenue",
+    "Rayners Lane borders",
+    "West Harrow borders",
+    "Northolt Road"
+  ],
+  "localHighlights": [
+    "South Harrow station (Piccadilly line)",
+    "Sudbury Hill Harrow station (Chiltern Railways)",
+    "Northolt Road shopping parade",
+    "Roxeth Recreation Ground",
+    "BAPS Shri Swaminarayan Mandir",
+    "A312 and A4090 access towards A40 and M40"
+  ]
+}
