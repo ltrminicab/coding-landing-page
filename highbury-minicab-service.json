@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far is Highbury from London City Airport?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Highbury (N5) is approximately 9 miles from London City Airport. LTR Minicab provides a direct pre-booked transfer with a typical journey time of 25 to 40 minutes depending on traffic at the time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is LTR Minicab a cheap and affordable taxi in Highbury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. LTR Minicab is a cheap and affordable taxi service in Highbury. All fares are fixed and confirmed at the time of booking with no hidden charges or surge pricing. The saloon fare to Heathrow Airport starts from just £70, making it one of the most competitive options available."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can business guests book an executive transfer from Highbury to Heathrow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. LTR Minicab offers executive transfers from Highbury using a Mercedes E Class saloon or Mercedes V Class MPV, ideal for corporate travellers requiring a smart, punctual Heathrow connection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I pre-book a taxi from Highbury to Gatwick Airport?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. LTR Minicab provides a direct pre-booked taxi from Highbury to Gatwick Airport, covering approximately 30 miles. The journey typically takes 55 to 90 minutes and the saloon fare starts from £84, with all prices fixed and inclusive of no hidden extras."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which vehicle suits a business traveller from Highbury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For solo business travel or small groups, the executive saloon is the most popular choice from Highbury. For larger groups or those with additional luggage, an MPV 6 or executive MPV 7 provides comfortable, spacious, and professional door-to-door service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does LTR Minicab provide Meet and Greet at Heathrow for Highbury customers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. When arriving at Heathrow from any terminal, your LTR Minicab driver will meet you inside the arrivals hall with a personalised name board, assist with your luggage, and take you directly to your address in Highbury, N5."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I arrange an early morning or late-night transfer from Highbury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. LTR Minicab operates 24 hours a day, 7 days a week including early morning departures from Highbury and late-night collections after matchdays at the Emirates Stadium. For 4am or 5am flights, we recommend booking at least 24 hours in advance to secure your preferred vehicle type and guaranteed pickup."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the nearest train station to Highbury for Central London travel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Highbury & Islington Station provides Victoria line and London Overground connections with fast direct links to King's Cross, the City, and Central London. For door-to-door pickup service, LTR Minicab offers the most convenient option directly from your Highbury address."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where will my driver collect me in Highbury?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your LTR Minicab driver will collect you from your home, office, or any convenient address in Highbury, N5, including near Highbury Fields or the Emirates Stadium. If your pickup point is in a restricted access area at your departure time, we will confirm the exact and safest pickup point with you before arrival."
+      }
+    }
+  ]
+}
