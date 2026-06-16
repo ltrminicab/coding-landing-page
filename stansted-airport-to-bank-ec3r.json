@@ -1,0 +1,193 @@
+{
+  "route": {
+    "from": "Stansted Airport",
+    "to": "Bank",
+    "postcode": "EC3R",
+    "slug": "stansted-airport-to-bank-ec3r-minicab",
+    "title": "Stansted Airport to Bank EC3R Minicab Transfer | LTR Minicab",
+    "meta_description": "Pre-book a cheap taxi from Stansted Airport to Bank EC3R with LTR Minicab. Fixed fares, Meet & Greet, flight monitoring, and 24/7 availability. Book online now.",
+    "h1": "Pre-Book Cheap Stansted Airport to Bank EC3R Minicab with LTR Minicab"
+  },
+  "journey": {
+    "distance_miles": 42,
+    "distance_km": 68,
+    "journey_time_min": "55 minutes",
+    "journey_time_max": "1 hour 25 minutes",
+    "saloon_price_from": 78,
+    "executive_price_from": 92,
+    "estate_price_from": 89,
+    "mpv5_price_from": 100,
+    "mpv6_price_from": 114,
+    "mpv7_price_from": 131,
+    "executive_mpv7_price_from": 147,
+    "mpv8_price_from": 159,
+    "route_description": "The journey from Stansted Airport to Bank EC3R covers approximately 42 miles via the M11 southbound and A12/A406 corridor into the City of London. Traffic around the North Circular and approaches into the Square Mile can be unpredictable during peak hours, so knowing your fare is fixed well before you land removes every element of stress.",
+    "primary_roads": ["M11", "A406", "A12", "A10"],
+    "congestion_charge_applies": true
+  },
+  "destination": {
+    "name": "Bank",
+    "area": "City of London",
+    "postcode": "EC3R",
+    "description": "Bank is the historic financial heart of the City of London, home to the Bank of England, the Royal Exchange, and some of the world's most important financial institutions. EC3R covers the area around Monument, Fenchurch Street, and the lower reaches of the Square Mile, making it one of the busiest business districts in London.",
+    "landmarks": [
+      "Bank of England",
+      "Royal Exchange",
+      "Monument to the Great Fire of London",
+      "Leadenhall Market",
+      "Sky Garden at 20 Fenchurch Street",
+      "Tower of London",
+      "Fenchurch Street Station"
+    ],
+    "nearby_stations": [
+      "Bank Underground Station",
+      "Monument Underground Station",
+      "Fenchurch Street Station",
+      "Tower Hill Underground Station",
+      "Cannon Street Station"
+    ],
+    "nearby_areas": [
+      "Monument",
+      "Fenchurch Street",
+      "Tower Hill",
+      "Cannon Street",
+      "Moorgate",
+      "Liverpool Street",
+      "Aldgate",
+      "London Bridge",
+      "Bishopsgate",
+      "Cornhill"
+    ]
+  },
+  "student_discount": {
+    "percentage": 15,
+    "student_price_from": 66,
+    "comparison": {
+      "stansted_express_tube": {
+        "cost": "£20-28",
+        "journey_time": "65-80 min",
+        "luggage": "Very Limited",
+        "convenience": "Low"
+      },
+      "national_express": {
+        "cost": "£10-18",
+        "journey_time": "90-130 min",
+        "luggage": "Moderate",
+        "convenience": "Low"
+      },
+      "uber_bolt_offpeak": {
+        "cost": "£65-90",
+        "journey_time": "55-80 min",
+        "luggage": "Variable",
+        "convenience": "Medium"
+      },
+      "uber_bolt_peak": {
+        "cost": "£110-150",
+        "journey_time": "55-80 min",
+        "luggage": "Variable",
+        "convenience": "Medium"
+      },
+      "black_cab": {
+        "cost": "£100-140",
+        "journey_time": "60-85 min",
+        "luggage": "Good",
+        "convenience": "Medium"
+      }
+    }
+  },
+  "onward_routes": [
+    {
+      "destination": "Heathrow Airport",
+      "distance": "~60 miles",
+      "price_from": "£120",
+      "journey_time": "~1 hour 20 minutes",
+      "link": "https://ltrminicab.com/heathrow-airport-taxi-transfers/"
+    },
+    {
+      "destination": "Gatwick Airport",
+      "distance": "~75 miles",
+      "price_from": "£130",
+      "journey_time": "~1 hour 30 minutes",
+      "link": "https://ltrminicab.com/cruise-port-minicab-transfers/"
+    },
+    {
+      "destination": "Luton Airport",
+      "distance": "~35 miles",
+      "price_from": "£75",
+      "journey_time": "~50 minutes",
+      "link": "https://ltrminicab.com/luton-airport-chauffeur-driven-transfers/"
+    },
+    {
+      "destination": "London City Airport",
+      "distance": "~45 miles",
+      "price_from": "£90",
+      "journey_time": "~1 hour",
+      "link": "https://ltrminicab.com/to-from-london-city-airport-transfers/"
+    },
+    {
+      "destination": "Central London",
+      "distance": "~40 miles",
+      "price_from": "£75",
+      "journey_time": "~1 hour",
+      "link": ""
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I book a Stansted Airport to Bank EC3R taxi online?",
+      "answer": "You can quickly book your Stansted Airport to Bank EC3R transfer online, by phone, or through our booking portal in just a few simple steps."
+    },
+    {
+      "question": "Do you provide Meet & Greet at Stansted for Bank EC3R transfers?",
+      "answer": "Yes, our Meet & Greet service includes a professional chauffeur waiting inside Stansted arrivals with a personalised name board, ready to assist with your luggage before driving you directly to Bank EC3R."
+    },
+    {
+      "question": "How long does the Stansted Airport to Bank EC3R transfer take?",
+      "answer": "The journey covers approximately 42 miles and typically takes between 55 minutes and 1 hour 25 minutes, depending on traffic on the M11 and approaches into the City of London."
+    },
+    {
+      "question": "Are Stansted to Bank EC3R taxi prices fixed?",
+      "answer": "Yes, all prices for this route are fixed before booking with no hidden fees, surge pricing, or unexpected additional costs."
+    },
+    {
+      "question": "What happens if my Stansted flight is delayed?",
+      "answer": "Our team monitors all Stansted flights live, and your driver automatically adjusts the pickup time for your Bank EC3R transfer if your flight is delayed."
+    },
+    {
+      "question": "Do you charge extra for luggage on this route?",
+      "answer": "Standard luggage is included free of charge as long as it fits within the selected vehicle capacity. Larger vehicles are available for extra luggage."
+    },
+    {
+      "question": "Can I book an executive transfer from Stansted to Bank EC3R?",
+      "answer": "Yes, we offer executive Stansted Airport to Bank EC3R transfers with premium Mercedes vehicles suitable for corporate and VIP travel into the City."
+    },
+    {
+      "question": "Does the London Congestion Charge apply on this route?",
+      "answer": "Bank EC3R is within the Congestion Charge zone. The £18 daily charge applies Monday to Friday 7am to 6pm and weekends and bank holidays 12pm to 6pm. This will be confirmed and included in your quote."
+    },
+    {
+      "question": "Do you provide late-night transfers from Stansted to Bank EC3R?",
+      "answer": "Yes, our Stansted Airport to Bank EC3R taxi service operates 24 hours a day, including weekends, holidays, and early morning or late-night transfers."
+    },
+    {
+      "question": "Where exactly will my driver drop me in Bank EC3R?",
+      "answer": "Your driver will drop you at your exact destination address within Bank EC3R, whether that is an office building, hotel, residence, or right outside Bank Underground Station. Just provide the full address when booking."
+    }
+  ],
+  "seo": {
+    "primary_keywords": [
+      "Stansted Airport to Bank EC3R taxi",
+      "Stansted to Bank minicab",
+      "cheap taxi Stansted Airport to Bank",
+      "Stansted Airport to EC3R transfer",
+      "minicab Stansted to Bank London"
+    ],
+    "secondary_keywords": [
+      "Stansted Airport to City of London taxi",
+      "Stansted to Monument taxi",
+      "Stansted to Fenchurch Street minicab",
+      "Stansted Airport to Bank fixed fare",
+      "executive transfer Stansted to Bank EC3R"
+    ]
+  }
+}
