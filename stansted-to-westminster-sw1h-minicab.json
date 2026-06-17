@@ -1,0 +1,129 @@
+{
+  "page": {
+    "area": "Westminster",
+    "postcode": "SW1H",
+    "slug": "stansted-to-westminster-sw1h-minicab",
+    "title": "Stansted Airport to Westminster SW1H Minicab | Fixed Fare Taxi | LTR Minicab",
+    "meta_description": "Book a fixed fare minicab from Stansted Airport to Westminster SW1H. Door to door private hire with meet and greet, flight tracking, and 24/7 availability. From £95.",
+    "h1": "Reserve Your Stansted Airport to Westminster SW1H Minicab at a Guaranteed Fare"
+  },
+  "route": {
+    "from": "Stansted Airport",
+    "to": "Westminster SW1H",
+    "distance_miles": 44,
+    "distance_km": 71,
+    "journey_time_min": "1 hour",
+    "journey_time_max": "1 hour 30 minutes",
+    "primary_road": "M11 and central London"
+  },
+  "pricing": {
+    "currency": "GBP",
+    "from_stansted": {
+      "saloon": 95,
+      "executive": 126,
+      "estate": 106,
+      "mpv_5": 136,
+      "mpv_6": 161,
+      "mpv_7": 185,
+      "exec_mpv_7": 225,
+      "mpv_8": 253
+    },
+    "to_stansted": {
+      "saloon": 102,
+      "executive": 135,
+      "estate": 114,
+      "mpv_5": 147,
+      "mpv_6": 174,
+      "mpv_7": 201,
+      "exec_mpv_7": 244,
+      "mpv_8": 275
+    },
+    "student_discount_percent": 15,
+    "student_rate_from": 69
+  },
+  "local_areas": [
+    "Victoria Street",
+    "Horseferry Road",
+    "Marsham Street",
+    "Smith Square",
+    "Page Street",
+    "Millbank",
+    "Pimlico",
+    "St James's Park",
+    "Whitehall",
+    "Victoria",
+    "Vauxhall Bridge Road",
+    "Belgravia",
+    "Vauxhall",
+    "Lambeth",
+    "Mayfair",
+    "Waterloo"
+  ],
+  "nearby_postcodes": [
+    { "area": "Westminster", "postcode": "SW1H" },
+    { "area": "Victoria", "postcode": "SW1" },
+    { "area": "Pimlico", "postcode": "SW1V" },
+    { "area": "Whitehall", "postcode": "SW1A" },
+    { "area": "St James's Park", "postcode": "SW1" },
+    { "area": "Millbank", "postcode": "SW1P" },
+    { "area": "Belgravia", "postcode": "SW1X" },
+    { "area": "Vauxhall", "postcode": "SW8" },
+    { "area": "Lambeth", "postcode": "SE1" },
+    { "area": "Mayfair", "postcode": "W1" },
+    { "area": "Waterloo", "postcode": "SE1" }
+  ],
+  "hotels": [
+    "St. Ermin's Hotel Westminster",
+    "DoubleTree Westminster",
+    "Hyatt Regency Westminster",
+    "Park Plaza Westminster",
+    "Marriott County Hall",
+    "Premier Inn Westminster",
+    "Sanctuary House Hotel",
+    "hub by Premier Inn Westminster",
+    "Conrad London St. James",
+    "The Westminster London Curio"
+  ],
+  "faqs": [
+    {
+      "question": "What does a minicab from Stansted Airport to Westminster cost?",
+      "answer": "A saloon car transfer from Stansted Airport to Westminster SW1H with LTR Minicab starts from £95. The price is confirmed at the time of booking and remains fixed regardless of traffic on the day."
+    },
+    {
+      "question": "How long is the journey from Stansted Airport to Westminster?",
+      "answer": "The drive from Stansted to Westminster typically takes between 1 hour and 1 hour 30 minutes depending on traffic. During quieter periods, the journey can be closer to an hour."
+    },
+    {
+      "question": "Can I book an executive car for a government or corporate arrival at Westminster?",
+      "answer": "Yes, we offer executive Mercedes E Class transfers from Stansted Airport to Westminster SW1H. These are well suited to diplomatic, government, and corporate arrivals heading into the Westminster district."
+    },
+    {
+      "question": "Which Westminster streets and areas do you cover from Stansted?",
+      "answer": "We serve every address within Westminster SW1H including Victoria Street, Horseferry Road, Marsham Street, Smith Square, Page Street, Millbank, and surrounding areas such as Pimlico, Whitehall, St James's Park, and Victoria."
+    },
+    {
+      "question": "Is the Stansted to Westminster transfer available for early morning flights?",
+      "answer": "Yes, our service operates around the clock, 365 days a year. We cover early morning departures from Westminster to Stansted and late night arrivals from Stansted to Westminster without any time restrictions."
+    },
+    {
+      "question": "Does the fare increase during rush hour traffic into Westminster?",
+      "answer": "No. Your fare is fixed at booking and will not change regardless of congestion, roadworks, or how long the journey takes. There are no metered charges or surge pricing applied."
+    },
+    {
+      "question": "Can I arrange a pickup from Westminster to Stansted Airport?",
+      "answer": "Yes, we offer return transfers from Westminster SW1H to Stansted Airport at competitive fixed rates. You can book both legs of your trip at the same time when making your initial reservation."
+    },
+    {
+      "question": "What if my Stansted flight arrives late at night?",
+      "answer": "We track your flight in real time and your driver will be at Stansted arrivals whenever you land. Late night pickups are standard and come with the same fixed fare and free waiting time as any other booking."
+    },
+    {
+      "question": "Do you provide vehicles for group transfers from Stansted to Westminster?",
+      "answer": "Yes, we have MPV vehicles seating 5, 6, 7, or 8 passengers with generous luggage space. All come with fixed fares for the Stansted to Westminster route and are ideal for delegations or families."
+    },
+    {
+      "question": "Is a minicab quicker than the Stansted Express for getting to Westminster?",
+      "answer": "In most cases, yes. The Stansted Express takes you to Liverpool Street, from where you still need to change to the Jubilee or District line to reach Westminster, adding 25 to 35 minutes. A direct minicab often matches or beats the total journey time with far less hassle."
+    }
+  ]
+}
