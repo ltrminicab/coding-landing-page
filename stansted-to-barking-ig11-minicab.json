@@ -1,0 +1,125 @@
+{
+  "page": {
+    "area": "Barking",
+    "postcode": "IG11",
+    "slug": "stansted-to-barking-ig11-minicab",
+    "title": "Stansted Airport to Barking IG11 Minicab | Fixed Fare Taxi | LTR Minicab",
+    "meta_description": "Book a fixed fare minicab from Stansted Airport to Barking IG11. Door to door private hire with meet and greet, flight tracking, and 24/7 availability. From £78.",
+    "h1": "Secure a Fixed Price Stansted Airport to Barking IG11 Minicab with LTR Minicab"
+  },
+  "route": {
+    "from": "Stansted Airport",
+    "to": "Barking IG11",
+    "distance_miles": 35,
+    "distance_km": 56,
+    "journey_time_min": "45 minutes",
+    "journey_time_max": "1 hour 10 minutes",
+    "primary_road": "M11 and A12"
+  },
+  "pricing": {
+    "currency": "GBP",
+    "from_stansted": {
+      "saloon": 78,
+      "executive": 103,
+      "estate": 87,
+      "mpv_5": 112,
+      "mpv_6": 132,
+      "mpv_7": 152,
+      "exec_mpv_7": 184,
+      "mpv_8": 207
+    },
+    "to_stansted": {
+      "saloon": 84,
+      "executive": 111,
+      "estate": 94,
+      "mpv_5": 121,
+      "mpv_6": 143,
+      "mpv_7": 165,
+      "exec_mpv_7": 200,
+      "mpv_8": 225
+    },
+    "student_discount_percent": 15,
+    "student_rate_from": 56
+  },
+  "local_areas": [
+    "East Street",
+    "Longbridge Road",
+    "Ripple Road",
+    "Upney Lane",
+    "Gascoigne Estate",
+    "Thames View",
+    "Dagenham",
+    "Becontree",
+    "Upney",
+    "Creekmouth",
+    "Beckton",
+    "East Ham",
+    "Canning Town",
+    "Castle Green"
+  ],
+  "nearby_postcodes": [
+    { "area": "Barking", "postcode": "IG11" },
+    { "area": "Dagenham", "postcode": "RM10" },
+    { "area": "Becontree", "postcode": "RM8" },
+    { "area": "Upney", "postcode": "IG11" },
+    { "area": "Creekmouth", "postcode": "IG11" },
+    { "area": "Beckton", "postcode": "E6" },
+    { "area": "East Ham", "postcode": "E6" },
+    { "area": "Ilford", "postcode": "IG1" },
+    { "area": "Canning Town", "postcode": "E16" },
+    { "area": "Thames View", "postcode": "IG11" },
+    { "area": "Castle Green", "postcode": "RM9" }
+  ],
+  "hotels": [
+    "ibis Barking",
+    "Premier Inn Barking",
+    "Travelodge Barking",
+    "Holiday Inn Barking",
+    "easyHotel Barking",
+    "Moxy Barking",
+    "Hampton by Hilton Beckton",
+    "Premier Inn Dagenham"
+  ],
+  "faqs": [
+    {
+      "question": "What is the fare for a minicab from Stansted Airport to Barking?",
+      "answer": "A saloon car transfer from Stansted Airport to Barking IG11 with LTR Minicab starts from £78. This is a fixed fare confirmed when you book, so there are no surprises on the day."
+    },
+    {
+      "question": "How long does it take to drive from Stansted to Barking?",
+      "answer": "The journey usually takes between 45 minutes and 1 hour 10 minutes depending on traffic. Our drivers use real time navigation to find the fastest route via the M11 and A12 or A13."
+    },
+    {
+      "question": "Do you operate the Stansted to Barking route overnight?",
+      "answer": "Yes, we run 24 hours a day, 7 days a week including bank holidays. Whether your flight lands at midnight or 4am, a driver will be waiting for you at Stansted arrivals."
+    },
+    {
+      "question": "Which streets and estates in Barking IG11 do you cover?",
+      "answer": "We cover every address within Barking IG11 including East Street, Longbridge Road, Ripple Road, Upney Lane, Gascoigne Estate, Thames View, Creekmouth, and all surrounding streets and housing estates."
+    },
+    {
+      "question": "Will the price change if there is heavy traffic on the A13?",
+      "answer": "No. Your fare is fixed at the time of booking and will not change regardless of traffic delays, route diversions, or how long the journey takes on the day."
+    },
+    {
+      "question": "Can I cancel my Stansted to Barking booking if my plans change?",
+      "answer": "Yes, cancellations made at least 12 hours before your scheduled pickup receive a full refund. There are no cancellation fees or hidden charges applied."
+    },
+    {
+      "question": "How do I meet my driver at Stansted Airport?",
+      "answer": "Your driver will be inside the Stansted arrivals hall with a name board displaying your name. Driver contact details are also sent in your booking confirmation so you can get in touch directly if needed."
+    },
+    {
+      "question": "Are there larger vehicles available for families travelling to Barking?",
+      "answer": "Yes, we offer MPV vehicles seating 5, 6, 7, or 8 passengers with generous boot space. All come with fixed fares for the Stansted to Barking route and are ideal for families with multiple suitcases."
+    },
+    {
+      "question": "Is a return booking from Barking to Stansted Airport available?",
+      "answer": "Yes, we offer return transfers from Barking IG11 to Stansted Airport at competitive fixed rates. You can book both your arrival and departure journeys at the same time for convenience."
+    },
+    {
+      "question": "Do you offer baby seats for the Stansted to Barking journey?",
+      "answer": "Yes, we provide booster seats, child seats, and infant seats on request at no extra charge. Just select your child seat requirement when making your booking and it will be fitted before your pickup."
+    }
+  ]
+}
