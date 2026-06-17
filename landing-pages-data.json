@@ -1,0 +1,151 @@
+{
+  "template_reference": "stansted-airport-area-landing-pages",
+  "format_version": "1.0",
+  "airports": ["Stansted"],
+  "saved_hotels": [
+    {
+      "name": "Kensal Green Backpackers",
+      "url": "https://ltrminicab.com/london-hotel-transfers/kensal-green-backpackers-minicab-transfers/"
+    },
+    {
+      "name": "The Pride of Paddington",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-pride-of-paddington-minicab-transfers/"
+    },
+    {
+      "name": "PubLove @ The Green Man",
+      "url": "https://ltrminicab.com/london-hotel-transfers/publove-the-green-man-edgware-road-minicab-transfers/"
+    },
+    {
+      "name": "PubLove @ The Steam Engine",
+      "url": "https://ltrminicab.com/london-hotel-transfers/publove-the-steam-engine-waterloo-minicab-transfers/"
+    },
+    {
+      "name": "PubLove @ The White Ferry",
+      "url": "https://ltrminicab.com/london-hotel-transfers/publove-the-white-ferry-pimlico-minicab-transfers/"
+    },
+    {
+      "name": "PubLove @ The Exmouth Arms",
+      "url": "https://ltrminicab.com/london-hotel-transfers/publove-the-exmouth-arms-euston-minicab-transfers/"
+    },
+    {
+      "name": "Cheval Old Town Chambers",
+      "url": "https://ltrminicab.com/london-hotel-transfers/cheval-old-town-chambers-london-minicab-transfers/"
+    },
+    {
+      "name": "Four Seasons Residences",
+      "url": "https://ltrminicab.com/london-hotel-transfers/four-seasons-residences-tower-bridge-minicab-transfers/"
+    },
+    {
+      "name": "COMO Residences",
+      "url": "https://ltrminicab.com/london-hotel-transfers/como-residences-mayfair-minicab-transfers/"
+    },
+    {
+      "name": "The Residences at Jumeirah",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-residences-at-jumeirah-knightsbridge-minicab-transfers/"
+    }
+  ],
+  "saved_cities": [
+    {
+      "name": "Croydon",
+      "number": 11,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-croydon/"
+    },
+    {
+      "name": "Bromley",
+      "number": 12,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-bromley/"
+    },
+    {
+      "name": "Nottingham",
+      "number": 13,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-nottingham/"
+    },
+    {
+      "name": "Bradford",
+      "number": 14,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-bradford/"
+    },
+    {
+      "name": "Belfast",
+      "number": 15,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-belfast/"
+    },
+    {
+      "name": "Cardiff",
+      "number": 16,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-cardiff/"
+    },
+    {
+      "name": "Liverpool",
+      "number": 17,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-liverpool/"
+    },
+    {
+      "name": "Bristol",
+      "number": 18,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-bristol/"
+    },
+    {
+      "name": "Leeds",
+      "number": 19,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-leeds/"
+    },
+    {
+      "name": "York",
+      "number": 20,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-york/"
+    }
+  ],
+  "pricing_ratios_from_saloon": {
+    "saloon": 1.0,
+    "executive": 1.32,
+    "estate": 1.12,
+    "mpv5": 1.44,
+    "mpv6": 1.69,
+    "mpv7": 1.95,
+    "exec_mpv7": 2.36,
+    "mpv8": 2.66
+  },
+  "return_fare_markup": 1.08,
+  "student_discount": 0.15,
+  "contact": {
+    "phone": "+442036678574",
+    "whatsapp": "https://wa.me/442036678574",
+    "booking_url": "https://book.ltrminicab.com/"
+  },
+  "common_links": {
+    "travel_guide": "https://ltrminicab.com/stansted-airport-travel-guide/",
+    "airports": "https://ltrminicab.com/uk-airport-minicab-transfers/",
+    "seaports": "https://ltrminicab.com/cruise-port-minicab-transfers/",
+    "hotels": "https://ltrminicab.com/london-hotel-transfers/",
+    "stations": "https://ltrminicab.com/london-train-station-minicabs/",
+    "cities": "https://ltrminicab.com/uk-cities-minicab-service/",
+    "students": "https://ltrminicab.com/uk-student-taxi-discount/",
+    "tours": "https://ltrminicab.com/london-tours/",
+    "events": "https://ltrminicab.com/london-event-transport-taxi/",
+    "day_hire": "https://ltrminicab.com/stansted-airport-day-hire/"
+  },
+  "completed_pages": [
+    {
+      "area": "Canary Wharf",
+      "postcode": "E14",
+      "file": "template-reference",
+      "saloon_price": 90,
+      "distance_miles": 42
+    },
+    {
+      "area": "Kensington",
+      "postcode": "W8",
+      "file": "stansted-to-kensington-taxi.html",
+      "saloon_price": 85,
+      "distance_miles": 44
+    },
+    {
+      "area": "Chelsea",
+      "postcode": "SW3",
+      "file": "stansted-to-chelsea-taxi.html",
+      "saloon_price": 84,
+      "distance_miles": 43
+    }
+  ]
+}
