@@ -146,6 +146,13 @@
       "file": "stansted-to-chelsea-taxi.html",
       "saloon_price": 84,
       "distance_miles": 43
+    },
+    {
+      "area": "Mayfair",
+      "postcode": "W1J",
+      "file": "stansted-to-mayfair-taxi.html",
+      "saloon_price": 86,
+      "distance_miles": 42
     }
   ]
 }
