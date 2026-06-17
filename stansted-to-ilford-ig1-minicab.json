@@ -1,0 +1,126 @@
+{
+  "page": {
+    "area": "Ilford",
+    "postcode": "IG1",
+    "slug": "stansted-to-ilford-ig1-minicab",
+    "title": "Stansted Airport to Ilford IG1 Minicab | Fixed Fare Taxi | LTR Minicab",
+    "meta_description": "Book a fixed fare minicab from Stansted Airport to Ilford IG1. Door to door private hire with meet and greet, flight tracking, and 24/7 availability. From £80.",
+    "h1": "Pre-Book Your Stansted Airport to Ilford IG1 Minicab at a Fixed Fare"
+  },
+  "route": {
+    "from": "Stansted Airport",
+    "to": "Ilford IG1",
+    "distance_miles": 37,
+    "distance_km": 60,
+    "journey_time_min": "45 minutes",
+    "journey_time_max": "1 hour 15 minutes",
+    "primary_road": "M11 and A12"
+  },
+  "pricing": {
+    "currency": "GBP",
+    "from_stansted": {
+      "saloon": 80,
+      "executive": 106,
+      "estate": 89,
+      "mpv_5": 115,
+      "mpv_6": 135,
+      "mpv_7": 156,
+      "exec_mpv_7": 189,
+      "mpv_8": 213
+    },
+    "to_stansted": {
+      "saloon": 86,
+      "executive": 114,
+      "estate": 96,
+      "mpv_5": 124,
+      "mpv_6": 146,
+      "mpv_7": 169,
+      "exec_mpv_7": 205,
+      "mpv_8": 231
+    },
+    "student_discount_percent": 15,
+    "student_rate_from": 58
+  },
+  "local_areas": [
+    "Ilford High Road",
+    "Cranbrook Road",
+    "Ilford Lane",
+    "Clements Road",
+    "Ley Street",
+    "Seven Kings",
+    "Goodmayes",
+    "Manor Park",
+    "Gants Hill",
+    "Barking",
+    "Chadwell Heath",
+    "Valentines Park",
+    "Newbury Park",
+    "Barkingside",
+    "Forest Gate"
+  ],
+  "nearby_postcodes": [
+    { "area": "Ilford", "postcode": "IG1" },
+    { "area": "Seven Kings", "postcode": "IG3" },
+    { "area": "Goodmayes", "postcode": "IG3" },
+    { "area": "Manor Park", "postcode": "E12" },
+    { "area": "Gants Hill", "postcode": "IG2" },
+    { "area": "Barking", "postcode": "IG11" },
+    { "area": "Chadwell Heath", "postcode": "RM6" },
+    { "area": "Valentines Park", "postcode": "IG1" },
+    { "area": "Newbury Park", "postcode": "IG2" },
+    { "area": "Barkingside", "postcode": "IG6" },
+    { "area": "Forest Gate", "postcode": "E7" }
+  ],
+  "hotels": [
+    "Premier Inn Ilford",
+    "Travelodge Ilford",
+    "Holiday Inn Ilford",
+    "Best Western Ilford",
+    "Redbridge Hotel",
+    "Cranbrook Hotel Ilford",
+    "ibis Barking",
+    "Hampton by Hilton Stratford"
+  ],
+  "faqs": [
+    {
+      "question": "How much does a minicab from Stansted Airport to Ilford cost?",
+      "answer": "A saloon car transfer from Stansted Airport to Ilford IG1 with LTR Minicab starts from £80. The fare is confirmed at booking and will not change regardless of traffic conditions or journey time on the day."
+    },
+    {
+      "question": "How long is the drive from Stansted Airport to Ilford?",
+      "answer": "The journey typically takes between 45 minutes and 1 hour 15 minutes depending on traffic. Our drivers use live navigation to take the quickest available route via the M11 and A12."
+    },
+    {
+      "question": "Can I book a Stansted to Ilford taxi for an early morning flight?",
+      "answer": "Yes, our service runs 24 hours a day, 365 days a year. Whether you need a 3am pickup from Ilford to catch an early Stansted departure or a late night arrival transfer, we have drivers available at all times."
+    },
+    {
+      "question": "Do you serve all parts of the Ilford IG1 postcode area?",
+      "answer": "Yes, we provide door-to-door service to every address within Ilford IG1 including Ilford High Road, Cranbrook Road, Ilford Lane, Clements Road, Ley Street, and all surrounding residential and commercial streets."
+    },
+    {
+      "question": "What happens if my Stansted flight is delayed?",
+      "answer": "We monitor all incoming Stansted flights in real time. If your flight is delayed, your driver's pickup time is automatically adjusted. You also receive 45 minutes of free waiting time after your flight lands."
+    },
+    {
+      "question": "Can I travel with large suitcases on the Stansted to Ilford route?",
+      "answer": "Yes. Our saloon cars accommodate 2 medium and 2 small bags. For extra luggage, choose an estate or MPV at booking. Let us know your luggage details and we will recommend the best vehicle."
+    },
+    {
+      "question": "Is there a student discount for Stansted to Ilford transfers?",
+      "answer": "Yes, we offer a 15% student discount on all Stansted to Ilford transfers. Simply provide your student ID or university email when booking to claim the discounted fare."
+    },
+    {
+      "question": "Can I pay for my Stansted to Ilford minicab online?",
+      "answer": "Yes, all bookings can be paid for online through our secure payment system at the time of booking. You can also pay by card in the vehicle if you prefer."
+    },
+    {
+      "question": "Do you offer group transport from Stansted to Ilford for families?",
+      "answer": "Yes, we have MPV vehicles seating 5, 6, 7, or 8 passengers, all available with fixed fares for the Stansted to Ilford route. These are ideal for families and groups travelling together with luggage."
+    },
+    {
+      "question": "How far ahead should I book my Stansted to Ilford airport transfer?",
+      "answer": "We recommend booking at least 24 hours in advance to guarantee your preferred vehicle. During busy travel periods such as school holidays, booking a few days ahead ensures the best availability and price."
+    }
+  ]
+}
