@@ -153,6 +153,13 @@
       "file": "stansted-to-mayfair-taxi.html",
       "saloon_price": 86,
       "distance_miles": 42
+    },
+    {
+      "area": "Bloomsbury",
+      "postcode": "WC1A",
+      "file": "stansted-to-bloomsbury-taxi.html",
+      "saloon_price": 78,
+      "distance_miles": 40
     }
   ]
 }
