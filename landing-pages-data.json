@@ -160,6 +160,13 @@
       "file": "stansted-to-bloomsbury-taxi.html",
       "saloon_price": 78,
       "distance_miles": 40
+    },
+    {
+      "area": "Holborn",
+      "postcode": "WC1R",
+      "file": "stansted-to-holborn-taxi.html",
+      "saloon_price": 76,
+      "distance_miles": 39
     }
   ]
 }
