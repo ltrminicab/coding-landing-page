@@ -128,6 +128,13 @@
       "file": "stansted-to-chiswick-minicab.html",
       "saloon_price": 87,
       "distance_miles": 44
+    },
+    {
+      "area": "Maida Vale",
+      "postcode": "W9",
+      "file": "stansted-to-maida-vale-minicab.html",
+      "saloon_price": 85,
+      "distance_miles": 42
     }
   ],
   "price_multipliers": {
