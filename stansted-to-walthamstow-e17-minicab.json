@@ -1,0 +1,89 @@
+{
+  "page": "stansted-to-walthamstow-e17-minicab",
+  "area": "Walthamstow",
+  "postcode": "E17",
+  "distance_miles": 35,
+  "distance_km": 56,
+  "journey_time_min": "45 minutes",
+  "journey_time_max": "1 hour 15 minutes",
+  "route_description": "M11 and A406 North Circular",
+  "fares": {
+    "stansted_to_area": {
+      "saloon": 78,
+      "executive": 103,
+      "estate": 87,
+      "mpv5": 112,
+      "mpv6": 132,
+      "mpv7": 152,
+      "exec_mpv7": 185,
+      "mpv8": 208
+    },
+    "area_to_stansted": {
+      "saloon": 84,
+      "executive": 111,
+      "estate": 94,
+      "mpv5": 121,
+      "mpv6": 143,
+      "mpv7": 165,
+      "exec_mpv7": 200,
+      "mpv8": 225
+    }
+  },
+  "student_discount_percent": 15,
+  "student_fare_from": 57,
+  "local_areas": [
+    "Walthamstow Central",
+    "Walthamstow Village",
+    "Hoe Street",
+    "Wood Street",
+    "Higham Hill",
+    "Chapel End",
+    "St James Street",
+    "Blackhorse Road",
+    "Markhouse Road",
+    "Lloyd Park"
+  ],
+  "nearby_postcodes": [
+    "E10",
+    "E11",
+    "E4",
+    "E5",
+    "N17"
+  ],
+  "nearby_areas_buttons": [
+    { "label": "Walthamstow E17 Minicab", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-walthamstow-taxi/" },
+    { "label": "Leyton E10 Minicab", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-leyton-taxi/" },
+    { "label": "Leytonstone E11 Minicab", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-leytonstone-taxi/" },
+    { "label": "Blackhorse Road E17 Minicab", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-blackhorse-road-taxi/" },
+    { "label": "Wood Street E17 Minicab", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-wood-street-taxi/" },
+    { "label": "Higham Hill E17 Minicab", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-higham-hill-taxi/" },
+    { "label": "St James Street E17 Minicab", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-st-james-street-taxi/" },
+    { "label": "Chapel End E17 Minicab", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-chapel-end-taxi/" },
+    { "label": "Chingford E4 Minicab", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-chingford-taxi/" },
+    { "label": "Tottenham N17 Minicab", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-tottenham-taxi/" }
+  ],
+  "hotels": [
+    { "name": "Twickenham Guest House", "url": "https://ltrminicab.com/london-hotel-transfers/twickenham-guest-house-minicab-transfers/" },
+    { "name": "Premier Inn Romford Central", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-romford-central-minicab-transfers/" },
+    { "name": "Premier Inn Romford West", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-romford-west-minicab-transfers/" },
+    { "name": "Havering Guest House", "url": "https://ltrminicab.com/london-hotel-transfers/havering-guest-house-romford-minicab-transfers/" },
+    { "name": "Best Western London Ilford", "url": "https://ltrminicab.com/london-hotel-transfers/best-western-london-ilford-minicab-transfers/" },
+    { "name": "Travelodge London Ilford", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-london-ilford-minicab-transfers/" },
+    { "name": "Holiday Inn Express Ilford", "url": "https://ltrminicab.com/london-hotel-transfers/holiday-inn-express-ilford-minicab-transfers/" },
+    { "name": "Ibis Budget London Barking", "url": "https://ltrminicab.com/london-hotel-transfers/ibis-budget-london-barking-minicab-transfers/" },
+    { "name": "Travelodge Barking", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-barking-minicab-transfers/" },
+    { "name": "The Covent Garden Hotel", "url": "https://ltrminicab.com/london-hotel-transfers/the-covent-garden-hotel-minicab-transfers/" }
+  ],
+  "cities": [
+    { "label": "Colchester Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-colchester/" },
+    { "label": "Glasgow Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-glasgow/" },
+    { "label": "Southampton Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-southampton/" },
+    { "label": "Norwich Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-norwich/" },
+    { "label": "Huddersfield Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-huddersfield/" },
+    { "label": "Ipswich Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-ipswich/" },
+    { "label": "Worcester Minicab", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-worcester/" },
+    { "label": "Harlow Minicab", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-harlow/" },
+    { "label": "Southport Minicab", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-southport/" },
+    { "label": "Bath Minicab", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bath/" }
+  ]
+}
