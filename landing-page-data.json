@@ -1,0 +1,131 @@
+{
+  "saved_hotels": [
+    {
+      "name": "Arlington House",
+      "url": "https://ltrminicab.com/london-hotel-transfers/arlington-house-st-james-minicab-transfers/"
+    },
+    {
+      "name": "No.5 Maddox Street",
+      "url": "https://ltrminicab.com/london-hotel-transfers/no-5-maddox-street-mayfair-minicab-transfers/"
+    },
+    {
+      "name": "Shawway Apartments",
+      "url": "https://ltrminicab.com/london-hotel-transfers/shawway-apartments-canary-wharf-minicab-transfers/"
+    },
+    {
+      "name": "Go Native Monument",
+      "url": "https://ltrminicab.com/london-hotel-transfers/go-native-monument-city-minicab-transfers/"
+    },
+    {
+      "name": "Native Fulham",
+      "url": "https://ltrminicab.com/london-hotel-transfers/native-fulham-minicab-transfers/"
+    },
+    {
+      "name": "The Gate London City",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-gate-london-city-aldgate-minicab-transfers/"
+    },
+    {
+      "name": "Hampton by Hilton Croydon",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hampton-by-hilton-croydon-minicab-transfers/"
+    },
+    {
+      "name": "Holiday Inn Express Croydon",
+      "url": "https://ltrminicab.com/london-hotel-transfers/holiday-inn-express-croydon-minicab-transfers/"
+    },
+    {
+      "name": "Premier Inn Croydon Central",
+      "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-croydon-central-minicab-transfers/"
+    },
+    {
+      "name": "Premier Inn Croydon West",
+      "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-croydon-west-minicab-transfers/"
+    }
+  ],
+  "saved_cities": [
+    {
+      "name": "Plymouth",
+      "number": 21,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-plymouth/"
+    },
+    {
+      "name": "Derby",
+      "number": 22,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-derby/"
+    },
+    {
+      "name": "Dudley",
+      "number": 23,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-dudley/"
+    },
+    {
+      "name": "Northampton",
+      "number": 24,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-northampton/"
+    },
+    {
+      "name": "Portsmouth",
+      "number": 25,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-portsmouth/"
+    },
+    {
+      "name": "Blackpool",
+      "number": 26,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-blackpool/"
+    },
+    {
+      "name": "Peterborough",
+      "number": 27,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-peterborough/"
+    },
+    {
+      "name": "Telford",
+      "number": 28,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-telford/"
+    },
+    {
+      "name": "Chelmsford",
+      "number": 29,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-chelmsford/"
+    },
+    {
+      "name": "Eastbourne",
+      "number": 30,
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-eastbourne/"
+    }
+  ],
+  "completed_pages": [
+    {
+      "area": "Canary Wharf",
+      "postcode": "E14",
+      "file": "format-template",
+      "saloon_price": 90,
+      "distance_miles": 42
+    },
+    {
+      "area": "Wimbledon",
+      "postcode": "SW19",
+      "file": "stansted-to-wimbledon-minicab.html",
+      "saloon_price": 97,
+      "distance_miles": 55
+    },
+    {
+      "area": "Acton",
+      "postcode": "W3",
+      "file": "stansted-to-acton-minicab.html",
+      "saloon_price": 88,
+      "distance_miles": 45
+    }
+  ],
+  "price_multipliers": {
+    "saloon": 1.0,
+    "executive": 1.32,
+    "estate": 1.11,
+    "mpv5": 1.43,
+    "mpv6": 1.69,
+    "mpv7": 1.94,
+    "exec_mpv7": 2.37,
+    "mpv8": 2.66
+  },
+  "return_markup": 1.08,
+  "student_discount": 0.15
+}
