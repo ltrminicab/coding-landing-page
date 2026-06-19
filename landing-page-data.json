@@ -121,6 +121,13 @@
       "file": "stansted-to-shepherds-bush-minicab.html",
       "saloon_price": 86,
       "distance_miles": 43
+    },
+    {
+      "area": "Chiswick",
+      "postcode": "W4",
+      "file": "stansted-to-chiswick-minicab.html",
+      "saloon_price": 87,
+      "distance_miles": 44
     }
   ],
   "price_multipliers": {
