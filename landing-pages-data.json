@@ -167,6 +167,13 @@
       "file": "stansted-to-holborn-taxi.html",
       "saloon_price": 76,
       "distance_miles": 39
+    },
+    {
+      "area": "Greenwich",
+      "postcode": "SE10",
+      "file": "stansted-to-greenwich-taxi.html",
+      "saloon_price": 82,
+      "distance_miles": 41
     }
   ]
 }
