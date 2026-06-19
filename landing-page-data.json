@@ -114,6 +114,13 @@
       "file": "stansted-to-acton-minicab.html",
       "saloon_price": 88,
       "distance_miles": 45
+    },
+    {
+      "area": "Shepherd's Bush",
+      "postcode": "W12",
+      "file": "stansted-to-shepherds-bush-minicab.html",
+      "saloon_price": 86,
+      "distance_miles": 43
     }
   ],
   "price_multipliers": {
