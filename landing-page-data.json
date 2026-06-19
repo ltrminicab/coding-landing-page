@@ -135,6 +135,13 @@
       "file": "stansted-to-maida-vale-minicab.html",
       "saloon_price": 85,
       "distance_miles": 42
+    },
+    {
+      "area": "West Kensington",
+      "postcode": "W14",
+      "file": "stansted-to-west-kensington-minicab.html",
+      "saloon_price": 86,
+      "distance_miles": 43
     }
   ],
   "price_multipliers": {
