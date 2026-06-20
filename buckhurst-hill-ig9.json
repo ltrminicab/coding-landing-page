@@ -1,0 +1,139 @@
+{
+  "page": {
+    "area": "Buckhurst Hill",
+    "postcode": "IG9",
+    "airport": "Stansted Airport",
+    "slug": "stansted-to-buckhurst-hill-ig9-minicab",
+    "meta_title": "Stansted Airport to Buckhurst Hill IG9 Minicab | Fixed Fare Taxi Transfer",
+    "meta_description": "Book a fixed-fare minicab from Stansted Airport to Buckhurst Hill IG9. Professional drivers, flight tracking, free meet and greet, and 45 minutes waiting time included. From £48.",
+    "focus_keyword": "Stansted Airport to Buckhurst Hill minicab",
+    "canonical_url": "https://ltrminicab.com/stansted-taxi/stansted-to-buckhurst-hill-taxi/"
+  },
+  "journey": {
+    "distance_miles": 15,
+    "distance_km": 24,
+    "journey_time_min": 25,
+    "journey_time_max": 45,
+    "route_description": "M11 southbound to Buckhurst Hill IG9 via A104 or local roads"
+  },
+  "pricing": {
+    "from_airport": {
+      "saloon": 48,
+      "executive": 63,
+      "estate": 53,
+      "mpv_5": 69,
+      "mpv_6": 81,
+      "mpv_7": 94,
+      "exec_mpv_7": 114,
+      "mpv_8": 128
+    },
+    "to_airport": {
+      "saloon": 52,
+      "executive": 68,
+      "estate": 58,
+      "mpv_5": 75,
+      "mpv_6": 88,
+      "mpv_7": 102,
+      "exec_mpv_7": 123,
+      "mpv_8": 138
+    },
+    "student_discount_percent": 15,
+    "student_rate_from": 41
+  },
+  "sub_areas": [
+    { "name": "Buckhurst Hill", "postcode": "IG9", "slug": "stansted-to-buckhurst-hill-taxi" },
+    { "name": "Loughton", "postcode": "IG10", "slug": "stansted-to-loughton-taxi" },
+    { "name": "Chigwell", "postcode": "IG7", "slug": "stansted-to-chigwell-taxi" },
+    { "name": "Woodford Green", "postcode": "IG8", "slug": "stansted-to-woodford-green-taxi" },
+    { "name": "Woodford Bridge", "postcode": "IG8", "slug": "stansted-to-woodford-bridge-taxi" },
+    { "name": "South Woodford", "postcode": "E18", "slug": "stansted-to-south-woodford-taxi" },
+    { "name": "Theydon Bois", "postcode": "CM16", "slug": "stansted-to-theydon-bois-taxi" },
+    { "name": "Debden", "postcode": "IG10", "slug": "stansted-to-debden-taxi" },
+    { "name": "Epping", "postcode": "CM16", "slug": "stansted-to-epping-taxi" },
+    { "name": "Wanstead", "postcode": "E11", "slug": "stansted-to-wanstead-taxi" },
+    { "name": "Hainault", "postcode": "IG6", "slug": "stansted-to-hainault-taxi" }
+  ],
+  "hotels": [
+    { "name": "The Kings Arms", "url": "https://ltrminicab.com/london-hotel-transfers/the-kings-arms-bexleyheath-minicab-transfers/" },
+    { "name": "Love & Peace", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-love-peace-guesthouse-bexley-taxi-transfers/" },
+    { "name": "The Coach House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-coach-house-bexley-taxi-transfers/" },
+    { "name": "Premier Inn Southgate", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-airport-to-premier-inn-southgate-taxi-transfers/" },
+    { "name": "Innkeeper's Lodge Southgate", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-innkeepers-lodge-southgate-taxi-transfers/" },
+    { "name": "Oak Lodge Hotel", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-oak-lodge-hotel-enfield-taxi-transfers/" },
+    { "name": "Six Bells Hotels", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-six-bells-hotels-enfield-taxi-transfers/" },
+    { "name": "Kathleen House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-kathleen-house-enfield-taxi-transfers/" },
+    { "name": "The Stag Enfield", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-stag-enfield-taxi-transfers/" },
+    { "name": "Cogie 55", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-cogie-55-enfield-taxi-transfers/" }
+  ],
+  "cities": [
+    { "name": "Sunderland", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-sunderland/" },
+    { "name": "Walsall", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-walsall/" },
+    { "name": "Swansea", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-swansea/" },
+    { "name": "Bournemouth", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bournemouth/" },
+    { "name": "Swindon", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-swindon/" },
+    { "name": "Exeter", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-exeter/" },
+    { "name": "Eastbourn", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-eastbourn/" },
+    { "name": "Bassetlaw", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bassetlaw/" },
+    { "name": "Dundee", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-dundee/" },
+    { "name": "Poole", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-poole/" }
+  ],
+  "faqs": [
+    {
+      "question": "How far is Buckhurst Hill from Stansted Airport?",
+      "answer": "Buckhurst Hill IG9 is approximately 15 miles south of Stansted Airport. By private minicab the journey normally takes between 25 and 45 minutes depending on traffic, making it a quick and easy airport run."
+    },
+    {
+      "question": "What is the fixed fare for a saloon from Stansted to Buckhurst Hill?",
+      "answer": "A saloon car transfer from Stansted Airport to Buckhurst Hill IG9 is priced from £48 with LTR Minicab. This is a confirmed fixed fare with no surge pricing, tolls, or hidden extras."
+    },
+    {
+      "question": "Which streets and roads in Buckhurst Hill IG9 do you cover?",
+      "answer": "We deliver to every address in the IG9 postcode including Queens Road, Palmerston Road, Lower Queen's Road, Roding Lane, and all residential streets. We also serve neighbouring Loughton IG10, Chigwell IG7, and Woodford Green IG8."
+    },
+    {
+      "question": "Can I book a pickup from Buckhurst Hill to Stansted Airport?",
+      "answer": "Yes. Return transfers from Buckhurst Hill IG9 to Stansted Airport start from £52 for a saloon car. You can book your outbound journey at the same time as your arrival transfer for convenience."
+    },
+    {
+      "question": "Do I need to tip my driver on the Stansted to Buckhurst Hill route?",
+      "answer": "Tipping is entirely optional and at your discretion. Your fixed fare covers the full journey including meet and greet, luggage assistance, and 45 minutes of waiting time at Stansted."
+    },
+    {
+      "question": "What happens if there is heavy traffic on the M11?",
+      "answer": "Your fare is fixed regardless of traffic. Our drivers use live navigation and will take the best available route to Buckhurst Hill, whether that means the M11, A104, or an alternative local road."
+    },
+    {
+      "question": "Can I request a specific pickup time at Stansted for my driver?",
+      "answer": "For airport pickups, we use your flight number and monitor your landing in real time. Your driver will be at Stansted when your plane touches down, with timing adjusted automatically for early or late arrivals."
+    },
+    {
+      "question": "Is there space for golf clubs or ski equipment in the car?",
+      "answer": "Yes. For oversized items like golf bags or ski equipment, we recommend booking an estate car or MPV which offers additional boot and cabin space. Mention your special luggage when you book."
+    },
+    {
+      "question": "Can two passengers share a ride from Stansted to different IG addresses?",
+      "answer": "Yes, you can add a second drop-off point when booking. If both addresses are in the Buckhurst Hill and surrounding area, a small additional fee may apply for the extra stop."
+    },
+    {
+      "question": "Will I receive a receipt for my Stansted to Buckhurst Hill transfer?",
+      "answer": "Yes. A full receipt is emailed to you automatically after payment. This includes a breakdown of your fare, journey details, and booking reference for your records or expense claims."
+    }
+  ],
+  "section_headings": {
+    "intro": "Pre-Book Your Stansted Airport to Buckhurst Hill IG9 Minicab Online",
+    "why_choose": "Top Reasons to Choose LTR Minicab for Stansted to Buckhurst Hill",
+    "how_to_book": "Reserve Your Stansted to Buckhurst Hill Taxi in 4 Easy Steps",
+    "prebook": "Stansted Airport to Buckhurst Hill IG9 Taxi Transfer",
+    "day_hire": "Private Day Hire in Buckhurst Hill After Landing at Stansted Airport",
+    "student": "Budget Student Transfer: Stansted Airport to Buckhurst Hill IG9 – 15% Discount",
+    "fleet": "Fleet Selection for Stansted to Buckhurst Hill IG9 Transfers",
+    "baby_seats": "Travelling with Children? Child Seats Ready for Your Buckhurst Hill Transfer",
+    "services": "Stansted Airport Transfers to Buckhurst Hill and Destinations Across the UK",
+    "fares": "Confirmed Fixed Prices: Stansted Airport to Buckhurst Hill IG9",
+    "hotels": "Nearby Accommodation We Serve from Stansted Airport",
+    "uk_cities": "UK Cities and Towns We Reach from Stansted Airport",
+    "local_areas": "Buckhurst Hill IG9 and Nearby Villages Covered from Stansted Airport",
+    "cta": "Land at Stansted, Ride Straight to Buckhurst Hill with Zero Hassle",
+    "faqs": "Buckhurst Hill Airport Transfer Questions and Answers"
+  }
+}
