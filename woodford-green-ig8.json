@@ -1,0 +1,139 @@
+{
+  "page": {
+    "area": "Woodford Green",
+    "postcode": "IG8",
+    "airport": "Stansted Airport",
+    "slug": "stansted-to-woodford-green-ig8-minicab",
+    "meta_title": "Stansted Airport to Woodford Green IG8 Minicab | Fixed Fare Taxi Transfer",
+    "meta_description": "Book a fixed-fare minicab from Stansted Airport to Woodford Green IG8. Professional drivers, flight tracking, free meet and greet, and 45 minutes waiting time included. From £49.",
+    "focus_keyword": "Stansted Airport to Woodford Green minicab",
+    "canonical_url": "https://ltrminicab.com/stansted-taxi/stansted-to-woodford-green-taxi/"
+  },
+  "journey": {
+    "distance_miles": 16,
+    "distance_km": 26,
+    "journey_time_min": 28,
+    "journey_time_max": 45,
+    "route_description": "M11 southbound then A104 or A406 North Circular to Woodford Green IG8"
+  },
+  "pricing": {
+    "from_airport": {
+      "saloon": 49,
+      "executive": 65,
+      "estate": 55,
+      "mpv_5": 71,
+      "mpv_6": 83,
+      "mpv_7": 96,
+      "exec_mpv_7": 117,
+      "mpv_8": 131
+    },
+    "to_airport": {
+      "saloon": 53,
+      "executive": 70,
+      "estate": 59,
+      "mpv_5": 77,
+      "mpv_6": 90,
+      "mpv_7": 104,
+      "exec_mpv_7": 126,
+      "mpv_8": 142
+    },
+    "student_discount_percent": 15,
+    "student_rate_from": 42
+  },
+  "sub_areas": [
+    { "name": "Woodford Green", "postcode": "IG8", "slug": "stansted-to-woodford-green-taxi" },
+    { "name": "Woodford Wells", "postcode": "IG8", "slug": "stansted-to-woodford-wells-taxi" },
+    { "name": "Woodford Bridge", "postcode": "IG8", "slug": "stansted-to-woodford-bridge-taxi" },
+    { "name": "South Woodford", "postcode": "E18", "slug": "stansted-to-south-woodford-taxi" },
+    { "name": "Highams Park", "postcode": "E4", "slug": "stansted-to-highams-park-taxi" },
+    { "name": "Buckhurst Hill", "postcode": "IG9", "slug": "stansted-to-buckhurst-hill-taxi" },
+    { "name": "Chigwell", "postcode": "IG7", "slug": "stansted-to-chigwell-taxi" },
+    { "name": "Wanstead", "postcode": "E11", "slug": "stansted-to-wanstead-taxi" },
+    { "name": "Snaresbrook", "postcode": "E11", "slug": "stansted-to-snaresbrook-taxi" },
+    { "name": "Leytonstone", "postcode": "E11", "slug": "stansted-to-leytonstone-taxi" },
+    { "name": "George Lane", "postcode": "E18", "slug": "stansted-to-george-lane-taxi" }
+  ],
+  "hotels": [
+    { "name": "The Kings Arms", "url": "https://ltrminicab.com/london-hotel-transfers/the-kings-arms-bexleyheath-minicab-transfers/" },
+    { "name": "Love & Peace", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-love-peace-guesthouse-bexley-taxi-transfers/" },
+    { "name": "The Coach House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-coach-house-bexley-taxi-transfers/" },
+    { "name": "Premier Inn Southgate", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-airport-to-premier-inn-southgate-taxi-transfers/" },
+    { "name": "Innkeeper's Lodge Southgate", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-innkeepers-lodge-southgate-taxi-transfers/" },
+    { "name": "Oak Lodge Hotel", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-oak-lodge-hotel-enfield-taxi-transfers/" },
+    { "name": "Six Bells Hotels", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-six-bells-hotels-enfield-taxi-transfers/" },
+    { "name": "Kathleen House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-kathleen-house-enfield-taxi-transfers/" },
+    { "name": "The Stag Enfield", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-stag-enfield-taxi-transfers/" },
+    { "name": "Cogie 55", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-cogie-55-enfield-taxi-transfers/" }
+  ],
+  "cities": [
+    { "name": "Sunderland", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-sunderland/" },
+    { "name": "Walsall", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-walsall/" },
+    { "name": "Swansea", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-swansea/" },
+    { "name": "Bournemouth", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bournemouth/" },
+    { "name": "Swindon", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-swindon/" },
+    { "name": "Exeter", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-exeter/" },
+    { "name": "Eastbourn", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-eastbourn/" },
+    { "name": "Bassetlaw", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bassetlaw/" },
+    { "name": "Dundee", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-dundee/" },
+    { "name": "Poole", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-poole/" }
+  ],
+  "faqs": [
+    {
+      "question": "What route does the driver take from Stansted to Woodford Green?",
+      "answer": "The most common route follows the M11 southbound then exits towards the A104 or A406 North Circular to reach Woodford Green IG8. Your driver will use live traffic data to choose the fastest option on the day."
+    },
+    {
+      "question": "How much should I expect to pay for a Stansted to Woodford Green taxi?",
+      "answer": "A saloon car transfer from Stansted Airport to Woodford Green IG8 starts from £49 with LTR Minicab. This is a fixed fare with no surge charges, tolls, or hidden extras added on the day of travel."
+    },
+    {
+      "question": "Do you drop off anywhere in the IG8 postcode area?",
+      "answer": "Yes. We deliver to all addresses within Woodford Green IG8 including Woodford Wells, Woodford Bridge, and surrounding streets. We also cover nearby areas like South Woodford E18, Buckhurst Hill IG9, and Highams Park E4."
+    },
+    {
+      "question": "Can I get collected from Woodford Green for a flight from Stansted?",
+      "answer": "Of course. We offer return transfers from Woodford Green IG8 to Stansted Airport starting from £53 for a saloon car. You can book both directions at the same time when making your reservation."
+    },
+    {
+      "question": "Is there extra charge if my Stansted flight lands after midnight?",
+      "answer": "Our service runs 24 hours a day, 365 days a year. The fare you are quoted at the time of booking is the fare you pay, regardless of whether you land at midday or 3am."
+    },
+    {
+      "question": "Where exactly will my driver meet me at Stansted Airport?",
+      "answer": "Your driver will be waiting inside the Stansted arrivals hall holding a personalised name board. This meet and greet service is completely free and included with every booking."
+    },
+    {
+      "question": "Can I fit a pushchair and suitcases in the vehicle?",
+      "answer": "Yes. Our saloon cars fit two medium cases and two small bags. For larger families or extra luggage including pushchairs, we recommend an estate car or MPV which offers significantly more boot space."
+    },
+    {
+      "question": "Do you offer a discount for booking both legs of the journey?",
+      "answer": "When you book a return journey from Woodford Green to Stansted alongside your arrival transfer, both fares are confirmed at fixed rates. Contact our team for the best available pricing on round-trip bookings."
+    },
+    {
+      "question": "How quickly can I get a quote for Stansted to Woodford Green?",
+      "answer": "Instantly. Enter your journey details on our booking page and you will receive a fixed-price quote within seconds. No registration or account needed to check prices."
+    },
+    {
+      "question": "What if I need to change my booking after it is confirmed?",
+      "answer": "You can amend your booking at any time by contacting our support team via phone or WhatsApp. Changes to pickup time, drop-off address, or vehicle type can usually be made at no extra cost."
+    }
+  ],
+  "section_headings": {
+    "intro": "Reserve Your Stansted Airport to Woodford Green Minicab at a Fixed Price",
+    "why_choose": "What Makes LTR Minicab the Smart Choice for Stansted to Woodford Green",
+    "how_to_book": "Book Your Stansted to Woodford Green Taxi in 4 Quick Steps",
+    "prebook": "Stansted Airport to Woodford Green IG8 Private Transfer",
+    "day_hire": "Dedicated Day Hire Service from Woodford Green via Stansted Airport",
+    "student": "Affordable Student Transfer from Stansted to Woodford Green – 15% Off",
+    "fleet": "Our Fleet for Stansted to Woodford Green IG8 Transfers",
+    "baby_seats": "Baby and Toddler Seats for Your Woodford Green Airport Transfer",
+    "services": "Transfer Options from Stansted Airport to Woodford Green and the UK",
+    "fares": "Fixed Taxi Fares from Stansted Airport to Woodford Green IG8",
+    "hotels": "Accommodation Near Woodford Green We Cover from Stansted",
+    "uk_cities": "Towns and Cities Across the UK Served from Stansted Airport",
+    "local_areas": "Woodford Green IG8 and Surrounding Suburbs We Serve from Stansted",
+    "cta": "Arrive in Woodford Green Relaxed with a Pre-Booked Stansted Minicab",
+    "faqs": "Your Questions About Stansted to Woodford Green Transfers Answered"
+  }
+}
