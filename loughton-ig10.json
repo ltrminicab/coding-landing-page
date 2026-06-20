@@ -1,0 +1,139 @@
+{
+  "page": {
+    "area": "Loughton",
+    "postcode": "IG10",
+    "airport": "Stansted Airport",
+    "slug": "stansted-to-loughton-ig10-minicab",
+    "meta_title": "Stansted Airport to Loughton IG10 Minicab | Fixed Fare Private Transfer",
+    "meta_description": "Book a fixed-fare minicab from Stansted Airport to Loughton IG10. Professional drivers, live flight tracking, free meet and greet, and 45 minutes waiting time included. From £46.",
+    "focus_keyword": "Stansted Airport to Loughton minicab",
+    "canonical_url": "https://ltrminicab.com/stansted-taxi/stansted-to-loughton-taxi/"
+  },
+  "journey": {
+    "distance_miles": 14,
+    "distance_km": 23,
+    "journey_time_min": 22,
+    "journey_time_max": 40,
+    "route_description": "M11 southbound to Loughton IG10 via A104 or local exits"
+  },
+  "pricing": {
+    "from_airport": {
+      "saloon": 46,
+      "executive": 61,
+      "estate": 51,
+      "mpv_5": 66,
+      "mpv_6": 78,
+      "mpv_7": 90,
+      "exec_mpv_7": 110,
+      "mpv_8": 123
+    },
+    "to_airport": {
+      "saloon": 50,
+      "executive": 66,
+      "estate": 56,
+      "mpv_5": 72,
+      "mpv_6": 85,
+      "mpv_7": 98,
+      "exec_mpv_7": 119,
+      "mpv_8": 133
+    },
+    "student_discount_percent": 15,
+    "student_rate_from": 39
+  },
+  "sub_areas": [
+    { "name": "Loughton", "postcode": "IG10", "slug": "stansted-to-loughton-taxi" },
+    { "name": "Debden", "postcode": "IG10", "slug": "stansted-to-debden-taxi" },
+    { "name": "Buckhurst Hill", "postcode": "IG9", "slug": "stansted-to-buckhurst-hill-taxi" },
+    { "name": "Theydon Bois", "postcode": "CM16", "slug": "stansted-to-theydon-bois-taxi" },
+    { "name": "Epping", "postcode": "CM16", "slug": "stansted-to-epping-taxi" },
+    { "name": "Abridge", "postcode": "RM4", "slug": "stansted-to-abridge-taxi" },
+    { "name": "Chigwell", "postcode": "IG7", "slug": "stansted-to-chigwell-taxi" },
+    { "name": "Woodford Green", "postcode": "IG8", "slug": "stansted-to-woodford-green-taxi" },
+    { "name": "North Weald", "postcode": "CM16", "slug": "stansted-to-north-weald-taxi" },
+    { "name": "Waltham Abbey", "postcode": "EN9", "slug": "stansted-to-waltham-abbey-taxi" },
+    { "name": "Ongar", "postcode": "CM5", "slug": "stansted-to-ongar-taxi" }
+  ],
+  "hotels": [
+    { "name": "The Kings Arms", "url": "https://ltrminicab.com/london-hotel-transfers/the-kings-arms-bexleyheath-minicab-transfers/" },
+    { "name": "Love & Peace", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-love-peace-guesthouse-bexley-taxi-transfers/" },
+    { "name": "The Coach House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-coach-house-bexley-taxi-transfers/" },
+    { "name": "Premier Inn Southgate", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-airport-to-premier-inn-southgate-taxi-transfers/" },
+    { "name": "Innkeeper's Lodge Southgate", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-innkeepers-lodge-southgate-taxi-transfers/" },
+    { "name": "Oak Lodge Hotel", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-oak-lodge-hotel-enfield-taxi-transfers/" },
+    { "name": "Six Bells Hotels", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-six-bells-hotels-enfield-taxi-transfers/" },
+    { "name": "Kathleen House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-kathleen-house-enfield-taxi-transfers/" },
+    { "name": "The Stag Enfield", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-stag-enfield-taxi-transfers/" },
+    { "name": "Cogie 55", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-cogie-55-enfield-taxi-transfers/" }
+  ],
+  "cities": [
+    { "name": "Sunderland", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-sunderland/" },
+    { "name": "Walsall", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-walsall/" },
+    { "name": "Swansea", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-swansea/" },
+    { "name": "Bournemouth", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bournemouth/" },
+    { "name": "Swindon", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-swindon/" },
+    { "name": "Exeter", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-exeter/" },
+    { "name": "Eastbourn", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-eastbourn/" },
+    { "name": "Bassetlaw", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bassetlaw/" },
+    { "name": "Dundee", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-dundee/" },
+    { "name": "Poole", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-poole/" }
+  ],
+  "faqs": [
+    {
+      "question": "How close is Loughton to Stansted Airport by road?",
+      "answer": "Loughton IG10 is approximately 14 miles from Stansted Airport. By minicab the journey takes between 22 and 40 minutes depending on traffic, making it one of the quickest airport transfers we offer."
+    },
+    {
+      "question": "What does a saloon transfer from Stansted to Loughton cost?",
+      "answer": "A saloon car from Stansted Airport to Loughton IG10 starts from £46 with LTR Minicab. This is a fixed fare confirmed at booking with no surge pricing or hidden charges on the day."
+    },
+    {
+      "question": "Do you serve Debden and other parts of the IG10 postcode?",
+      "answer": "Yes. We cover every address within IG10 including Loughton Broadway, Debden, Staples Road, and Alderton Hill. We also serve nearby areas such as Buckhurst Hill IG9, Theydon Bois CM16, and Epping CM16."
+    },
+    {
+      "question": "Can you collect me from Loughton for an outbound Stansted flight?",
+      "answer": "Absolutely. We provide return transfers from Loughton IG10 to Stansted Airport starting from £50 for a saloon car. Both journeys can be booked together when making your initial reservation."
+    },
+    {
+      "question": "Is there a wait if my plane arrives early at Stansted?",
+      "answer": "We track every flight into Stansted in real time. If your plane arrives early, your driver will already be at the airport. If it arrives late, the pickup time is adjusted automatically with 45 minutes of free waiting included."
+    },
+    {
+      "question": "Are your drivers familiar with the Loughton and Epping Forest area?",
+      "answer": "Yes. Our drivers frequently cover the Loughton, Debden, Buckhurst Hill, and Epping routes and know the local roads, residential areas, and common traffic patterns well."
+    },
+    {
+      "question": "Can I bring a pet in the vehicle from Stansted to Loughton?",
+      "answer": "Small pets in suitable carriers can usually be accommodated. Please mention your pet when booking so we can allocate a driver and vehicle prepared for animal passengers."
+    },
+    {
+      "question": "Do you provide vehicles large enough for a family of six?",
+      "answer": "Yes. Our MPV 6, MPV 7, and MPV 8 vehicles are ideal for larger families. Each provides ample seating and luggage space for groups of up to 8 passengers travelling from Stansted to Loughton."
+    },
+    {
+      "question": "What payment methods do you accept for this route?",
+      "answer": "We accept all major debit and credit cards through our secure online booking platform. Your full fare is charged at the time of booking with no additional payments required on the day."
+    },
+    {
+      "question": "How far ahead should I book my Stansted to Loughton transfer?",
+      "answer": "We recommend booking as soon as you have your flight details confirmed. During busy travel periods and school holidays, booking a few days in advance ensures your preferred vehicle is available."
+    }
+  ],
+  "section_headings": {
+    "intro": "Stansted Airport to Loughton IG10 Minicab at Guaranteed Fixed Fares",
+    "why_choose": "How LTR Minicab Makes Your Stansted to Loughton Transfer Effortless",
+    "how_to_book": "How to Arrange Your Stansted to Loughton IG10 Transfer Online",
+    "prebook": "Stansted Airport to Loughton IG10 Direct Minicab Service",
+    "day_hire": "All-Day Private Hire from Loughton After Your Stansted Flight",
+    "student": "Stansted to Loughton Student Taxi with 15% Off Every Booking",
+    "fleet": "Available Cars for Your Stansted to Loughton IG10 Journey",
+    "baby_seats": "Request a Child Seat for Your Loughton Airport Transfer",
+    "services": "Private Hire Services from Stansted Airport to Loughton and Nationwide",
+    "fares": "Pre-Booked Fixed Fares: Stansted Airport to Loughton IG10",
+    "hotels": "Hotels and Lodges Near Loughton We Transfer To",
+    "uk_cities": "Nationwide Destinations Connected from Stansted Airport",
+    "local_areas": "Loughton IG10 and Epping Forest Area Postcodes We Cover",
+    "cta": "Step Off Your Stansted Flight and Head Straight to Loughton",
+    "faqs": "Loughton to Stansted Airport Transfer FAQs"
+  }
+}
