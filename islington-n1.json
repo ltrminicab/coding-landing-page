@@ -1,0 +1,139 @@
+{
+  "page": {
+    "area": "Islington",
+    "postcode": "N1",
+    "airport": "Stansted Airport",
+    "slug": "stansted-to-islington-n1-minicab",
+    "meta_title": "Stansted Airport to Islington N1 Minicab | Fixed Fare Taxi Transfer",
+    "meta_description": "Book a fixed-fare minicab from Stansted Airport to Islington N1. Professional drivers, flight tracking, free meet and greet, and 45 minutes waiting time included. From £69.",
+    "focus_keyword": "Stansted Airport to Islington minicab",
+    "canonical_url": "https://ltrminicab.com/stansted-taxi/stansted-to-islington-taxi/"
+  },
+  "journey": {
+    "distance_miles": 32,
+    "distance_km": 51,
+    "journey_time_min": 45,
+    "journey_time_max": 75,
+    "route_description": "M11 southbound then A406 North Circular or A10 into Islington N1"
+  },
+  "pricing": {
+    "from_airport": {
+      "saloon": 69,
+      "executive": 91,
+      "estate": 77,
+      "mpv_5": 99,
+      "mpv_6": 117,
+      "mpv_7": 135,
+      "exec_mpv_7": 164,
+      "mpv_8": 184
+    },
+    "to_airport": {
+      "saloon": 75,
+      "executive": 99,
+      "estate": 83,
+      "mpv_5": 107,
+      "mpv_6": 127,
+      "mpv_7": 146,
+      "exec_mpv_7": 177,
+      "mpv_8": 199
+    },
+    "student_discount_percent": 15,
+    "student_rate_from": 59
+  },
+  "sub_areas": [
+    { "name": "Islington", "postcode": "N1", "slug": "stansted-to-islington-taxi" },
+    { "name": "Angel", "postcode": "N1", "slug": "stansted-to-angel-taxi" },
+    { "name": "Barnsbury", "postcode": "N1", "slug": "stansted-to-barnsbury-taxi" },
+    { "name": "Canonbury", "postcode": "N1", "slug": "stansted-to-canonbury-taxi" },
+    { "name": "Highbury", "postcode": "N5", "slug": "stansted-to-highbury-taxi" },
+    { "name": "Holloway", "postcode": "N7", "slug": "stansted-to-holloway-taxi" },
+    { "name": "Finsbury Park", "postcode": "N4", "slug": "stansted-to-finsbury-park-taxi" },
+    { "name": "King's Cross", "postcode": "N1C", "slug": "stansted-to-kings-cross-taxi" },
+    { "name": "Clerkenwell", "postcode": "EC1", "slug": "stansted-to-clerkenwell-taxi" },
+    { "name": "Dalston", "postcode": "E8", "slug": "stansted-to-dalston-taxi" },
+    { "name": "Stoke Newington", "postcode": "N16", "slug": "stansted-to-stoke-newington-taxi" }
+  ],
+  "hotels": [
+    { "name": "The Kings Arms", "url": "https://ltrminicab.com/london-hotel-transfers/the-kings-arms-bexleyheath-minicab-transfers/" },
+    { "name": "Love & Peace", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-love-peace-guesthouse-bexley-taxi-transfers/" },
+    { "name": "The Coach House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-coach-house-bexley-taxi-transfers/" },
+    { "name": "Premier Inn Southgate", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-airport-to-premier-inn-southgate-taxi-transfers/" },
+    { "name": "Innkeeper's Lodge Southgate", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-innkeepers-lodge-southgate-taxi-transfers/" },
+    { "name": "Oak Lodge Hotel", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-oak-lodge-hotel-enfield-taxi-transfers/" },
+    { "name": "Six Bells Hotels", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-six-bells-hotels-enfield-taxi-transfers/" },
+    { "name": "Kathleen House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-kathleen-house-enfield-taxi-transfers/" },
+    { "name": "The Stag Enfield", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-stag-enfield-taxi-transfers/" },
+    { "name": "Cogie 55", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-cogie-55-enfield-taxi-transfers/" }
+  ],
+  "cities": [
+    { "name": "Sunderland", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-sunderland/" },
+    { "name": "Walsall", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-walsall/" },
+    { "name": "Swansea", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-swansea/" },
+    { "name": "Bournemouth", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bournemouth/" },
+    { "name": "Swindon", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-swindon/" },
+    { "name": "Exeter", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-exeter/" },
+    { "name": "Eastbourn", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-eastbourn/" },
+    { "name": "Bassetlaw", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bassetlaw/" },
+    { "name": "Dundee", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-dundee/" },
+    { "name": "Poole", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-poole/" }
+  ],
+  "faqs": [
+    {
+      "question": "How long does the drive from Stansted Airport to Islington take?",
+      "answer": "The drive from Stansted Airport to Islington N1 typically takes between 45 and 75 minutes depending on traffic. The route follows the M11 southbound before joining the A10 or A406 into north London, and your driver will use live traffic data to pick the fastest road on the day."
+    },
+    {
+      "question": "How much is a minicab from Stansted to Islington N1?",
+      "answer": "A saloon car transfer from Stansted Airport to Islington N1 starts from £69 with LTR Minicab. This is a fixed fare confirmed at the time of booking with no surge pricing, congestion charges, or hidden fees added on the day."
+    },
+    {
+      "question": "Do you cover all parts of the N1 postcode from Stansted?",
+      "answer": "Yes. We deliver to every address in the N1 postcode including Upper Street, Essex Road, Caledonian Road, Barnsbury, Canonbury, and Angel. We also serve adjacent areas such as Highbury N5, Holloway N7, King's Cross N1C, and Clerkenwell EC1."
+    },
+    {
+      "question": "Can you collect me from Islington for a Stansted departure?",
+      "answer": "Absolutely. Return transfers from Islington N1 to Stansted Airport start from £75 for a saloon car. You can book both legs of your journey at the same time during your initial reservation."
+    },
+    {
+      "question": "Is the congestion charge included in my Stansted to Islington fare?",
+      "answer": "Your fixed fare covers the entire journey from Stansted Airport to your Islington address. There are no additional charges for congestion zones, road tolls, or any other fees on the day of travel."
+    },
+    {
+      "question": "What if my Stansted flight is delayed and I arrive late?",
+      "answer": "We monitor every inbound Stansted flight in real time. If your plane is delayed, your driver's arrival time is adjusted automatically. You also receive 45 minutes of free waiting from the moment your flight lands."
+    },
+    {
+      "question": "Can I book a late night transfer from Stansted to Islington?",
+      "answer": "Yes. Our service operates 24 hours a day, 365 days a year. Whether your flight lands at 2am or midday, the fare you are quoted at the time of booking is the fare you pay with no night time surcharges."
+    },
+    {
+      "question": "Do you have vehicles for groups of six or more passengers?",
+      "answer": "Yes. Our MPV 6, MPV 7, and MPV 8 vehicles cater for larger groups of up to 8 passengers. Each offers generous seating and luggage space for families and travel parties heading to Islington from Stansted."
+    },
+    {
+      "question": "Where will my driver be waiting when I land at Stansted?",
+      "answer": "Your driver will be standing inside the Stansted arrivals hall holding a personalised name board with your details. This meet and greet service is completely free and included with every booking."
+    },
+    {
+      "question": "Can I amend my booking details after confirming?",
+      "answer": "Yes. You can change your pickup time, drop-off address, or vehicle type by contacting our support team via phone or WhatsApp. Most amendments can be made at no extra cost provided they are requested in advance."
+    }
+  ],
+  "section_headings": {
+    "intro": "Stansted Airport to Islington N1 Minicab with Guaranteed Fixed Pricing",
+    "why_choose": "Why Islington Residents and Visitors Trust LTR Minicab from Stansted",
+    "how_to_book": "How to Book Your Stansted to Islington N1 Minicab Online",
+    "prebook": "Stansted Airport to Islington N1 Private Taxi Transfer",
+    "day_hire": "Explore Islington and Central London with Day Hire from Stansted Airport",
+    "student": "Student Taxi from Stansted Airport to Islington N1 with 15% Savings",
+    "fleet": "Vehicle Options for Your Stansted to Islington N1 Transfer",
+    "baby_seats": "Child Car Seats Available for Your Islington Airport Transfer",
+    "services": "Stansted Airport Transfer Services to Islington and Beyond",
+    "fares": "Fixed Fare Table: Stansted Airport to Islington N1 Transfers",
+    "hotels": "Hotels and Guest Houses Near Islington We Transfer To",
+    "uk_cities": "UK Destinations We Connect from Stansted Airport",
+    "local_areas": "Islington N1 and Neighbouring Postcodes Served from Stansted",
+    "cta": "Touch Down at Stansted and Be in Islington Within the Hour",
+    "faqs": "Stansted to Islington N1 Minicab Frequently Asked Questions"
+  }
+}
