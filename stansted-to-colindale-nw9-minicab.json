@@ -1,0 +1,71 @@
+{
+  "page": "stansted-to-colindale-nw9-minicab",
+  "area": "Colindale",
+  "postcode": "NW9",
+  "distance_miles": 40,
+  "distance_km": 64,
+  "journey_time_min": "50 minutes",
+  "journey_time_max": "1 hour 25 minutes",
+  "route_description": "M11 southbound to M25, then A5 Edgware Road into Colindale",
+  "pricing": {
+    "saloon": { "from_stansted": 82, "to_stansted": 88 },
+    "executive": { "from_stansted": 108, "to_stansted": 117 },
+    "estate": { "from_stansted": 91, "to_stansted": 98 },
+    "mpv_5": { "from_stansted": 118, "to_stansted": 127 },
+    "mpv_6": { "from_stansted": 139, "to_stansted": 150 },
+    "mpv_7": { "from_stansted": 160, "to_stansted": 173 },
+    "exec_mpv_7": { "from_stansted": 194, "to_stansted": 210 },
+    "mpv_8": { "from_stansted": 218, "to_stansted": 237 }
+  },
+  "student_discount_percent": 15,
+  "student_fare_from": 59,
+  "local_streets": [
+    "Colindale Avenue",
+    "Colindeep Lane",
+    "Aerodrome Road",
+    "Grahame Park Way",
+    "Montrose Avenue",
+    "Beaufort Park",
+    "Capitol Way",
+    "Sheaveshill Avenue",
+    "Rushgrove Avenue",
+    "Stag Lane"
+  ],
+  "nearby_areas": [
+    { "name": "Colindale", "postcode": "NW9", "slug": "stansted-to-colindale-taxi" },
+    { "name": "Hendon", "postcode": "NW4", "slug": "stansted-to-hendon-taxi" },
+    { "name": "Burnt Oak", "postcode": "HA8", "slug": "stansted-to-burnt-oak-taxi" },
+    { "name": "Kingsbury", "postcode": "NW9", "slug": "stansted-to-kingsbury-taxi" },
+    { "name": "The Hyde", "postcode": "NW9", "slug": "stansted-to-the-hyde-taxi" },
+    { "name": "West Hendon", "postcode": "NW9", "slug": "stansted-to-west-hendon-taxi" },
+    { "name": "Grahame Park", "postcode": "NW9", "slug": "stansted-to-grahame-park-taxi" },
+    { "name": "Queensbury", "postcode": "HA8", "slug": "stansted-to-queensbury-taxi" },
+    { "name": "Edgware", "postcode": "HA8", "slug": "stansted-to-edgware-taxi" },
+    { "name": "Mill Hill", "postcode": "NW7", "slug": "stansted-to-mill-hill-taxi" },
+    { "name": "Beaufort Park", "postcode": "NW9", "slug": "stansted-to-beaufort-park-taxi" }
+  ],
+  "hotels": [
+    { "name": "Point A Kings Cross", "url": "https://ltrminicab.com/london-hotel-transfers/point-a-hotel-kings-cross-minicab-transfers/" },
+    { "name": "Point A Liverpool Street", "url": "https://ltrminicab.com/london-hotel-transfers/point-a-hotel-liverpool-street-minicab-transfers/" },
+    { "name": "Zedwell Tottenham Ct Rd", "url": "https://ltrminicab.com/london-hotel-transfers/zedwell-tottenham-court-road-minicab-transfers/" },
+    { "name": "The Z Hotel Victoria", "url": "https://ltrminicab.com/london-hotel-transfers/the-z-hotel-victoria-minicab-transfers/" },
+    { "name": "The Z Hotel Gloucester Pl", "url": "https://ltrminicab.com/london-hotel-transfers/the-z-hotel-gloucester-place-minicab-transfers/" },
+    { "name": "Royal Garden Hotel", "url": "https://ltrminicab.com/london-hotel-transfers/royal-garden-hotel-kensington-minicab-transfers/" },
+    { "name": "Strand Palace", "url": "https://ltrminicab.com/london-hotel-transfers/strand-palace-hotel-strand-minicab-transfers/" },
+    { "name": "Montcalm Royal London House", "url": "https://ltrminicab.com/london-hotel-transfers/montcalm-royal-london-house-finsbury-square-minicab-transfers/" },
+    { "name": "The Montcalm Marble Arch", "url": "https://ltrminicab.com/london-hotel-transfers/the-montcalm-marble-arch-marylebone-minicab-transfers/" },
+    { "name": "Chiltern Firehouse", "url": "https://ltrminicab.com/london-hotel-transfers/chiltern-firehouse-marylebone-minicab-transfers/" }
+  ],
+  "cities": [
+    { "name": "Birmingham", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/reliable-minicab-service-in-birmingham/" },
+    { "name": "London", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-london/" },
+    { "name": "Manchester", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-manchester/" },
+    { "name": "Watford", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-watford/" },
+    { "name": "Reading", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-reading/" },
+    { "name": "Luton", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-luton-town/#" },
+    { "name": "Oxford", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-oxford/" },
+    { "name": "Cambridge", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-cambridge/" },
+    { "name": "Edinburgh", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-edinburgh/" },
+    { "name": "Brighton", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-brighton/" }
+  ]
+}
