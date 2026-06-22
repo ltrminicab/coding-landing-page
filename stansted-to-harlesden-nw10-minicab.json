@@ -1,0 +1,71 @@
+{
+  "page": "stansted-to-harlesden-nw10-minicab",
+  "area": "Harlesden",
+  "postcode": "NW10",
+  "distance_miles": 39,
+  "distance_km": 63,
+  "journey_time_min": "50 minutes",
+  "journey_time_max": "1 hour 20 minutes",
+  "route_description": "M11 southbound to M25 then A406 North Circular into Harlesden",
+  "pricing": {
+    "saloon": { "from_stansted": 80, "to_stansted": 86 },
+    "executive": { "from_stansted": 106, "to_stansted": 114 },
+    "estate": { "from_stansted": 89, "to_stansted": 96 },
+    "mpv_5": { "from_stansted": 115, "to_stansted": 124 },
+    "mpv_6": { "from_stansted": 135, "to_stansted": 146 },
+    "mpv_7": { "from_stansted": 156, "to_stansted": 169 },
+    "exec_mpv_7": { "from_stansted": 189, "to_stansted": 205 },
+    "mpv_8": { "from_stansted": 213, "to_stansted": 231 }
+  },
+  "student_discount_percent": 15,
+  "student_fare_from": 57,
+  "local_streets": [
+    "High Street Harlesden",
+    "Craven Park Road",
+    "Station Road",
+    "Manor Park Road",
+    "Acton Lane",
+    "Park Parade",
+    "Wendover Road",
+    "Tubbs Road",
+    "Nicoll Road",
+    "St Mary's Road"
+  ],
+  "nearby_areas": [
+    { "name": "Harlesden", "postcode": "NW10", "slug": "stansted-to-harlesden-taxi" },
+    { "name": "Willesden", "postcode": "NW10", "slug": "stansted-to-willesden-taxi" },
+    { "name": "Kensal Green", "postcode": "NW10", "slug": "stansted-to-kensal-green-taxi" },
+    { "name": "Stonebridge", "postcode": "NW10", "slug": "stansted-to-stonebridge-taxi" },
+    { "name": "Church End", "postcode": "NW10", "slug": "stansted-to-church-end-taxi" },
+    { "name": "Park Royal", "postcode": "NW10", "slug": "stansted-to-park-royal-taxi" },
+    { "name": "Old Oak Common", "postcode": "NW10", "slug": "stansted-to-old-oak-common-taxi" },
+    { "name": "Neasden", "postcode": "NW10", "slug": "stansted-to-neasden-taxi" },
+    { "name": "Dollis Hill", "postcode": "NW2", "slug": "stansted-to-dollis-hill-taxi" },
+    { "name": "Kensal Rise", "postcode": "NW10", "slug": "stansted-to-kensal-rise-taxi" },
+    { "name": "Roundwood Park", "postcode": "NW10", "slug": "stansted-to-roundwood-park-taxi" }
+  ],
+  "hotels": [
+    { "name": "Point A Kings Cross", "url": "https://ltrminicab.com/london-hotel-transfers/point-a-hotel-kings-cross-minicab-transfers/" },
+    { "name": "Point A Liverpool Street", "url": "https://ltrminicab.com/london-hotel-transfers/point-a-hotel-liverpool-street-minicab-transfers/" },
+    { "name": "Zedwell Tottenham Ct Rd", "url": "https://ltrminicab.com/london-hotel-transfers/zedwell-tottenham-court-road-minicab-transfers/" },
+    { "name": "The Z Hotel Victoria", "url": "https://ltrminicab.com/london-hotel-transfers/the-z-hotel-victoria-minicab-transfers/" },
+    { "name": "The Z Hotel Gloucester Pl", "url": "https://ltrminicab.com/london-hotel-transfers/the-z-hotel-gloucester-place-minicab-transfers/" },
+    { "name": "Royal Garden Hotel", "url": "https://ltrminicab.com/london-hotel-transfers/royal-garden-hotel-kensington-minicab-transfers/" },
+    { "name": "Strand Palace", "url": "https://ltrminicab.com/london-hotel-transfers/strand-palace-hotel-strand-minicab-transfers/" },
+    { "name": "Montcalm Royal London House", "url": "https://ltrminicab.com/london-hotel-transfers/montcalm-royal-london-house-finsbury-square-minicab-transfers/" },
+    { "name": "The Montcalm Marble Arch", "url": "https://ltrminicab.com/london-hotel-transfers/the-montcalm-marble-arch-marylebone-minicab-transfers/" },
+    { "name": "Chiltern Firehouse", "url": "https://ltrminicab.com/london-hotel-transfers/chiltern-firehouse-marylebone-minicab-transfers/" }
+  ],
+  "cities": [
+    { "name": "Birmingham", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/reliable-minicab-service-in-birmingham/" },
+    { "name": "London", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-london/" },
+    { "name": "Manchester", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-manchester/" },
+    { "name": "Watford", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-watford/" },
+    { "name": "Reading", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-reading/" },
+    { "name": "Luton", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-luton-town/#" },
+    { "name": "Oxford", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-oxford/" },
+    { "name": "Cambridge", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-cambridge/" },
+    { "name": "Edinburgh", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-edinburgh/" },
+    { "name": "Brighton", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-brighton/" }
+  ]
+}
