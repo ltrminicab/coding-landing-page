@@ -1,0 +1,135 @@
+{
+  "page": {
+    "area": "Highbury",
+    "postcode": "N5",
+    "borough": "Islington",
+    "region": "North London",
+    "distance_miles": 35,
+    "distance_km": 56,
+    "journey_time_min": "50 minutes",
+    "journey_time_max": "1 hour 20 minutes",
+    "route_description": "M11 southbound then A10 or A1 into North London",
+    "map_query": "Stansted+Airport+to+Highbury+London+N5"
+  },
+  "pricing": {
+    "saloon": {
+      "from_stansted": 80,
+      "to_stansted": 86
+    },
+    "executive": {
+      "from_stansted": 106,
+      "to_stansted": 114
+    },
+    "estate": {
+      "from_stansted": 89,
+      "to_stansted": 96
+    },
+    "mpv_5": {
+      "from_stansted": 115,
+      "to_stansted": 124
+    },
+    "mpv_6": {
+      "from_stansted": 135,
+      "to_stansted": 146
+    },
+    "mpv_7": {
+      "from_stansted": 156,
+      "to_stansted": 169
+    },
+    "exec_mpv_7": {
+      "from_stansted": 190,
+      "to_stansted": 205
+    },
+    "mpv_8": {
+      "from_stansted": 213,
+      "to_stansted": 231
+    },
+    "student_discount_percent": 15,
+    "student_saloon_from": 58
+  },
+  "local_areas": [
+    "Highbury Fields",
+    "Highbury Corner",
+    "Highbury Barn",
+    "Highbury New Park",
+    "Highbury Crescent",
+    "Highbury Grove",
+    "Highbury Hill",
+    "Arsenal",
+    "Drayton Park",
+    "Gillespie Road"
+  ],
+  "nearby_areas": [
+    { "name": "Highbury N5", "slug": "stansted-to-highbury-taxi" },
+    { "name": "Finsbury Park N4", "slug": "stansted-to-finsbury-park-taxi" },
+    { "name": "Holloway N7", "slug": "stansted-to-holloway-taxi" },
+    { "name": "Canonbury N1", "slug": "stansted-to-canonbury-taxi" },
+    { "name": "Stoke Newington N16", "slug": "stansted-to-stoke-newington-taxi" },
+    { "name": "Dalston E8", "slug": "stansted-to-dalston-taxi" },
+    { "name": "Islington N1", "slug": "stansted-to-islington-taxi" },
+    { "name": "Arsenal N5", "slug": "stansted-to-arsenal-taxi" },
+    { "name": "Newington Green N16", "slug": "stansted-to-newington-green-taxi" },
+    { "name": "Barnsbury N1", "slug": "stansted-to-barnsbury-taxi" }
+  ],
+  "hotels": [
+    { "name": "Six Bells Hotels", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-six-bells-hotels-enfield-taxi-transfers/" },
+    { "name": "Kathleen House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-kathleen-house-enfield-taxi-transfers/" },
+    { "name": "The Stag Enfield", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-stag-enfield-taxi-transfers/" },
+    { "name": "Cogie 55", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-cogie-55-enfield-taxi-transfers/" },
+    { "name": "Garden Guest House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-garden-guest-house-enfield-taxi-transfers/" }
+  ],
+  "cities": [
+    { "name": "Bolton", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bolton/" },
+    { "name": "West Bromwich", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-west-bromwich/" },
+    { "name": "Stockport", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-stockport/" },
+    { "name": "Slough", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-slough/" },
+    { "name": "Gloucester", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-gloucester/" },
+    { "name": "Newport", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-newport/" },
+    { "name": "Rotherham", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-rotherham/" },
+    { "name": "Mendip", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-mendip/" },
+    { "name": "Dagenham", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-dagenham/" },
+    { "name": "Crawley", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-crawley/" }
+  ],
+  "faqs": [
+    {
+      "question": "How far is Highbury N5 from Stansted Airport?",
+      "answer": "Highbury N5 is approximately 35 miles from Stansted Airport. By private minicab the journey takes between 50 minutes and 1 hour 20 minutes depending on traffic, following the M11 and then the A10 or A1 into North London."
+    },
+    {
+      "question": "What does a private transfer from Stansted to Highbury cost?",
+      "answer": "A saloon car transfer from Stansted Airport to Highbury N5 starts from £80 with LTR Minicab. This is a fixed fare confirmed at booking with no surge charges or hidden extras added on the day."
+    },
+    {
+      "question": "Which streets and areas around Highbury N5 do your drivers cover?",
+      "answer": "Our drivers cover all addresses within Highbury N5 including Highbury Fields, Highbury Corner, Highbury Barn, Highbury New Park, Highbury Crescent, Highbury Grove, Arsenal, Drayton Park, and nearby areas such as Finsbury Park, Holloway, Canonbury, and Stoke Newington."
+    },
+    {
+      "question": "Do you offer return journeys from Highbury to Stansted Airport?",
+      "answer": "Yes, we provide return transfers from Highbury N5 to Stansted Airport at fixed rates. You can book both your arrival and departure transfers at the same time through our online booking system."
+    },
+    {
+      "question": "What if my Stansted flight is delayed or arrives early?",
+      "answer": "Our system tracks every inbound Stansted flight in real time. If your arrival is delayed or lands ahead of schedule, your driver's pickup time adjusts automatically. You also get 45 minutes of free waiting time after landing."
+    },
+    {
+      "question": "Are child seats available for transfers to Highbury N5?",
+      "answer": "Yes, we provide infant seats, child seats, and booster seats on request at no extra charge. Just select your child seat needs when placing your booking and the correct seat will be fitted before your journey."
+    },
+    {
+      "question": "Can I get a student discount on Stansted to Highbury transfers?",
+      "answer": "Students receive 15% off all Stansted to Highbury N5 fares. Provide a valid student ID or university email address when booking and the discount is applied automatically to your transfer."
+    },
+    {
+      "question": "Do you run transfers from Stansted to Highbury during the night?",
+      "answer": "Yes, our service operates around the clock, 365 days a year. Whether your flight lands at 2am or departs at 5am, a driver will be available for your Stansted to Highbury N5 transfer."
+    },
+    {
+      "question": "How many passengers can you carry from Stansted to Highbury?",
+      "answer": "We carry up to 8 passengers in a single vehicle. Our fleet includes saloons for up to 4 passengers, MPV 5 and MPV 6 for mid-sized groups, and MPV 7 and MPV 8 for larger parties travelling together."
+    },
+    {
+      "question": "Where does the driver meet me at Stansted Airport?",
+      "answer": "Your driver meets you inside the Stansted arrivals hall holding a personalised name board with your name. This meet and greet service is included free with every booking and your driver will also assist with your luggage."
+    }
+  ]
+}
