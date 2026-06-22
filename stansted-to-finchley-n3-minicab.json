@@ -1,0 +1,135 @@
+{
+  "page": {
+    "area": "Finchley",
+    "postcode": "N3",
+    "borough": "Barnet",
+    "region": "North London",
+    "distance_miles": 38,
+    "distance_km": 61,
+    "journey_time_min": "55 minutes",
+    "journey_time_max": "1 hour 25 minutes",
+    "route_description": "M11 southbound then M25 and A1 or A406 into North London",
+    "map_query": "Stansted+Airport+to+Finchley+London+N3"
+  },
+  "pricing": {
+    "saloon": {
+      "from_stansted": 85,
+      "to_stansted": 92
+    },
+    "executive": {
+      "from_stansted": 112,
+      "to_stansted": 121
+    },
+    "estate": {
+      "from_stansted": 95,
+      "to_stansted": 102
+    },
+    "mpv_5": {
+      "from_stansted": 122,
+      "to_stansted": 132
+    },
+    "mpv_6": {
+      "from_stansted": 144,
+      "to_stansted": 155
+    },
+    "mpv_7": {
+      "from_stansted": 166,
+      "to_stansted": 179
+    },
+    "exec_mpv_7": {
+      "from_stansted": 202,
+      "to_stansted": 218
+    },
+    "mpv_8": {
+      "from_stansted": 226,
+      "to_stansted": 244
+    },
+    "student_discount_percent": 15,
+    "student_saloon_from": 62
+  },
+  "local_areas": [
+    "Finchley Central",
+    "Ballards Lane",
+    "Regents Park Road",
+    "Hendon Lane",
+    "Dollis Park",
+    "Nether Street",
+    "Station Road",
+    "Long Lane",
+    "Gravel Hill",
+    "Lichfield Grove"
+  ],
+  "nearby_areas": [
+    { "name": "Finchley N3", "slug": "stansted-to-finchley-taxi" },
+    { "name": "East Finchley N2", "slug": "stansted-to-east-finchley-taxi" },
+    { "name": "North Finchley N12", "slug": "stansted-to-north-finchley-taxi" },
+    { "name": "Church End N3", "slug": "stansted-to-church-end-finchley-taxi" },
+    { "name": "Hendon NW4", "slug": "stansted-to-hendon-taxi" },
+    { "name": "Golders Green NW11", "slug": "stansted-to-golders-green-taxi" },
+    { "name": "Mill Hill NW7", "slug": "stansted-to-mill-hill-taxi" },
+    { "name": "Muswell Hill N10", "slug": "stansted-to-muswell-hill-taxi" },
+    { "name": "Whetstone N20", "slug": "stansted-to-whetstone-taxi" },
+    { "name": "Friern Barnet N11", "slug": "stansted-to-friern-barnet-taxi" }
+  ],
+  "hotels": [
+    { "name": "Six Bells Hotels", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-six-bells-hotels-enfield-taxi-transfers/" },
+    { "name": "Kathleen House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-kathleen-house-enfield-taxi-transfers/" },
+    { "name": "The Stag Enfield", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-stag-enfield-taxi-transfers/" },
+    { "name": "Cogie 55", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-cogie-55-enfield-taxi-transfers/" },
+    { "name": "Garden Guest House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-garden-guest-house-enfield-taxi-transfers/" }
+  ],
+  "cities": [
+    { "name": "Bolton", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bolton/" },
+    { "name": "West Bromwich", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-west-bromwich/" },
+    { "name": "Stockport", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-stockport/" },
+    { "name": "Slough", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-slough/" },
+    { "name": "Gloucester", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-gloucester/" },
+    { "name": "Newport", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-newport/" },
+    { "name": "Rotherham", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-rotherham/" },
+    { "name": "Mendip", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-mendip/" },
+    { "name": "Dagenham", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-dagenham/" },
+    { "name": "Crawley", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-crawley/" }
+  ],
+  "faqs": [
+    {
+      "question": "How long is the drive from Stansted Airport to Finchley N3?",
+      "answer": "The drive from Stansted Airport to Finchley N3 typically takes between 55 minutes and 1 hour 25 minutes by private minicab. The route covers around 38 miles via the M11 and then the A1 or A406 North Circular into Finchley."
+    },
+    {
+      "question": "What is the fixed fare for a Stansted to Finchley N3 minicab?",
+      "answer": "A saloon car transfer from Stansted Airport to Finchley N3 with LTR Minicab starts from £85. This price is locked in when you book and will not change regardless of traffic conditions or delays on the day."
+    },
+    {
+      "question": "Do you cover all roads and streets within Finchley N3?",
+      "answer": "Yes, we serve every address within Finchley N3 including Finchley Central, Ballards Lane, Regents Park Road, Hendon Lane, Dollis Park, Nether Street, Long Lane, and nearby areas such as East Finchley, North Finchley, Church End, Hendon, and Golders Green."
+    },
+    {
+      "question": "Is it possible to book a return trip from Finchley to Stansted?",
+      "answer": "Absolutely. We offer fixed fare return transfers from Finchley N3 to Stansted Airport. Both directions can be booked together through our website at the time of your initial reservation."
+    },
+    {
+      "question": "What happens to my booking if my plane arrives late at Stansted?",
+      "answer": "We track every Stansted flight in real time and automatically adjust your driver's pickup time if your arrival is delayed. You also benefit from 45 minutes of complimentary waiting time from when your plane lands."
+    },
+    {
+      "question": "Do you carry child car seats for trips to Finchley N3?",
+      "answer": "Yes, we provide rear-facing infant seats, forward-facing child seats, and booster seats at no additional cost. Let us know what you need when booking and the appropriate seat will be fitted in your vehicle."
+    },
+    {
+      "question": "Are there discounted fares for students travelling to Finchley?",
+      "answer": "Yes, students get 15% off every Stansted to Finchley N3 transfer. Show a valid student ID or university email when booking and the discount is applied to your fare automatically."
+    },
+    {
+      "question": "Can I book a Stansted to Finchley transfer for a very early morning arrival?",
+      "answer": "Yes, our service runs 24 hours a day, 7 days a week throughout the year. Early morning, late night, and weekend arrivals at Stansted are all covered with a driver ready at the terminal."
+    },
+    {
+      "question": "What size groups can travel from Stansted to Finchley in one vehicle?",
+      "answer": "Our largest vehicle, the MPV 8, carries up to 8 passengers with luggage space. We also offer MPV 5, MPV 6, MPV 7, and Executive MPV 7 for mid-sized groups, all at fixed fares."
+    },
+    {
+      "question": "Can I change the pickup address or travel date after booking?",
+      "answer": "Yes, you can amend your booking details by contacting our support team. Changes to your Finchley N3 drop-off address or travel date can be made free of charge provided they are requested at least 12 hours before your transfer."
+    }
+  ]
+}
