@@ -1,0 +1,135 @@
+{
+  "page": {
+    "area": "Muswell Hill",
+    "postcode": "N10",
+    "borough": "Haringey",
+    "region": "North London",
+    "distance_miles": 37,
+    "distance_km": 60,
+    "journey_time_min": "55 minutes",
+    "journey_time_max": "1 hour 25 minutes",
+    "route_description": "M11 southbound then A406 North Circular or A10 into North London",
+    "map_query": "Stansted+Airport+to+Muswell+Hill+London+N10"
+  },
+  "pricing": {
+    "saloon": {
+      "from_stansted": 84,
+      "to_stansted": 91
+    },
+    "executive": {
+      "from_stansted": 111,
+      "to_stansted": 120
+    },
+    "estate": {
+      "from_stansted": 93,
+      "to_stansted": 101
+    },
+    "mpv_5": {
+      "from_stansted": 121,
+      "to_stansted": 131
+    },
+    "mpv_6": {
+      "from_stansted": 142,
+      "to_stansted": 153
+    },
+    "mpv_7": {
+      "from_stansted": 164,
+      "to_stansted": 177
+    },
+    "exec_mpv_7": {
+      "from_stansted": 199,
+      "to_stansted": 215
+    },
+    "mpv_8": {
+      "from_stansted": 224,
+      "to_stansted": 242
+    },
+    "student_discount_percent": 15,
+    "student_saloon_from": 61
+  },
+  "local_areas": [
+    "Muswell Hill Broadway",
+    "Fortis Green",
+    "Colney Hatch Lane",
+    "Alexandra Park Road",
+    "Pages Lane",
+    "Woodland Rise",
+    "Dukes Avenue",
+    "St James's Lane",
+    "Tetherdown",
+    "Queens Avenue"
+  ],
+  "nearby_areas": [
+    { "name": "Muswell Hill N10", "slug": "stansted-to-muswell-hill-taxi" },
+    { "name": "Crouch End N8", "slug": "stansted-to-crouch-end-taxi" },
+    { "name": "Highgate N6", "slug": "stansted-to-highgate-taxi" },
+    { "name": "East Finchley N2", "slug": "stansted-to-east-finchley-taxi" },
+    { "name": "Friern Barnet N11", "slug": "stansted-to-friern-barnet-taxi" },
+    { "name": "Alexandra Park N22", "slug": "stansted-to-alexandra-park-taxi" },
+    { "name": "Bounds Green N11", "slug": "stansted-to-bounds-green-taxi" },
+    { "name": "Hornsey N8", "slug": "stansted-to-hornsey-taxi" },
+    { "name": "Fortis Green N2", "slug": "stansted-to-fortis-green-taxi" },
+    { "name": "Wood Green N22", "slug": "stansted-to-wood-green-taxi" }
+  ],
+  "hotels": [
+    { "name": "Six Bells Hotels", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-six-bells-hotels-enfield-taxi-transfers/" },
+    { "name": "Kathleen House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-kathleen-house-enfield-taxi-transfers/" },
+    { "name": "The Stag Enfield", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-stag-enfield-taxi-transfers/" },
+    { "name": "Cogie 55", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-cogie-55-enfield-taxi-transfers/" },
+    { "name": "Garden Guest House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-garden-guest-house-enfield-taxi-transfers/" }
+  ],
+  "cities": [
+    { "name": "Bolton", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bolton/" },
+    { "name": "West Bromwich", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-west-bromwich/" },
+    { "name": "Stockport", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-stockport/" },
+    { "name": "Slough", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-slough/" },
+    { "name": "Gloucester", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-gloucester/" },
+    { "name": "Newport", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-newport/" },
+    { "name": "Rotherham", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-rotherham/" },
+    { "name": "Mendip", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-mendip/" },
+    { "name": "Dagenham", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-dagenham/" },
+    { "name": "Crawley", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-crawley/" }
+  ],
+  "faqs": [
+    {
+      "question": "How long will it take to reach Muswell Hill N10 from Stansted Airport?",
+      "answer": "A private minicab from Stansted Airport to Muswell Hill N10 typically takes between 55 minutes and 1 hour 25 minutes. The route covers approximately 37 miles via the M11 southbound and then through the A406 North Circular or A10 into North London."
+    },
+    {
+      "question": "What is the price for a minicab from Stansted Airport to Muswell Hill?",
+      "answer": "A saloon car transfer from Stansted Airport to Muswell Hill N10 starts from £84 with LTR Minicab. The fare is fixed at the point of booking and remains the same regardless of traffic or journey time on the day."
+    },
+    {
+      "question": "Which roads and neighbourhoods around Muswell Hill N10 do you serve?",
+      "answer": "We cover all addresses across Muswell Hill N10 including Muswell Hill Broadway, Fortis Green, Colney Hatch Lane, Alexandra Park Road, Pages Lane, Dukes Avenue, Tetherdown, and nearby areas such as Crouch End, Highgate, East Finchley, Hornsey, and Alexandra Park."
+    },
+    {
+      "question": "Can I schedule a pickup from Muswell Hill to Stansted Airport?",
+      "answer": "Yes, we offer fixed fare return transfers from Muswell Hill N10 to Stansted Airport. Both directions can be booked at the same time when you make your reservation through our website."
+    },
+    {
+      "question": "Will my driver still come if my Stansted flight lands earlier than expected?",
+      "answer": "Yes. We track all incoming flights at Stansted in real time. Whether your plane arrives early or late, your driver's schedule is adjusted automatically so they are at the terminal when you need them."
+    },
+    {
+      "question": "Are car seats for babies and toddlers provided on this route?",
+      "answer": "Yes, we supply rear-facing infant seats, forward-facing child seats, and booster seats at no extra charge. Simply specify what you need during the booking process and the seat will be ready in your vehicle."
+    },
+    {
+      "question": "Do students get cheaper fares from Stansted to Muswell Hill?",
+      "answer": "Students receive a 15% discount on all Stansted to Muswell Hill N10 transfers. Present your student ID or university email address at the time of booking and the reduced fare is calculated instantly."
+    },
+    {
+      "question": "Is the Stansted to Muswell Hill service available on bank holidays?",
+      "answer": "Yes, our service runs every day of the year without exception, including bank holidays, Christmas, and New Year. Drivers are available around the clock for Stansted to Muswell Hill N10 transfers."
+    },
+    {
+      "question": "Can I bring extra suitcases on my transfer to Muswell Hill N10?",
+      "answer": "If you are travelling with more luggage than a standard saloon can accommodate, we recommend booking an estate or MPV vehicle. Let us know your luggage count when booking and we will match you with the right car."
+    },
+    {
+      "question": "How do I find my driver once I land at Stansted Airport?",
+      "answer": "Your driver will be waiting inside the Stansted arrivals hall holding a name board with your name clearly displayed. This complimentary meet and greet service is included with every transfer and your driver will help carry your bags to the vehicle."
+    }
+  ]
+}
