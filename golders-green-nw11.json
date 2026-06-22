@@ -1,0 +1,80 @@
+{
+  "page": "stansted-to-golders-green-nw11",
+  "area": "Golders Green",
+  "postcode": "NW11",
+  "airport": "Stansted Airport",
+  "distance_miles": 39,
+  "distance_km": 63,
+  "journey_time_min": "50 minutes",
+  "journey_time_max": "1 hour 20 minutes",
+  "route_description": "M11, A406 North Circular, and Finchley Road",
+  "fares": {
+    "from_stansted": {
+      "saloon": 80,
+      "executive": 106,
+      "estate": 89,
+      "mpv5": 115,
+      "mpv6": 136,
+      "mpv7": 156,
+      "exec_mpv7": 190,
+      "mpv8": 214
+    },
+    "to_stansted": {
+      "saloon": 87,
+      "executive": 115,
+      "estate": 97,
+      "mpv5": 124,
+      "mpv6": 148,
+      "mpv7": 170,
+      "exec_mpv7": 207,
+      "mpv8": 233
+    }
+  },
+  "student_rate_from": 58,
+  "local_streets": [
+    "Golders Green Road",
+    "Finchley Road",
+    "North End Road",
+    "Hoop Lane",
+    "Dunstan Road",
+    "The Riding",
+    "Woodstock Avenue"
+  ],
+  "nearby_areas": [
+    { "name": "Hampstead Garden Suburb", "postcode": "NW11" },
+    { "name": "Childs Hill", "postcode": "NW2" },
+    { "name": "Temple Fortune", "postcode": "NW11" },
+    { "name": "Hendon", "postcode": "NW4" },
+    { "name": "Cricklewood", "postcode": "NW2" },
+    { "name": "Finchley", "postcode": "N3" },
+    { "name": "West Hampstead", "postcode": "NW6" },
+    { "name": "Hampstead", "postcode": "NW3" },
+    { "name": "Mill Hill", "postcode": "NW7" },
+    { "name": "Brent Cross", "postcode": "NW4" },
+    { "name": "North Finchley", "postcode": "N12" }
+  ],
+  "hotels": [
+    { "name": "The Maida Vale Apart-Hotel", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-maida-vale-apart-hotel-taxi-transfers/" },
+    { "name": "Leytonstone Tavern", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-leytonstone-tavern-taxi-transfers/" },
+    { "name": "The Sir Alfred Hitchcock", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-sir-alfred-hitchcock-leytonstone-taxi-transfers/" },
+    { "name": "Waltham Forest Guest House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-waltham-forest-guest-house-taxi-transfers/" },
+    { "name": "Thamesmead Guesthouse", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-thamesmead-guesthouse-taxi-transfers/" },
+    { "name": "The Woolwich Inn", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-woolwich-inn-taxi-transfers/" },
+    { "name": "Premier Inn London Woolwich", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-premier-inn-london-woolwich-taxi-transfers/" },
+    { "name": "Travelodge Woolwich", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-airport-to-travelodge-woolwich-taxi-transfers/" },
+    { "name": "Staycity London Heathrow", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-staycity-london-heathrow-hayes-taxi-transfers/" },
+    { "name": "Mercure Heathrow Hayes", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-mercure-heathrow-hayes-taxi-transfers/" }
+  ],
+  "cities": [
+    { "name": "Solihull", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-solihull/" },
+    { "name": "Becontree", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-becontree/" },
+    { "name": "Maidstone", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-maidstone/" },
+    { "name": "Lincoln", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-lincoln/" },
+    { "name": "Hastings", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-hastings/" },
+    { "name": "Darlington", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-darlington/" },
+    { "name": "Harrogate", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-harrogate/" },
+    { "name": "Hartlepool", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-hartlepool/" },
+    { "name": "Hemel Hempstead", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-hemel-hempstead/" },
+    { "name": "Stevenage", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-stevenage/" }
+  ]
+}
