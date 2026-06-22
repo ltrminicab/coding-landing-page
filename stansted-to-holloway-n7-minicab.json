@@ -1,0 +1,135 @@
+{
+  "page": {
+    "area": "Holloway",
+    "postcode": "N7",
+    "borough": "Islington",
+    "region": "North London",
+    "distance_miles": 36,
+    "distance_km": 58,
+    "journey_time_min": "50 minutes",
+    "journey_time_max": "1 hour 20 minutes",
+    "route_description": "M11 southbound then A10 or A1 into North London",
+    "map_query": "Stansted+Airport+to+Holloway+London+N7"
+  },
+  "pricing": {
+    "saloon": {
+      "from_stansted": 82,
+      "to_stansted": 88
+    },
+    "executive": {
+      "from_stansted": 108,
+      "to_stansted": 116
+    },
+    "estate": {
+      "from_stansted": 91,
+      "to_stansted": 98
+    },
+    "mpv_5": {
+      "from_stansted": 118,
+      "to_stansted": 127
+    },
+    "mpv_6": {
+      "from_stansted": 138,
+      "to_stansted": 149
+    },
+    "mpv_7": {
+      "from_stansted": 160,
+      "to_stansted": 173
+    },
+    "exec_mpv_7": {
+      "from_stansted": 194,
+      "to_stansted": 210
+    },
+    "mpv_8": {
+      "from_stansted": 218,
+      "to_stansted": 236
+    },
+    "student_discount_percent": 15,
+    "student_saloon_from": 60
+  },
+  "local_areas": [
+    "Holloway Road",
+    "Nag's Head",
+    "Tufnell Park",
+    "Hornsey Road",
+    "Tollington Park",
+    "Camden Road",
+    "Parkhurst Road",
+    "Caledonian Road",
+    "Mercers Road",
+    "Hillmarton Road"
+  ],
+  "nearby_areas": [
+    { "name": "Holloway N7", "slug": "stansted-to-holloway-taxi" },
+    { "name": "Tufnell Park N7", "slug": "stansted-to-tufnell-park-taxi" },
+    { "name": "Finsbury Park N4", "slug": "stansted-to-finsbury-park-taxi" },
+    { "name": "Highbury N5", "slug": "stansted-to-highbury-taxi" },
+    { "name": "Archway N19", "slug": "stansted-to-archway-taxi" },
+    { "name": "Kentish Town NW5", "slug": "stansted-to-kentish-town-taxi" },
+    { "name": "Caledonian Road N7", "slug": "stansted-to-caledonian-road-taxi" },
+    { "name": "Camden Town NW1", "slug": "stansted-to-camden-town-taxi" },
+    { "name": "Upper Holloway N19", "slug": "stansted-to-upper-holloway-taxi" },
+    { "name": "Barnsbury N1", "slug": "stansted-to-barnsbury-taxi" }
+  ],
+  "hotels": [
+    { "name": "Six Bells Hotels", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-six-bells-hotels-enfield-taxi-transfers/" },
+    { "name": "Kathleen House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-kathleen-house-enfield-taxi-transfers/" },
+    { "name": "The Stag Enfield", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-the-stag-enfield-taxi-transfers/" },
+    { "name": "Cogie 55", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-cogie-55-enfield-taxi-transfers/" },
+    { "name": "Garden Guest House", "url": "https://ltrminicab.com/london-hotel-transfers/heathrow-to-garden-guest-house-enfield-taxi-transfers/" }
+  ],
+  "cities": [
+    { "name": "Bolton", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bolton/" },
+    { "name": "West Bromwich", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-west-bromwich/" },
+    { "name": "Stockport", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-stockport/" },
+    { "name": "Slough", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-slough/" },
+    { "name": "Gloucester", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-gloucester/" },
+    { "name": "Newport", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-newport/" },
+    { "name": "Rotherham", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-rotherham/" },
+    { "name": "Mendip", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-mendip/" },
+    { "name": "Dagenham", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-dagenham/" },
+    { "name": "Crawley", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-crawley/" }
+  ],
+  "faqs": [
+    {
+      "question": "What is the distance from Stansted Airport to Holloway N7?",
+      "answer": "Holloway N7 is roughly 36 miles from Stansted Airport. A private minicab covers the distance in around 50 minutes to 1 hour 20 minutes depending on traffic, travelling via the M11 and then the A1 or A10 corridor into North London."
+    },
+    {
+      "question": "How much should I expect to pay for a Stansted to Holloway minicab?",
+      "answer": "A saloon car transfer from Stansted Airport to Holloway N7 with LTR Minicab starts from £82. This is a fixed price confirmed at the time of booking with no meter running and no hidden charges."
+    },
+    {
+      "question": "Which parts of Holloway N7 do you provide transfers to?",
+      "answer": "We cover all addresses in Holloway N7 including Holloway Road, Nag's Head, Tufnell Park, Hornsey Road, Tollington Park, Camden Road, Parkhurst Road, Caledonian Road, and nearby areas such as Archway, Finsbury Park, Highbury, and Kentish Town."
+    },
+    {
+      "question": "Can I book a transfer from Holloway N7 back to Stansted Airport?",
+      "answer": "Yes, return transfers from Holloway N7 to Stansted Airport are available at fixed rates. You can book both legs of your journey at the same time when making your initial online reservation."
+    },
+    {
+      "question": "Does your driver adjust if my Stansted flight lands behind schedule?",
+      "answer": "Yes. We monitor all Stansted flights live. If your plane is delayed your driver's arrival time is updated automatically and you still receive 45 minutes of complimentary waiting time from when your flight touches down."
+    },
+    {
+      "question": "Can I request a baby seat or booster for my Holloway transfer?",
+      "answer": "Yes, we supply infant seats, child seats, and booster seats free of charge on request. Add your child seat requirements when you book and the correct seat will be installed in your vehicle before pickup."
+    },
+    {
+      "question": "Is there a reduced fare for students going from Stansted to Holloway?",
+      "answer": "Students enjoy a 15% discount on all Stansted to Holloway N7 transfers. Present a valid student ID or university email at the time of booking and the reduction is applied to your fare straight away."
+    },
+    {
+      "question": "Are Stansted to Holloway transfers available after midnight?",
+      "answer": "Yes, we operate 24 hours a day, every day of the year. Whether your flight arrives in the middle of the night or very early morning, a driver will be ready for your Stansted to Holloway N7 pickup."
+    },
+    {
+      "question": "What vehicles do you have for group travel from Stansted to Holloway?",
+      "answer": "We offer MPV 5, MPV 6, MPV 7, Executive MPV 7, and MPV 8 vehicles for groups of up to 8 passengers travelling from Stansted Airport to Holloway N7. All group vehicles come with generous luggage space and fixed pricing."
+    },
+    {
+      "question": "How do I know my Stansted to Holloway booking is confirmed?",
+      "answer": "Once you complete your booking online you receive an instant confirmation with your driver's details, vehicle type, pickup time, and fare. Everything is arranged before you travel so there are no surprises on the day."
+    }
+  ]
+}
