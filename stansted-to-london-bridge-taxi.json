@@ -1,0 +1,179 @@
+{
+  "page": {
+    "area": "London Bridge",
+    "postcode": "SE1",
+    "borough": "Southwark",
+    "region": "Central South London",
+    "distance_miles": 40,
+    "distance_km": 64,
+    "journey_time_min": "50 minutes",
+    "journey_time_max": "1 hour 20 minutes",
+    "route_description": "M11 southbound then via the A12 and City of London through to Southwark and London Bridge SE1"
+  },
+  "pricing": {
+    "saloon": { "to": 85, "from": 92 },
+    "executive": { "to": 112, "from": 121 },
+    "estate": { "to": 95, "from": 103 },
+    "mpv5": { "to": 122, "from": 132 },
+    "mpv6": { "to": 144, "from": 156 },
+    "mpv7": { "to": 165, "from": 179 },
+    "exec_mpv7": { "to": 201, "from": 218 },
+    "mpv8": { "to": 226, "from": 245 }
+  },
+  "student_discount": {
+    "percentage": 15,
+    "saloon_discounted": 72
+  },
+  "local_areas": [
+    "London Bridge SE1",
+    "Borough SE1",
+    "Bermondsey SE1",
+    "Southwark SE1",
+    "Waterloo SE1",
+    "Bankside SE1",
+    "Elephant and Castle SE1",
+    "Newington SE1",
+    "The Cut SE1",
+    "Shad Thames SE1",
+    "Tower Bridge SE1",
+    "Lambeth North SE1"
+  ],
+  "nearby_landmarks": [
+    "The Shard",
+    "Borough Market",
+    "London Bridge Station",
+    "Tower Bridge",
+    "HMS Belfast",
+    "Tate Modern",
+    "Shakespeare's Globe",
+    "Guy's Hospital",
+    "Southwark Cathedral",
+    "City Hall"
+  ],
+  "hotels": [
+    {
+      "name": "Lost Property St Paul's",
+      "url": "https://ltrminicab.com/london-hotel-transfers/lost-property-st-pauls-minicab-transfers/"
+    },
+    {
+      "name": "Lincoln Plaza London",
+      "url": "https://ltrminicab.com/london-hotel-transfers/lincoln-plaza-london-canary-wharf-minicab/"
+    },
+    {
+      "name": "Hart Shoreditch",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hart-shoreditch-hotel-minicab-transfers/"
+    },
+    {
+      "name": "Hotel Indigo Leicester Sq",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hotel-indigo-leicester-square-minicab-transfers/"
+    },
+    {
+      "name": "Hotel Indigo Paddington",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hotel-indigo-paddington-minicab-transfers/"
+    },
+    {
+      "name": "The Gantry London",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-gantry-london-stratford-minicab-transfers/"
+    },
+    {
+      "name": "Leman Locke",
+      "url": "https://ltrminicab.com/london-hotel-transfers/leman-locke-aldgate-minicab-transfers/"
+    },
+    {
+      "name": "Bermonds Locke",
+      "url": "https://ltrminicab.com/london-hotel-transfers/bermonds-locke-bermondsey-minicab-transfers/"
+    },
+    {
+      "name": "Kingsland Locke",
+      "url": "https://ltrminicab.com/london-hotel-transfers/kingsland-locke-dalston-minicab-transfers/"
+    },
+    {
+      "name": "Staycity Wilde Paddington",
+      "url": "https://ltrminicab.com/london-hotel-transfers/staycity-wilde-paddington-minicab-transfers/"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Plymouth",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-plymouth/"
+    },
+    {
+      "name": "Derby",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-derby/"
+    },
+    {
+      "name": "Dudley",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-dudley/"
+    },
+    {
+      "name": "Northampton",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-northampton/"
+    },
+    {
+      "name": "Portsmouth",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-portsmouth/"
+    },
+    {
+      "name": "Blackpool",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-blackpool/"
+    },
+    {
+      "name": "Peterborough",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-peterborough/"
+    },
+    {
+      "name": "Telford",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-telford/"
+    },
+    {
+      "name": "Chelmsford",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-chelmsford/"
+    },
+    {
+      "name": "Eastbourne",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-eastbourne/"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How long is the drive from Stansted Airport to London Bridge?",
+      "answer": "The drive from Stansted Airport to London Bridge SE1 takes approximately 50 minutes to 1 hour 20 minutes depending on the time of day and traffic conditions. The route follows the M11 south and then through the City of London into Southwark."
+    },
+    {
+      "question": "What is the fixed fare from Stansted Airport to London Bridge SE1?",
+      "answer": "A saloon car transfer from Stansted Airport to London Bridge SE1 with LTR Minicab starts from £85. This is a confirmed fixed fare with no surge pricing, hidden charges, or meter running on the day."
+    },
+    {
+      "question": "Can I book a transfer from London Bridge to Stansted Airport?",
+      "answer": "Yes. We offer fixed fare return bookings from London Bridge SE1 to Stansted Airport starting from £92 for a saloon car. You can reserve both your arrival and departure journeys in a single booking."
+    },
+    {
+      "question": "Do you drop off at hotels and offices near London Bridge?",
+      "answer": "We deliver to any address within the London Bridge SE1 area including Borough High Street, Tooley Street, Bermondsey Street, Shad Thames, Bankside, The Cut, Southwark Street, and all surrounding commercial and residential buildings."
+    },
+    {
+      "question": "Is there a student rate for the Stansted to London Bridge route?",
+      "answer": "Yes. Students travelling from Stansted Airport to London Bridge SE1 save 15% on their transfer. The discounted student rate for a saloon car starts from £72 with a fixed price and direct door to door service."
+    },
+    {
+      "question": "What size vehicles do you offer for the London Bridge transfer?",
+      "answer": "We provide saloon cars, executive Mercedes E Class vehicles, estate cars with extra boot space, and MPVs for 5 to 8 passengers. All vehicles come with fixed pricing on the Stansted to London Bridge route."
+    },
+    {
+      "question": "Will my driver track my flight if it is delayed at Stansted?",
+      "answer": "Yes. We monitor every incoming Stansted flight in real time. If your aircraft is delayed your driver adjusts their arrival automatically and will still be waiting when you land, with 45 minutes of free waiting time included."
+    },
+    {
+      "question": "Can I cancel my Stansted to London Bridge booking free of charge?",
+      "answer": "Yes. Cancellations made at least 12 hours before the scheduled pickup time qualify for a full refund with no cancellation fee. You can cancel through our website or by contacting our 24 hour support team."
+    },
+    {
+      "question": "Do you cover Borough Market and The Shard from Stansted Airport?",
+      "answer": "Absolutely. We cover all landmarks and addresses across London Bridge SE1 including Borough Market, The Shard, Southwark Cathedral, Tower Bridge, HMS Belfast, Tate Modern, and Shakespeare's Globe."
+    },
+    {
+      "question": "Is the Stansted to London Bridge minicab service available overnight?",
+      "answer": "Yes. Our service operates 24 hours a day, 365 days a year. Whether your flight lands at 3am or 3pm, your driver will be ready at Stansted arrivals with no extra overnight or unsociable hours charges."
+    }
+  ]
+}
