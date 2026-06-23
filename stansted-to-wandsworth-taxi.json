@@ -1,0 +1,178 @@
+{
+  "page": {
+    "area": "Wandsworth",
+    "postcode": "SW18",
+    "borough": "Wandsworth",
+    "region": "South West London",
+    "distance_miles": 46,
+    "distance_km": 74,
+    "journey_time_min": "60 minutes",
+    "journey_time_max": "1 hour 30 minutes",
+    "route_description": "M11 southbound and then via the A406 North Circular or through Central London towards Wandsworth via the A3 and A214"
+  },
+  "pricing": {
+    "saloon": { "to": 95, "from": 103 },
+    "executive": { "to": 125, "from": 135 },
+    "estate": { "to": 106, "from": 115 },
+    "mpv5": { "to": 136, "from": 147 },
+    "mpv6": { "to": 161, "from": 174 },
+    "mpv7": { "to": 184, "from": 200 },
+    "exec_mpv7": { "to": 225, "from": 244 },
+    "mpv8": { "to": 253, "from": 275 }
+  },
+  "student_discount": {
+    "percentage": 15,
+    "saloon_discounted": 81
+  },
+  "local_areas": [
+    "Wandsworth Common SW18",
+    "Wandsworth Town SW18",
+    "Earlsfield SW18",
+    "Southfields SW18",
+    "Summerstown SW17",
+    "East Hill SW18",
+    "West Hill SW18",
+    "Garratt Lane SW18",
+    "Putney SW15",
+    "Battersea SW11",
+    "Tooting SW17",
+    "Balham SW12",
+    "Clapham Junction SW11"
+  ],
+  "nearby_landmarks": [
+    "Wandsworth Common",
+    "Wandsworth Town Centre",
+    "Southside Shopping Centre",
+    "Clapham Junction Station",
+    "The Arndale Centre",
+    "King George's Park",
+    "Wandsworth Bridge",
+    "River Wandle Trail"
+  ],
+  "hotels": [
+    {
+      "name": "Lost Property St Paul's",
+      "url": "https://ltrminicab.com/london-hotel-transfers/lost-property-st-pauls-minicab-transfers/"
+    },
+    {
+      "name": "Lincoln Plaza London",
+      "url": "https://ltrminicab.com/london-hotel-transfers/lincoln-plaza-london-canary-wharf-minicab/"
+    },
+    {
+      "name": "Hart Shoreditch",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hart-shoreditch-hotel-minicab-transfers/"
+    },
+    {
+      "name": "Hotel Indigo Leicester Sq",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hotel-indigo-leicester-square-minicab-transfers/"
+    },
+    {
+      "name": "Hotel Indigo Paddington",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hotel-indigo-paddington-minicab-transfers/"
+    },
+    {
+      "name": "The Gantry London",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-gantry-london-stratford-minicab-transfers/"
+    },
+    {
+      "name": "Leman Locke",
+      "url": "https://ltrminicab.com/london-hotel-transfers/leman-locke-aldgate-minicab-transfers/"
+    },
+    {
+      "name": "Bermonds Locke",
+      "url": "https://ltrminicab.com/london-hotel-transfers/bermonds-locke-bermondsey-minicab-transfers/"
+    },
+    {
+      "name": "Kingsland Locke",
+      "url": "https://ltrminicab.com/london-hotel-transfers/kingsland-locke-dalston-minicab-transfers/"
+    },
+    {
+      "name": "Staycity Wilde Paddington",
+      "url": "https://ltrminicab.com/london-hotel-transfers/staycity-wilde-paddington-minicab-transfers/"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Plymouth",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-plymouth/"
+    },
+    {
+      "name": "Derby",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-derby/"
+    },
+    {
+      "name": "Dudley",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-dudley/"
+    },
+    {
+      "name": "Northampton",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-northampton/"
+    },
+    {
+      "name": "Portsmouth",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-portsmouth/"
+    },
+    {
+      "name": "Blackpool",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-blackpool/"
+    },
+    {
+      "name": "Peterborough",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-peterborough/"
+    },
+    {
+      "name": "Telford",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-telford/"
+    },
+    {
+      "name": "Chelmsford",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-chelmsford/"
+    },
+    {
+      "name": "Eastbourne",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-eastbourne/"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the driving distance from Stansted Airport to Wandsworth?",
+      "answer": "Wandsworth SW18 sits around 46 miles from Stansted Airport by road. The journey usually takes between 60 minutes and 1 hour 30 minutes using the M11 and then heading south through London via the A3 or South Circular."
+    },
+    {
+      "question": "How much is a fixed fare minicab from Stansted to Wandsworth SW18?",
+      "answer": "A saloon car transfer from Stansted Airport to Wandsworth SW18 with LTR Minicab starts from £95. The fare is locked in when you book and will not change on the day regardless of traffic or route adjustments."
+    },
+    {
+      "question": "Do you offer transfers from Wandsworth back to Stansted Airport?",
+      "answer": "Yes. We provide return transfers from Wandsworth SW18 to Stansted Airport at fixed prices starting from £103 for a saloon. Both legs can be booked together during the same reservation."
+    },
+    {
+      "question": "Which parts of Wandsworth do you cover from Stansted Airport?",
+      "answer": "We cover every address across Wandsworth SW18 including Wandsworth Town, Wandsworth Common, Earlsfield, Southfields, East Hill, West Hill, Garratt Lane, and Summerstown. We also serve nearby Battersea, Putney, Tooting, Balham, and Clapham Junction."
+    },
+    {
+      "question": "Can I get a student discount on a Stansted to Wandsworth taxi?",
+      "answer": "Yes. Students travelling from Stansted Airport to Wandsworth SW18 receive 15% off their fare. The discounted student saloon rate starts from just £81 with a fixed price and direct door to door service."
+    },
+    {
+      "question": "Is your Stansted to Wandsworth service available for late night arrivals?",
+      "answer": "Our service runs 24 hours a day, every day of the year. Whether your flight touches down at 1am or 1pm, your driver will be tracking your arrival and ready to take you to Wandsworth without any overnight surcharges."
+    },
+    {
+      "question": "Will I be met inside Stansted Airport when I land?",
+      "answer": "Yes. Every booking includes a free meet and greet. Your driver waits inside the arrivals hall at Stansted with a name board showing your name and will help carry your luggage to the vehicle."
+    },
+    {
+      "question": "What vehicles are available for the Stansted to Wandsworth route?",
+      "answer": "We offer saloon cars, executive Mercedes vehicles, estates, and MPVs seating 5 to 8 passengers. Each option comes with fixed pricing and sufficient luggage space for the Stansted to Wandsworth SW18 journey."
+    },
+    {
+      "question": "Does the fare go up if there is heavy traffic on the way to Wandsworth?",
+      "answer": "No. Your fare is fixed at the point of booking. Traffic jams, diversions, or roadworks will not affect the price you confirmed. What you see at booking is what you pay on the day."
+    },
+    {
+      "question": "How early should I book my Stansted to Wandsworth transfer?",
+      "answer": "We recommend booking at least 24 hours in advance to guarantee your preferred vehicle. During peak travel periods and school holidays, booking a few days ahead ensures the best availability and choice."
+    }
+  ]
+}
