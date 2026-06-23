@@ -1,0 +1,71 @@
+{
+  "page": "stansted-to-belgravia-sw1w-minicab",
+  "area": "Belgravia",
+  "postcode": "SW1W",
+  "distance_miles": 35,
+  "distance_km": 56,
+  "journey_time_min": "45 minutes",
+  "journey_time_max": "1 hour 15 minutes",
+  "route_description": "M11 southbound to A10 then through City of London to Victoria and Belgravia",
+  "pricing": {
+    "saloon": { "from_stansted": 74, "to_stansted": 80 },
+    "executive": { "from_stansted": 98, "to_stansted": 106 },
+    "estate": { "from_stansted": 82, "to_stansted": 89 },
+    "mpv_5": { "from_stansted": 107, "to_stansted": 116 },
+    "mpv_6": { "from_stansted": 125, "to_stansted": 135 },
+    "mpv_7": { "from_stansted": 144, "to_stansted": 156 },
+    "exec_mpv_7": { "from_stansted": 175, "to_stansted": 189 },
+    "mpv_8": { "from_stansted": 197, "to_stansted": 213 }
+  },
+  "student_discount_percent": 15,
+  "student_fare_from": 53,
+  "local_streets": [
+    "Ebury Street",
+    "Elizabeth Street",
+    "Belgrave Square",
+    "Chester Square",
+    "Eaton Square",
+    "Eccleston Street",
+    "Pimlico Road",
+    "Buckingham Palace Road",
+    "Grosvenor Place",
+    "Lower Belgrave Street"
+  ],
+  "nearby_areas": [
+    { "name": "Belgravia", "postcode": "SW1W", "slug": "stansted-to-belgravia-taxi" },
+    { "name": "Pimlico", "postcode": "SW1V", "slug": "stansted-to-pimlico-taxi" },
+    { "name": "Victoria", "postcode": "SW1", "slug": "stansted-to-victoria-taxi" },
+    { "name": "Knightsbridge", "postcode": "SW1X", "slug": "stansted-to-knightsbridge-taxi" },
+    { "name": "Chelsea", "postcode": "SW3", "slug": "stansted-to-chelsea-taxi" },
+    { "name": "Westminster", "postcode": "SW1", "slug": "stansted-to-westminster-taxi" },
+    { "name": "Mayfair", "postcode": "W1", "slug": "stansted-to-mayfair-taxi" },
+    { "name": "Sloane Square", "postcode": "SW1W", "slug": "stansted-to-sloane-square-taxi" },
+    { "name": "St James's", "postcode": "SW1", "slug": "stansted-to-st-jamess-taxi" },
+    { "name": "South Kensington", "postcode": "SW7", "slug": "stansted-to-south-kensington-taxi" },
+    { "name": "Battersea", "postcode": "SW11", "slug": "stansted-to-battersea-taxi" }
+  ],
+  "hotels": [
+    { "name": "Point A Kings Cross", "url": "https://ltrminicab.com/london-hotel-transfers/point-a-hotel-kings-cross-minicab-transfers/" },
+    { "name": "Point A Liverpool Street", "url": "https://ltrminicab.com/london-hotel-transfers/point-a-hotel-liverpool-street-minicab-transfers/" },
+    { "name": "Zedwell Tottenham Ct Rd", "url": "https://ltrminicab.com/london-hotel-transfers/zedwell-tottenham-court-road-minicab-transfers/" },
+    { "name": "The Z Hotel Victoria", "url": "https://ltrminicab.com/london-hotel-transfers/the-z-hotel-victoria-minicab-transfers/" },
+    { "name": "The Z Hotel Gloucester Pl", "url": "https://ltrminicab.com/london-hotel-transfers/the-z-hotel-gloucester-place-minicab-transfers/" },
+    { "name": "Royal Garden Hotel", "url": "https://ltrminicab.com/london-hotel-transfers/royal-garden-hotel-kensington-minicab-transfers/" },
+    { "name": "Strand Palace", "url": "https://ltrminicab.com/london-hotel-transfers/strand-palace-hotel-strand-minicab-transfers/" },
+    { "name": "Montcalm Royal London House", "url": "https://ltrminicab.com/london-hotel-transfers/montcalm-royal-london-house-finsbury-square-minicab-transfers/" },
+    { "name": "The Montcalm Marble Arch", "url": "https://ltrminicab.com/london-hotel-transfers/the-montcalm-marble-arch-marylebone-minicab-transfers/" },
+    { "name": "Chiltern Firehouse", "url": "https://ltrminicab.com/london-hotel-transfers/chiltern-firehouse-marylebone-minicab-transfers/" }
+  ],
+  "cities": [
+    { "name": "Birmingham", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/reliable-minicab-service-in-birmingham/" },
+    { "name": "London", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-london/" },
+    { "name": "Manchester", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-manchester/" },
+    { "name": "Watford", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-watford/" },
+    { "name": "Reading", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-reading/" },
+    { "name": "Luton", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-luton-town/#" },
+    { "name": "Oxford", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-oxford/" },
+    { "name": "Cambridge", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-cambridge/" },
+    { "name": "Edinburgh", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-edinburgh/" },
+    { "name": "Brighton", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-brighton/" }
+  ]
+}
