@@ -1,0 +1,177 @@
+{
+  "page": {
+    "area": "Lewisham",
+    "postcode": "SE13",
+    "borough": "Lewisham",
+    "region": "South East London",
+    "distance_miles": 42,
+    "distance_km": 68,
+    "journey_time_min": "55 minutes",
+    "journey_time_max": "1 hour 25 minutes",
+    "route_description": "M11 southbound then via the A12 and Blackwall Tunnel or through Central London towards Lewisham SE13"
+  },
+  "pricing": {
+    "saloon": { "to": 88, "from": 95 },
+    "executive": { "to": 116, "from": 125 },
+    "estate": { "to": 98, "from": 106 },
+    "mpv5": { "to": 126, "from": 136 },
+    "mpv6": { "to": 149, "from": 161 },
+    "mpv7": { "to": 171, "from": 185 },
+    "exec_mpv7": { "to": 209, "from": 226 },
+    "mpv8": { "to": 234, "from": 253 }
+  },
+  "student_discount": {
+    "percentage": 15,
+    "saloon_discounted": 75
+  },
+  "local_areas": [
+    "Lewisham Town Centre SE13",
+    "Ladywell SE13",
+    "Hither Green SE13",
+    "Lee SE12",
+    "Blackheath SE3",
+    "Catford SE6",
+    "Brockley SE4",
+    "New Cross SE14",
+    "Deptford SE8",
+    "Greenwich SE10",
+    "Forest Hill SE23",
+    "Honor Oak SE23"
+  ],
+  "nearby_landmarks": [
+    "Lewisham Shopping Centre",
+    "Lewisham DLR Station",
+    "Lewisham Hospital",
+    "Ladywell Fields",
+    "Hither Green Lane",
+    "Mountsfield Park",
+    "Lewisham Clock Tower",
+    "River Ravensbourne"
+  ],
+  "hotels": [
+    {
+      "name": "Lost Property St Paul's",
+      "url": "https://ltrminicab.com/london-hotel-transfers/lost-property-st-pauls-minicab-transfers/"
+    },
+    {
+      "name": "Lincoln Plaza London",
+      "url": "https://ltrminicab.com/london-hotel-transfers/lincoln-plaza-london-canary-wharf-minicab/"
+    },
+    {
+      "name": "Hart Shoreditch",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hart-shoreditch-hotel-minicab-transfers/"
+    },
+    {
+      "name": "Hotel Indigo Leicester Sq",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hotel-indigo-leicester-square-minicab-transfers/"
+    },
+    {
+      "name": "Hotel Indigo Paddington",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hotel-indigo-paddington-minicab-transfers/"
+    },
+    {
+      "name": "The Gantry London",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-gantry-london-stratford-minicab-transfers/"
+    },
+    {
+      "name": "Leman Locke",
+      "url": "https://ltrminicab.com/london-hotel-transfers/leman-locke-aldgate-minicab-transfers/"
+    },
+    {
+      "name": "Bermonds Locke",
+      "url": "https://ltrminicab.com/london-hotel-transfers/bermonds-locke-bermondsey-minicab-transfers/"
+    },
+    {
+      "name": "Kingsland Locke",
+      "url": "https://ltrminicab.com/london-hotel-transfers/kingsland-locke-dalston-minicab-transfers/"
+    },
+    {
+      "name": "Staycity Wilde Paddington",
+      "url": "https://ltrminicab.com/london-hotel-transfers/staycity-wilde-paddington-minicab-transfers/"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Plymouth",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-plymouth/"
+    },
+    {
+      "name": "Derby",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-derby/"
+    },
+    {
+      "name": "Dudley",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-dudley/"
+    },
+    {
+      "name": "Northampton",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-northampton/"
+    },
+    {
+      "name": "Portsmouth",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-portsmouth/"
+    },
+    {
+      "name": "Blackpool",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-blackpool/"
+    },
+    {
+      "name": "Peterborough",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-peterborough/"
+    },
+    {
+      "name": "Telford",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-telford/"
+    },
+    {
+      "name": "Chelmsford",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-chelmsford/"
+    },
+    {
+      "name": "Eastbourne",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-eastbourne/"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How far is Lewisham from Stansted Airport by car?",
+      "answer": "Lewisham SE13 is approximately 42 miles from Stansted Airport by road. The journey takes between 55 minutes and 1 hour 25 minutes depending on traffic, typically using the M11 and then the A12 or Blackwall Tunnel approach into South East London."
+    },
+    {
+      "question": "What is the cost of a pre-booked taxi from Stansted to Lewisham?",
+      "answer": "A saloon car transfer from Stansted Airport to Lewisham SE13 with LTR Minicab starts from £88. This fare is fixed at the time of booking with no meter, no surge pricing, and no hidden extras on the day."
+    },
+    {
+      "question": "Can I arrange a pickup from Lewisham to Stansted Airport?",
+      "answer": "Yes. We provide fixed fare return transfers from Lewisham SE13 to Stansted Airport starting from £95 for a saloon car. Both your arrival and departure can be booked together in a single reservation."
+    },
+    {
+      "question": "Which streets and areas in Lewisham do you serve?",
+      "answer": "We cover every address across Lewisham SE13 including Lewisham High Street, Ladywell Road, Hither Green Lane, Lee High Road, and Loampit Vale. We also serve nearby areas such as Catford, Brockley, New Cross, Deptford, Blackheath, and Greenwich."
+    },
+    {
+      "question": "Do you have a student fare for the Stansted to Lewisham route?",
+      "answer": "Yes. Students travelling from Stansted Airport to Lewisham SE13 receive a 15% discount. The student saloon rate starts from £75 with a confirmed fixed fare and direct door to door service."
+    },
+    {
+      "question": "What happens if my flight into Stansted is delayed?",
+      "answer": "We track every Stansted flight in real time. If your arrival is delayed your driver adjusts automatically and will be waiting when you land. Every airport pickup includes 45 minutes of complimentary waiting time."
+    },
+    {
+      "question": "Are child seats available for the Lewisham airport transfer?",
+      "answer": "Yes. We supply infant seats, child seats, and booster seats on request. Simply add your child seat requirement when booking and we will have the correct seat fitted in your vehicle before pickup."
+    },
+    {
+      "question": "Do you offer executive vehicles on the Stansted to Lewisham route?",
+      "answer": "Yes. We provide Mercedes E Class executive transfers from Stansted Airport to Lewisham SE13 at a fixed fare of £116, ideal for business travellers and those wanting a premium ride."
+    },
+    {
+      "question": "Can I book a group transfer from Stansted to Lewisham?",
+      "answer": "Absolutely. We have MPV vehicles accommodating 5 to 8 passengers with generous luggage space. All group transfers from Stansted to Lewisham come with fixed pricing confirmed at the time of booking."
+    },
+    {
+      "question": "Is the cancellation policy the same for all vehicle types?",
+      "answer": "Yes. All bookings on the Stansted to Lewisham route can be cancelled free of charge up to 12 hours before the scheduled pickup. A full refund is processed with no penalties regardless of vehicle type."
+    }
+  ]
+}
