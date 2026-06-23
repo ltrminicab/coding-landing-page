@@ -1,0 +1,176 @@
+{
+  "page": {
+    "area": "Putney",
+    "postcode": "SW15",
+    "borough": "Wandsworth",
+    "region": "South West London",
+    "distance_miles": 48,
+    "distance_km": 77,
+    "journey_time_min": "65 minutes",
+    "journey_time_max": "1 hour 35 minutes",
+    "route_description": "M11 and A406 North Circular then south via the A3 towards Putney"
+  },
+  "pricing": {
+    "saloon": { "to": 97, "from": 105 },
+    "executive": { "to": 128, "from": 138 },
+    "estate": { "to": 108, "from": 117 },
+    "mpv5": { "to": 139, "from": 150 },
+    "mpv6": { "to": 164, "from": 178 },
+    "mpv7": { "to": 188, "from": 204 },
+    "exec_mpv7": { "to": 230, "from": 249 },
+    "mpv8": { "to": 258, "from": 280 }
+  },
+  "student_discount": {
+    "percentage": 15,
+    "saloon_discounted": 82
+  },
+  "local_areas": [
+    "Putney Heath SW15",
+    "Putney Vale SW15",
+    "Roehampton SW15",
+    "West Hill SW15",
+    "Upper Richmond Road SW15",
+    "Putney Bridge SW6",
+    "Southfields SW18",
+    "Wandsworth SW18",
+    "Barnes SW13",
+    "East Sheen SW14",
+    "Fulham SW6"
+  ],
+  "nearby_landmarks": [
+    "Putney Bridge",
+    "Putney High Street",
+    "Putney Heath",
+    "Roehampton University",
+    "Queen Mary's Hospital",
+    "Putney Embankment",
+    "Leader's Gardens",
+    "Wandsworth Park"
+  ],
+  "hotels": [
+    {
+      "name": "Lost Property St Paul's",
+      "url": "https://ltrminicab.com/london-hotel-transfers/lost-property-st-pauls-minicab-transfers/"
+    },
+    {
+      "name": "Lincoln Plaza London",
+      "url": "https://ltrminicab.com/london-hotel-transfers/lincoln-plaza-london-canary-wharf-minicab/"
+    },
+    {
+      "name": "Hart Shoreditch",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hart-shoreditch-hotel-minicab-transfers/"
+    },
+    {
+      "name": "Hotel Indigo Leicester Sq",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hotel-indigo-leicester-square-minicab-transfers/"
+    },
+    {
+      "name": "Hotel Indigo Paddington",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hotel-indigo-paddington-minicab-transfers/"
+    },
+    {
+      "name": "The Gantry London",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-gantry-london-stratford-minicab-transfers/"
+    },
+    {
+      "name": "Leman Locke",
+      "url": "https://ltrminicab.com/london-hotel-transfers/leman-locke-aldgate-minicab-transfers/"
+    },
+    {
+      "name": "Bermonds Locke",
+      "url": "https://ltrminicab.com/london-hotel-transfers/bermonds-locke-bermondsey-minicab-transfers/"
+    },
+    {
+      "name": "Kingsland Locke",
+      "url": "https://ltrminicab.com/london-hotel-transfers/kingsland-locke-dalston-minicab-transfers/"
+    },
+    {
+      "name": "Staycity Wilde Paddington",
+      "url": "https://ltrminicab.com/london-hotel-transfers/staycity-wilde-paddington-minicab-transfers/"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Plymouth",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-plymouth/"
+    },
+    {
+      "name": "Derby",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-derby/"
+    },
+    {
+      "name": "Dudley",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-dudley/"
+    },
+    {
+      "name": "Northampton",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-northampton/"
+    },
+    {
+      "name": "Portsmouth",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-portsmouth/"
+    },
+    {
+      "name": "Blackpool",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-blackpool/"
+    },
+    {
+      "name": "Peterborough",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-peterborough/"
+    },
+    {
+      "name": "Telford",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-telford/"
+    },
+    {
+      "name": "Chelmsford",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-chelmsford/"
+    },
+    {
+      "name": "Eastbourne",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-eastbourne/"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How far is Putney from Stansted Airport by road?",
+      "answer": "Putney SW15 is approximately 48 miles from Stansted Airport. The drive typically takes between 65 minutes and 1 hour 35 minutes depending on traffic, using the M11 and A3 corridor into South West London."
+    },
+    {
+      "question": "What does a pre-booked minicab from Stansted to Putney cost?",
+      "answer": "A saloon car transfer from Stansted Airport to Putney SW15 with LTR Minicab starts from £97. This is a fixed fare confirmed at the time of booking with no additional charges for traffic or delays."
+    },
+    {
+      "question": "Can I book a Stansted to Putney transfer for an early morning flight?",
+      "answer": "Yes. We operate around the clock, 365 days a year. Whether you need a pickup at 4am or midnight, your driver will be ready at Stansted with your flight tracked and your vehicle prepared."
+    },
+    {
+      "question": "Do you drop off at specific addresses in Putney SW15?",
+      "answer": "We deliver to any address within Putney SW15 including Putney High Street, Putney Heath, Putney Vale, Upper Richmond Road, West Hill, Roehampton, and all surrounding residential and commercial streets."
+    },
+    {
+      "question": "Is there a discount for students travelling from Stansted to Putney?",
+      "answer": "Yes. Students can save 15% on their Stansted to Putney transfer. The discounted student rate for a saloon car starts from £82 with direct door to door service and a fixed price."
+    },
+    {
+      "question": "How do I meet my driver at Stansted Airport?",
+      "answer": "Your driver will be waiting inside the Stansted arrivals terminal holding a personalised name board. You will receive the driver's name and contact number in your booking confirmation before you travel."
+    },
+    {
+      "question": "Can I take an MPV from Stansted Airport to Putney with extra luggage?",
+      "answer": "Absolutely. We have MPV vehicles seating 5 to 8 passengers with generous boot space for multiple suitcases, sports equipment, pushchairs, and oversized bags on the Stansted to Putney route."
+    },
+    {
+      "question": "What if I need to cancel my Stansted to Putney booking?",
+      "answer": "You can cancel free of charge up to 12 hours before your scheduled pickup time and receive a full refund. No cancellation fee is applied within this window."
+    },
+    {
+      "question": "Do you cover Roehampton and Putney Heath from Stansted?",
+      "answer": "Yes. We cover Roehampton, Putney Heath, Putney Vale, West Hill, and all areas within SW15 as well as nearby locations like Barnes, East Sheen, Southfields, and Wandsworth."
+    },
+    {
+      "question": "Can I book a return journey from Putney to Stansted Airport?",
+      "answer": "Yes. Return bookings from Putney SW15 to Stansted Airport are available at fixed rates starting from £105 for a saloon car. You can book both directions at the same time."
+    }
+  ]
+}
