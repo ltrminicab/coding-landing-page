@@ -1,0 +1,234 @@
+{
+  "page": {
+    "title": "Stansted Airport to Uxbridge Minicab | Fixed Fare Taxi UB8 | LTR Minicab",
+    "slug": "stansted-airport-to-uxbridge-minicab-transfers",
+    "meta_description": "Book a fixed fare Stansted Airport to Uxbridge UB8 minicab with LTR Minicab. Direct private taxi transfer, 24/7 availability, flight tracking, and meet & greet included. From £105.",
+    "meta_keywords": "Stansted to Uxbridge taxi, Stansted Airport to Uxbridge minicab, Uxbridge UB8 airport transfer, cheap taxi Stansted to Uxbridge, Stansted to Hillingdon taxi, Stansted to Brunel University taxi, private hire Stansted to Uxbridge, fixed fare Stansted Uxbridge",
+    "canonical_url": "https://ltrminicab.com/stansted-taxi/stansted-to-uxbridge-taxi/",
+    "og_title": "Stansted Airport to Uxbridge Minicab | Fixed Fare from £105 | LTR Minicab",
+    "og_description": "Pre-book a direct Stansted Airport to Uxbridge UB8 taxi with LTR Minicab. Fixed fares, professional drivers, free meet & greet, and 45 minutes free waiting at Stansted.",
+    "og_image": "https://ltrminicab.com/wp-content/uploads/2026/06/stansted-airport-to-uxbridge-minicab.webp",
+    "schema_type": "TaxiService"
+  },
+  "area": {
+    "name": "Uxbridge",
+    "postcode": "UB8",
+    "borough": "London Borough of Hillingdon",
+    "region": "West London",
+    "county": "Greater London",
+    "country": "England"
+  },
+  "route": {
+    "origin": "Stansted Airport",
+    "destination": "Uxbridge UB8",
+    "distance_miles": 48,
+    "distance_km": 77,
+    "journey_time_min": "1 hour 5 minutes",
+    "journey_time_max": "1 hour 35 minutes",
+    "primary_roads": ["M11", "M25", "A40"],
+    "map_embed_url": "https://www.google.com/maps?q=Stansted+Airport+to+Uxbridge+UB8&output=embed"
+  },
+  "pricing": {
+    "currency": "GBP",
+    "stansted_to_uxbridge": {
+      "saloon": 105,
+      "executive": 139,
+      "estate": 117,
+      "mpv5": 150,
+      "mpv6": 178,
+      "mpv7": 204,
+      "exec_mpv7": 249,
+      "mpv8": 280
+    },
+    "uxbridge_to_stansted": {
+      "saloon": 113,
+      "executive": 149,
+      "estate": 126,
+      "mpv5": 162,
+      "mpv6": 192,
+      "mpv7": 221,
+      "exec_mpv7": 269,
+      "mpv8": 303
+    },
+    "student_discount_percent": 15,
+    "student_saloon_from": 89
+  },
+  "sub_areas": [
+    {
+      "name": "Uxbridge Town Centre",
+      "postcode": "UB8",
+      "slug": "stansted-to-uxbridge-taxi"
+    },
+    {
+      "name": "Hillingdon",
+      "postcode": "UB10",
+      "slug": "stansted-to-hillingdon-taxi"
+    },
+    {
+      "name": "Cowley",
+      "postcode": "UB8",
+      "slug": "stansted-to-cowley-taxi"
+    },
+    {
+      "name": "Colham Green",
+      "postcode": "UB8",
+      "slug": "stansted-to-colham-green-taxi"
+    },
+    {
+      "name": "Ickenham",
+      "postcode": "UB10",
+      "slug": "stansted-to-ickenham-taxi"
+    },
+    {
+      "name": "Ruislip",
+      "postcode": "HA4",
+      "slug": "stansted-to-ruislip-taxi"
+    },
+    {
+      "name": "Hayes",
+      "postcode": "UB3",
+      "slug": "stansted-to-hayes-taxi"
+    },
+    {
+      "name": "Denham",
+      "postcode": "UB9",
+      "slug": "stansted-to-denham-taxi"
+    },
+    {
+      "name": "Harefield",
+      "postcode": "UB9",
+      "slug": "stansted-to-harefield-taxi"
+    },
+    {
+      "name": "Uxbridge Moor",
+      "postcode": "UB8",
+      "slug": "stansted-to-uxbridge-moor-taxi"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "London Marriott West India",
+      "url": "https://ltrminicab.com/london-hotel-transfers/london-marriott-west-india-quay-docklands-minicab-transfers/"
+    },
+    {
+      "name": "Marriott Grosvenor Square",
+      "url": "https://ltrminicab.com/london-hotel-transfers/marriott-grosvenor-square-mayfair-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Bankside",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-bankside-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Hyde Park",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-hyde-park-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Kensington",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-kensington-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Wembley",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-wembley-minicab-transfers/"
+    },
+    {
+      "name": "Hampton by Hilton City",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hampton-by-hilton-london-city-aldgate-minicab-transfers/"
+    },
+    {
+      "name": "DoubleTree Hyde Park",
+      "url": "https://ltrminicab.com/london-hotel-transfers/doubletree-by-hilton-london-hyde-park-minicab-transfers/"
+    },
+    {
+      "name": "DoubleTree Docklands",
+      "url": "https://ltrminicab.com/london-hotel-transfers/doubletree-by-hilton-london-docklands-riverside-minicab-transfers/"
+    },
+    {
+      "name": "Holiday Inn Whitechapel",
+      "url": "https://ltrminicab.com/london-hotel-transfers/holiday-inn-whitechapel-minicab-transfers/"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Bolton",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bolton/"
+    },
+    {
+      "name": "West Bromwich",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-west-bromwich/"
+    },
+    {
+      "name": "Stockport",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-stockport/"
+    },
+    {
+      "name": "Slough",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-slough/"
+    },
+    {
+      "name": "Gloucester",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-gloucester/"
+    },
+    {
+      "name": "Newport",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-newport/"
+    },
+    {
+      "name": "Rotherham",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-rotherham/"
+    },
+    {
+      "name": "Mendip",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-mendip/"
+    },
+    {
+      "name": "Dagenham",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-dagenham/"
+    },
+    {
+      "name": "Crawley",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-crawley/"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much is a taxi from Stansted Airport to Uxbridge?",
+      "answer": "A saloon car transfer from Stansted Airport to Uxbridge UB8 with LTR Minicab starts from £105. This is a fixed fare confirmed at the time of booking with no surge pricing, no tolls, and no hidden extras on the day of travel."
+    },
+    {
+      "question": "How long does the drive from Stansted to Uxbridge take?",
+      "answer": "The journey typically takes between 1 hour 5 minutes and 1 hour 35 minutes depending on traffic, particularly on the M25 and A40 approach. Our drivers use live navigation to find the fastest route available at the time of your transfer."
+    },
+    {
+      "question": "Do you offer student transfers from Stansted to Brunel University?",
+      "answer": "Yes, we offer a 15% student discount on all Stansted to Uxbridge transfers. This covers drops to Brunel University campus, student halls, and private accommodation across the UB8 postcode. Just select the student option when booking."
+    },
+    {
+      "question": "Can I get picked up from Uxbridge to go to Stansted Airport?",
+      "answer": "Yes, we provide return transfers from Uxbridge UB8 to Stansted Airport at competitive fixed rates. Your driver will collect you from your home, office, or hotel in Uxbridge and drive you directly to Stansted in good time for check in."
+    },
+    {
+      "question": "Which road route do you take from Stansted Airport to Uxbridge?",
+      "answer": "The standard route follows the M11 south to the M25 westbound, then exits at junction 16 for the A40 Western Avenue into Uxbridge. If traffic is heavy on the M25, our drivers may take alternative routes via the A406 North Circular or A41."
+    },
+    {
+      "question": "Is Uxbridge close to Heathrow Airport?",
+      "answer": "Yes, Uxbridge is roughly 5 miles from Heathrow Airport. However, if you are flying into Stansted, which is on the northeast side of London, a pre-booked private transfer is far more convenient than navigating multiple trains and tube lines across the city with luggage."
+    },
+    {
+      "question": "Can I book a large vehicle for a family transfer from Stansted to Uxbridge?",
+      "answer": "Yes, we offer MPV 5, MPV 6, MPV 7, executive MPV 7, and MPV 8 vehicles for families and groups of up to 8 passengers travelling from Stansted to Uxbridge. All options include generous luggage space and fixed fares."
+    },
+    {
+      "question": "What if I have excess luggage or oversized bags on this route?",
+      "answer": "If you have extra or oversized luggage, we recommend booking an estate or MPV vehicle for additional boot space. You can add luggage details when booking and our team will assign the most suitable vehicle for your needs."
+    },
+    {
+      "question": "Do you cover addresses in Cowley, Hillingdon, and Ickenham as well?",
+      "answer": "Yes, we cover all addresses across the wider Uxbridge area including Cowley, Colham Green, Hillingdon, Ickenham, Ruislip, Hayes, Denham, Harefield, and Uxbridge Moor. Your fare is calculated based on the exact drop off address you provide."
+    },
+    {
+      "question": "How do I pay for my Stansted to Uxbridge minicab?",
+      "answer": "You can pay securely online when you make your booking through our website. We accept all major credit and debit cards. Your fixed fare is confirmed at the time of payment so there are no surprises when you travel."
+    }
+  ]
+}
