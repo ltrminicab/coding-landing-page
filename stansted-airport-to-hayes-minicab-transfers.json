@@ -1,0 +1,234 @@
+{
+  "page": {
+    "title": "Stansted Airport to Hayes Minicab | Fixed Fare Taxi UB3 | LTR Minicab",
+    "slug": "stansted-airport-to-hayes-minicab-transfers",
+    "meta_description": "Book a fixed fare Stansted Airport to Hayes UB3 minicab with LTR Minicab. Direct private taxi transfer, 24/7 availability, flight tracking, and meet & greet included. From £100.",
+    "meta_keywords": "Stansted to Hayes taxi, Stansted Airport to Hayes minicab, Hayes UB3 airport transfer, cheap taxi Stansted to Hayes, Stansted to Hillingdon taxi, Stansted to Harlington taxi, private hire Stansted to Hayes, fixed fare Stansted Hayes",
+    "canonical_url": "https://ltrminicab.com/stansted-taxi/stansted-to-hayes-taxi/",
+    "og_title": "Stansted Airport to Hayes Minicab | Fixed Fare from £100 | LTR Minicab",
+    "og_description": "Pre-book a direct Stansted Airport to Hayes UB3 taxi with LTR Minicab. Fixed fares, professional drivers, free meet & greet, and 45 minutes free waiting at Stansted.",
+    "og_image": "https://ltrminicab.com/wp-content/uploads/2026/06/stansted-airport-to-hayes-minicab.webp",
+    "schema_type": "TaxiService"
+  },
+  "area": {
+    "name": "Hayes",
+    "postcode": "UB3",
+    "borough": "London Borough of Hillingdon",
+    "region": "West London",
+    "county": "Greater London",
+    "country": "England"
+  },
+  "route": {
+    "origin": "Stansted Airport",
+    "destination": "Hayes UB3",
+    "distance_miles": 46,
+    "distance_km": 74,
+    "journey_time_min": "1 hour",
+    "journey_time_max": "1 hour 30 minutes",
+    "primary_roads": ["M11", "M25", "A312", "M4"],
+    "map_embed_url": "https://www.google.com/maps?q=Stansted+Airport+to+Hayes+Middlesex+UB3&output=embed"
+  },
+  "pricing": {
+    "currency": "GBP",
+    "stansted_to_hayes": {
+      "saloon": 100,
+      "executive": 132,
+      "estate": 111,
+      "mpv5": 143,
+      "mpv6": 169,
+      "mpv7": 194,
+      "exec_mpv7": 237,
+      "mpv8": 266
+    },
+    "hayes_to_stansted": {
+      "saloon": 108,
+      "executive": 142,
+      "estate": 120,
+      "mpv5": 154,
+      "mpv6": 183,
+      "mpv7": 210,
+      "exec_mpv7": 256,
+      "mpv8": 287
+    },
+    "student_discount_percent": 15,
+    "student_saloon_from": 85
+  },
+  "sub_areas": [
+    {
+      "name": "Hayes Town Centre",
+      "postcode": "UB3",
+      "slug": "stansted-to-hayes-taxi"
+    },
+    {
+      "name": "Hayes End",
+      "postcode": "UB3",
+      "slug": "stansted-to-hayes-end-taxi"
+    },
+    {
+      "name": "Harlington",
+      "postcode": "UB3",
+      "slug": "stansted-to-harlington-taxi"
+    },
+    {
+      "name": "Wood End Green",
+      "postcode": "UB3",
+      "slug": "stansted-to-wood-end-green-taxi"
+    },
+    {
+      "name": "Cranford",
+      "postcode": "TW5",
+      "slug": "stansted-to-cranford-taxi"
+    },
+    {
+      "name": "Yeading",
+      "postcode": "UB4",
+      "slug": "stansted-to-yeading-taxi"
+    },
+    {
+      "name": "Southall",
+      "postcode": "UB1",
+      "slug": "stansted-to-southall-taxi"
+    },
+    {
+      "name": "West Drayton",
+      "postcode": "UB7",
+      "slug": "stansted-to-west-drayton-taxi"
+    },
+    {
+      "name": "Norwood Green",
+      "postcode": "UB2",
+      "slug": "stansted-to-norwood-green-taxi"
+    },
+    {
+      "name": "Stockley Park",
+      "postcode": "UB11",
+      "slug": "stansted-to-stockley-park-taxi"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "London Marriott West India",
+      "url": "https://ltrminicab.com/london-hotel-transfers/london-marriott-west-india-quay-docklands-minicab-transfers/"
+    },
+    {
+      "name": "Marriott Grosvenor Square",
+      "url": "https://ltrminicab.com/london-hotel-transfers/marriott-grosvenor-square-mayfair-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Bankside",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-bankside-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Hyde Park",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-hyde-park-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Kensington",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-kensington-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Wembley",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-wembley-minicab-transfers/"
+    },
+    {
+      "name": "Hampton by Hilton City",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hampton-by-hilton-london-city-aldgate-minicab-transfers/"
+    },
+    {
+      "name": "DoubleTree Hyde Park",
+      "url": "https://ltrminicab.com/london-hotel-transfers/doubletree-by-hilton-london-hyde-park-minicab-transfers/"
+    },
+    {
+      "name": "DoubleTree Docklands",
+      "url": "https://ltrminicab.com/london-hotel-transfers/doubletree-by-hilton-london-docklands-riverside-minicab-transfers/"
+    },
+    {
+      "name": "Holiday Inn Whitechapel",
+      "url": "https://ltrminicab.com/london-hotel-transfers/holiday-inn-whitechapel-minicab-transfers/"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Bolton",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bolton/"
+    },
+    {
+      "name": "West Bromwich",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-west-bromwich/"
+    },
+    {
+      "name": "Stockport",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-stockport/"
+    },
+    {
+      "name": "Slough",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-slough/"
+    },
+    {
+      "name": "Gloucester",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-gloucester/"
+    },
+    {
+      "name": "Newport",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-newport/"
+    },
+    {
+      "name": "Rotherham",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-rotherham/"
+    },
+    {
+      "name": "Mendip",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-mendip/"
+    },
+    {
+      "name": "Dagenham",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-dagenham/"
+    },
+    {
+      "name": "Crawley",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-crawley/"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the fare for a taxi from Stansted Airport to Hayes?",
+      "answer": "A saloon car transfer from Stansted Airport to Hayes UB3 with LTR Minicab starts from £100. This is a fixed price locked in at the time of booking. There are no surge charges, no tolls, and no hidden extras applied on the day of travel."
+    },
+    {
+      "question": "How long is the drive from Stansted Airport to Hayes Middlesex?",
+      "answer": "The journey from Stansted Airport to Hayes takes approximately 1 hour to 1 hour 30 minutes depending on traffic conditions, especially on the M25 and through the Southall and A312 corridor. Our drivers monitor traffic live and pick the quickest available route."
+    },
+    {
+      "question": "Can I catch the Elizabeth line from Hayes instead of taking a minicab?",
+      "answer": "You can, but the journey involves the Stansted Express to Liverpool Street, then the Elizabeth line to Hayes and Harlington, which takes around two hours with platform changes and luggage. A pre-booked minicab is direct, door to door, and takes roughly half the time."
+    },
+    {
+      "question": "Is Hayes close to Heathrow Airport?",
+      "answer": "Yes, Hayes is just 3 miles from Heathrow Airport, making it one of the closest residential areas to the airport. However, if you are arriving at Stansted on the northeast side of London, you need to cross the entire city, which is why a direct minicab from Stansted is the most practical option."
+    },
+    {
+      "question": "Do you provide airport transfers from Hayes to Stansted as well?",
+      "answer": "Yes, we offer return transfers from Hayes UB3 to Stansted Airport at competitive fixed rates. Your driver will collect you from your Hayes address and drive you directly to Stansted with plenty of time for check in and security."
+    },
+    {
+      "question": "What roads does the driver take from Stansted to Hayes?",
+      "answer": "The typical route follows the M11 southbound to the M25 westbound, then exits for the A312 or M4 approach into Hayes. If the M25 is congested, our drivers may route through the A406 North Circular and A40 as an alternative."
+    },
+    {
+      "question": "Can I book a transfer from Stansted to Stockley Park business estate?",
+      "answer": "Yes, Stockley Park is within the Hayes and Hillingdon area and we cover it as part of our Stansted to Hayes transfer service. Simply enter the specific Stockley Park address when booking and your driver will take you directly there."
+    },
+    {
+      "question": "Do you cover Harlington, Cranford, and Southall on this route?",
+      "answer": "Yes, we serve all addresses in and around Hayes including Harlington, Cranford, Southall, Yeading, West Drayton, Norwood Green, and Wood End Green. Your fare is calculated from the exact drop off point you provide at the time of booking."
+    },
+    {
+      "question": "Are there vehicles available for groups travelling from Stansted to Hayes?",
+      "answer": "Yes, we have MPV 5, MPV 6, MPV 7, executive MPV 7, and MPV 8 vehicles available for groups of up to 8 passengers on the Stansted to Hayes route. All group vehicles come with generous luggage capacity and fixed fares confirmed at booking."
+    },
+    {
+      "question": "Can I book a Stansted to Hayes taxi for a very early morning flight?",
+      "answer": "Yes, our service operates 24 hours a day including early morning and late night transfers. For flights departing at 4am or 5am from Stansted, we recommend booking at least a day ahead to secure your preferred vehicle and guaranteed pickup time from Hayes."
+    }
+  ]
+}
