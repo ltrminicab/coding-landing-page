@@ -1,0 +1,75 @@
+{
+  "area": "Chislehurst",
+  "postcode": "BR7",
+  "airport": "Stansted Airport",
+  "distance_miles": 49,
+  "distance_km": 79,
+  "journey_time_min": "1 hour 5 minutes",
+  "journey_time_max": "1 hour 35 minutes",
+  "route_description": "M11 southbound to M25, then A20 and A222 into Chislehurst",
+  "fares": {
+    "to_area": {
+      "saloon": 96,
+      "executive": 127,
+      "estate": 107,
+      "mpv5": 137,
+      "mpv6": 162,
+      "mpv7": 187,
+      "exec_mpv7": 228,
+      "mpv8": 256
+    },
+    "from_area": {
+      "saloon": 103,
+      "executive": 136,
+      "estate": 115,
+      "mpv5": 148,
+      "mpv6": 175,
+      "mpv7": 202,
+      "exec_mpv7": 246,
+      "mpv8": 277
+    }
+  },
+  "student_discount_percent": 15,
+  "student_fare_from": 70,
+  "local_areas": [
+    "Chislehurst town centre",
+    "Chislehurst West",
+    "Chislehurst Common",
+    "Watts Lane",
+    "Camden Park",
+    "Hawkwood Estate",
+    "Petts Wood",
+    "Sidcup",
+    "Bickley",
+    "Mottingham",
+    "New Eltham",
+    "Bromley",
+    "Elmstead",
+    "Foots Cray"
+  ],
+  "nearby_postcodes": ["BR7", "BR1", "BR2", "BR5", "DA14", "DA15", "SE9"],
+  "hotels": [
+    { "name": "Kip Hotel", "url": "https://ltrminicab.com/london-hotel-transfers/kip-hotel-hackney-minicab-transfers/" },
+    { "name": "TRIBE Canary Wharf", "url": "https://ltrminicab.com/london-hotel-transfers/tribe-canary-wharf-minicab-transfers/" },
+    { "name": "Mimi's Hotel Soho", "url": "https://ltrminicab.com/london-hotel-transfers/mimis-hotel-soho-minicab-transfers/" },
+    { "name": "The Lost Poet", "url": "https://ltrminicab.com/london-hotel-transfers/the-lost-poet-notting-hill-minicab-transfers/" },
+    { "name": "Bingham Riverhouse", "url": "https://ltrminicab.com/london-hotel-transfers/bingham-riverhouse-richmond-minicab-transfers/" },
+    { "name": "Georgian House Hotel", "url": "https://ltrminicab.com/london-hotel-transfers/georgian-house-hotel-victoria-minicab-transfers/" },
+    { "name": "Sanderson London", "url": "https://ltrminicab.com/london-hotel-transfers/sanderson-london-fitzrovia-minicab-transfers/" },
+    { "name": "St Martins Lane London", "url": "https://ltrminicab.com/london-hotel-transfers/st-martins-lane-london-covent-garden-minicab-transfers/" },
+    { "name": "London Marriott Canary Wharf", "url": "https://ltrminicab.com/london-hotel-transfers/london-marriott-canary-wharf-minicab-transfers/" },
+    { "name": "London Marriott Park Lane", "url": "https://ltrminicab.com/london-hotel-transfers/london-marriott-park-lane-mayfair-minicab-transfers/" }
+  ],
+  "cities": [
+    { "name": "Sunderland", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-sunderland/" },
+    { "name": "Walsall", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-walsall/" },
+    { "name": "Swansea", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-swansea/" },
+    { "name": "Bournemouth", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bournemouth/" },
+    { "name": "Swindon", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-swindon/" },
+    { "name": "Exeter", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-exeter/" },
+    { "name": "Eastbourne", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-eastbourn/" },
+    { "name": "Bassetlaw", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bassetlaw/" },
+    { "name": "Dundee", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-dundee/" },
+    { "name": "Poole", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-poole/" }
+  ]
+}
