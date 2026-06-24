@@ -1,0 +1,178 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://ltrminicab.com/stansted-taxi/stansted-to-catford-taxi/#webpage",
+      "url": "https://ltrminicab.com/stansted-taxi/stansted-to-catford-taxi/",
+      "name": "Stansted Airport to Catford SE6 Minicab | Fixed Fare Taxi | LTR Minicab",
+      "description": "Book a fixed fare Stansted Airport to Catford SE6 minicab with LTR Minicab. Professional drivers, flight tracking, meet and greet, and 24/7 availability. Saloon from £86.",
+      "isPartOf": {
+        "@id": "https://ltrminicab.com/#website"
+      },
+      "inLanguage": "en-GB",
+      "breadcrumb": {
+        "@id": "https://ltrminicab.com/stansted-taxi/stansted-to-catford-taxi/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://ltrminicab.com/stansted-taxi/stansted-to-catford-taxi/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://ltrminicab.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Stansted Taxi",
+          "item": "https://ltrminicab.com/stansted-taxi/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Stansted to Catford SE6 Taxi"
+        }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://ltrminicab.com/#localbusiness",
+      "name": "LTR Minicab",
+      "url": "https://ltrminicab.com/",
+      "telephone": "+442036678574",
+      "priceRange": "££",
+      "image": "https://ltrminicab.com/wp-content/uploads/2024/01/ltr-minicab-logo.png",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "London",
+        "addressCountry": "GB"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "bestRating": "5",
+        "ratingCount": "320"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Catford SE6"
+        },
+        {
+          "@type": "Place",
+          "name": "Stansted Airport"
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://ltrminicab.com/stansted-taxi/stansted-to-catford-taxi/#service",
+      "name": "Stansted Airport to Catford SE6 Minicab Transfer",
+      "provider": {
+        "@id": "https://ltrminicab.com/#localbusiness"
+      },
+      "serviceType": "Airport Minicab Transfer",
+      "areaServed": {
+        "@type": "Place",
+        "name": "Catford, London SE6"
+      },
+      "description": "Fixed fare private hire minicab transfer from Stansted Airport to Catford SE6 and surrounding areas including Catford Broadway, Bellingham, Hither Green, Rushey Green, Lewisham, and Downham.",
+      "offers": {
+        "@type": "Offer",
+        "price": "86",
+        "priceCurrency": "GBP",
+        "description": "Saloon car transfer from Stansted Airport to Catford SE6"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ltrminicab.com/stansted-taxi/stansted-to-catford-taxi/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a minicab from Stansted Airport to Catford SE6 cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A saloon car transfer from Stansted Airport to Catford SE6 starts from £86 with LTR Minicab. This is a fixed fare locked in at the time of booking with no meter charges or surge pricing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the quickest way to get from Stansted Airport to Catford?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A pre-booked private minicab is the fastest and most convenient option. The direct route via the M11 and A12 takes approximately 55 minutes to 1 hour 25 minutes and avoids the multiple train changes needed on public transport."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which parts of Catford SE6 do you cover for Stansted transfers?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We cover all addresses within Catford SE6 including Catford Broadway, Rushey Green, Catford Bridge, Sangley Road, Canadian Avenue, and nearby areas such as Bellingham, Hither Green, Lewisham, Downham, Grove Park, and Ladywell."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book both legs of my journey at the same time?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, you can book your Stansted to Catford arrival transfer and your Catford to Stansted departure transfer together in a single reservation. Both journeys come with separate fixed fares confirmed upfront."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will my driver be at Stansted if my plane lands late?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we track every Stansted flight using live data. If your flight is delayed, your driver's schedule is adjusted automatically and you still receive 45 minutes of complimentary waiting time after landing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What vehicle options do you have for the Stansted to Catford route?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We offer saloon cars, executive Mercedes E Class vehicles, estates, MPVs for 5 to 7 passengers, executive MPVs, and 8-seater group transfer vehicles on the Stansted to Catford SE6 route."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a meet and greet at Stansted included in the fare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, every Stansted Airport to Catford booking includes a complimentary meet and greet. Your driver waits inside the arrivals hall with a personalised name board and helps with your luggage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I cancel my Stansted to Catford transfer without losing money?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, cancel at least 12 hours before your scheduled pickup and you receive a full refund with no charges. Contact our support team to make any changes to your booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you have baby seats available for the journey to Catford?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we provide infant seats, child seats, and booster seats on request at no extra cost. Add your child seat requirement when placing your booking and we will have it ready in the vehicle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a student fare for the Stansted to Catford minicab?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, students get 15% off their Stansted Airport to Catford SE6 transfer. Provide a valid student ID or university confirmation when booking to receive the discounted rate."
+          }
+        }
+      ]
+    }
+  ]
+}
