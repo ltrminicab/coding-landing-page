@@ -1,0 +1,234 @@
+{
+  "page": {
+    "title": "Stansted Airport to Southall Minicab | Fixed Fare Taxi UB1 | LTR Minicab",
+    "slug": "stansted-airport-to-southall-minicab-transfers",
+    "meta_description": "Book a fixed fare Stansted Airport to Southall UB1 minicab with LTR Minicab. Direct private taxi transfer, 24/7 availability, flight tracking, and meet & greet included. From £97.",
+    "meta_keywords": "Stansted to Southall taxi, Stansted Airport to Southall minicab, Southall UB1 airport transfer, cheap taxi Stansted to Southall, Stansted to Ealing taxi, Stansted to Norwood Green taxi, private hire Stansted to Southall, fixed fare Stansted Southall",
+    "canonical_url": "https://ltrminicab.com/stansted-taxi/stansted-to-southall-taxi/",
+    "og_title": "Stansted Airport to Southall Minicab | Fixed Fare from £97 | LTR Minicab",
+    "og_description": "Pre-book a direct Stansted Airport to Southall UB1 taxi with LTR Minicab. Fixed fares, professional drivers, free meet & greet, and 45 minutes free waiting at Stansted.",
+    "og_image": "https://ltrminicab.com/wp-content/uploads/2026/06/stansted-airport-to-southall-minicab.webp",
+    "schema_type": "TaxiService"
+  },
+  "area": {
+    "name": "Southall",
+    "postcode": "UB1",
+    "borough": "London Borough of Ealing",
+    "region": "West London",
+    "county": "Greater London",
+    "country": "England"
+  },
+  "route": {
+    "origin": "Stansted Airport",
+    "destination": "Southall UB1",
+    "distance_miles": 44,
+    "distance_km": 71,
+    "journey_time_min": "55 minutes",
+    "journey_time_max": "1 hour 25 minutes",
+    "primary_roads": ["M11", "M25", "A40", "A312"],
+    "map_embed_url": "https://www.google.com/maps?q=Stansted+Airport+to+Southall+UB1&output=embed"
+  },
+  "pricing": {
+    "currency": "GBP",
+    "stansted_to_southall": {
+      "saloon": 97,
+      "executive": 128,
+      "estate": 108,
+      "mpv5": 139,
+      "mpv6": 164,
+      "mpv7": 188,
+      "exec_mpv7": 230,
+      "mpv8": 258
+    },
+    "southall_to_stansted": {
+      "saloon": 105,
+      "executive": 138,
+      "estate": 117,
+      "mpv5": 150,
+      "mpv6": 177,
+      "mpv7": 203,
+      "exec_mpv7": 248,
+      "mpv8": 279
+    },
+    "student_discount_percent": 15,
+    "student_saloon_from": 82
+  },
+  "sub_areas": [
+    {
+      "name": "Southall Broadway",
+      "postcode": "UB1",
+      "slug": "stansted-to-southall-taxi"
+    },
+    {
+      "name": "Norwood Green",
+      "postcode": "UB2",
+      "slug": "stansted-to-norwood-green-taxi"
+    },
+    {
+      "name": "Dormers Wells",
+      "postcode": "UB1",
+      "slug": "stansted-to-dormers-wells-taxi"
+    },
+    {
+      "name": "Hanwell",
+      "postcode": "W7",
+      "slug": "stansted-to-hanwell-taxi"
+    },
+    {
+      "name": "Greenford",
+      "postcode": "UB6",
+      "slug": "stansted-to-greenford-taxi"
+    },
+    {
+      "name": "Heston",
+      "postcode": "TW5",
+      "slug": "stansted-to-heston-taxi"
+    },
+    {
+      "name": "Hounslow",
+      "postcode": "TW3",
+      "slug": "stansted-to-hounslow-taxi"
+    },
+    {
+      "name": "Ealing",
+      "postcode": "W5",
+      "slug": "stansted-to-ealing-taxi"
+    },
+    {
+      "name": "Hayes",
+      "postcode": "UB3",
+      "slug": "stansted-to-hayes-taxi"
+    },
+    {
+      "name": "Osterley",
+      "postcode": "TW7",
+      "slug": "stansted-to-osterley-taxi"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "London Marriott West India",
+      "url": "https://ltrminicab.com/london-hotel-transfers/london-marriott-west-india-quay-docklands-minicab-transfers/"
+    },
+    {
+      "name": "Marriott Grosvenor Square",
+      "url": "https://ltrminicab.com/london-hotel-transfers/marriott-grosvenor-square-mayfair-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Bankside",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-bankside-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Hyde Park",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-hyde-park-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Kensington",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-kensington-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Wembley",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-wembley-minicab-transfers/"
+    },
+    {
+      "name": "Hampton by Hilton City",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hampton-by-hilton-london-city-aldgate-minicab-transfers/"
+    },
+    {
+      "name": "DoubleTree Hyde Park",
+      "url": "https://ltrminicab.com/london-hotel-transfers/doubletree-by-hilton-london-hyde-park-minicab-transfers/"
+    },
+    {
+      "name": "DoubleTree Docklands",
+      "url": "https://ltrminicab.com/london-hotel-transfers/doubletree-by-hilton-london-docklands-riverside-minicab-transfers/"
+    },
+    {
+      "name": "Holiday Inn Whitechapel",
+      "url": "https://ltrminicab.com/london-hotel-transfers/holiday-inn-whitechapel-minicab-transfers/"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Bolton",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bolton/"
+    },
+    {
+      "name": "West Bromwich",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-west-bromwich/"
+    },
+    {
+      "name": "Stockport",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-stockport/"
+    },
+    {
+      "name": "Slough",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-slough/"
+    },
+    {
+      "name": "Gloucester",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-gloucester/"
+    },
+    {
+      "name": "Newport",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-newport/"
+    },
+    {
+      "name": "Rotherham",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-rotherham/"
+    },
+    {
+      "name": "Mendip",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-mendip/"
+    },
+    {
+      "name": "Dagenham",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-dagenham/"
+    },
+    {
+      "name": "Crawley",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-crawley/"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much does a taxi from Stansted Airport to Southall cost?",
+      "answer": "A saloon car transfer from Stansted Airport to Southall UB1 with LTR Minicab starts from £97. This is a fixed fare locked in when you book with no surge charges, tolls, or hidden fees added on the day of travel."
+    },
+    {
+      "question": "How long is the journey from Stansted Airport to Southall?",
+      "answer": "The drive from Stansted Airport to Southall typically takes between 55 minutes and 1 hour 25 minutes depending on traffic conditions, especially along the M25 and A40 corridor. Our drivers use live navigation to select the quickest route available."
+    },
+    {
+      "question": "Is it cheaper to take the Elizabeth line from Stansted to Southall?",
+      "answer": "The Elizabeth line does not run directly from Stansted. You would need the Stansted Express to Liverpool Street, then transfer to the Elizabeth line to Southall, taking around two hours with luggage. A pre-booked minicab is direct, door to door, and takes roughly half the time."
+    },
+    {
+      "question": "Do you pick up from addresses on Southall Broadway?",
+      "answer": "Yes, we collect from all addresses across Southall including Southall Broadway, The Green, Lady Margaret Road, and surrounding residential streets. Simply enter your exact pickup address when booking and your driver will come directly to you."
+    },
+    {
+      "question": "Can I book a return transfer from Southall to Stansted Airport?",
+      "answer": "Yes, we offer return transfers from Southall UB1 to Stansted Airport at competitive fixed rates. Your driver will collect you from your Southall address and take you directly to Stansted with plenty of time for check in and security."
+    },
+    {
+      "question": "Do you have large vehicles for families travelling from Stansted to Southall?",
+      "answer": "Yes, we offer MPV 5, MPV 6, MPV 7, executive MPV 7, and MPV 8 vehicles for families and groups of up to 8 passengers on the Stansted to Southall route. All vehicles include generous luggage space and fixed fares confirmed at booking."
+    },
+    {
+      "question": "How close is Southall to Heathrow Airport?",
+      "answer": "Southall is only about 4 miles from Heathrow Airport. However, if you are arriving at Stansted on the northeast side of London, you need to cross the entire city, making a direct pre-booked minicab the most practical and comfortable option."
+    },
+    {
+      "question": "Do you cover Norwood Green, Hanwell, and Greenford as well?",
+      "answer": "Yes, we serve all addresses in and around Southall including Norwood Green, Dormers Wells, Hanwell, Greenford, Heston, Hounslow, Ealing, Hayes, and Osterley. Your fare is based on the exact drop off address you provide when booking."
+    },
+    {
+      "question": "What happens if my flight from Stansted is delayed?",
+      "answer": "We track all incoming flights in real time. If your flight is delayed, your driver's arrival time is automatically adjusted to match your actual landing time. There is no additional charge for flight delays and you still receive 45 minutes of free waiting time after landing."
+    },
+    {
+      "question": "Can I book a Stansted to Southall taxi for late night or weekend travel?",
+      "answer": "Yes, our Stansted to Southall transfer service runs 24 hours a day, seven days a week including bank holidays. There are no additional charges for late night or weekend bookings and your fixed fare remains the same regardless of when you travel."
+    }
+  ]
+}
