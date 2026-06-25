@@ -1,0 +1,234 @@
+{
+  "page": {
+    "title": "Stansted Airport to Watford Minicab | Fixed Fare Taxi WD17 | LTR Minicab",
+    "slug": "stansted-airport-to-watford-minicab-transfers",
+    "meta_description": "Book a fixed fare Stansted Airport to Watford WD17 minicab with LTR Minicab. Direct private taxi transfer, 24/7 availability, flight tracking, and meet & greet included. From £90.",
+    "meta_keywords": "Stansted to Watford taxi, Stansted Airport to Watford minicab, Watford WD17 airport transfer, cheap taxi Stansted to Watford, Stansted to Bushey taxi, Stansted to Cassiobury taxi, private hire Stansted to Watford, fixed fare Stansted Watford",
+    "canonical_url": "https://ltrminicab.com/stansted-taxi/stansted-to-watford-taxi/",
+    "og_title": "Stansted Airport to Watford Minicab | Fixed Fare from £90 | LTR Minicab",
+    "og_description": "Pre-book a direct Stansted Airport to Watford WD17 taxi with LTR Minicab. Fixed fares, professional drivers, free meet & greet, and 45 minutes free waiting at Stansted.",
+    "og_image": "https://ltrminicab.com/wp-content/uploads/2026/06/stansted-airport-to-watford-minicab.webp",
+    "schema_type": "TaxiService"
+  },
+  "area": {
+    "name": "Watford",
+    "postcode": "WD17",
+    "borough": "Borough of Watford",
+    "region": "Southwest Hertfordshire",
+    "county": "Hertfordshire",
+    "country": "England"
+  },
+  "route": {
+    "origin": "Stansted Airport",
+    "destination": "Watford WD17",
+    "distance_miles": 35,
+    "distance_km": 56,
+    "journey_time_min": "50 minutes",
+    "journey_time_max": "1 hour 20 minutes",
+    "primary_roads": ["M11", "M25", "A41"],
+    "map_embed_url": "https://www.google.com/maps?q=Stansted+Airport+to+Watford+WD17&output=embed"
+  },
+  "pricing": {
+    "currency": "GBP",
+    "stansted_to_watford": {
+      "saloon": 90,
+      "executive": 119,
+      "estate": 100,
+      "mpv5": 129,
+      "mpv6": 152,
+      "mpv7": 175,
+      "exec_mpv7": 213,
+      "mpv8": 239
+    },
+    "watford_to_stansted": {
+      "saloon": 97,
+      "executive": 128,
+      "estate": 108,
+      "mpv5": 139,
+      "mpv6": 164,
+      "mpv7": 189,
+      "exec_mpv7": 230,
+      "mpv8": 258
+    },
+    "student_discount_percent": 15,
+    "student_saloon_from": 77
+  },
+  "sub_areas": [
+    {
+      "name": "Watford Town Centre",
+      "postcode": "WD17",
+      "slug": "stansted-to-watford-taxi"
+    },
+    {
+      "name": "Bushey",
+      "postcode": "WD23",
+      "slug": "stansted-to-bushey-taxi"
+    },
+    {
+      "name": "Oxhey",
+      "postcode": "WD19",
+      "slug": "stansted-to-oxhey-taxi"
+    },
+    {
+      "name": "Garston",
+      "postcode": "WD25",
+      "slug": "stansted-to-garston-taxi"
+    },
+    {
+      "name": "Croxley Green",
+      "postcode": "WD3",
+      "slug": "stansted-to-croxley-green-taxi"
+    },
+    {
+      "name": "Abbots Langley",
+      "postcode": "WD5",
+      "slug": "stansted-to-abbots-langley-taxi"
+    },
+    {
+      "name": "Rickmansworth",
+      "postcode": "WD3",
+      "slug": "stansted-to-rickmansworth-taxi"
+    },
+    {
+      "name": "North Watford",
+      "postcode": "WD24",
+      "slug": "stansted-to-north-watford-taxi"
+    },
+    {
+      "name": "Leavesden",
+      "postcode": "WD25",
+      "slug": "stansted-to-leavesden-taxi"
+    },
+    {
+      "name": "Carpenders Park",
+      "postcode": "WD19",
+      "slug": "stansted-to-carpenders-park-taxi"
+    }
+  ],
+  "hotels": [
+    {
+      "name": "London Marriott West India",
+      "url": "https://ltrminicab.com/london-hotel-transfers/london-marriott-west-india-quay-docklands-minicab-transfers/"
+    },
+    {
+      "name": "Marriott Grosvenor Square",
+      "url": "https://ltrminicab.com/london-hotel-transfers/marriott-grosvenor-square-mayfair-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Bankside",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-bankside-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Hyde Park",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-hyde-park-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Kensington",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-kensington-minicab-transfers/"
+    },
+    {
+      "name": "Hilton London Wembley",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hilton-london-wembley-minicab-transfers/"
+    },
+    {
+      "name": "Hampton by Hilton City",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hampton-by-hilton-london-city-aldgate-minicab-transfers/"
+    },
+    {
+      "name": "DoubleTree Hyde Park",
+      "url": "https://ltrminicab.com/london-hotel-transfers/doubletree-by-hilton-london-hyde-park-minicab-transfers/"
+    },
+    {
+      "name": "DoubleTree Docklands",
+      "url": "https://ltrminicab.com/london-hotel-transfers/doubletree-by-hilton-london-docklands-riverside-minicab-transfers/"
+    },
+    {
+      "name": "Holiday Inn Whitechapel",
+      "url": "https://ltrminicab.com/london-hotel-transfers/holiday-inn-whitechapel-minicab-transfers/"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Bolton",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bolton/"
+    },
+    {
+      "name": "West Bromwich",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-west-bromwich/"
+    },
+    {
+      "name": "Stockport",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-stockport/"
+    },
+    {
+      "name": "Slough",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-slough/"
+    },
+    {
+      "name": "Gloucester",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-gloucester/"
+    },
+    {
+      "name": "Newport",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-newport/"
+    },
+    {
+      "name": "Rotherham",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-rotherham/"
+    },
+    {
+      "name": "Mendip",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-mendip/"
+    },
+    {
+      "name": "Dagenham",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-dagenham/"
+    },
+    {
+      "name": "Crawley",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-crawley/"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the fixed fare for a taxi from Stansted Airport to Watford?",
+      "answer": "A saloon car transfer from Stansted Airport to Watford WD17 with LTR Minicab starts from £90. This is a fixed fare locked in at the time of booking with no surge pricing, no tolls, and no hidden extras on the day of travel."
+    },
+    {
+      "question": "How long does the journey from Stansted to Watford take by car?",
+      "answer": "The drive from Stansted Airport to Watford typically takes between 50 minutes and 1 hour 20 minutes depending on traffic, particularly on the M25 between junctions 25 and 20. Our drivers use live traffic data to find the fastest route available."
+    },
+    {
+      "question": "Which roads does the driver use from Stansted Airport to Watford?",
+      "answer": "The typical route follows the M11 southbound to the M25 westbound, then exits at junction 19 or 20 for the A41 into Watford. If the M25 is congested, our drivers may take alternative routes via the A10 and A41 through Hertfordshire."
+    },
+    {
+      "question": "Can I book a transfer from Watford to Stansted Airport as well?",
+      "answer": "Yes, we offer return transfers from Watford WD17 to Stansted Airport at competitive fixed rates. Your driver will collect you from your Watford address and drive you directly to Stansted with plenty of time for check in and security."
+    },
+    {
+      "question": "Do you drop off at Warner Bros. Studio Tour in Leavesden?",
+      "answer": "Yes, Warner Bros. Studio Tour Leavesden is within the Watford area and we cover it as part of our Stansted to Watford transfer service. Simply enter the studio address when booking and your driver will take you directly there."
+    },
+    {
+      "question": "Do you cover Bushey, Oxhey, and Croxley Green from Stansted?",
+      "answer": "Yes, we serve all addresses in and around Watford including Bushey, Oxhey, Garston, Croxley Green, Abbots Langley, Rickmansworth, North Watford, Leavesden, and Carpenders Park. Your fare is calculated from the exact drop off address you provide."
+    },
+    {
+      "question": "Are group vehicles available for the Stansted to Watford route?",
+      "answer": "Yes, we have MPV 5, MPV 6, MPV 7, executive MPV 7, and MPV 8 vehicles for groups of up to 8 passengers on the Stansted to Watford route. All group vehicles come with generous luggage capacity and fixed fares confirmed at the time of booking."
+    },
+    {
+      "question": "Is Watford closer to Stansted or Luton Airport?",
+      "answer": "Watford is closer to Luton Airport at roughly 15 miles, while Stansted is around 35 miles away. However, many international routes operate from Stansted, so a direct pre-booked minicab from Stansted to Watford avoids the hassle of multiple train connections."
+    },
+    {
+      "question": "What if my Stansted flight lands late at night?",
+      "answer": "Our service operates 24 hours a day including late night and early morning transfers. We track your flight live so your driver is at the terminal when you land, regardless of delays. Your fixed fare stays the same no matter what time you travel."
+    },
+    {
+      "question": "Can I get dropped at Watford Junction station instead of a home address?",
+      "answer": "Yes, we can drop you at Watford Junction, Watford High Street station, or any other location in the Watford area. Simply enter the station address as your destination when booking and your driver will take you straight there from Stansted."
+    }
+  ]
+}
