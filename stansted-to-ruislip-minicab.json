@@ -1,0 +1,145 @@
+{
+  "page": {
+    "area": "Ruislip",
+    "postcode": "HA4",
+    "slug": "stansted-to-ruislip-minicab",
+    "title": "Stansted Airport to Ruislip HA4 Minicab | Fixed Fare Taxi | LTR Minicab",
+    "meta_description": "Book a fixed fare minicab from Stansted Airport to Ruislip HA4. Professional drivers, flight tracking, free meet and greet, and 24/7 availability. Reserve online now.",
+    "canonical_url": "https://ltrminicab.com/stansted-taxi/stansted-to-ruislip-taxi/",
+    "og_title": "Stansted Airport to Ruislip HA4 Minicab | Fixed Fare Transfer",
+    "og_description": "Pre-book your Stansted Airport to Ruislip HA4 taxi with LTR Minicab. Fixed fares, meet and greet, flight monitoring, and door to door service.",
+    "og_image": "https://ltrminicab.com/wp-content/uploads/2026/06/stansted-airport-london-day-hire.webp"
+  },
+  "route": {
+    "from": "Stansted Airport",
+    "to": "Ruislip HA4",
+    "distance_miles": 48,
+    "distance_km": 77,
+    "journey_time_min": 65,
+    "journey_time_max": 95,
+    "primary_route": "M11, M25, A40"
+  },
+  "pricing": {
+    "stansted_to_ruislip": {
+      "saloon": 98,
+      "executive": 129,
+      "estate": 109,
+      "mpv_5": 140,
+      "mpv_6": 166,
+      "mpv_7": 191,
+      "exec_mpv_7": 232,
+      "mpv_8": 260
+    },
+    "ruislip_to_stansted": {
+      "saloon": 106,
+      "executive": 140,
+      "estate": 118,
+      "mpv_5": 151,
+      "mpv_6": 179,
+      "mpv_7": 206,
+      "exec_mpv_7": 251,
+      "mpv_8": 281
+    },
+    "student_discount_percent": 15,
+    "student_saloon_from": 83
+  },
+  "local_areas": [
+    "Ruislip Manor",
+    "Ruislip Gardens",
+    "Ruislip Common",
+    "South Ruislip",
+    "Eastcote",
+    "Ickenham",
+    "Northwood Hills",
+    "Northwood",
+    "West Ruislip",
+    "Uxbridge"
+  ],
+  "local_streets": [
+    "High Street Ruislip",
+    "Victoria Road",
+    "Bury Street",
+    "Ickenham Road",
+    "West End Road",
+    "Pembroke Road"
+  ],
+  "nearby_area_links": [
+    {"name": "Ruislip HA4 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-ruislip-taxi/"},
+    {"name": "Ruislip Manor HA4 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-ruislip-manor-taxi/"},
+    {"name": "South Ruislip HA4 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-south-ruislip-taxi/"},
+    {"name": "Eastcote HA5 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-eastcote-taxi/"},
+    {"name": "Ickenham UB10 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-ickenham-taxi/"},
+    {"name": "Northwood Hills HA6 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-northwood-hills-taxi/"},
+    {"name": "Northwood HA6 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-northwood-taxi/"},
+    {"name": "West Ruislip HA4 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-west-ruislip-taxi/"},
+    {"name": "Uxbridge UB8 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-uxbridge-taxi/"},
+    {"name": "Ruislip Gardens HA4 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-ruislip-gardens-taxi/"},
+    {"name": "Pinner HA5 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-pinner-taxi/"}
+  ],
+  "hotel_links": [
+    {"name": "Premier Inn Tower Bridge", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-tower-bridge-bermondsey-minicab-transfers/"},
+    {"name": "Premier Inn Victoria", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-victoria-minicab-transfers/"},
+    {"name": "Premier Inn Kensington", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-kensington-earls-court-minicab-transfers/"},
+    {"name": "Premier Inn Euston", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-euston-minicab-transfers/"},
+    {"name": "Hub Premier Inn Shoreditch", "url": "https://ltrminicab.com/london-hotel-transfers/hub-by-premier-inn-shoreditch-minicab-transfers/"},
+    {"name": "Travelodge Central City Rd", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-central-city-road-minicab-transfers/"},
+    {"name": "Travelodge Finsbury Park", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-finsbury-park-minicab-transfers/"},
+    {"name": "Travelodge Marylebone", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-marylebone-minicab-transfers/"},
+    {"name": "Travelodge Vauxhall", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-vauxhall-minicab-transfers/"},
+    {"name": "Ibis Budget Heathrow", "url": "https://ltrminicab.com/london-hotel-transfers/ibis-budget-heathrow-minicab-transfers/"}
+  ],
+  "city_links": [
+    {"name": "Birmingham Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/reliable-minicab-service-in-birmingham/"},
+    {"name": "London Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-london/"},
+    {"name": "Manchester Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-manchester/"},
+    {"name": "Watford Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-watford/"},
+    {"name": "Reading Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-reading/"},
+    {"name": "Luton Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-luton-town/#"},
+    {"name": "Oxford Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-oxford/"},
+    {"name": "Cambridge Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-cambridge/"},
+    {"name": "Edinburgh Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-edinburgh/"},
+    {"name": "Brighton Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-brighton/"}
+  ],
+  "faqs": [
+    {
+      "question": "How do I get from Stansted Airport to Ruislip without public transport?",
+      "answer": "The easiest way is to pre-book a private minicab with LTR Minicab. Your driver meets you inside Stansted arrivals and takes you directly to your Ruislip HA4 address via the M11 and M25, typically in around 65 to 95 minutes."
+    },
+    {
+      "question": "What does a minicab from Stansted Airport to Ruislip HA4 cost?",
+      "answer": "A saloon car transfer from Stansted Airport to Ruislip HA4 starts from £98 with LTR Minicab. This is a fixed fare confirmed at the time of booking with no surge pricing or additional charges on the day."
+    },
+    {
+      "question": "Do you drop off at specific addresses in Ruislip HA4?",
+      "answer": "Yes, we provide door to door service to any address in Ruislip HA4 including High Street, Victoria Road, Bury Street, Ickenham Road, and all surrounding streets in Ruislip Manor, Ruislip Gardens, South Ruislip, and West Ruislip."
+    },
+    {
+      "question": "Can I travel from Ruislip to Stansted Airport with LTR Minicab?",
+      "answer": "Yes, we offer return transfers from Ruislip HA4 to Stansted Airport. Your driver collects you from your door at the agreed time and gets you to Stansted with plenty of time before your flight."
+    },
+    {
+      "question": "Are child seats available for the Stansted to Ruislip journey?",
+      "answer": "Yes, we provide rear-facing infant seats, forward-facing child seats, and booster seats on request. Please add your child seat requirement when making your booking so we can have it fitted and ready."
+    },
+    {
+      "question": "What vehicle options are available for this route?",
+      "answer": "We offer saloon cars, executive Mercedes E Class vehicles, estate cars with extra boot space, and MPVs seating 5, 6, 7, or 8 passengers. Choose the vehicle that best suits your group size and luggage."
+    },
+    {
+      "question": "Will the driver track my flight if it is delayed?",
+      "answer": "Yes, we monitor all Stansted flights in real time. If your arrival is delayed, your driver adjusts automatically and will still be waiting when you land. You also receive 45 minutes of free waiting time after landing."
+    },
+    {
+      "question": "Is there a discount for students flying into Stansted and going to Ruislip?",
+      "answer": "Yes, students get 15% off their Stansted to Ruislip transfer. Select the student option when booking and show a valid student ID to your driver on the day."
+    },
+    {
+      "question": "Can I book a Stansted to Ruislip taxi for a late night arrival?",
+      "answer": "Our service operates around the clock, 365 days a year. Whether your flight arrives at 2am or midday, we will have a driver ready at Stansted arrivals for your transfer to Ruislip HA4."
+    },
+    {
+      "question": "How far ahead should I book my Stansted to Ruislip transfer?",
+      "answer": "We recommend booking at least 24 hours in advance to guarantee your preferred vehicle. During busy travel periods such as school holidays and bank holidays, booking a few days ahead is advisable."
+    }
+  ]
+}
