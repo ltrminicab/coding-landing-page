@@ -1,0 +1,145 @@
+{
+  "page": {
+    "area": "Stanmore",
+    "postcode": "HA7",
+    "slug": "stansted-to-stanmore-minicab",
+    "title": "Stansted Airport to Stanmore HA7 Minicab | Fixed Fare Taxi | LTR Minicab",
+    "meta_description": "Book a fixed fare minicab from Stansted Airport to Stanmore HA7. Experienced drivers, live flight tracking, free meet and greet, 24/7 availability. Reserve online.",
+    "canonical_url": "https://ltrminicab.com/stansted-taxi/stansted-to-stanmore-taxi/",
+    "og_title": "Stansted Airport to Stanmore HA7 Minicab | Pre-Booked Fixed Fare",
+    "og_description": "Pre-book your Stansted Airport to Stanmore HA7 minicab with LTR Minicab. Fixed fares, arrivals meet and greet, flight monitoring, and direct door to door service.",
+    "og_image": "https://ltrminicab.com/wp-content/uploads/2026/06/stansted-airport-london-day-hire.webp"
+  },
+  "route": {
+    "from": "Stansted Airport",
+    "to": "Stanmore HA7",
+    "distance_miles": 47,
+    "distance_km": 76,
+    "journey_time_min": 60,
+    "journey_time_max": 95,
+    "primary_route": "M11, M25, A41"
+  },
+  "pricing": {
+    "stansted_to_stanmore": {
+      "saloon": 96,
+      "executive": 127,
+      "estate": 107,
+      "mpv_5": 137,
+      "mpv_6": 163,
+      "mpv_7": 187,
+      "exec_mpv_7": 227,
+      "mpv_8": 255
+    },
+    "stanmore_to_stansted": {
+      "saloon": 104,
+      "executive": 137,
+      "estate": 116,
+      "mpv_5": 148,
+      "mpv_6": 176,
+      "mpv_7": 202,
+      "exec_mpv_7": 245,
+      "mpv_8": 276
+    },
+    "student_discount_percent": 15,
+    "student_saloon_from": 82
+  },
+  "local_areas": [
+    "Stanmore Hill",
+    "Great Stanmore",
+    "Little Stanmore",
+    "Canons Park",
+    "Whitchurch",
+    "Edgware",
+    "Queensbury",
+    "Belmont",
+    "Kenton",
+    "Wealdstone"
+  ],
+  "local_streets": [
+    "The Broadway Stanmore",
+    "Church Road",
+    "Stanmore Hill",
+    "Old Church Lane",
+    "London Road",
+    "Uxbridge Road"
+  ],
+  "nearby_area_links": [
+    {"name": "Stanmore HA7 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-stanmore-taxi/"},
+    {"name": "Canons Park HA8 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-canons-park-taxi/"},
+    {"name": "Edgware HA8 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-edgware-taxi/"},
+    {"name": "Queensbury HA3 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-queensbury-taxi/"},
+    {"name": "Belmont HA3 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-belmont-taxi/"},
+    {"name": "Kenton HA3 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-kenton-taxi/"},
+    {"name": "Wealdstone HA3 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-wealdstone-taxi/"},
+    {"name": "Harrow on the Hill HA1 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-harrow-on-the-hill-taxi/"},
+    {"name": "Bushey WD23 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-bushey-taxi/"},
+    {"name": "Elstree WD6 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-elstree-taxi/"},
+    {"name": "Mill Hill NW7 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-mill-hill-taxi/"}
+  ],
+  "hotel_links": [
+    {"name": "Premier Inn Tower Bridge", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-tower-bridge-bermondsey-minicab-transfers/"},
+    {"name": "Premier Inn Victoria", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-victoria-minicab-transfers/"},
+    {"name": "Premier Inn Kensington", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-kensington-earls-court-minicab-transfers/"},
+    {"name": "Premier Inn Euston", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-euston-minicab-transfers/"},
+    {"name": "Hub Premier Inn Shoreditch", "url": "https://ltrminicab.com/london-hotel-transfers/hub-by-premier-inn-shoreditch-minicab-transfers/"},
+    {"name": "Travelodge Central City Rd", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-central-city-road-minicab-transfers/"},
+    {"name": "Travelodge Finsbury Park", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-finsbury-park-minicab-transfers/"},
+    {"name": "Travelodge Marylebone", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-marylebone-minicab-transfers/"},
+    {"name": "Travelodge Vauxhall", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-vauxhall-minicab-transfers/"},
+    {"name": "Ibis Budget Heathrow", "url": "https://ltrminicab.com/london-hotel-transfers/ibis-budget-heathrow-minicab-transfers/"}
+  ],
+  "city_links": [
+    {"name": "Birmingham Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/reliable-minicab-service-in-birmingham/"},
+    {"name": "London Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-london/"},
+    {"name": "Manchester Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-manchester/"},
+    {"name": "Watford Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-watford/"},
+    {"name": "Reading Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-reading/"},
+    {"name": "Luton Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-luton-town/#"},
+    {"name": "Oxford Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-oxford/"},
+    {"name": "Cambridge Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-cambridge/"},
+    {"name": "Edinburgh Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-edinburgh/"},
+    {"name": "Brighton Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-brighton/"}
+  ],
+  "faqs": [
+    {
+      "question": "What is the best way to get from Stansted Airport to Stanmore without taking the train?",
+      "answer": "A pre-booked private minicab with LTR Minicab is the most direct and comfortable option. Your driver collects you from Stansted arrivals and takes you straight to your Stanmore HA7 address via the M11 and M25 in approximately 60 to 95 minutes."
+    },
+    {
+      "question": "How much does a minicab from Stansted to Stanmore HA7 cost?",
+      "answer": "A saloon car transfer from Stansted Airport to Stanmore HA7 starts from £96 with LTR Minicab. The fare is fixed at booking and will not change regardless of traffic conditions or journey time on the day."
+    },
+    {
+      "question": "Which roads and postcodes in Stanmore does your service cover?",
+      "answer": "We deliver to every address in Stanmore HA7 including The Broadway, Church Road, Stanmore Hill, Old Church Lane, London Road, and Uxbridge Road. We also serve Canons Park, Whitchurch, Great Stanmore, Little Stanmore, and nearby Edgware."
+    },
+    {
+      "question": "Can you collect me from Stanmore and take me to Stansted Airport?",
+      "answer": "Yes. We provide return transfers from any Stanmore HA7 address to Stansted Airport at a fixed fare. Your driver arrives at your chosen time and factors in your flight schedule to ensure you reach the terminal comfortably."
+    },
+    {
+      "question": "Do your vehicles have space for golf clubs or oversized luggage?",
+      "answer": "Yes. Our estate cars and MPVs offer generous boot space for golf bags, pushchairs, oversized cases, and sports equipment. Mention any special luggage at the time of booking so we can allocate the right vehicle."
+    },
+    {
+      "question": "Is your Stansted to Stanmore service available on Christmas Day and bank holidays?",
+      "answer": "Yes. We operate 365 days a year including Christmas Day, New Year, Easter, and all bank holidays. Our drivers are available around the clock for Stansted Airport to Stanmore transfers at any time."
+    },
+    {
+      "question": "Can I share a ride with another passenger to reduce the cost?",
+      "answer": "Our service is private hire only, meaning your vehicle is exclusively for you and your party. This ensures a direct, comfortable journey without detours or shared stops."
+    },
+    {
+      "question": "Do you offer a discount for students travelling to Stanmore from Stansted?",
+      "answer": "Yes. Students receive 15% off the standard fare on Stansted to Stanmore transfers. Select the student discount when booking online and have your student ID ready for your driver."
+    },
+    {
+      "question": "What payment methods do you accept for this route?",
+      "answer": "You can pay online by debit or credit card when booking. We accept Visa, Mastercard, and American Express through our encrypted payment system. Cash payment can also be arranged on request."
+    },
+    {
+      "question": "Will my driver know the local roads around Stanmore and Edgware?",
+      "answer": "Yes. Our drivers are experienced with routes throughout the Harrow and Barnet boroughs and use live satellite navigation to find the fastest approach into Stanmore HA7 on the day of your journey."
+    }
+  ]
+}
