@@ -1,0 +1,145 @@
+{
+  "page": {
+    "area": "Edgware",
+    "postcode": "HA8",
+    "slug": "stansted-to-edgware-minicab",
+    "title": "Stansted Airport to Edgware HA8 Minicab | Fixed Fare Taxi | LTR Minicab",
+    "meta_description": "Pre-book a fixed fare minicab from Stansted Airport to Edgware HA8. Professional drivers, flight tracking, free meet and greet, 24/7 service. Reserve online now.",
+    "canonical_url": "https://ltrminicab.com/stansted-taxi/stansted-to-edgware-taxi/",
+    "og_title": "Stansted Airport to Edgware HA8 Minicab | Pre-Booked Fixed Fare Transfer",
+    "og_description": "Book your Stansted Airport to Edgware HA8 taxi with LTR Minicab. Fixed fares, meet and greet, live flight monitoring, and direct door to door private hire.",
+    "og_image": "https://ltrminicab.com/wp-content/uploads/2026/06/stansted-airport-london-day-hire.webp"
+  },
+  "route": {
+    "from": "Stansted Airport",
+    "to": "Edgware HA8",
+    "distance_miles": 44,
+    "distance_km": 71,
+    "journey_time_min": 55,
+    "journey_time_max": 90,
+    "primary_route": "M11, M25, A41"
+  },
+  "pricing": {
+    "stansted_to_edgware": {
+      "saloon": 92,
+      "executive": 121,
+      "estate": 102,
+      "mpv_5": 131,
+      "mpv_6": 156,
+      "mpv_7": 179,
+      "exec_mpv_7": 218,
+      "mpv_8": 244
+    },
+    "edgware_to_stansted": {
+      "saloon": 99,
+      "executive": 131,
+      "estate": 110,
+      "mpv_5": 142,
+      "mpv_6": 168,
+      "mpv_7": 194,
+      "exec_mpv_7": 235,
+      "mpv_8": 264
+    },
+    "student_discount_percent": 15,
+    "student_saloon_from": 78
+  },
+  "local_areas": [
+    "Burnt Oak",
+    "Canons Park",
+    "Colindale",
+    "Mill Hill",
+    "Queensbury",
+    "Stanmore",
+    "Hendon",
+    "Kingsbury",
+    "Little Stanmore",
+    "Broadfields"
+  ],
+  "local_streets": [
+    "Station Road Edgware",
+    "High Street Edgware",
+    "Hale Lane",
+    "Whitchurch Lane",
+    "Burnt Oak Broadway",
+    "Edgware Way"
+  ],
+  "nearby_area_links": [
+    {"name": "Edgware HA8 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-edgware-taxi/"},
+    {"name": "Burnt Oak HA8 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-burnt-oak-taxi/"},
+    {"name": "Canons Park HA8 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-canons-park-taxi/"},
+    {"name": "Colindale NW9 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-colindale-taxi/"},
+    {"name": "Mill Hill NW7 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-mill-hill-taxi/"},
+    {"name": "Queensbury HA3 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-queensbury-taxi/"},
+    {"name": "Stanmore HA7 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-stanmore-taxi/"},
+    {"name": "Hendon NW4 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-hendon-taxi/"},
+    {"name": "Kingsbury NW9 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-kingsbury-taxi/"},
+    {"name": "Elstree WD6 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-elstree-taxi/"},
+    {"name": "Borehamwood WD6 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-borehamwood-taxi/"}
+  ],
+  "hotel_links": [
+    {"name": "Premier Inn Tower Bridge", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-tower-bridge-bermondsey-minicab-transfers/"},
+    {"name": "Premier Inn Victoria", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-victoria-minicab-transfers/"},
+    {"name": "Premier Inn Kensington", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-kensington-earls-court-minicab-transfers/"},
+    {"name": "Premier Inn Euston", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-euston-minicab-transfers/"},
+    {"name": "Hub Premier Inn Shoreditch", "url": "https://ltrminicab.com/london-hotel-transfers/hub-by-premier-inn-shoreditch-minicab-transfers/"},
+    {"name": "Travelodge Central City Rd", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-central-city-road-minicab-transfers/"},
+    {"name": "Travelodge Finsbury Park", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-finsbury-park-minicab-transfers/"},
+    {"name": "Travelodge Marylebone", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-marylebone-minicab-transfers/"},
+    {"name": "Travelodge Vauxhall", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-vauxhall-minicab-transfers/"},
+    {"name": "Ibis Budget Heathrow", "url": "https://ltrminicab.com/london-hotel-transfers/ibis-budget-heathrow-minicab-transfers/"}
+  ],
+  "city_links": [
+    {"name": "Birmingham Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/reliable-minicab-service-in-birmingham/"},
+    {"name": "London Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-london/"},
+    {"name": "Manchester Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-manchester/"},
+    {"name": "Watford Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-watford/"},
+    {"name": "Reading Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-reading/"},
+    {"name": "Luton Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-luton-town/#"},
+    {"name": "Oxford Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-oxford/"},
+    {"name": "Cambridge Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-cambridge/"},
+    {"name": "Edinburgh Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-edinburgh/"},
+    {"name": "Brighton Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-brighton/"}
+  ],
+  "faqs": [
+    {
+      "question": "How long is the drive from Stansted Airport to Edgware by minicab?",
+      "answer": "A direct minicab from Stansted Airport to Edgware HA8 typically takes between 55 and 90 minutes depending on traffic. The route follows the M11 southbound and joins the M25 or A1 before approaching Edgware via the A41."
+    },
+    {
+      "question": "What is the fixed fare for a Stansted to Edgware HA8 taxi?",
+      "answer": "A saloon car transfer from Stansted Airport to Edgware HA8 starts from £92 with LTR Minicab. This price is locked in at booking with no meter, no surge pricing, and no extra charges on the day of travel."
+    },
+    {
+      "question": "Do you cover all streets and estates within the HA8 postcode?",
+      "answer": "Yes. We serve every address in Edgware HA8 including Station Road, High Street, Hale Lane, Whitchurch Lane, Burnt Oak Broadway, Edgware Way, and all residential estates across Burnt Oak, Canons Park, and Broadfields."
+    },
+    {
+      "question": "Can I book a return journey from Edgware to Stansted Airport?",
+      "answer": "Yes. We offer fixed fare return transfers from any Edgware HA8 address to Stansted Airport. Your driver collects you at the agreed time and plans the route around your departure flight schedule."
+    },
+    {
+      "question": "What size vehicles do you have for families travelling to Edgware?",
+      "answer": "We offer saloons for up to 4 passengers, estates with extra boot room, and MPVs seating 5, 6, 7, or 8 passengers. All vehicles have generous luggage space for suitcases, pushchairs, and travel bags."
+    },
+    {
+      "question": "Is there an additional charge for flights arriving late at night?",
+      "answer": "No. Our fixed fare applies regardless of your arrival time. Whether you land at Stansted at 1am or 1pm, the price you see at booking is the price you pay with no overnight surcharges."
+    },
+    {
+      "question": "How does the meet and greet work at Stansted arrivals?",
+      "answer": "Your driver waits inside the Stansted arrivals hall holding a name board with your name on it. Once you collect your luggage and walk through, they will greet you, help with your bags, and escort you to the vehicle."
+    },
+    {
+      "question": "Do students get a reduced rate on Stansted to Edgware transfers?",
+      "answer": "Yes. Students save 15% on all Stansted to Edgware minicab bookings. Simply select the student discount during checkout and show a valid student ID to your driver on the day of travel."
+    },
+    {
+      "question": "Can I amend my booking after it has been confirmed?",
+      "answer": "Yes. You can change your pickup time, destination address, or vehicle type by contacting our team at any time. Amendments are handled quickly and any fare difference is communicated before confirmation."
+    },
+    {
+      "question": "Do you cover nearby areas like Burnt Oak and Colindale from Stansted?",
+      "answer": "Yes. In addition to Edgware HA8, we serve Burnt Oak, Canons Park, Colindale, Mill Hill, Queensbury, Stanmore, Hendon, Kingsbury, Elstree, and Borehamwood with fixed fare Stansted Airport transfers."
+    }
+  ]
+}
