@@ -1,0 +1,145 @@
+{
+  "page": {
+    "area": "Pinner",
+    "postcode": "HA5",
+    "slug": "stansted-to-pinner-minicab",
+    "title": "Stansted Airport to Pinner HA5 Minicab | Fixed Fare Taxi | LTR Minicab",
+    "meta_description": "Pre-book a fixed fare minicab from Stansted Airport to Pinner HA5. Professional drivers, live flight tracking, free meet and greet, 24/7 service. Book online now.",
+    "canonical_url": "https://ltrminicab.com/stansted-taxi/stansted-to-pinner-taxi/",
+    "og_title": "Stansted Airport to Pinner HA5 Minicab | Fixed Fare Private Hire",
+    "og_description": "Reserve your Stansted Airport to Pinner HA5 taxi with LTR Minicab. Fixed fares, arrivals meet and greet, flight monitoring, and direct door to door transfers.",
+    "og_image": "https://ltrminicab.com/wp-content/uploads/2026/06/stansted-airport-london-day-hire.webp"
+  },
+  "route": {
+    "from": "Stansted Airport",
+    "to": "Pinner HA5",
+    "distance_miles": 50,
+    "distance_km": 80,
+    "journey_time_min": 65,
+    "journey_time_max": 100,
+    "primary_route": "M11, M25, A404"
+  },
+  "pricing": {
+    "stansted_to_pinner": {
+      "saloon": 101,
+      "executive": 133,
+      "estate": 112,
+      "mpv_5": 144,
+      "mpv_6": 171,
+      "mpv_7": 197,
+      "exec_mpv_7": 239,
+      "mpv_8": 268
+    },
+    "pinner_to_stansted": {
+      "saloon": 109,
+      "executive": 144,
+      "estate": 121,
+      "mpv_5": 156,
+      "mpv_6": 185,
+      "mpv_7": 213,
+      "exec_mpv_7": 258,
+      "mpv_8": 290
+    },
+    "student_discount_percent": 15,
+    "student_saloon_from": 86
+  },
+  "local_areas": [
+    "Pinner Green",
+    "Pinner Hill",
+    "Hatch End",
+    "Eastcote",
+    "North Harrow",
+    "Northwood",
+    "Northwood Hills",
+    "Rayners Lane",
+    "Headstone Lane",
+    "Carpenders Park"
+  ],
+  "local_streets": [
+    "High Street Pinner",
+    "Marsh Road",
+    "Pinner Road",
+    "Eastcote Road",
+    "Elm Park Road",
+    "Cannon Lane"
+  ],
+  "nearby_area_links": [
+    {"name": "Pinner HA5 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-pinner-taxi/"},
+    {"name": "Hatch End HA5 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-hatch-end-taxi/"},
+    {"name": "Eastcote HA5 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-eastcote-taxi/"},
+    {"name": "North Harrow HA2 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-north-harrow-taxi/"},
+    {"name": "Northwood HA6 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-northwood-taxi/"},
+    {"name": "Northwood Hills HA6 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-northwood-hills-taxi/"},
+    {"name": "Rayners Lane HA2 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-rayners-lane-taxi/"},
+    {"name": "Headstone Lane HA3 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-headstone-lane-taxi/"},
+    {"name": "Carpenders Park WD19 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-carpenders-park-taxi/"},
+    {"name": "Ruislip HA4 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-ruislip-taxi/"},
+    {"name": "Harrow on the Hill HA1 Taxi", "url": "https://ltrminicab.com/stansted-taxi/stansted-to-harrow-on-the-hill-taxi/"}
+  ],
+  "hotel_links": [
+    {"name": "Premier Inn Tower Bridge", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-tower-bridge-bermondsey-minicab-transfers/"},
+    {"name": "Premier Inn Victoria", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-victoria-minicab-transfers/"},
+    {"name": "Premier Inn Kensington", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-kensington-earls-court-minicab-transfers/"},
+    {"name": "Premier Inn Euston", "url": "https://ltrminicab.com/london-hotel-transfers/premier-inn-euston-minicab-transfers/"},
+    {"name": "Hub Premier Inn Shoreditch", "url": "https://ltrminicab.com/london-hotel-transfers/hub-by-premier-inn-shoreditch-minicab-transfers/"},
+    {"name": "Travelodge Central City Rd", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-central-city-road-minicab-transfers/"},
+    {"name": "Travelodge Finsbury Park", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-finsbury-park-minicab-transfers/"},
+    {"name": "Travelodge Marylebone", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-marylebone-minicab-transfers/"},
+    {"name": "Travelodge Vauxhall", "url": "https://ltrminicab.com/london-hotel-transfers/travelodge-vauxhall-minicab-transfers/"},
+    {"name": "Ibis Budget Heathrow", "url": "https://ltrminicab.com/london-hotel-transfers/ibis-budget-heathrow-minicab-transfers/"}
+  ],
+  "city_links": [
+    {"name": "Birmingham Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/reliable-minicab-service-in-birmingham/"},
+    {"name": "London Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-london/"},
+    {"name": "Manchester Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-manchester/"},
+    {"name": "Watford Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-watford/"},
+    {"name": "Reading Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-reading/"},
+    {"name": "Luton Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-luton-town/#"},
+    {"name": "Oxford Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-oxford/"},
+    {"name": "Cambridge Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-cambridge/"},
+    {"name": "Edinburgh Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-edinburgh/"},
+    {"name": "Brighton Minicab", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-brighton/"}
+  ],
+  "faqs": [
+    {
+      "question": "What is the quickest way to travel from Stansted Airport to Pinner?",
+      "answer": "A pre-booked private minicab is the fastest and most comfortable option. The direct route via the M11 and M25 takes approximately 65 to 100 minutes depending on traffic, avoiding all the train changes required on public transport."
+    },
+    {
+      "question": "How much is a taxi from Stansted Airport to Pinner HA5?",
+      "answer": "A saloon car transfer from Stansted Airport to Pinner HA5 starts from £101 with LTR Minicab. This is a confirmed fixed fare with no meter running, no surge charges, and no hidden fees on the day of travel."
+    },
+    {
+      "question": "Which parts of Pinner HA5 do your drivers cover?",
+      "answer": "We cover every address within Pinner HA5 including High Street, Marsh Road, Pinner Road, Eastcote Road, Elm Park Road, Cannon Lane, and nearby areas such as Pinner Green, Pinner Hill, Hatch End, Eastcote, and North Harrow."
+    },
+    {
+      "question": "Do you provide pickups from Pinner to Stansted Airport?",
+      "answer": "Yes. We collect from any Pinner HA5 address at your chosen time and drive you directly to Stansted Airport. Our drivers factor in your flight time and recommend a pickup window that gives you plenty of breathing room."
+    },
+    {
+      "question": "Can I request a baby seat for my Stansted to Pinner transfer?",
+      "answer": "Yes. We offer rear-facing infant carriers, forward-facing child seats, and booster seats on request. Add your requirement during booking and your driver will have it fitted and ready before collection."
+    },
+    {
+      "question": "What happens if there is heavy traffic on the M25 during my journey?",
+      "answer": "Your fare is fixed regardless of traffic or journey time. Our drivers use live navigation to find the fastest route available and will take alternative roads through Watford or Harrow if the M25 is congested."
+    },
+    {
+      "question": "Do you offer executive vehicles for Stansted to Pinner transfers?",
+      "answer": "Yes. Our executive Mercedes E Class is available for this route, ideal for business travellers or anyone who prefers a premium ride. The fare is confirmed upfront with no surprises."
+    },
+    {
+      "question": "Is there a student fare for Stansted Airport to Pinner?",
+      "answer": "Students receive 15% off the standard fare on all Stansted to Pinner transfers. Choose the student option at checkout and present a valid student ID to your driver when you meet."
+    },
+    {
+      "question": "Can I book a minicab from Stansted to Pinner for a very early morning flight arrival?",
+      "answer": "Absolutely. We operate 24 hours a day, 365 days a year. Whether your flight lands at 3am or 11pm, your driver will be at Stansted arrivals ready and waiting with a name board."
+    },
+    {
+      "question": "How many passengers can travel in one vehicle on this route?",
+      "answer": "Our saloon and executive cars seat up to 4 passengers. For larger groups we have MPVs carrying 5, 6, 7, or 8 passengers, all with generous boot space for suitcases and bags."
+    }
+  ]
+}
