@@ -1,0 +1,132 @@
+{
+  "page": "stansted-to-dagenham-rm9-minicab",
+  "area": "Dagenham",
+  "postcode": "RM9",
+  "borough": "London Borough of Barking and Dagenham",
+  "region": "East London",
+  "distance_miles": 28,
+  "distance_km": 45,
+  "journey_time_min": 45,
+  "journey_time_max": 65,
+  "route_via": "M11 and A12",
+  "local_areas": [
+    "Dagenham East",
+    "Dagenham Heathway",
+    "Becontree",
+    "Becontree Heath",
+    "Eastbrookend",
+    "Old Dagenham",
+    "South Hornchurch",
+    "Barking",
+    "Rush Green",
+    "Chadwell Heath"
+  ],
+  "nearby_postcodes": ["RM9", "RM8", "RM10", "RM7", "RM6", "IG11"],
+  "pricing": {
+    "stansted_to_dagenham": {
+      "saloon": 60,
+      "executive": 79,
+      "estate": 67,
+      "mpv_5": 86,
+      "mpv_6": 101,
+      "mpv_7": 116,
+      "exec_mpv_7": 142,
+      "mpv_8": 160
+    },
+    "dagenham_to_stansted": {
+      "saloon": 65,
+      "executive": 86,
+      "estate": 72,
+      "mpv_5": 93,
+      "mpv_6": 110,
+      "mpv_7": 126,
+      "exec_mpv_7": 154,
+      "mpv_8": 173
+    },
+    "student_rate_from": 51
+  },
+  "hotels": [
+    {
+      "name": "Hotel 55",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hotel-55-ealing-minicab-transfers/"
+    },
+    {
+      "name": "The Petersham",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-petersham-richmond-minicab-transfers/"
+    },
+    {
+      "name": "Richmond Hill Hotel",
+      "url": "https://ltrminicab.com/london-hotel-transfers/richmond-hill-hotel-minicab-transfers/"
+    },
+    {
+      "name": "The Lodge Hotel",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-lodge-hotel-putney-minicab-transfers/"
+    },
+    {
+      "name": "Dog and Fox",
+      "url": "https://ltrminicab.com/london-hotel-transfers/dog-and-fox-wimbledon-minicab-transfers/"
+    },
+    {
+      "name": "Hotel du Vin Wimbledon",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hotel-du-vin-wimbledon-minicab-transfers/"
+    },
+    {
+      "name": "Pelican London",
+      "url": "https://ltrminicab.com/london-hotel-transfers/pelican-london-hotel-tooting-minicab-transfers/"
+    },
+    {
+      "name": "The Tommyfield",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-tommyfield-hotel-kennington-minicab-transfers/"
+    },
+    {
+      "name": "Churchill Arms",
+      "url": "https://ltrminicab.com/london-hotel-transfers/churchill-arms-kensington-guest-rooms-minicab-transfers/"
+    },
+    {
+      "name": "The Clermont Victoria",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-clermont-victoria-minicab-transfers/"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Plymouth",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-plymouth/"
+    },
+    {
+      "name": "Derby",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-derby/"
+    },
+    {
+      "name": "Dudley",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-dudley/"
+    },
+    {
+      "name": "Northampton",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-northampton/"
+    },
+    {
+      "name": "Portsmouth",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-portsmouth/"
+    },
+    {
+      "name": "Blackpool",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-blackpool/"
+    },
+    {
+      "name": "Peterborough",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-peterborough/"
+    },
+    {
+      "name": "Telford",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-telford/"
+    },
+    {
+      "name": "Chelmsford",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-chelmsford/"
+    },
+    {
+      "name": "Eastbourne",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-eastbourne/"
+    }
+  ]
+}
