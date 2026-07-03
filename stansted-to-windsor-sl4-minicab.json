@@ -1,0 +1,132 @@
+{
+  "page": "stansted-to-windsor-sl4-minicab",
+  "area": "Windsor",
+  "postcode": "SL4",
+  "borough": "Royal Borough of Windsor and Maidenhead",
+  "region": "Berkshire",
+  "distance_miles": 58,
+  "distance_km": 93,
+  "journey_time_min": 65,
+  "journey_time_max": 95,
+  "route_via": "M11 and M25",
+  "local_areas": [
+    "Windsor Town Centre",
+    "Windsor Castle Area",
+    "Old Windsor",
+    "Clewer",
+    "Dedworth",
+    "Oakley Green",
+    "Datchet",
+    "Eton",
+    "Eton Wick",
+    "Wraysbury"
+  ],
+  "nearby_postcodes": ["SL4", "SL5", "TW19", "SL3", "SL6", "TW20"],
+  "pricing": {
+    "stansted_to_windsor": {
+      "saloon": 98,
+      "executive": 129,
+      "estate": 109,
+      "mpv_5": 140,
+      "mpv_6": 166,
+      "mpv_7": 190,
+      "exec_mpv_7": 232,
+      "mpv_8": 261
+    },
+    "windsor_to_stansted": {
+      "saloon": 106,
+      "executive": 139,
+      "estate": 118,
+      "mpv_5": 151,
+      "mpv_6": 179,
+      "mpv_7": 205,
+      "exec_mpv_7": 251,
+      "mpv_8": 282
+    },
+    "student_rate_from": 83
+  },
+  "hotels": [
+    {
+      "name": "The Clermont Charing Cross",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-clermont-charing-cross-minicab-transfers/"
+    },
+    {
+      "name": "The Tower Hotel",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-tower-hotel-tower-bridge-minicab-transfers/"
+    },
+    {
+      "name": "Thistle Trafalgar Square",
+      "url": "https://ltrminicab.com/london-hotel-transfers/thistle-trafalgar-square-west-end-minicab-transfers/"
+    },
+    {
+      "name": "Thistle Marble Arch",
+      "url": "https://ltrminicab.com/london-hotel-transfers/thistle-marble-arch-marylebone-minicab-transfers/"
+    },
+    {
+      "name": "Thistle Piccadilly",
+      "url": "https://ltrminicab.com/london-hotel-transfers/thistle-piccadilly-west-end-minicab-transfers/"
+    },
+    {
+      "name": "Amba Hotel Marble Arch",
+      "url": "https://ltrminicab.com/london-hotel-transfers/amba-hotel-marble-arch-oxford-street-minicab-transfers/"
+    },
+    {
+      "name": "Copthorne Tara Hotel",
+      "url": "https://ltrminicab.com/london-hotel-transfers/copthorne-tara-hotel-kensington-minicab-transfers/"
+    },
+    {
+      "name": "The Rembrandt",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-rembrandt-knightsbridge-minicab-transfers/"
+    },
+    {
+      "name": "The Rubens at the Palace",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-rubens-at-the-palace-victoria-minicab-transfers/"
+    },
+    {
+      "name": "Montague on the Gardens",
+      "url": "https://ltrminicab.com/london-hotel-transfers/montague-on-the-gardens-bloomsbury-minicab-transfers/"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Colchester",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-colchester/"
+    },
+    {
+      "name": "Glasgow",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-glasgow/"
+    },
+    {
+      "name": "Southampton",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-southampton/"
+    },
+    {
+      "name": "Norwich",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-norwich/"
+    },
+    {
+      "name": "Huddersfield",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-huddersfield/"
+    },
+    {
+      "name": "Ipswich",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-ipswich/"
+    },
+    {
+      "name": "Worcester",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-worcester/"
+    },
+    {
+      "name": "Harlow",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-harlow/"
+    },
+    {
+      "name": "Southport",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-southport/"
+    },
+    {
+      "name": "Bath",
+      "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bath/"
+    }
+  ]
+}
