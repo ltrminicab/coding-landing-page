@@ -1,0 +1,26 @@
+{
+  "cities": [
+    { "number": 31, "name": "Colchester", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-colchester/" },
+    { "number": 32, "name": "Glasgow", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-glasgow/" },
+    { "number": 33, "name": "Southampton", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-southampton/" },
+    { "number": 34, "name": "Norwich", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-norwich/" },
+    { "number": 35, "name": "Huddersfield", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-huddersfield/" },
+    { "number": 36, "name": "Ipswich", "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-ipswich/" },
+    { "name": "Worcester", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-worcester/" },
+    { "name": "Harlow", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-harlow/" },
+    { "name": "Southport", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-southport/" },
+    { "name": "Bath", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bath/" }
+  ],
+  "hotels": [
+    { "name": "The Clermont Charing Cross", "url": "https://ltrminicab.com/london-hotel-transfers/the-clermont-charing-cross-minicab-transfers/" },
+    { "name": "The Tower Hotel", "url": "https://ltrminicab.com/london-hotel-transfers/the-tower-hotel-tower-bridge-minicab-transfers/" },
+    { "name": "Thistle Trafalgar Square", "url": "https://ltrminicab.com/london-hotel-transfers/thistle-trafalgar-square-west-end-minicab-transfers/" },
+    { "name": "Thistle Marble Arch", "url": "https://ltrminicab.com/london-hotel-transfers/thistle-marble-arch-marylebone-minicab-transfers/" },
+    { "name": "Thistle Piccadilly", "url": "https://ltrminicab.com/london-hotel-transfers/thistle-piccadilly-west-end-minicab-transfers/" },
+    { "name": "Amba Hotel Marble Arch", "url": "https://ltrminicab.com/london-hotel-transfers/amba-hotel-marble-arch-oxford-street-minicab-transfers/" },
+    { "name": "Copthorne Tara Hotel", "url": "https://ltrminicab.com/london-hotel-transfers/copthorne-tara-hotel-kensington-minicab-transfers/" },
+    { "name": "The Rembrandt", "url": "https://ltrminicab.com/london-hotel-transfers/the-rembrandt-knightsbridge-minicab-transfers/" },
+    { "name": "The Rubens at the Palace", "url": "https://ltrminicab.com/london-hotel-transfers/the-rubens-at-the-palace-victoria-minicab-transfers/" },
+    { "name": "Montague on the Gardens", "url": "https://ltrminicab.com/london-hotel-transfers/montague-on-the-gardens-bloomsbury-minicab-transfers/" }
+  ]
+}
