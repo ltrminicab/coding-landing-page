@@ -1,0 +1,132 @@
+{
+  "page": "stansted-to-slough-sl1-minicab",
+  "area": "Slough",
+  "postcode": "SL1",
+  "borough": "Slough Borough Council",
+  "region": "Berkshire",
+  "distance_miles": 56,
+  "distance_km": 90,
+  "journey_time_min": 60,
+  "journey_time_max": 90,
+  "route_via": "M11 and M25",
+  "local_areas": [
+    "Slough Town Centre",
+    "Cippenham",
+    "Chalvey",
+    "Britwell",
+    "Langley",
+    "Colnbrook",
+    "Upton",
+    "Farnham Royal",
+    "Stoke Poges",
+    "Burnham"
+  ],
+  "nearby_postcodes": ["SL1", "SL2", "SL3", "SL0", "UB8", "SL4"],
+  "pricing": {
+    "stansted_to_slough": {
+      "saloon": 95,
+      "executive": 125,
+      "estate": 105,
+      "mpv_5": 136,
+      "mpv_6": 161,
+      "mpv_7": 184,
+      "exec_mpv_7": 225,
+      "mpv_8": 253
+    },
+    "slough_to_stansted": {
+      "saloon": 103,
+      "executive": 135,
+      "estate": 113,
+      "mpv_5": 147,
+      "mpv_6": 174,
+      "mpv_7": 199,
+      "exec_mpv_7": 243,
+      "mpv_8": 273
+    },
+    "student_rate_from": 81
+  },
+  "hotels": [
+    {
+      "name": "Hotel 55",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hotel-55-ealing-minicab-transfers/"
+    },
+    {
+      "name": "The Petersham",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-petersham-richmond-minicab-transfers/"
+    },
+    {
+      "name": "Richmond Hill Hotel",
+      "url": "https://ltrminicab.com/london-hotel-transfers/richmond-hill-hotel-minicab-transfers/"
+    },
+    {
+      "name": "The Lodge Hotel",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-lodge-hotel-putney-minicab-transfers/"
+    },
+    {
+      "name": "Dog and Fox",
+      "url": "https://ltrminicab.com/london-hotel-transfers/dog-and-fox-wimbledon-minicab-transfers/"
+    },
+    {
+      "name": "Hotel du Vin Wimbledon",
+      "url": "https://ltrminicab.com/london-hotel-transfers/hotel-du-vin-wimbledon-minicab-transfers/"
+    },
+    {
+      "name": "Pelican London",
+      "url": "https://ltrminicab.com/london-hotel-transfers/pelican-london-hotel-tooting-minicab-transfers/"
+    },
+    {
+      "name": "The Tommyfield",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-tommyfield-hotel-kennington-minicab-transfers/"
+    },
+    {
+      "name": "Churchill Arms",
+      "url": "https://ltrminicab.com/london-hotel-transfers/churchill-arms-kensington-guest-rooms-minicab-transfers/"
+    },
+    {
+      "name": "The Clermont Victoria",
+      "url": "https://ltrminicab.com/london-hotel-transfers/the-clermont-victoria-minicab-transfers/"
+    }
+  ],
+  "cities": [
+    {
+      "name": "Plymouth",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-plymouth/"
+    },
+    {
+      "name": "Derby",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-derby/"
+    },
+    {
+      "name": "Dudley",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-dudley/"
+    },
+    {
+      "name": "Northampton",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-northampton/"
+    },
+    {
+      "name": "Portsmouth",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-portsmouth/"
+    },
+    {
+      "name": "Blackpool",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-blackpool/"
+    },
+    {
+      "name": "Peterborough",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-peterborough/"
+    },
+    {
+      "name": "Telford",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-telford/"
+    },
+    {
+      "name": "Chelmsford",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-chelmsford/"
+    },
+    {
+      "name": "Eastbourne",
+      "url": "https://ltrminicab.com/minicab-service-in-london-and-major-cities/book-a-minicab-in-eastbourne/"
+    }
+  ]
+}
