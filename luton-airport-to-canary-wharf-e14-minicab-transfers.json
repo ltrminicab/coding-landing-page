@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the taxi fare from Luton Airport to Canary Wharf E14?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A saloon car transfer between Luton Airport and Canary Wharf E14 starts from £95 one way, with the exact fare confirmed and fixed at the time of your booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer meet and greet at Luton Airport arrivals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, your driver will be waiting in the arrivals hall with a name board, ready to help carry your luggage straight to the vehicle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which Canary Wharf postcodes and docklands areas do you cover?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We cover E14 5AB, E14 4QT, E14 5HQ, and E14 4AL, along with West India Quay, Heron Quays, South Quay, and the streets around the Isle of Dogs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long is the drive from Luton Airport to Canary Wharf?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most journeys take between 1 hour 5 minutes and 1 hour 40 minutes, depending on traffic on the M1 and through central London."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a return transfer from Canary Wharf back to Luton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, you can book both legs together or separately, and each fare stays fixed once your driver and pickup time are confirmed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide executive cars for Canary Wharf business meetings?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, our executive Mercedes fleet is available for corporate and VIP clients travelling to or from the Canary Wharf finance district."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is your Canary Wharf taxi service available at night and on weekends?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our Canary Wharf E14 service runs around the clock, so early morning departures, weekend trips, and late night arrivals are all covered."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if my Luton flight lands early or late?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We track your flight in real time and adjust your pickup automatically, so an early or late landing will not affect your booked fare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you have larger vehicles for teams travelling together?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we offer MPVs from 5 to 8 seats for teams and extra luggage, all priced and confirmed before your trip."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How close is Canary Wharf E14 to London City Airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "London City Airport is around 3 miles from Canary Wharf, usually a 10 to 15 minute drive depending on traffic through the Docklands."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Minicab Transfer",
+      "name": "Luton Airport to Canary Wharf E14 Minicab Transfer",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com/",
+        "telephone": "",
+        "priceRange": "££"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Canary Wharf E14"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport"
+        }
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Saloon",
+          "price": "95",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Canary Wharf E14, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Executive",
+          "price": "130",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Canary Wharf E14, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Estate",
+          "price": "110",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Canary Wharf E14, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 5",
+          "price": "140",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Canary Wharf E14, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 6",
+          "price": "165",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Canary Wharf E14, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 7",
+          "price": "190",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Canary Wharf E14, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Exec MPV 7",
+          "price": "230",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Canary Wharf E14, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 8",
+          "price": "260",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Canary Wharf E14, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Saloon Return",
+          "price": "105",
+          "priceCurrency": "GBP",
+          "description": "Canary Wharf E14 to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Executive Return",
+          "price": "140",
+          "priceCurrency": "GBP",
+          "description": "Canary Wharf E14 to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Estate Return",
+          "price": "120",
+          "priceCurrency": "GBP",
+          "description": "Canary Wharf E14 to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 5 Return",
+          "price": "150",
+          "priceCurrency": "GBP",
+          "description": "Canary Wharf E14 to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 6 Return",
+          "price": "175",
+          "priceCurrency": "GBP",
+          "description": "Canary Wharf E14 to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 7 Return",
+          "price": "205",
+          "priceCurrency": "GBP",
+          "description": "Canary Wharf E14 to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Exec MPV 7 Return",
+          "price": "245",
+          "priceCurrency": "GBP",
+          "description": "Canary Wharf E14 to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 8 Return",
+          "price": "280",
+          "priceCurrency": "GBP",
+          "description": "Canary Wharf E14 to Luton Airport, one way"
+        }
+      ]
+    }
+  ]
+}
