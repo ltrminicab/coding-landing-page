@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much is a taxi from Luton Airport to Whitechapel E1?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A saloon car transfer between Luton Airport and Whitechapel E1 starts from £85 one way, with the exact fare confirmed and fixed at the time of your booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will my driver meet me inside Luton Airport arrivals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, your driver will be waiting in the arrivals hall with a name board, ready to help carry your luggage straight to the vehicle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What postcodes and streets around Whitechapel E1 do you serve?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We cover E1 1BB, E1 1JX, E1 1DL, and E1 2AX, along with Aldgate East, Spitalfields, Brick Lane, and the streets bordering Stepney Green."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the trip from Luton Airport to Whitechapel take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most journeys take between 55 minutes and 1 hour 30 minutes, depending on traffic on the M1 and through central London."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you charge more for early morning airport pickups?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, your fare stays the same regardless of pickup time, with no early morning or late night surcharges added."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I request a specific vehicle type for a Whitechapel booking?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, simply choose your preferred saloon, executive, estate, or MPV option when you book, subject to availability."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the fare the same during rush hour traffic?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, your fare is fixed at booking and will not change because of traffic, road closures, or journey length on the day."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I do if I cannot find my driver at the airport?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Call the number provided in your booking confirmation and our team will direct you to your driver right away."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer transfers for hospital visits near the Royal London Hospital?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we regularly arrange transfers for patients and visitors travelling to and from the Royal London Hospital and nearby clinics."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How near is Whitechapel E1 to Brick Lane and Aldgate East station?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Brick Lane is a short 5 minute walk from Whitechapel, and Aldgate East station sits right on the edge of the neighbourhood."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Minicab Transfer",
+      "name": "Luton Airport to Whitechapel E1 Minicab Transfer",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com/",
+        "telephone": "",
+        "priceRange": "££"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Whitechapel E1"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport"
+        }
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Saloon",
+          "price": "85",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Whitechapel E1, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Executive",
+          "price": "115",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Whitechapel E1, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Estate",
+          "price": "98",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Whitechapel E1, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 5",
+          "price": "125",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Whitechapel E1, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 6",
+          "price": "148",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Whitechapel E1, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 7",
+          "price": "170",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Whitechapel E1, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Exec MPV 7",
+          "price": "205",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Whitechapel E1, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 8",
+          "price": "230",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to Whitechapel E1, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Saloon Return",
+          "price": "95",
+          "priceCurrency": "GBP",
+          "description": "Whitechapel E1 to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Executive Return",
+          "price": "125",
+          "priceCurrency": "GBP",
+          "description": "Whitechapel E1 to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Estate Return",
+          "price": "108",
+          "priceCurrency": "GBP",
+          "description": "Whitechapel E1 to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 5 Return",
+          "price": "135",
+          "priceCurrency": "GBP",
+          "description": "Whitechapel E1 to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 6 Return",
+          "price": "160",
+          "priceCurrency": "GBP",
+          "description": "Whitechapel E1 to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 7 Return",
+          "price": "185",
+          "priceCurrency": "GBP",
+          "description": "Whitechapel E1 to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Exec MPV 7 Return",
+          "price": "220",
+          "priceCurrency": "GBP",
+          "description": "Whitechapel E1 to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 8 Return",
+          "price": "250",
+          "priceCurrency": "GBP",
+          "description": "Whitechapel E1 to Luton Airport, one way"
+        }
+      ]
+    }
+  ]
+}
