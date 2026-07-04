@@ -1,0 +1,107 @@
+{
+  "page": "luton-airport-to-westminster-sw1h-minicab-transfers.html",
+  "route": {
+    "from": "Luton Airport",
+    "to": "Westminster SW1H",
+    "postcode": "SW1H",
+    "distance_miles": 34,
+    "distance_km": 55,
+    "journey_time": "55 minutes to 1 hour 30 minutes",
+    "congestion_charge_zone": true,
+    "ulez_zone": true,
+    "note": "Distance, time, and fares are estimates pending the confirmed SEO comparison price sheet. Congestion Charge and ULEZ fees are billed separately at cost."
+  },
+  "fares_gbp": {
+    "outbound": {
+      "route_label": "Luton Airport to Westminster SW1H",
+      "saloon": 85,
+      "executive": 115,
+      "estate": 98,
+      "mpv5": 125,
+      "mpv6": 148,
+      "mpv7": 170,
+      "exec_mpv7": 205,
+      "mpv8": 230
+    },
+    "return": {
+      "route_label": "Westminster SW1H to Luton Airport",
+      "saloon": 95,
+      "executive": 125,
+      "estate": 108,
+      "mpv5": 135,
+      "mpv6": 160,
+      "mpv7": 185,
+      "exec_mpv7": 220,
+      "mpv8": 250
+    }
+  },
+  "nearby_areas": [
+    "Parliament Square",
+    "Downing Street",
+    "Whitehall",
+    "Westminster Abbey",
+    "St James's Park",
+    "Victoria Street",
+    "Broadway",
+    "Tothill Street",
+    "Millbank",
+    "Pimlico",
+    "Belgravia",
+    "Mayfair",
+    "Buckingham Gate"
+  ],
+  "hotels": [
+    "St Ermin's Hotel",
+    "Sanctuary House Hotel",
+    "citizenM London Westminster",
+    "Park Plaza Westminster Bridge",
+    "Premier Inn London Westminster",
+    "DoubleTree by Hilton Westminster",
+    "Conrad London St James",
+    "Royal Horseguards Hotel",
+    "Corinthia Hotel London",
+    "The Grand at Trafalgar Square"
+  ],
+  "faqs": [
+    {
+      "question": "How do I book a taxi from Luton Airport to Westminster SW1H?",
+      "answer": "You can book online, by phone, or through our booking portal. Enter your pickup terminal and Westminster SW1H drop off address to get a fixed quote in moments."
+    },
+    {
+      "question": "Does the fare include the Congestion Charge for Westminster?",
+      "answer": "No, the Congestion Charge and any ULEZ fee are billed separately at cost, in addition to the fixed transfer fare shown at booking."
+    },
+    {
+      "question": "Can you drop off near Parliament Square or Downing Street?",
+      "answer": "Yes, we regularly arrange drop offs near Parliament Square and Whitehall, though our drivers will follow any road closures or security restrictions in place on the day."
+    },
+    {
+      "question": "How long does the transfer from Luton Airport take?",
+      "answer": "The journey usually takes between 55 minutes and 1 hour 30 minutes, depending on traffic on the M1, North Circular, and into Central London."
+    },
+    {
+      "question": "Is there a set pickup point for departures from Westminster SW1H?",
+      "answer": "We agree your exact pickup point when you book, whether that is a hotel entrance, office address, or a nearby side street where waiting is permitted."
+    },
+    {
+      "question": "Can I book a larger vehicle for a family or delegation?",
+      "answer": "Yes, estate cars and MPVs seating up to 8 passengers are available, suited to families, small delegations, or groups with extra luggage."
+    },
+    {
+      "question": "Do you run this route early morning or late at night?",
+      "answer": "Yes, our Luton Airport to Westminster SW1H service runs around the clock, including overnight arrivals and early departures for morning meetings."
+    },
+    {
+      "question": "Will my fare change if my flight into Luton is delayed?",
+      "answer": "No, we track your flight and adjust your pickup time at no extra cost, so a delayed landing will not change your agreed fare."
+    },
+    {
+      "question": "Can I book a return journey from Westminster SW1H to Luton Airport?",
+      "answer": "Yes, you can book a one way or return trip in the same booking, with your return pickup time confirmed in advance."
+    },
+    {
+      "question": "Which areas near Westminster SW1H do you serve?",
+      "answer": "We cover Parliament Square, St James's Park, Victoria Street, Millbank, Pimlico, Belgravia, and Mayfair alongside Westminster SW1H itself."
+    }
+  ]
+}
