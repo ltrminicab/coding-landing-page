@@ -1,0 +1,105 @@
+{
+  "page": "luton-airport-to-victoria-sw1e-minicab-transfers.html",
+  "route": {
+    "from": "Luton Airport",
+    "to": "Victoria SW1E",
+    "postcode": "SW1E",
+    "distance_miles": 33,
+    "distance_km": 53,
+    "journey_time": "55 minutes to 1 hour 25 minutes",
+    "congestion_charge_zone": true,
+    "ulez_zone": true,
+    "note": "Distance, time, and fares are estimates pending the confirmed SEO comparison price sheet. Congestion Charge and ULEZ fees are billed separately at cost."
+  },
+  "fares_gbp": {
+    "outbound": {
+      "route_label": "Luton Airport to Victoria SW1E",
+      "saloon": 85,
+      "executive": 115,
+      "estate": 98,
+      "mpv5": 125,
+      "mpv6": 148,
+      "mpv7": 170,
+      "exec_mpv7": 205,
+      "mpv8": 230
+    },
+    "return": {
+      "route_label": "Victoria SW1E to Luton Airport",
+      "saloon": 95,
+      "executive": 125,
+      "estate": 108,
+      "mpv5": 135,
+      "mpv6": 160,
+      "mpv7": 185,
+      "exec_mpv7": 220,
+      "mpv8": 250
+    }
+  },
+  "nearby_areas": [
+    "Victoria Station",
+    "Victoria Coach Station",
+    "Buckingham Palace Road",
+    "Belgravia",
+    "Eaton Square",
+    "Grosvenor Gardens",
+    "Elizabeth Street",
+    "Ebury Street",
+    "Pimlico",
+    "Sloane Square",
+    "Knightsbridge"
+  ],
+  "hotels": [
+    "The Rubens at the Palace",
+    "The Goring",
+    "Grosvenor Hotel London",
+    "Holiday Inn Express Victoria",
+    "Premier Inn London Victoria",
+    "Thistle Westminster",
+    "Lime Tree Hotel",
+    "B+B Belgravia",
+    "Windermere Hotel",
+    "Sidney Hotel London"
+  ],
+  "faqs": [
+    {
+      "question": "How do I book a taxi from Luton Airport to Victoria SW1E?",
+      "answer": "You can book online, by phone, or through our booking portal. Enter your pickup terminal and Victoria SW1E drop off address to get a fixed quote in moments."
+    },
+    {
+      "question": "Can you drop off directly at Victoria Coach Station or the rail station?",
+      "answer": "Yes, we can drop off or collect from Victoria Coach Station or the main rail station forecourt, subject to any local access restrictions on the day."
+    },
+    {
+      "question": "Do you cater for passengers connecting from the Gatwick Express?",
+      "answer": "Yes, we regularly collect passengers arriving at Victoria on the Gatwick Express and can time your pickup around the train schedule."
+    },
+    {
+      "question": "How long does the journey from Luton Airport to Victoria take?",
+      "answer": "The journey usually takes between 55 minutes and 1 hour 25 minutes, depending on traffic on the M1, North Circular, and into Central London."
+    },
+    {
+      "question": "Can I book a larger vehicle for a family or group with coach luggage?",
+      "answer": "Yes, estate cars and MPVs seating up to 8 passengers are available, suited to families or groups carrying extra bags."
+    },
+    {
+      "question": "Do you run this route overnight or in the early morning?",
+      "answer": "Yes, our Luton Airport to Victoria SW1E service runs around the clock, including overnight arrivals and early morning coach or flight connections."
+    },
+    {
+      "question": "Will my fare change if my flight into Luton is delayed?",
+      "answer": "No, we track your flight and adjust your pickup time at no extra cost, so a delayed landing will not change your agreed fare."
+    },
+    {
+      "question": "Can I book a return journey from Victoria SW1E to Luton Airport?",
+      "answer": "Yes, you can book a one way or return trip in the same booking, with your return pickup time confirmed in advance."
+    },
+    {
+      "question": "Do you provide child seats for family travel to Victoria?",
+      "answer": "Yes, infant, child, and booster seats are available on request. Just mention the ages of your children when you book."
+    },
+    {
+      "question": "Which areas near Victoria SW1E do you cover?",
+      "answer": "We cover Belgravia, Eaton Square, Grosvenor Gardens, Elizabeth Street, Pimlico, and Sloane Square alongside Victoria SW1E itself."
+    }
+  ]
+}
