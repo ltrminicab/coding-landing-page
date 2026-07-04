@@ -1,0 +1,104 @@
+{
+  "page": "luton-airport-to-shoreditch-ec2a-minicab-transfers.html",
+  "route": {
+    "from": "Luton Airport",
+    "to": "Shoreditch EC2A",
+    "postcode": "EC2A",
+    "distance_miles": 35,
+    "distance_km": 56,
+    "journey_time": "55 minutes to 1 hour 30 minutes",
+    "congestion_charge_zone": false,
+    "ulez_zone": true,
+    "note": "Distance, time, and fares are estimates pending the confirmed SEO comparison price sheet."
+  },
+  "fares_gbp": {
+    "outbound": {
+      "route_label": "Luton Airport to Shoreditch EC2A",
+      "saloon": 85,
+      "executive": 115,
+      "estate": 98,
+      "mpv5": 125,
+      "mpv6": 148,
+      "mpv7": 170,
+      "exec_mpv7": 205,
+      "mpv8": 230
+    },
+    "return": {
+      "route_label": "Shoreditch EC2A to Luton Airport",
+      "saloon": 95,
+      "executive": 125,
+      "estate": 108,
+      "mpv5": 135,
+      "mpv6": 160,
+      "mpv7": 185,
+      "exec_mpv7": 220,
+      "mpv8": 250
+    }
+  },
+  "nearby_areas": [
+    "Old Street",
+    "Hoxton Square",
+    "Brick Lane",
+    "Redchurch Street",
+    "Curtain Road",
+    "Spitalfields",
+    "Bethnal Green",
+    "Hackney Road",
+    "Boxpark Shoreditch",
+    "Liverpool Street"
+  ],
+  "hotels": [
+    "The Hoxton Shoreditch",
+    "Ace Hotel Shoreditch",
+    "citizenM Shoreditch",
+    "Nobu Hotel Shoreditch",
+    "The Curtain Hotel",
+    "Mama Shelter Shoreditch",
+    "Montcalm Royal London House",
+    "Z Hotel Shoreditch",
+    "South Place Hotel",
+    "Boundary London"
+  ],
+  "faqs": [
+    {
+      "question": "How do I book a taxi from Luton Airport to Shoreditch EC2A?",
+      "answer": "You can book online, by phone, or through our booking portal. Enter your pickup terminal and Shoreditch EC2A drop off address to get a fixed quote in moments."
+    },
+    {
+      "question": "Can you drop off near Old Street roundabout or Silicon Roundabout offices?",
+      "answer": "Yes, we regularly drop off and collect around Old Street roundabout and the surrounding tech offices, right to your building entrance where access allows."
+    },
+    {
+      "question": "Do you cover Shoreditch High Street Overground station?",
+      "answer": "Yes, we can meet you at Shoreditch High Street station or Old Street station and take you straight on to your final address."
+    },
+    {
+      "question": "How long does the journey from Luton Airport to Shoreditch take?",
+      "answer": "The journey usually takes between 55 minutes and 1 hour 30 minutes, depending on traffic on the M1, North Circular, and into East London."
+    },
+    {
+      "question": "Can I book a larger vehicle for a group heading to a conference or event?",
+      "answer": "Yes, estate cars and MPVs seating up to 8 passengers are available, suited to teams or groups travelling with equipment."
+    },
+    {
+      "question": "Do you run late night pickups for Shoreditch nightlife?",
+      "answer": "Yes, our Luton Airport to Shoreditch EC2A service runs around the clock, including late night collections from bars, venues, and events."
+    },
+    {
+      "question": "Will my fare change if my flight into Luton is delayed?",
+      "answer": "No, we track your flight and adjust your pickup time at no extra cost, so a delayed landing will not change your agreed fare."
+    },
+    {
+      "question": "Can I book a return journey from Shoreditch EC2A to Luton Airport?",
+      "answer": "Yes, you can book a one way or return trip in the same booking, with your return pickup time confirmed in advance."
+    },
+    {
+      "question": "Do you provide child seats for family travel to Shoreditch?",
+      "answer": "Yes, infant, child, and booster seats are available on request. Just mention the ages of your children when you book."
+    },
+    {
+      "question": "Which areas near Shoreditch EC2A do you cover?",
+      "answer": "We cover Old Street, Hoxton Square, Brick Lane, Spitalfields, Curtain Road, and Bethnal Green alongside Shoreditch EC2A itself."
+    }
+  ]
+}
