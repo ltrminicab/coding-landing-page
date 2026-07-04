@@ -1,0 +1,92 @@
+{
+  "route": "Luton Airport to Stratford E15",
+  "area": "Stratford",
+  "postcode": "E15",
+  "borough": "Newham",
+  "pageFile": "luton-airport-to-stratford-e15-minicab-transfers.html",
+  "distanceMiles": 40,
+  "distanceKm": 64,
+  "journeyTime": "1 hour to 1 hour 35 minutes",
+  "saloonPriceSource": "estimated, no SEO comparison price sheet supplied yet - replace with real saloon figure when available",
+  "prices": {
+    "forward": {
+      "saloon": 88,
+      "executive": 119,
+      "estate": 101,
+      "mpv5": 129,
+      "mpv6": 153,
+      "mpv7": 176,
+      "execMpv7": 211,
+      "mpv8": 238
+    },
+    "reverse": {
+      "saloon": 98,
+      "executive": 132,
+      "estate": 113,
+      "mpv5": 144,
+      "mpv6": 171,
+      "mpv7": 196,
+      "execMpv7": 235,
+      "mpv8": 265
+    },
+    "ratiosUsed": {
+      "executive": 1.35,
+      "estate": 1.15,
+      "mpv5": 1.47,
+      "mpv6": 1.74,
+      "mpv7": 2.0,
+      "execMpv7": 2.4,
+      "mpv8": 2.7,
+      "reverseSaloonAddOn": 10
+    }
+  },
+  "landmarks": [
+    "Westfield Stratford City",
+    "Queen Elizabeth Olympic Park",
+    "London Stadium",
+    "ArcelorMittal Orbit",
+    "Here East"
+  ],
+  "stations": [
+    "Stratford station (Central, Jubilee, DLR, Elizabeth line, Overground, National Rail)",
+    "Stratford International station",
+    "Maryland station",
+    "West Ham station"
+  ],
+  "nearbyAreas": [
+    "Maryland",
+    "West Ham",
+    "Leyton",
+    "Leytonstone",
+    "Hackney Wick",
+    "Bow",
+    "Stratford Marsh",
+    "Carpenters Estate",
+    "Angel Lane",
+    "Pudding Mill Lane"
+  ],
+  "hotels": [
+    "Holiday Inn London Stratford City",
+    "Premier Inn London Stratford International",
+    "Novotel London Stratford",
+    "Ibis London Stratford",
+    "Travelodge London Stratford",
+    "Aloft London Excel",
+    "Crowne Plaza London Docklands",
+    "Genesis Hotel Whitechapel",
+    "Vue Hotel Stratford",
+    "QEOP Serviced Apartments Stratford"
+  ],
+  "otherUkCitiesUsedOnThisPage": [
+    "Solihull",
+    "Becontree",
+    "Maidstone",
+    "Lincoln",
+    "Hastings",
+    "Darlington",
+    "Harrogate",
+    "Hartlepool",
+    "Hemel Hempstead",
+    "Stevenage"
+  ]
+}
