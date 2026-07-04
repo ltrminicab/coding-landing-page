@@ -1,0 +1,105 @@
+{
+  "page": "luton-airport-to-paddington-w2-minicab-transfers.html",
+  "route": {
+    "from": "Luton Airport",
+    "to": "Paddington W2",
+    "postcode": "W2",
+    "distance_miles": 34,
+    "distance_km": 55,
+    "journey_time": "55 minutes to 1 hour 25 minutes",
+    "congestion_charge_zone": false,
+    "ulez_zone": true,
+    "note": "Distance, time, and fares are estimates pending the confirmed SEO comparison price sheet."
+  },
+  "fares_gbp": {
+    "outbound": {
+      "route_label": "Luton Airport to Paddington W2",
+      "saloon": 85,
+      "executive": 115,
+      "estate": 98,
+      "mpv5": 125,
+      "mpv6": 148,
+      "mpv7": 170,
+      "exec_mpv7": 205,
+      "mpv8": 230
+    },
+    "return": {
+      "route_label": "Paddington W2 to Luton Airport",
+      "saloon": 95,
+      "executive": 125,
+      "estate": 108,
+      "mpv5": 135,
+      "mpv6": 160,
+      "mpv7": 185,
+      "exec_mpv7": 220,
+      "mpv8": 250
+    }
+  },
+  "nearby_areas": [
+    "Paddington Station",
+    "Bayswater",
+    "Little Venice",
+    "Lancaster Gate",
+    "Paddington Basin",
+    "Sussex Gardens",
+    "Hyde Park",
+    "Westbourne Grove",
+    "Edgware Road",
+    "Marylebone",
+    "Notting Hill"
+  ],
+  "hotels": [
+    "Hilton London Paddington",
+    "Royal Lancaster London",
+    "Lancaster Gate Hotel",
+    "Park Grand Paddington Court",
+    "Best Western Mornington",
+    "Norfolk Towers Paddington",
+    "Vancouver Studios",
+    "Shaftesbury Paddington Court",
+    "Grand Plaza Serviced Apartments",
+    "The Paddington Hotel"
+  ],
+  "faqs": [
+    {
+      "question": "How do I book a taxi from Luton Airport to Paddington W2?",
+      "answer": "You can book online, by phone, or through our booking portal. Enter your pickup terminal and Paddington W2 drop off address to get a fixed quote in moments."
+    },
+    {
+      "question": "Can you drop off at Paddington Station for Heathrow Express or Elizabeth line connections?",
+      "answer": "Yes, we can drop off or collect from the Paddington Station forecourt, timed around your Heathrow Express or Elizabeth line connection."
+    },
+    {
+      "question": "Do you offer transfers for visitors travelling to St Mary's Hospital?",
+      "answer": "Yes, we regularly arrange transfers for patients and visitors travelling to St Mary's Hospital, with drivers happy to assist with mobility needs."
+    },
+    {
+      "question": "How long does the journey from Luton Airport to Paddington take?",
+      "answer": "The journey usually takes between 55 minutes and 1 hour 25 minutes, depending on traffic on the M1, North Circular, and into West London."
+    },
+    {
+      "question": "Can I book a larger vehicle for a family or group with luggage?",
+      "answer": "Yes, estate cars and MPVs seating up to 8 passengers are available, suited to families or groups carrying extra bags."
+    },
+    {
+      "question": "Do you run this route overnight or in the early morning?",
+      "answer": "Yes, our Luton Airport to Paddington W2 service runs around the clock, including overnight arrivals and early morning departures."
+    },
+    {
+      "question": "Will my fare change if my flight into Luton is delayed?",
+      "answer": "No, we track your flight and adjust your pickup time at no extra cost, so a delayed landing will not change your agreed fare."
+    },
+    {
+      "question": "Can I book a return journey from Paddington W2 to Luton Airport?",
+      "answer": "Yes, you can book a one way or return trip in the same booking, with your return pickup time confirmed in advance."
+    },
+    {
+      "question": "Do you provide child seats for family travel to Paddington?",
+      "answer": "Yes, infant, child, and booster seats are available on request. Just mention the ages of your children when you book."
+    },
+    {
+      "question": "Which areas near Paddington W2 do you cover?",
+      "answer": "We cover Bayswater, Little Venice, Lancaster Gate, Paddington Basin, Hyde Park, and Sussex Gardens alongside Paddington W2 itself."
+    }
+  ]
+}
