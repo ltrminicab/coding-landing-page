@@ -1,0 +1,27 @@
+{
+  "description": "Reference list of UK city minicab landing page links (name + URL) used to build 'Other Major Cities We Serve' style link blocks on landing pages. Add new cities here as they are provided so future generated pages can reuse them.",
+  "cities": [
+    { "name": "Liverpool", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-liverpool/" },
+    { "name": "Cardiff", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-cardiff/" },
+    { "name": "Solihull", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-solihull/" },
+    { "name": "Becontree", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-becontree/" },
+    { "name": "Maidstone", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-maidstone/" },
+    { "name": "Lincoln", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-lincoln/" },
+    { "name": "Hastings", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-hastings/" },
+    { "name": "Darlington", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-darlington/" },
+    { "name": "Harrogate", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-harrogate/" },
+    { "name": "Hartlepool", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-hartlepool/" },
+    { "name": "Hemel Hempstead", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-hemel-hempstead/" },
+    { "name": "Stevenage", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-stevenage/" },
+    { "name": "Sunderland", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-sunderland/" },
+    { "name": "Walsall", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-walsall/" },
+    { "name": "Swansea", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-swansea/" },
+    { "name": "Bournemouth", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bournemouth/" },
+    { "name": "Swindon", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-swindon/" },
+    { "name": "Exeter", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-exeter/" },
+    { "name": "Eastbourn", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-eastbourn/" },
+    { "name": "Bassetlaw", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-bassetlaw/" },
+    { "name": "Dundee", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-dundee/" },
+    { "name": "Poole", "url": "https://ltrminicab.com/uk-cities-minicab-service/book-a-minicab-in-poole/" }
+  ]
+}
