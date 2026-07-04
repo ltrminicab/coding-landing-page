@@ -31,3 +31,4 @@ Based on feedback while building the St Paul's EC4M page, apply these rules to e
 - Vary hyperlink anchor text across pages, do not reuse the same keyword phrase for the same link target every time.
 - The day hire section heading and copy should name the specific destination area and reference a different secondary airport (e.g. Stansted) for variety instead of always repeating the primary origin airport.
 - "Other Major Cities We Serve" section should use the city list above.
+- Ship a companion `<page-name>.json` file alongside every landing page HTML file, containing a `FAQPage` JSON-LD block that mirrors the page's FAQ accordion word for word, plus a `Service`/`LocalBusiness`/`Offer` block listing every vehicle fare (outward and return) from the fixed-price fare table. Keep the filename identical to the HTML file's basename with a `.json` extension.

@@ -1,0 +1,226 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does a taxi from Luton Airport to St Paul's EC4M cost?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A saloon car transfer between Luton Airport and St Paul's EC4M starts from £85 one way, with the exact fare confirmed and fixed at the time of your booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is a meet and greet service included when I land at Luton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, your driver will be waiting in the arrivals hall with a name board, ready to help carry your luggage straight to the vehicle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which postcodes and streets do you cover around St Paul's EC4M?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We cover EC4M 7DE, EC4M 8AY, EC4M 7RD, and EC4M 8BS, along with Paternoster Square, Ludgate Hill, Cannon Street, and the streets bordering Blackfriars and Bank."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does the drive from Luton Airport to St Paul's usually take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most journeys take between 50 minutes and 1 hour 20 minutes, depending on traffic on the M1 and through central London."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I change my pickup time after I have booked?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, just contact our team as early as you can and we will adjust your pickup time and driver allocation where possible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you offer executive cars for corporate clients near St Paul's Cathedral?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, our executive Mercedes fleet is available for corporate and VIP clients travelling to or from the St Paul's and Cannon Street area."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you run early morning or late night pickups from Luton?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our St Paul's EC4M service runs around the clock, so early morning departures and late night arrivals are both covered."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens if my flight into Luton is delayed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We track your flight in real time and adjust your pickup automatically, so a delay will not affect your booked fare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you provide a larger vehicle for a group with lots of luggage?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we offer MPVs from 5 to 8 seats for groups and extra luggage, all priced and confirmed before your trip."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How close is St Paul's EC4M to Bank and Liverpool Street stations?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bank is about half a mile from St Paul's, roughly a 10 minute walk, while Liverpool Street is around 1 mile away, usually a short drive or a 20 minute walk."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Service",
+      "serviceType": "Airport Minicab Transfer",
+      "name": "Luton Airport to St Paul's EC4M Minicab Transfer",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "LTR Minicab",
+        "url": "https://ltrminicab.com/",
+        "telephone": "",
+        "priceRange": "££"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "St Paul's EC4M"
+        },
+        {
+          "@type": "Place",
+          "name": "Luton Airport"
+        }
+      ],
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Saloon",
+          "price": "85",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to St Paul's EC4M, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Executive",
+          "price": "115",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to St Paul's EC4M, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Estate",
+          "price": "98",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to St Paul's EC4M, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 5",
+          "price": "125",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to St Paul's EC4M, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 6",
+          "price": "148",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to St Paul's EC4M, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 7",
+          "price": "170",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to St Paul's EC4M, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Exec MPV 7",
+          "price": "205",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to St Paul's EC4M, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 8",
+          "price": "230",
+          "priceCurrency": "GBP",
+          "description": "Luton Airport to St Paul's EC4M, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Saloon Return",
+          "price": "95",
+          "priceCurrency": "GBP",
+          "description": "St Paul's EC4M to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Executive Return",
+          "price": "125",
+          "priceCurrency": "GBP",
+          "description": "St Paul's EC4M to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Estate Return",
+          "price": "108",
+          "priceCurrency": "GBP",
+          "description": "St Paul's EC4M to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 5 Return",
+          "price": "135",
+          "priceCurrency": "GBP",
+          "description": "St Paul's EC4M to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 6 Return",
+          "price": "160",
+          "priceCurrency": "GBP",
+          "description": "St Paul's EC4M to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 7 Return",
+          "price": "185",
+          "priceCurrency": "GBP",
+          "description": "St Paul's EC4M to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "Exec MPV 7 Return",
+          "price": "220",
+          "priceCurrency": "GBP",
+          "description": "St Paul's EC4M to Luton Airport, one way"
+        },
+        {
+          "@type": "Offer",
+          "name": "MPV 8 Return",
+          "price": "250",
+          "priceCurrency": "GBP",
+          "description": "St Paul's EC4M to Luton Airport, one way"
+        }
+      ]
+    }
+  ]
+}
