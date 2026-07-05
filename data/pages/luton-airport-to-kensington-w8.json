@@ -1,0 +1,93 @@
+{
+  "route": "Luton Airport to Kensington W8",
+  "area": "Kensington",
+  "postcode": "W8",
+  "borough": "Royal Borough of Kensington and Chelsea",
+  "pageFile": "luton-airport-to-kensington-w8-minicab-transfers.html",
+  "distanceMiles": 38,
+  "distanceKm": 61,
+  "journeyTime": "55 minutes to 1 hour 30 minutes",
+  "saloonPriceSource": "estimated, no SEO comparison price sheet supplied yet - replace with real saloon figure when available",
+  "prices": {
+    "forward": {
+      "saloon": 86,
+      "executive": 116,
+      "estate": 99,
+      "mpv5": 126,
+      "mpv6": 150,
+      "mpv7": 172,
+      "execMpv7": 206,
+      "mpv8": 232
+    },
+    "reverse": {
+      "saloon": 96,
+      "executive": 130,
+      "estate": 110,
+      "mpv5": 141,
+      "mpv6": 167,
+      "mpv7": 192,
+      "execMpv7": 230,
+      "mpv8": 259
+    },
+    "ratiosUsed": {
+      "executive": 1.35,
+      "estate": 1.15,
+      "mpv5": 1.47,
+      "mpv6": 1.74,
+      "mpv7": 2.0,
+      "execMpv7": 2.4,
+      "mpv8": 2.7,
+      "reverseSaloonAddOn": 10
+    }
+  },
+  "landmarks": [
+    "Kensington Palace",
+    "Kensington Gardens",
+    "Holland Park",
+    "Design Museum",
+    "Kensington High Street",
+    "Leighton House Museum"
+  ],
+  "stations": [
+    "High Street Kensington station (District, Circle lines)",
+    "Kensington Olympia station (District line, Overground, National Rail)",
+    "Notting Hill Gate station",
+    "Gloucester Road station"
+  ],
+  "nearbyAreas": [
+    "Notting Hill",
+    "Holland Park",
+    "South Kensington",
+    "Earls Court",
+    "Chelsea",
+    "Olympia London",
+    "Barons Court",
+    "Gloucester Road",
+    "Kensington Gardens",
+    "Kensington Palace Gardens"
+  ],
+  "hotels": [
+    "The Kensington Hotel",
+    "Royal Garden Hotel",
+    "The Milestone Hotel",
+    "Kensington Close Hotel",
+    "Copthorne Tara Hotel Kensington",
+    "DoubleTree by Hilton Hyde Park Kensington",
+    "Best Western Premier Shaftesbury Kensington",
+    "Holiday Inn Kensington Forum",
+    "Kensington House Hotel",
+    "Baglioni Hotel London"
+  ],
+  "otherUkCitiesUsedOnThisPage": [
+    "Liverpool",
+    "Cardiff",
+    "Swansea",
+    "Bournemouth",
+    "Dundee",
+    "Poole",
+    "Exeter",
+    "Harrogate",
+    "Sunderland",
+    "Walsall"
+  ]
+}
